@@ -36,6 +36,7 @@ Local Fonts Project
 + [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
 + [Coval](https://github.com/StefanPeev/coval)
 + [Veleka](https://github.com/StefanPeev/Veleka)
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)
 
 Donations
 ---------
