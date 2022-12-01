@@ -31,10 +31,11 @@ See [images](/images/) and [Gallery](/images/Gallery.md).
 Local Fonts Project
 -------------------
 
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
 + [Coval](https://github.com/StefanPeev/coval)
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
++ [Perun](https://github.com/StefanPeev/Perun)
++ [Pliska](https://github.com/StefanPeev/Pliska)
 + [Veleka](https://github.com/StefanPeev/Veleka)
 + [Common Sans](https://github.com/StefanPeev/Common-Sans)
 
