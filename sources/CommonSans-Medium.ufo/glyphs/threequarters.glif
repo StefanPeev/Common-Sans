@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+	<unicode hex="00BE"/>
+	<advance width="742"/>
+	<outline>
+		<contour>
+			<point x="595" y="101" type="line"/>
+			<point x="595" y="214" type="line"/>
+			<point x="495" y="101" type="line"/>
+		</contour>
+		<contour>
+			<point x="595" y="-13" type="line"/>
+			<point x="595" y="53" type="line"/>
+			<point x="428" y="53" type="line"/>
+			<point x="428" y="107" type="line"/>
+			<point x="603" y="312" type="line"/>
+			<point x="657" y="312" type="line"/>
+			<point x="657" y="101" type="line"/>
+			<point x="702" y="101" type="line"/>
+			<point x="702" y="53" type="line"/>
+			<point x="657" y="53" type="line"/>
+			<point x="657" y="-13" type="line"/>
+		</contour>
+		<contour>
+			<point x="23" y="404" type="curve"/>
+			<point x="86" y="410" type="line"/>
+			<point x="93" y="392"/>
+			<point x="104" y="361"/>
+			<point x="153" y="361" type="curve" smooth="yes"/>
+			<point x="191" y="361"/>
+			<point x="222" y="384"/>
+			<point x="222" y="419" type="curve" smooth="yes"/>
+			<point x="222" y="454"/>
+			<point x="195" y="464"/>
+			<point x="169" y="466" type="curve"/>
+			<point x="163" y="467"/>
+			<point x="158" y="467"/>
+			<point x="153" y="467" type="curve" smooth="yes"/>
+			<point x="145" y="467"/>
+			<point x="141" y="467"/>
+			<point x="129" y="466" type="curve"/>
+			<point x="138" y="514" type="line"/>
+			<point x="165" y="514"/>
+			<point name=".hr01" x="206" y="523"/>
+			<point x="206" y="558" type="curve" smooth="yes"/>
+			<point x="206" y="586"/>
+			<point x="178" y="596"/>
+			<point x="154" y="596" type="curve" smooth="yes"/>
+			<point x="114" y="596"/>
+			<point x="101" y="577"/>
+			<point x="93" y="553" type="curve"/>
+			<point x="30" y="562" type="line"/>
+			<point x="47" y="612"/>
+			<point x="77" y="645"/>
+			<point x="155" y="645" type="curve" smooth="yes"/>
+			<point x="208" y="645"/>
+			<point x="274" y="630"/>
+			<point x="274" y="564" type="curve" smooth="yes"/>
+			<point x="274" y="534"/>
+			<point x="256" y="506"/>
+			<point x="214" y="495" type="curve"/>
+			<point x="214" y="485"/>
+			<point name=".hr02" x="289" y="460"/>
+			<point x="289" y="411" type="curve" smooth="yes"/>
+			<point x="289" y="340"/>
+			<point x="219" y="311"/>
+			<point x="158" y="311" type="curve" smooth="yes"/>
+			<point x="71" y="311"/>
+			<point x="31" y="351"/>
+		</contour>
+		<contour>
+			<point x="657" y="651" type="line"/>
+			<point x="178" y="-22" type="line"/>
+			<point x="109" y="-22" type="line"/>
+			<point x="589" y="651" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 53 48</string>
+							<string>vstem 595 62</string>
+							<string>hstem 311 50</string>
+							<string>vstem 222 67</string>
+							<string>hstem 467 47</string>
+							<string>hstem 596 49</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 206 68</string>
+							<string>hstem 596 49</string>
+							<string>hstem 53 48</string>
+							<string>hstem 311 50</string>
+							<string>hstem 467 47</string>
+							<string>vstem 595 62</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr02</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 222 67</string>
+							<string>hstem 311 50</string>
+							<string>vstem 595 62</string>
+							<string>hstem 53 48</string>
+							<string>hstem 467 47</string>
+							<string>hstem 596 49</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>2de4f36733fffb759d0e6105dfa58c34fa6beb78adbec156c2d1f4053a56c8b01f281f84c107588c7533bf95c0e7561ad91435697132aa5e6a1e99462d275cb9</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

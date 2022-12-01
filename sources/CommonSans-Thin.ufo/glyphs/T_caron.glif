@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="2">
+	<unicode hex="0164"/>
+	<advance width="480"/>
+	<outline>
+		<contour>
+			<point x="251" y="660" type="line"/>
+			<point x="251" y="0" type="line"/>
+			<point x="229" y="0" type="line"/>
+			<point x="229" y="660" type="line"/>
+			<point x="10" y="660" type="line"/>
+			<point x="10" y="680" type="line"/>
+			<point x="470" y="680" type="line"/>
+			<point x="470" y="660" type="line"/>
+		</contour>
+		<contour>
+			<point x="280" y="740" type="line"/>
+			<point x="200" y="740" type="line"/>
+			<point x="100" y="900" type="line"/>
+			<point x="164" y="900" type="line"/>
+			<point x="240" y="815" type="line"/>
+			<point x="316" y="900" type="line"/>
+			<point x="380" y="900" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 660 20</string>
+							<string>hstem 740 160</string>
+							<string>vstem 229 22</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w480m251,660l251,0l229,0l229,660l10,660l10,680l470,680l470,660m280,740l200,740l100,900l164,900l240,815l316,900l380,900</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

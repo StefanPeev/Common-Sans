@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+	<unicode hex="012B"/>
+	<advance width="280"/>
+	<outline>
+		<contour>
+			<point x="275" y="570" type="line"/>
+			<point x="5" y="570" type="line"/>
+			<point x="5" y="640" type="line"/>
+			<point x="275" y="640" type="line"/>
+		</contour>
+		<contour>
+			<point x="180" y="0" type="line"/>
+			<point x="100" y="0" type="line"/>
+			<point x="100" y="460" type="line"/>
+			<point x="180" y="460" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 570 70</string>
+							<string>vstem 100 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w280m275,570l5,570l5,640l275,640m180,0l100,0l100,460l180,460</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CF" format="2">
+	<unicode hex="01CF"/>
+	<advance width="266"/>
+	<outline>
+		<contour>
+			<point x="203" y="680" type="line"/>
+			<point x="203" y="0" type="line"/>
+			<point x="62.5" y="0" type="line"/>
+			<point x="62.5" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="172.75" y="740" type="line"/>
+			<point x="92.75" y="740" type="line"/>
+			<point x="-7.25" y="900" type="line"/>
+			<point x="56.75" y="900" type="line"/>
+			<point x="132.75" y="815" type="line"/>
+			<point x="208.75" y="900" type="line"/>
+			<point x="272.75" y="900" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 740 160</string>
+							<string>vstem 62.5 140.5</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w266m203,680l203,0l62.5,0l62.5,680m172.75,740l92.75,740l-7.25,900l56.75,900l132.75,815l208.75,900l272.75,900</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0433.sc" format="2">
+	<advance width="360"/>
+	<outline>
+		<contour>
+			<point x="120" y="0" type="line"/>
+			<point x="40" y="0" type="line"/>
+			<point x="40" y="460" type="line"/>
+			<point x="330" y="460" type="line"/>
+			<point x="330" y="395" type="line"/>
+			<point x="120" y="395" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 395 65</string>
+							<string>vstem 40 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w360m120,0l40,0l40,460l330,460l330,395l120,395</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

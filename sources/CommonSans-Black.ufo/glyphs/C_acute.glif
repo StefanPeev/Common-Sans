@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="2">
+	<unicode hex="0106"/>
+	<advance width="645"/>
+	<outline>
+		<contour>
+			<point x="348" y="530" type="curve" smooth="yes"/>
+			<point x="264" y="530"/>
+			<point x="210" y="455"/>
+			<point x="210" y="340" type="curve" smooth="yes"/>
+			<point x="210" y="225"/>
+			<point x="264" y="150"/>
+			<point x="348" y="150" type="curve" smooth="yes"/>
+			<point x="399" y="150"/>
+			<point x="445" y="181"/>
+			<point x="455" y="224" type="curve"/>
+			<point x="615" y="224" type="line"/>
+			<point x="594" y="81"/>
+			<point x="488" y="-10"/>
+			<point x="348" y="-10" type="curve" smooth="yes"/>
+			<point x="143" y="-10"/>
+			<point x="30" y="114"/>
+			<point x="30" y="340" type="curve" smooth="yes"/>
+			<point x="30" y="566"/>
+			<point x="143" y="690"/>
+			<point x="348" y="690" type="curve" smooth="yes"/>
+			<point x="494" y="690"/>
+			<point x="594" y="594"/>
+			<point x="615" y="444" type="curve"/>
+			<point x="455" y="444" type="line"/>
+			<point x="444" y="502"/>
+			<point x="403" y="530"/>
+		</contour>
+		<contour>
+			<point x="517" y="920" type="line"/>
+			<point x="431" y="710" type="line"/>
+			<point x="251" y="710" type="line"/>
+			<point x="321" y="920" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 160</string>
+							<string>hstem 530 160</string>
+							<string>vstem 30 180</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>8d0cf90e0dffa9d138c3b28041c7d2e8585d69362ec43858bd3abda86fa2015fd65922243b57903222dc6405c10005d55142ba762d6add3610e26cc04f1f1b32</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

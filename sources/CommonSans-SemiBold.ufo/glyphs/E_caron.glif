@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="2">
+	<unicode hex="011A"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="420" y="296.25" type="line"/>
+			<point x="189.5" y="296.25" type="line"/>
+			<point x="189.5" y="101.25" type="line"/>
+			<point x="460" y="101.25" type="line"/>
+			<point x="460" y="0" type="line"/>
+			<point x="68.75" y="0" type="line"/>
+			<point x="68.75" y="680" type="line"/>
+			<point x="460" y="680" type="line"/>
+			<point x="460" y="578.75" type="line"/>
+			<point x="189.5" y="578.75" type="line"/>
+			<point x="189.5" y="397.5" type="line"/>
+			<point x="420" y="397.5" type="line"/>
+		</contour>
+		<contour>
+			<point x="295" y="740" type="line"/>
+			<point x="215" y="740" type="line"/>
+			<point x="115" y="900" type="line"/>
+			<point x="179" y="900" type="line"/>
+			<point x="255" y="815" type="line"/>
+			<point x="331" y="900" type="line"/>
+			<point x="395" y="900" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 101.25</string>
+							<string>hstem 296.25 101.25</string>
+							<string>hstem 578.75 101.25</string>
+							<string>hstem 740 160</string>
+							<string>vstem 68.75 120.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>f863272d76af45b2ad58422a7b6ab15edf7e919912ef7f5ce4ee496077856178c5902fb08826e5e7333aa6a8b4cca6912b9063b03d3475478ccb17001c30f3f7</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

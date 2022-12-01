@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibreve" format="2">
+	<unicode hex="012C"/>
+	<advance width="237"/>
+	<outline>
+		<contour>
+			<point x="149" y="0" type="line"/>
+			<point x="87.5" y="0" type="line"/>
+			<point x="87.5" y="680" type="line"/>
+			<point x="149" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="-36.75" y="880" type="curve"/>
+			<point x="43.25" y="880" type="line"/>
+			<point x="43.25" y="820"/>
+			<point x="83.25" y="800"/>
+			<point x="118.25" y="800" type="curve" smooth="yes"/>
+			<point x="153.25" y="800"/>
+			<point x="193.25" y="820"/>
+			<point x="193.25" y="880" type="curve"/>
+			<point x="273.25" y="880" type="line"/>
+			<point x="273.25" y="780"/>
+			<point x="198.25" y="740"/>
+			<point x="118.25" y="740" type="curve" smooth="yes"/>
+			<point x="38.25" y="740"/>
+			<point x="-36.75" y="780"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 740 60</string>
+							<string>vstem -36.75 80</string>
+							<string>vstem 87.5 61.5</string>
+							<string>vstem 193.25 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>a4ea91630c66b4c5a9f99faf5e714bd192e8c52f63cb39502b943a44e83c23735971afb8d9c8acaadb044bdbec619645a2a04a64e9d6ac6e7744159e9e06f085</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

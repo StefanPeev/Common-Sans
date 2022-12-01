@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+	<unicode hex="0140"/>
+	<advance width="370"/>
+	<outline>
+		<contour>
+			<point x="300" y="230" type="line"/>
+			<point x="220" y="230" type="line"/>
+			<point x="220" y="310" type="line"/>
+			<point x="300" y="310" type="line"/>
+		</contour>
+		<contour>
+			<point x="150" y="0" type="line"/>
+			<point x="70" y="0" type="line"/>
+			<point x="70" y="700" type="line"/>
+			<point x="150" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 230 80</string>
+							<string>vstem 70 80</string>
+							<string>vstem 220 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w370m300,230l220,230l220,310l300,310m150,0l70,0l70,700l150,700</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

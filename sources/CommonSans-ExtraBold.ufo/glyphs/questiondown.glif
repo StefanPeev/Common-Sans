@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="2">
+	<unicode hex="00BF"/>
+	<advance width="502"/>
+	<outline>
+		<contour>
+			<point x="312" y="380" type="line"/>
+			<point x="232" y="380" type="line"/>
+			<point x="232" y="460" type="line"/>
+			<point x="312" y="460" type="line"/>
+		</contour>
+		<contour>
+			<point x="40" y="-49" type="curve" smooth="yes"/>
+			<point x="40" y="131"/>
+			<point x="232" y="145"/>
+			<point x="232" y="290" type="curve" smooth="yes"/>
+			<point x="232" y="330" type="line"/>
+			<point x="312" y="330" type="line"/>
+			<point x="312" y="290" type="line" smooth="yes"/>
+			<point x="312" y="116"/>
+			<point x="120" y="61"/>
+			<point x="120" y="-38" type="curve" smooth="yes"/>
+			<point x="120" y="-105"/>
+			<point x="133" y="-170"/>
+			<point x="252" y="-170" type="curve" smooth="yes"/>
+			<point x="336" y="-170"/>
+			<point x="378" y="-101"/>
+			<point x="382" y="-20" type="curve"/>
+			<point x="462" y="-20" type="line"/>
+			<point x="461" y="-160"/>
+			<point x="373" y="-250"/>
+			<point x="252" y="-250" type="curve" smooth="yes"/>
+			<point x="106" y="-250"/>
+			<point x="40" y="-170"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -250 80</string>
+							<string>hstem 380 80</string>
+							<string>vstem 40 80</string>
+							<string>vstem 232 80</string>
+							<string>vstem 382 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>43564c48e9df7c0f9ec05a6d5d859dca5b6e9634607de7c3fea184023f75f19d823b06b94e54d99c723231e6422d7ba5af5a755ad3dbfec731bb38e0b7c67829</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

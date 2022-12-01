@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<unicode hex="2122"/>
+	<advance width="890"/>
+	<outline>
+		<contour>
+			<point x="204" y="585" type="line"/>
+			<point x="89" y="585" type="line"/>
+			<point x="89" y="637" type="line"/>
+			<point x="378" y="637" type="line"/>
+			<point x="378" y="585" type="line"/>
+			<point x="263" y="585" type="line"/>
+			<point x="263" y="283" type="line"/>
+			<point x="204" y="283" type="line"/>
+		</contour>
+		<contour>
+			<point x="473" y="283" type="line"/>
+			<point x="418" y="283" type="line"/>
+			<point x="418" y="637" type="line"/>
+			<point x="506" y="637" type="line"/>
+			<point x="594" y="354" type="line"/>
+			<point x="595" y="354" type="line"/>
+			<point x="681" y="637" type="line"/>
+			<point x="766" y="637" type="line"/>
+			<point x="766" y="283" type="line"/>
+			<point x="712" y="283" type="line"/>
+			<point name=".hr01" x="712" y="580" type="line"/>
+			<point x="710" y="580" type="line"/>
+			<point x="621" y="283" type="line"/>
+			<point x="568" y="283" type="line"/>
+			<point name=".hr02" x="474" y="585" type="line"/>
+			<point x="473" y="585" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 585 52</string>
+							<string>vstem 204 59</string>
+							<string>vstem 418 55</string>
+							<string>vstem 712 54</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 580 57</string>
+							<string>vstem 712 54</string>
+							<string>vstem 204 59</string>
+							<string>vstem 418 55</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr02</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 585 52</string>
+							<string>vstem 418 55</string>
+							<string>vstem 204 59</string>
+							<string>vstem 712 54</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>4feaf9a212d2d4de31b7ae2569a780bcd8bf3b7e84d7c7e4fb326ad63325fae542987d70d0a5cbcef2123ef8cb15f025bc199823ac4a58a2dab150df19c21f85</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

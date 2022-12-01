@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+	<unicode hex="0059"/>
+	<advance width="594"/>
+	<outline>
+		<contour>
+			<point x="216.875" y="222.5" type="line"/>
+			<point x="4.875" y="680" type="line"/>
+			<point x="169.5" y="680" type="line"/>
+			<point x="296" y="406.75" type="line"/>
+			<point x="298" y="406.75" type="line"/>
+			<point x="429" y="680" type="line"/>
+			<point x="589.25" y="680" type="line"/>
+			<point x="377.125" y="222.5" type="line"/>
+			<point x="377.125" y="0" type="line"/>
+			<point x="216.875" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="297.375" y="740"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 216.88 160.25</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w594m216.88,222.5l4.88,680l169.5,680l296,406.75l298,406.75l429,680l589.25,680l377.12,222.5l377.12,0l216.88,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

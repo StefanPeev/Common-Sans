@@ -1,0 +1,1250 @@
+languagesystem DFLT dflt;
+languagesystem cyrl BGR ;
+languagesystem cyrl dflt;
+languagesystem cyrl RUS ;
+languagesystem cyrl SRB ;
+languagesystem cyrl UKR ;
+languagesystem latn AZE ;
+languagesystem latn CAT ;
+languagesystem latn dflt;
+languagesystem latn LTH ;
+languagesystem latn MOL ;
+languagesystem latn NLD ;
+languagesystem latn ROM ;
+languagesystem latn TRK ;
+
+
+lookup markMarkPositioninglookup0 {
+  lookupflag 0;
+  markClass [\gravecomb ] <anchor -250 520> @top;
+  markClass [\acutecomb ] <anchor -212 520> @top;
+  markClass [\uni0302 ] <anchor -390 520> @top;
+  markClass [\uni0304 ] <anchor -176 520> @top;
+  markClass [\uni0308 ] <anchor -254 520> @top;
+  pos base [\A ] <anchor 312 740> mark @top;
+  pos base [\B \S ] <anchor 272 740> mark @top;
+  pos base [\C \G \O \Q ] <anchor 342 740> mark @top;
+  pos base [\D ] <anchor 302 740> mark @top;
+  pos base [\E \F \P \R ] <anchor 262 740> mark @top;
+  pos base [\H \V ] <anchor 333 740> mark @top;
+  pos base [\I ] <anchor 139 740> mark @top;
+  pos base [\J ] <anchor 231 740> mark @top;
+  pos base [\K ] <anchor 311 740> mark @top;
+  pos base [\L ] <anchor 141 740> mark @top;
+  pos base [\M ] <anchor 457 740> mark @top;
+  pos base [\N ] <anchor 353 740> mark @top;
+  pos base [\T ] <anchor 232 740> mark @top;
+  pos base [\U ] <anchor 323 740> mark @top;
+  pos base [\W ] <anchor 553 740> mark @top;
+  pos base [\X ] <anchor 335 740> mark @top;
+  pos base [\Y ] <anchor 297 740> mark @top;
+  pos base [\Z ] <anchor 313 740> mark @top;
+  pos base [\a ] <anchor 304 520> mark @top;
+  pos base [\o ] <anchor 295 520> mark @top;
+  pos base [\dotlessi ] <anchor 170 520> mark @top;
+} markMarkPositioninglookup0;
+
+lookup aaltAccessAllAlternateslookup0 {
+  lookupflag 0;
+    sub \A by \a.sc ;
+    sub \B by \b.sc ;
+    sub \C by \c.sc ;
+    sub \D by \d.sc ;
+    sub \E by \e.sc ;
+    sub \F by \f.sc ;
+    sub \G by \g.sc ;
+    sub \H by \h.sc ;
+    sub \I by \i.sc ;
+    sub \J by \j.sc ;
+    sub \K by \k.sc ;
+    sub \L by \l.sc ;
+    sub \M by \m.sc ;
+    sub \N by \n.sc ;
+    sub \O by \o.sc ;
+    sub \P by \p.sc ;
+    sub \Q by \q.sc ;
+    sub \R by \r.sc ;
+    sub \S by \s.sc ;
+    sub \T by \t.sc ;
+    sub \U by \u.sc ;
+    sub \V by \v.sc ;
+    sub \W by \w.sc ;
+    sub \X by \x.sc ;
+    sub \Y by \y.sc ;
+    sub \Z by \z.sc ;
+    sub \a by \a.sc ;
+    sub \b by \b.sc ;
+    sub \c by \c.sc ;
+    sub \d by \d.sc ;
+    sub \e by \e.sc ;
+    sub \f by \f.sc ;
+    sub \g by \g.sc ;
+    sub \h by \h.sc ;
+    sub \i by \i.sc ;
+    sub \j by \j.sc ;
+    sub \k by \k.sc ;
+    sub \l by \l.sc ;
+    sub \m by \m.sc ;
+    sub \n by \n.sc ;
+    sub \o by \o.sc ;
+    sub \p by \p.sc ;
+    sub \q by \q.sc ;
+    sub \r by \r.sc ;
+    sub \t by \t.sc ;
+    sub \u by \u.sc ;
+    sub \v by \v.sc ;
+    sub \w by \w.sc ;
+    sub \x by \x.sc ;
+    sub \y by \y.sc ;
+    sub \z by \z.sc ;
+    sub \uni0410 by \uni0430.sc ;
+    sub \uni0411 by \uni0431.sc ;
+    sub \uni0412 by \uni0432.sc ;
+    sub \uni0413 by \uni0433.sc ;
+    sub \uni0415 by \uni0435.sc ;
+    sub \uni0416 by \uni0436.sc ;
+    sub \uni0417 by \uni0437.sc ;
+    sub \uni0418 by \uni0438.sc ;
+    sub \uni0419 by \uni0439.sc ;
+    sub \uni041A by \uni043A.sc ;
+    sub \uni041C by \uni043C.sc ;
+    sub \uni041D by \uni043D.sc ;
+    sub \uni041E by \uni043E.sc ;
+    sub \uni041F by \uni043F.sc ;
+    sub \uni0420 by \uni0440.sc ;
+    sub \uni0421 by \uni0441.sc ;
+    sub \uni0422 by \uni0442.sc ;
+    sub \uni0423 by \uni0443.sc ;
+    sub \uni0424 by \uni0444.sc ;
+    sub \uni0425 by \uni0445.sc ;
+    sub \uni0426 by \uni0446.sc ;
+    sub \uni0427 by \uni0447.sc ;
+    sub \uni0428 by \uni0448.sc ;
+    sub \uni0429 by \uni0449.sc ;
+    sub \uni042A by \uni044A.sc ;
+    sub \uni042B by \uni044B.sc ;
+    sub \uni042C by \uni044C.sc ;
+    sub \uni042D by \uni044D.sc ;
+    sub \uni042E by \uni044E.sc ;
+    sub \uni042F by \uni044F.sc ;
+    sub \uni0430 by \uni0430.sc ;
+    sub \uni0431 by \uni0431.sc ;
+    sub \uni0435 by \uni0435.sc ;
+    sub \uni043C by \uni043C.sc ;
+    sub \uni043D by \uni043D.sc ;
+    sub \uni043E by \uni043E.sc ;
+    sub \uni0440 by \uni0440.sc ;
+    sub \uni0441 by \uni0441.sc ;
+    sub \uni0443 by \uni0443.sc ;
+    sub \uni0444 by \uni0444.sc ;
+    sub \uni0447 by \uni0447.sc ;
+    sub \uni044D by \uni044D.sc ;
+    sub \uni044F by \uni044F.sc ;
+    sub \uni045D by \uni045D.loclBGR ;
+} aaltAccessAllAlternateslookup0;
+
+lookup aaltAccessAllAlternateslookup1 {
+  lookupflag 0;
+    sub \zero from [\zero.inferior \zero.superior \zero.subscript \zero.numr \zero.dnom ];
+    sub \one from [\one.inferior \onesuperior \one.subscript \one.numr \one.dnom ];
+    sub \two from [\two.inferior \twosuperior \two.subscript \two.numr \two.dnom ];
+    sub \three from [\three.inferior \threesuperior \three.subscript \three.numr \three.dnom ];
+    sub \four from [\four.inferior \four.superior \four.subscript \four.numr \four.dnom ];
+    sub \five from [\five.inferior \five.superior \five.subscript \five.numr \five.dnom ];
+    sub \six from [\six.inferior \six.superior \six.subscript \six.numr \six.dnom ];
+    sub \seven from [\seven.inferior \seven.superior \seven.subscript \seven.numr \seven.dnom ];
+    sub \eight from [\eight.inferior \eight.superior \eight.subscript \eight.numr \eight.dnom ];
+    sub \nine from [\nine.inferior \nine.superior \nine.subscript \nine.numr \nine.dnom ];
+    sub \s from [\s.sc \longs ];
+    sub \uni0414 from [\uni0414.loclBGR \uni0434.sc ];
+    sub \uni041B from [\uni041B.loclBGR \uni043B.sc ];
+    sub \uni0432 from [\uni0432.loclBGR \uni0432.sc ];
+    sub \uni0433 from [\uni0433.loclBGR \uni0433.sc ];
+    sub \uni0434 from [\uni0434.loclBGR \uni0434.sc ];
+    sub \uni0436 from [\uni0436.loclBGR \uni0436.sc ];
+    sub \uni0437 from [\uni0437.loclBGR \uni0437.sc ];
+    sub \uni0438 from [\uni0438.loclBGR \uni0438.sc ];
+    sub \uni0439 from [\uni0439.loclBGR \uni0439.sc ];
+    sub \uni043A from [\uni043A.loclBGR \uni043A.sc ];
+    sub \uni043B from [\uni043B.loclBGR \uni043B.sc ];
+    sub \uni043F from [\uni043F.loclBGR \uni043F.sc ];
+    sub \uni0442 from [\uni0442.loclBGR \uni0442.sc ];
+    sub \uni0445 from [\uni0445.sc \uni0445.alt ];
+    sub \uni0446 from [\uni0446.loclBGR \uni0446.sc ];
+    sub \uni0448 from [\uni0448.loclBGR \uni0448.sc ];
+    sub \uni0449 from [\uni0449.loclBGR \uni0449.sc ];
+    sub \uni044A from [\uni044A.loclBGR \uni044A.sc ];
+    sub \uni044B from [\uni044B.loclBGR \uni044B.sc ];
+    sub \uni044C from [\uni044C.loclBGR \uni044C.sc ];
+    sub \uni044E from [\uni044E.loclBGR \uni044E.sc ];
+} aaltAccessAllAlternateslookup1;
+
+lookup loclLocalizedFormsinCyrilliclookup2 {
+  lookupflag 0;
+    sub \uni0414 by \uni0414.loclBGR ;
+    sub \uni041B by \uni041B.loclBGR ;
+    sub \uni0432 by \uni0432.loclBGR ;
+    sub \uni0433 by \uni0433.loclBGR ;
+    sub \uni0434 by \uni0434.loclBGR ;
+    sub \uni0436 by \uni0436.loclBGR ;
+    sub \uni0437 by \uni0437.loclBGR ;
+    sub \uni0438 by \uni0438.loclBGR ;
+    sub \uni0439 by \uni0439.loclBGR ;
+    sub \uni043A by \uni043A.loclBGR ;
+    sub \uni043B by \uni043B.loclBGR ;
+    sub \uni043F by \uni043F.loclBGR ;
+    sub \uni0442 by \uni0442.loclBGR ;
+    sub \uni0446 by \uni0446.loclBGR ;
+    sub \uni0448 by \uni0448.loclBGR ;
+    sub \uni0449 by \uni0449.loclBGR ;
+    sub \uni044A by \uni044A.loclBGR ;
+    sub \uni044B by \uni044B.loclBGR ;
+    sub \uni044C by \uni044C.loclBGR ;
+    sub \uni044E by \uni044E.loclBGR ;
+    sub \uni045D by \uni045D.loclBGR ;
+} loclLocalizedFormsinCyrilliclookup2;
+
+lookup sinfScientificInferiorslookup3 {
+  lookupflag 0;
+    sub \zero by \zero.inferior ;
+    sub \one by \one.inferior ;
+    sub \two by \two.inferior ;
+    sub \three by \three.inferior ;
+    sub \four by \four.inferior ;
+    sub \five by \five.inferior ;
+    sub \six by \six.inferior ;
+    sub \seven by \seven.inferior ;
+    sub \eight by \eight.inferior ;
+    sub \nine by \nine.inferior ;
+} sinfScientificInferiorslookup3;
+
+lookup supsSuperscriptlookup4 {
+  lookupflag 0;
+    sub \zero by \zero.superior ;
+    sub \one by \onesuperior ;
+    sub \two by \twosuperior ;
+    sub \three by \threesuperior ;
+    sub \four by \four.superior ;
+    sub \five by \five.superior ;
+    sub \six by \six.superior ;
+    sub \seven by \seven.superior ;
+    sub \eight by \eight.superior ;
+    sub \nine by \nine.superior ;
+} supsSuperscriptlookup4;
+
+lookup subsSubscriptlookup5 {
+  lookupflag 0;
+    sub \zero by \zero.subscript ;
+    sub \one by \one.subscript ;
+    sub \two by \two.subscript ;
+    sub \three by \three.subscript ;
+    sub \four by \four.subscript ;
+    sub \five by \five.subscript ;
+    sub \six by \six.subscript ;
+    sub \seven by \seven.subscript ;
+    sub \eight by \eight.subscript ;
+    sub \nine by \nine.subscript ;
+} subsSubscriptlookup5;
+
+lookup numrNumeratorslookup6 {
+  lookupflag 0;
+    sub \zero by \zero.numr ;
+    sub \one by \one.numr ;
+    sub \two by \two.numr ;
+    sub \three by \three.numr ;
+    sub \four by \four.numr ;
+    sub \five by \five.numr ;
+    sub \six by \six.numr ;
+    sub \seven by \seven.numr ;
+    sub \eight by \eight.numr ;
+    sub \nine by \nine.numr ;
+} numrNumeratorslookup6;
+
+lookup dnomDenominatorslookup7 {
+  lookupflag 0;
+    sub \zero by \zero.dnom ;
+    sub \one by \one.dnom ;
+    sub \two by \two.dnom ;
+    sub \three by \three.dnom ;
+    sub \four by \four.dnom ;
+    sub \five by \five.dnom ;
+    sub \six by \six.dnom ;
+    sub \seven by \seven.dnom ;
+    sub \eight by \eight.dnom ;
+    sub \nine by \nine.dnom ;
+} dnomDenominatorslookup7;
+
+lookup SingleSubstitutionlookup26 {
+  lookupflag 0;
+    sub \slash by \fraction ;
+    sub \zero by \zero.numr ;
+    sub \one by \one.numr ;
+    sub \two by \two.numr ;
+    sub \three by \three.numr ;
+    sub \four by \four.numr ;
+    sub \five by \five.numr ;
+    sub \six by \six.numr ;
+    sub \seven by \seven.numr ;
+    sub \eight by \eight.numr ;
+    sub \nine by \nine.numr ;
+} SingleSubstitutionlookup26;
+
+lookup fracDiagonalFractionslookup8 {
+  lookupflag 0;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]' ;
+    ignore sub [\slash ]' [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ] ;
+    ignore sub [\slash ] [\slash ]' ;
+    ignore sub [\slash ]' [\slash ] ;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\slash ]'lookup SingleSubstitutionlookup26  [\zero \one \two \three \four \five \six \seven \eight \nine ] ;
+} fracDiagonalFractionslookup8;
+
+lookup fracDiagonalFractionslookup9 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\fraction ] ;
+} fracDiagonalFractionslookup9;
+
+lookup fracDiagonalFractionslookup10 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup10;
+
+lookup fracDiagonalFractionslookup11 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup11;
+
+lookup fracDiagonalFractionslookup12 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup12;
+
+lookup fracDiagonalFractionslookup13 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup13;
+
+lookup fracDiagonalFractionslookup14 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup14;
+
+lookup fracDiagonalFractionslookup15 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup15;
+
+lookup fracDiagonalFractionslookup16 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup16;
+
+lookup fracDiagonalFractionslookup17 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup17;
+
+lookup fracDiagonalFractionslookup18 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ]'lookup SingleSubstitutionlookup26  [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr 
+	\seven.numr \eight.numr \nine.numr ] [\fraction ] ;
+} fracDiagonalFractionslookup18;
+
+lookup fracDiagonalFractionslookup19 {
+  lookupflag 0;
+    sub [\fraction \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \five.dnom 
+	\six.dnom \seven.dnom \eight.dnom \nine.dnom ] [\zero \one \two \three \four \five \six \seven \eight \nine ]'  by [\zero.dnom \one.dnom \two.dnom \three.dnom 
+	\four.dnom \five.dnom \six.dnom \seven.dnom \eight.dnom \nine.dnom ];
+} fracDiagonalFractionslookup19;
+
+lookup SingleSubstitutionlookup28 {
+  lookupflag 0;
+    sub \A by \ordfeminine ;
+    sub \O by \ordmasculine ;
+    sub \a by \ordfeminine ;
+    sub \o by \ordmasculine ;
+} SingleSubstitutionlookup28;
+
+lookup ordnOrdinalslookup20 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\A \a ]'lookup SingleSubstitutionlookup28  ;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\O \o ]'lookup SingleSubstitutionlookup28  ;
+} ordnOrdinalslookup20;
+
+lookup ordnOrdinalslookup21 {
+  lookupflag 0;
+    sub \N \o \period  by \uni2116;
+} ordnOrdinalslookup21;
+
+lookup smcpLowercasetoSmallCapitalslookup22 {
+  lookupflag 0;
+    sub \a by \a.sc ;
+    sub \b by \b.sc ;
+    sub \c by \c.sc ;
+    sub \d by \d.sc ;
+    sub \e by \e.sc ;
+    sub \f by \f.sc ;
+    sub \g by \g.sc ;
+    sub \h by \h.sc ;
+    sub \i by \i.sc ;
+    sub \j by \j.sc ;
+    sub \k by \k.sc ;
+    sub \l by \l.sc ;
+    sub \m by \m.sc ;
+    sub \n by \n.sc ;
+    sub \o by \o.sc ;
+    sub \p by \p.sc ;
+    sub \q by \q.sc ;
+    sub \r by \r.sc ;
+    sub \s by \s.sc ;
+    sub \t by \t.sc ;
+    sub \u by \u.sc ;
+    sub \v by \v.sc ;
+    sub \w by \w.sc ;
+    sub \x by \x.sc ;
+    sub \y by \y.sc ;
+    sub \z by \z.sc ;
+    sub \uni0430 by \uni0430.sc ;
+    sub \uni0431 by \uni0431.sc ;
+    sub \uni0432 by \uni0432.sc ;
+    sub \uni0433 by \uni0433.sc ;
+    sub \uni0434 by \uni0434.sc ;
+    sub \uni0435 by \uni0435.sc ;
+    sub \uni0436 by \uni0436.sc ;
+    sub \uni0437 by \uni0437.sc ;
+    sub \uni0438 by \uni0438.sc ;
+    sub \uni0439 by \uni0439.sc ;
+    sub \uni043A by \uni043A.sc ;
+    sub \uni043B by \uni043B.sc ;
+    sub \uni043C by \uni043C.sc ;
+    sub \uni043D by \uni043D.sc ;
+    sub \uni043E by \uni043E.sc ;
+    sub \uni043F by \uni043F.sc ;
+    sub \uni0440 by \uni0440.sc ;
+    sub \uni0441 by \uni0441.sc ;
+    sub \uni0442 by \uni0442.sc ;
+    sub \uni0443 by \uni0443.sc ;
+    sub \uni0444 by \uni0444.sc ;
+    sub \uni0445 by \uni0445.sc ;
+    sub \uni0446 by \uni0446.sc ;
+    sub \uni0447 by \uni0447.sc ;
+    sub \uni0448 by \uni0448.sc ;
+    sub \uni0449 by \uni0449.sc ;
+    sub \uni044A by \uni044A.sc ;
+    sub \uni044B by \uni044B.sc ;
+    sub \uni044C by \uni044C.sc ;
+    sub \uni044D by \uni044D.sc ;
+    sub \uni044E by \uni044E.sc ;
+    sub \uni044F by \uni044F.sc ;
+} smcpLowercasetoSmallCapitalslookup22;
+
+lookup c2scCapitalstoSmallCapitalslookup23 {
+  lookupflag 0;
+    sub \A by \a.sc ;
+    sub \B by \b.sc ;
+    sub \C by \c.sc ;
+    sub \D by \d.sc ;
+    sub \E by \e.sc ;
+    sub \F by \f.sc ;
+    sub \G by \g.sc ;
+    sub \H by \h.sc ;
+    sub \I by \i.sc ;
+    sub \J by \j.sc ;
+    sub \K by \k.sc ;
+    sub \L by \l.sc ;
+    sub \M by \m.sc ;
+    sub \N by \n.sc ;
+    sub \O by \o.sc ;
+    sub \P by \p.sc ;
+    sub \Q by \q.sc ;
+    sub \R by \r.sc ;
+    sub \S by \s.sc ;
+    sub \T by \t.sc ;
+    sub \U by \u.sc ;
+    sub \V by \v.sc ;
+    sub \W by \w.sc ;
+    sub \X by \x.sc ;
+    sub \Y by \y.sc ;
+    sub \Z by \z.sc ;
+    sub \uni0410 by \uni0430.sc ;
+    sub \uni0411 by \uni0431.sc ;
+    sub \uni0412 by \uni0432.sc ;
+    sub \uni0413 by \uni0433.sc ;
+    sub \uni0414 by \uni0434.sc ;
+    sub \uni0415 by \uni0435.sc ;
+    sub \uni0416 by \uni0436.sc ;
+    sub \uni0417 by \uni0437.sc ;
+    sub \uni0418 by \uni0438.sc ;
+    sub \uni0419 by \uni0439.sc ;
+    sub \uni041A by \uni043A.sc ;
+    sub \uni041B by \uni043B.sc ;
+    sub \uni041C by \uni043C.sc ;
+    sub \uni041D by \uni043D.sc ;
+    sub \uni041E by \uni043E.sc ;
+    sub \uni041F by \uni043F.sc ;
+    sub \uni0420 by \uni0440.sc ;
+    sub \uni0421 by \uni0441.sc ;
+    sub \uni0422 by \uni0442.sc ;
+    sub \uni0423 by \uni0443.sc ;
+    sub \uni0424 by \uni0444.sc ;
+    sub \uni0425 by \uni0445.sc ;
+    sub \uni0426 by \uni0446.sc ;
+    sub \uni0427 by \uni0447.sc ;
+    sub \uni0428 by \uni0448.sc ;
+    sub \uni0429 by \uni0449.sc ;
+    sub \uni042A by \uni044A.sc ;
+    sub \uni042B by \uni044B.sc ;
+    sub \uni042C by \uni044C.sc ;
+    sub \uni042D by \uni044D.sc ;
+    sub \uni042E by \uni044E.sc ;
+    sub \uni042F by \uni044F.sc ;
+} c2scCapitalstoSmallCapitalslookup23;
+
+lookup saltStylisticAlternativeslookup24 {
+  lookupflag 0;
+    sub \uni0445 from [\uni0445.alt ];
+} saltStylisticAlternativeslookup24;
+
+lookup histHistoricalFormslookup25 {
+  lookupflag 0;
+    sub \s by \longs ;
+} histHistoricalFormslookup25;
+
+feature aalt {
+
+ script DFLT;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+
+ script cyrl;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language BGR  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language RUS  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language SRB  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language UKR  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+
+ script latn;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language AZE  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language CAT  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language LTH  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language MOL  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language NLD  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language ROM  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+     language TRK  exclude_dflt;
+      lookup aaltAccessAllAlternateslookup0;
+      lookup aaltAccessAllAlternateslookup1;
+} aalt;
+
+feature locl {
+
+ script cyrl;
+     language dflt ;
+      lookup loclLocalizedFormsinCyrilliclookup2;
+     language BGR  exclude_dflt;
+      lookup loclLocalizedFormsinCyrilliclookup2;
+     language RUS  exclude_dflt;
+      lookup loclLocalizedFormsinCyrilliclookup2;
+     language SRB  exclude_dflt;
+      lookup loclLocalizedFormsinCyrilliclookup2;
+     language UKR  exclude_dflt;
+      lookup loclLocalizedFormsinCyrilliclookup2;
+} locl;
+
+feature sinf {
+
+ script DFLT;
+     language dflt ;
+      lookup sinfScientificInferiorslookup3;
+
+ script cyrl;
+     language dflt ;
+      lookup sinfScientificInferiorslookup3;
+     language BGR  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language RUS  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language SRB  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language UKR  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+
+ script latn;
+     language dflt ;
+      lookup sinfScientificInferiorslookup3;
+     language AZE  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language CAT  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language LTH  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language MOL  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language NLD  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language ROM  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+     language TRK  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+} sinf;
+
+feature sups {
+
+ script DFLT;
+     language dflt ;
+      lookup supsSuperscriptlookup4;
+
+ script cyrl;
+     language dflt ;
+      lookup supsSuperscriptlookup4;
+     language BGR  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language RUS  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language SRB  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language UKR  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+
+ script latn;
+     language dflt ;
+      lookup supsSuperscriptlookup4;
+     language AZE  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language CAT  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language LTH  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language MOL  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language NLD  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language ROM  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+     language TRK  exclude_dflt;
+      lookup supsSuperscriptlookup4;
+} sups;
+
+feature subs {
+
+ script DFLT;
+     language dflt ;
+      lookup subsSubscriptlookup5;
+
+ script cyrl;
+     language dflt ;
+      lookup subsSubscriptlookup5;
+     language BGR  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language RUS  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language SRB  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language UKR  exclude_dflt;
+      lookup subsSubscriptlookup5;
+
+ script latn;
+     language dflt ;
+      lookup subsSubscriptlookup5;
+     language AZE  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language CAT  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language LTH  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language MOL  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language NLD  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language ROM  exclude_dflt;
+      lookup subsSubscriptlookup5;
+     language TRK  exclude_dflt;
+      lookup subsSubscriptlookup5;
+} subs;
+
+feature numr {
+
+ script DFLT;
+     language dflt ;
+      lookup numrNumeratorslookup6;
+
+ script cyrl;
+     language dflt ;
+      lookup numrNumeratorslookup6;
+     language BGR  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language RUS  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language SRB  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language UKR  exclude_dflt;
+      lookup numrNumeratorslookup6;
+
+ script latn;
+     language dflt ;
+      lookup numrNumeratorslookup6;
+     language AZE  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language CAT  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language LTH  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language MOL  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language NLD  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language ROM  exclude_dflt;
+      lookup numrNumeratorslookup6;
+     language TRK  exclude_dflt;
+      lookup numrNumeratorslookup6;
+} numr;
+
+feature dnom {
+
+ script DFLT;
+     language dflt ;
+      lookup dnomDenominatorslookup7;
+
+ script cyrl;
+     language dflt ;
+      lookup dnomDenominatorslookup7;
+     language BGR  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language RUS  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language SRB  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language UKR  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+
+ script latn;
+     language dflt ;
+      lookup dnomDenominatorslookup7;
+     language AZE  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language CAT  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language LTH  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language MOL  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language NLD  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language ROM  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+     language TRK  exclude_dflt;
+      lookup dnomDenominatorslookup7;
+} dnom;
+
+feature frac {
+
+ script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+
+ script cyrl;
+     language dflt ;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language BGR  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language RUS  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language SRB  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language UKR  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+
+ script latn;
+     language dflt ;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language AZE  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language CAT  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language LTH  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language MOL  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language NLD  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language ROM  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+     language TRK  exclude_dflt;
+      lookup fracDiagonalFractionslookup8;
+      lookup fracDiagonalFractionslookup9;
+      lookup fracDiagonalFractionslookup10;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup14;
+      lookup fracDiagonalFractionslookup15;
+      lookup fracDiagonalFractionslookup16;
+      lookup fracDiagonalFractionslookup17;
+      lookup fracDiagonalFractionslookup18;
+      lookup fracDiagonalFractionslookup19;
+} frac;
+
+feature ordn {
+
+ script DFLT;
+     language dflt ;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+
+ script cyrl;
+     language dflt ;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language BGR  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language RUS  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language SRB  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language UKR  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+
+ script latn;
+     language dflt ;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language AZE  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language CAT  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language LTH  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language MOL  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language NLD  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language ROM  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+     language TRK  exclude_dflt;
+      lookup ordnOrdinalslookup20;
+      lookup ordnOrdinalslookup21;
+} ordn;
+
+feature smcp {
+
+ script DFLT;
+     language dflt ;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+
+ script cyrl;
+     language dflt ;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language BGR  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language RUS  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language SRB  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language UKR  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+
+ script latn;
+     language dflt ;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language AZE  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language CAT  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language LTH  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language MOL  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language NLD  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language ROM  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+     language TRK  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup22;
+} smcp;
+
+feature c2sc {
+
+ script DFLT;
+     language dflt ;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+
+ script cyrl;
+     language dflt ;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language BGR  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language RUS  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language SRB  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language UKR  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+
+ script latn;
+     language dflt ;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language AZE  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language CAT  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language LTH  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language MOL  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language NLD  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language ROM  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+     language TRK  exclude_dflt;
+      lookup c2scCapitalstoSmallCapitalslookup23;
+} c2sc;
+
+feature salt {
+
+ script DFLT;
+     language dflt ;
+      lookup saltStylisticAlternativeslookup24;
+
+ script cyrl;
+     language dflt ;
+      lookup saltStylisticAlternativeslookup24;
+     language BGR  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language RUS  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language SRB  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language UKR  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+
+ script latn;
+     language dflt ;
+      lookup saltStylisticAlternativeslookup24;
+     language AZE  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language CAT  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language LTH  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language MOL  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language NLD  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language ROM  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+     language TRK  exclude_dflt;
+      lookup saltStylisticAlternativeslookup24;
+} salt;
+
+feature hist {
+
+ script DFLT;
+     language dflt ;
+      lookup histHistoricalFormslookup25;
+
+ script cyrl;
+     language dflt ;
+      lookup histHistoricalFormslookup25;
+     language BGR  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language RUS  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language SRB  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language UKR  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+
+ script latn;
+     language dflt ;
+      lookup histHistoricalFormslookup25;
+     language AZE  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language CAT  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language LTH  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language MOL  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language NLD  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language ROM  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+     language TRK  exclude_dflt;
+      lookup histHistoricalFormslookup25;
+} hist;
+
+feature mark {
+
+ script DFLT;
+     language dflt ;
+      lookup markMarkPositioninglookup0;
+
+ script cyrl;
+     language dflt ;
+      lookup markMarkPositioninglookup0;
+     language BGR  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language RUS  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language SRB  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language UKR  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+
+ script latn;
+     language dflt ;
+      lookup markMarkPositioninglookup0;
+     language AZE  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language CAT  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language LTH  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language MOL  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language NLD  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language ROM  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+     language TRK  exclude_dflt;
+      lookup markMarkPositioninglookup0;
+} mark;

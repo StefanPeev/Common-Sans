@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+	<unicode hex="00A1"/>
+	<advance width="190"/>
+	<outline>
+		<contour>
+			<point x="50" y="-240" type="line"/>
+			<point x="50" y="50" type="line"/>
+			<point x="70" y="310" type="line"/>
+			<point x="120" y="310" type="line"/>
+			<point x="140" y="50" type="line"/>
+			<point x="140" y="-240" type="line"/>
+		</contour>
+		<contour>
+			<point name=".hr01" x="135" y="380" type="line"/>
+			<point x="55" y="380" type="line"/>
+			<point x="55" y="460" type="line"/>
+			<point x="135" y="460" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 50 90</string>
+							<string>hstem 380 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 380 80</string>
+							<string>vstem 55 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w190m50,-240l50,50l70,310l120,310l140,50l140,-240m135,380l55,380l55,460l135,460</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

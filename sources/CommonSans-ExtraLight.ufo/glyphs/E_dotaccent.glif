@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+	<unicode hex="0116"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="420" y="331.25" type="line"/>
+			<point x="135.5" y="331.25" type="line"/>
+			<point x="135.5" y="36.25" type="line"/>
+			<point x="460" y="36.25" type="line"/>
+			<point x="460" y="0" type="line"/>
+			<point x="93.75" y="0" type="line"/>
+			<point x="93.75" y="680" type="line"/>
+			<point x="460" y="680" type="line"/>
+			<point x="460" y="643.75" type="line"/>
+			<point x="135.5" y="643.75" type="line"/>
+			<point x="135.5" y="367.5" type="line"/>
+			<point x="420" y="367.5" type="line"/>
+		</contour>
+		<contour>
+			<point x="275" y="827.5" type="line"/>
+			<point x="275" y="740" type="line"/>
+			<point x="235" y="740" type="line"/>
+			<point x="235" y="827.5" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 36.25</string>
+							<string>hstem 331.25 36.25</string>
+							<string>hstem 643.75 36.25</string>
+							<string>hstem 740 87.5</string>
+							<string>vstem 93.75 41.75</string>
+							<string>vstem 235 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>df98622b69c9997bbc272b27d51767b9e9a2eea8f528f9c645f9e5cb3d6e2317748445732c1ebc2f5843f9de3f92693600e65586be92fb5d9bcf3cda39f9295e</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

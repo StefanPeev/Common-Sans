@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+	<unicode hex="0120"/>
+	<advance width="647"/>
+	<outline>
+		<contour>
+			<point x="348" y="530" type="curve" smooth="yes"/>
+			<point x="264" y="530"/>
+			<point x="210" y="455"/>
+			<point x="210" y="340" type="curve" smooth="yes"/>
+			<point x="210" y="225"/>
+			<point x="264" y="150"/>
+			<point x="348" y="150" type="curve" smooth="yes"/>
+			<point x="397" y="150"/>
+			<point x="437" y="172"/>
+			<point x="457" y="212" type="curve"/>
+			<point x="457" y="230" type="line"/>
+			<point x="347" y="230" type="line"/>
+			<point x="347" y="350" type="line"/>
+			<point x="607" y="350" type="line"/>
+			<point x="607" y="0" type="line"/>
+			<point x="457" y="0" type="line"/>
+			<point x="457" y="23" type="line"/>
+			<point x="432" y="4"/>
+			<point x="385" y="-10"/>
+			<point x="348" y="-10" type="curve" smooth="yes"/>
+			<point x="143" y="-10"/>
+			<point x="30" y="114"/>
+			<point x="30" y="340" type="curve" smooth="yes"/>
+			<point x="30" y="566"/>
+			<point x="143" y="690"/>
+			<point x="348" y="690" type="curve" smooth="yes"/>
+			<point x="494" y="690"/>
+			<point x="594" y="594"/>
+			<point x="615" y="444" type="curve"/>
+			<point x="455" y="444" type="line"/>
+			<point x="444" y="502"/>
+			<point x="403" y="530"/>
+		</contour>
+		<contour>
+			<point x="410" y="880" type="line"/>
+			<point x="410" y="740" type="line"/>
+			<point x="230" y="740" type="line"/>
+			<point x="230" y="880" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 160</string>
+							<string>hstem 230 120</string>
+							<string>hstem 530 160</string>
+							<string>hstem 740 140</string>
+							<string>vstem 30 180</string>
+							<string>vstem 230 180</string>
+							<string>vstem 457 150</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e37f413372b219e6a5b73e978eca2026a2a0639600b91e4bc7810a9d09fb63da0516a800edcff6e3976bf75408d64fc036587da73019af3a5ed71cc2bcac5034</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

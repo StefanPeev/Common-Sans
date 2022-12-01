@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CA" format="2">
+	<unicode hex="01CA"/>
+	<advance width="886"/>
+	<outline>
+		<contour>
+			<point x="53.75" y="482.5" type="curve" smooth="yes"/>
+			<point x="53.75" y="0" type="line"/>
+			<point x="-27.5" y="0" type="line"/>
+			<point x="-27.5" y="680" type="line"/>
+			<point x="62.5" y="680" type="line"/>
+			<point x="385.125" y="132.625" type="line"/>
+			<point x="382.75" y="157.375"/>
+			<point x="382.75" y="180.125"/>
+			<point x="382.75" y="197.5" type="curve" smooth="yes"/>
+			<point x="382.75" y="680" type="line"/>
+			<point x="464" y="680" type="line"/>
+			<point x="464" y="0" type="line"/>
+			<point x="374" y="0" type="line"/>
+			<point x="51.375" y="547.375" type="line"/>
+			<point x="53.75" y="522.625"/>
+			<point x="53.75" y="499.875"/>
+		</contour>
+		<contour>
+			<point x="692.75" y="0" type="curve" smooth="yes"/>
+			<point x="650" y="0" type="line"/>
+			<point x="650" y="72.5" type="line"/>
+			<point x="676" y="72.5" type="line" smooth="yes"/>
+			<point x="716" y="72.5"/>
+			<point x="748" y="119.75"/>
+			<point x="748" y="183.75" type="curve" smooth="yes"/>
+			<point x="748" y="680" type="line"/>
+			<point x="829.25" y="680" type="line"/>
+			<point x="829.25" y="194" type="line" smooth="yes"/>
+			<point x="829.25" y="78.75"/>
+			<point x="791" y="0"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 72.5</string>
+							<string>hstem 547.38 132.62</string>
+							<string>vstem -27.5 81.25</string>
+							<string>vstem 382.75 81.25</string>
+							<string>vstem 748 81.25</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>16d92ee3a335f5cee9999db900496ef53098d5df82426d9c592336aff0e4079adede1afcb38ca097a06086de39ffa5c446c8475576f678edb6f58514f175aaec</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

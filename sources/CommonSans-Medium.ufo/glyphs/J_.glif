@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="2">
+	<unicode hex="004A"/>
+	<advance width="324"/>
+	<outline>
+		<contour>
+			<point x="99" y="0" type="curve" smooth="yes"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="90" type="line"/>
+			<point x="76" y="90" type="line" smooth="yes"/>
+			<point x="116" y="90"/>
+			<point x="148" y="131"/>
+			<point x="148" y="195" type="curve" smooth="yes"/>
+			<point x="148" y="680" type="line"/>
+			<point x="249" y="680" type="line"/>
+			<point x="249" y="204" type="line" smooth="yes"/>
+			<point x="249" y="85"/>
+			<point x="212" y="0"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="194.5" y="740"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 90</string>
+							<string>vstem 148 101</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w324m99,0l50,0l50,90l76,90c116,90 148,131 148,195l148,680l249,680l249,204c249,85 212,0 99,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

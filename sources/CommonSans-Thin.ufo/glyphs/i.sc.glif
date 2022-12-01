@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc" format="2">
+	<advance width="145"/>
+	<outline>
+		<contour>
+			<point x="113" y="0" type="line"/>
+			<point x="33" y="0" type="line"/>
+			<point x="33" y="460" type="line"/>
+			<point x="113" y="460" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 33 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w145m113,0l33,0l33,460l113,460</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="2">
+	<unicode hex="0112"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="420" y="331.25" type="line"/>
+			<point x="135.5" y="331.25" type="line"/>
+			<point x="135.5" y="36.25" type="line"/>
+			<point x="460" y="36.25" type="line"/>
+			<point x="460" y="0" type="line"/>
+			<point x="93.75" y="0" type="line"/>
+			<point x="93.75" y="680" type="line"/>
+			<point x="460" y="680" type="line"/>
+			<point x="460" y="643.75" type="line"/>
+			<point x="135.5" y="643.75" type="line"/>
+			<point x="135.5" y="367.5" type="line"/>
+			<point x="420" y="367.5" type="line"/>
+		</contour>
+		<contour>
+			<point name=".hr01" x="390" y="860" type="line"/>
+			<point x="390" y="790" type="line"/>
+			<point x="120" y="790" type="line"/>
+			<point x="120" y="860" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 331.25 36.25</string>
+							<string>vstem 93.75 41.75</string>
+							<string>hstem 0 36.25</string>
+							<string>hstem 643.75 36.25</string>
+							<string>hstem 790 70</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 790 70</string>
+							<string>vstem 120 270</string>
+							<string>hstem 0 36.25</string>
+							<string>hstem 331.25 36.25</string>
+							<string>hstem 643.75 36.25</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>4c3c2879d322beef5e579044e7df54954ac11c0775d320cfe367c1c22fc8f66540b81f2495167898aff8a52c804d24272937b1dc6b13c893eafda82a9fd299e0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

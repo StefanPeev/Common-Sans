@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+	<unicode hex="0051"/>
+	<advance width="704"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="624" y="-16" type="line"/>
+			<point x="559.125" y="-71.25" type="line"/>
+			<point x="350.875" y="147.625" type="line"/>
+			<point x="415.75" y="202.875" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="348.75" y="740"/>
+</glyph>

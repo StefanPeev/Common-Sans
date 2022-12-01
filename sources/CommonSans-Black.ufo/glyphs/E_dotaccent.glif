@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="2">
+	<unicode hex="0116"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="420" y="270" type="line"/>
+			<point x="230" y="270" type="line"/>
+			<point x="230" y="150" type="line"/>
+			<point x="460" y="150" type="line"/>
+			<point x="460" y="0" type="line"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="680" type="line"/>
+			<point x="460" y="680" type="line"/>
+			<point x="460" y="530" type="line"/>
+			<point x="230" y="530" type="line"/>
+			<point x="230" y="420" type="line"/>
+			<point x="420" y="420" type="line"/>
+		</contour>
+		<contour>
+			<point name=".hr01" x="345" y="880" type="line"/>
+			<point x="345" y="740" type="line"/>
+			<point x="165" y="740" type="line"/>
+			<point x="165" y="880" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 270 150</string>
+							<string>vstem 50 180</string>
+							<string>hstem 0 150</string>
+							<string>hstem 530 150</string>
+							<string>hstem 740 140</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 740 140</string>
+							<string>vstem 165 180</string>
+							<string>hstem 0 150</string>
+							<string>hstem 270 150</string>
+							<string>hstem 530 150</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w510m420,270l230,270l230,150l460,150l460,0l50,0l50,680l460,680l460,530l230,530l230,420l420,420m345,880l345,740l165,740l165,880</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

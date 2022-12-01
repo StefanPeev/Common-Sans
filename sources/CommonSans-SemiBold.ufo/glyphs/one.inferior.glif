@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.inferior" format="2">
+	<advance width="225"/>
+	<outline>
+		<contour>
+			<point x="33" y="-91" type="curve"/>
+			<point x="33" y="-39" type="line"/>
+			<point x="106" y="-39"/>
+			<point x="144" y="-19"/>
+			<point x="170" y="7" type="curve"/>
+			<point x="192" y="7" type="line"/>
+			<point x="192" y="-460" type="line"/>
+			<point x="124" y="-460" type="line"/>
+			<point x="124" y="-74" type="line"/>
+			<point x="109" y="-79"/>
+			<point x="79" y="-91"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -91 52</string>
+							<string>vstem 124 68</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w225m33,-91l33,-39c106,-39 144,-19 170,7l192,7l192,-460l124,-460l124,-74c109,-79 79,-91 33,-91</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+	<unicode hex="00CE"/>
+	<advance width="266"/>
+	<outline>
+		<component base="uni0302" xOffset="479.25" yOffset="220"/>
+		<component base="I"/>
+	</outline>
+</glyph>

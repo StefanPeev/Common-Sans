@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+	<unicode hex="0141"/>
+	<advance width="610"/>
+	<outline>
+		<contour>
+			<point x="111" y="170" type="line"/>
+			<point x="20" y="170" type="line"/>
+			<point x="170" y="425" type="line"/>
+			<point x="170" y="700" type="line"/>
+			<point x="260" y="700" type="line"/>
+			<point x="260" y="579" type="line"/>
+			<point x="319" y="679" type="line"/>
+			<point x="348" y="679"/>
+			<point x="378" y="679"/>
+			<point x="407" y="679" type="curve"/>
+			<point x="260" y="426" type="line"/>
+			<point x="260" y="80" type="line"/>
+			<point x="580" y="80" type="line"/>
+			<point x="580" y="0" type="line"/>
+			<point x="170" y="0" type="line"/>
+			<point x="170" y="271" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 80</string>
+							<string>vstem 170 90</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w610m111,170l20,170l170,425l170,700l260,700l260,579l319,679c348,679 378,679 407,679l260,426l260,80l580,80l580,0l170,0l170,271</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

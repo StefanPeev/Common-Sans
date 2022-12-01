@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcircumflex" format="2">
+	<unicode hex="011C"/>
+	<advance width="677"/>
+	<outline>
+		<contour>
+			<point x="353" y="600" type="curve" smooth="yes"/>
+			<point x="231.5" y="600"/>
+			<point x="156" y="499.5"/>
+			<point x="156" y="340" type="curve" smooth="yes"/>
+			<point x="156" y="180.5"/>
+			<point x="231.5" y="80"/>
+			<point x="353" y="80" type="curve" smooth="yes"/>
+			<point x="425" y="80"/>
+			<point x="492.5" y="122.5"/>
+			<point x="526" y="181.5" type="curve"/>
+			<point x="526" y="255" type="line"/>
+			<point x="367.5" y="255" type="line"/>
+			<point x="367.5" y="325" type="line"/>
+			<point x="612" y="325" type="line"/>
+			<point x="612" y="0" type="line"/>
+			<point x="526" y="0" type="line"/>
+			<point x="526" y="68" type="line"/>
+			<point x="490.5" y="24"/>
+			<point x="417.5" y="-10"/>
+			<point x="353" y="-10" type="curve" smooth="yes"/>
+			<point x="166" y="-10"/>
+			<point x="55" y="120.5"/>
+			<point x="55" y="340" type="curve" smooth="yes"/>
+			<point x="55" y="559.5"/>
+			<point x="166" y="690"/>
+			<point x="353" y="690" type="curve" smooth="yes"/>
+			<point x="495" y="690"/>
+			<point x="593.5" y="600"/>
+			<point x="620" y="449" type="curve"/>
+			<point x="530" y="449" type="line"/>
+			<point x="509" y="545.5"/>
+			<point x="443.5" y="600"/>
+		</contour>
+		<contour>
+			<point x="339" y="853" type="line"/>
+			<point x="241" y="740" type="line"/>
+			<point x="184" y="740" type="line"/>
+			<point x="294" y="910" type="line"/>
+			<point x="384" y="910" type="line"/>
+			<point x="494" y="740" type="line"/>
+			<point x="437" y="740" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 90</string>
+							<string>hstem 255 70</string>
+							<string>hstem 600 90</string>
+							<string>hstem 853 57</string>
+							<string>vstem 55 101</string>
+							<string>vstem 526 86</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>9dae98d2d93a92a41399dd4a36f9d33a45ee66702ea94a53cb7dababd78234204bc9e7a13c05a1786d0456c8773bf927392a9fcf1c02781ea4ae185c708141fa</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

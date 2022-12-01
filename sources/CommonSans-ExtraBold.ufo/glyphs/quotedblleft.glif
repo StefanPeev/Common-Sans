@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="2">
+	<unicode hex="201C"/>
+	<advance width="290"/>
+	<outline>
+		<contour>
+			<point x="246" y="490" type="line"/>
+			<point x="166" y="490" type="line"/>
+			<point x="166" y="570" type="line"/>
+			<point name=".hr01" x="212" y="700" type="line"/>
+			<point x="246" y="700" type="line"/>
+			<point name=".hr02" x="224" y="570" type="line"/>
+			<point x="246" y="570" type="line"/>
+		</contour>
+		<contour>
+			<point x="130" y="490" type="line"/>
+			<point x="50" y="490" type="line"/>
+			<point x="50" y="570" type="line"/>
+			<point name=".hr03" x="96" y="700" type="line"/>
+			<point x="130" y="700" type="line"/>
+			<point name=".hr04" x="108" y="570" type="line"/>
+			<point x="130" y="570" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 490 80</string>
+							<string>vstem 166 80</string>
+							<string>vstem 50 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 490 210</string>
+							<string>vstem 166 80</string>
+							<string>vstem 50 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr02</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 490 80</string>
+							<string>vstem 166 80</string>
+							<string>vstem 50 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr03</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 490 210</string>
+							<string>vstem 50 80</string>
+							<string>vstem 166 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr04</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 490 80</string>
+							<string>vstem 50 80</string>
+							<string>vstem 166 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w290m246,490l166,490l166,570l212,700l246,700l224,570l246,570m130,490l50,490l50,570l96,700l130,700l108,570l130,570</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

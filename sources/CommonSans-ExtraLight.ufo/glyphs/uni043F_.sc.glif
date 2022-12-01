@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043F.sc" format="2">
+	<advance width="429"/>
+	<outline>
+		<contour>
+			<point x="113" y="0" type="line"/>
+			<point x="33" y="0" type="line"/>
+			<point x="33" y="460" type="line"/>
+			<point x="397" y="460" type="line"/>
+			<point x="397" y="0" type="line"/>
+			<point x="317" y="0" type="line"/>
+			<point x="317" y="395" type="line"/>
+			<point x="113" y="395" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 395 65</string>
+							<string>vstem 33 80</string>
+							<string>vstem 317 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w429m113,0l33,0l33,460l397,460l397,0l317,0l317,395l113,395</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

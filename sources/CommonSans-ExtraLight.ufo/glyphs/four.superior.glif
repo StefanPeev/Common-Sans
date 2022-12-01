@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.superior" format="2">
+	<advance width="355"/>
+	<outline>
+		<contour>
+			<point x="246" y="823" type="line"/>
+			<point x="240" y="823" type="line"/>
+			<point x="93" y="589" type="line"/>
+			<point x="246" y="589" type="line"/>
+		</contour>
+		<contour>
+			<point x="246" y="414" type="line"/>
+			<point x="246" y="528" type="line"/>
+			<point x="33" y="528" type="line"/>
+			<point x="33" y="581" type="line"/>
+			<point x="212" y="881" type="line"/>
+			<point x="314" y="881" type="line"/>
+			<point x="314" y="589" type="line"/>
+			<point x="354" y="589" type="line"/>
+			<point x="354" y="528" type="line"/>
+			<point x="314" y="528" type="line"/>
+			<point x="314" y="414" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 528 61</string>
+							<string>hstem 823 58</string>
+							<string>vstem 246 68</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w355m246,823l240,823l93,589l246,589m246,414l246,528l33,528l33,581l212,881l314,881l314,589l354,589l354,528l314,528l314,414</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

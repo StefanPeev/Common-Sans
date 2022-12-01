@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+	<unicode hex="0166"/>
+	<advance width="560"/>
+	<outline>
+		<contour>
+			<point x="240" y="620" type="line"/>
+			<point x="50" y="620" type="line"/>
+			<point x="50" y="700" type="line"/>
+			<point x="510" y="700" type="line"/>
+			<point x="510" y="620" type="line"/>
+			<point x="330" y="620" type="line"/>
+			<point x="330" y="430" type="line"/>
+			<point x="490" y="430" type="line"/>
+			<point x="490" y="350" type="line"/>
+			<point x="330" y="350" type="line"/>
+			<point x="330" y="0" type="line"/>
+			<point x="240" y="0" type="line"/>
+			<point x="240" y="350" type="line"/>
+			<point x="70" y="350" type="line"/>
+			<point x="70" y="430" type="line"/>
+			<point x="240" y="430" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 350 80</string>
+							<string>hstem 620 80</string>
+							<string>vstem 240 90</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w560m240,620l50,620l50,700l510,700l510,620l330,620l330,430l490,430l490,350l330,350l330,0l240,0l240,350l70,350l70,430l240,430</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

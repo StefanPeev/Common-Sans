@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0438.sc" format="2">
+	<advance width="455"/>
+	<outline>
+		<contour>
+			<point x="133" y="0" type="line"/>
+			<point x="33" y="0" type="line"/>
+			<point x="33" y="460" type="line"/>
+			<point x="113" y="460" type="line"/>
+			<point x="113" y="142" type="line" smooth="yes"/>
+			<point x="113" y="102"/>
+			<point x="110" y="88"/>
+			<point x="108" y="84" type="curve"/>
+			<point x="323" y="460" type="line"/>
+			<point x="423" y="460" type="line"/>
+			<point x="423" y="0" type="line"/>
+			<point x="343" y="0" type="line"/>
+			<point x="343" y="318" type="line"/>
+			<point x="344" y="334"/>
+			<point x="342" y="337"/>
+			<point x="347" y="376" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 84</string>
+							<string>vstem 33 80</string>
+							<string>vstem 343 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w455m133,0l33,0l33,460l113,460l113,142c113,102 110,88 108,84l323,460l423,460l423,0l343,0l343,318c344,334 342,337 347,376</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

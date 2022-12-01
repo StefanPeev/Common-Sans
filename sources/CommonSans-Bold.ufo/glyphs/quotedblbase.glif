@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+	<unicode hex="201E"/>
+	<advance width="290"/>
+	<outline>
+		<contour>
+			<point x="72" y="0" type="line"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="80" type="line"/>
+			<point x="130" y="80" type="line"/>
+			<point x="130" y="0" type="line"/>
+			<point x="84" y="-130" type="line"/>
+			<point x="50" y="-130" type="line"/>
+		</contour>
+		<contour>
+			<point x="182" y="0" type="line"/>
+			<point x="160" y="0" type="line"/>
+			<point x="160" y="80" type="line"/>
+			<point x="240" y="80" type="line"/>
+			<point x="240" y="0" type="line"/>
+			<point x="194" y="-130" type="line"/>
+			<point x="160" y="-130" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 80</string>
+							<string>vstem 50 80</string>
+							<string>vstem 160 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w290m72,0l50,0l50,80l130,80l130,0l84,-130l50,-130m182,0l160,0l160,80l240,80l240,0l194,-130l160,-130</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

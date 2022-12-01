@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0448.sc" format="2">
+	<advance width="617"/>
+	<outline>
+		<contour>
+			<point x="585" y="0" type="line"/>
+			<point x="33" y="0" type="line"/>
+			<point x="33" y="460" type="line"/>
+			<point x="113" y="460" type="line"/>
+			<point x="113" y="65" type="line"/>
+			<point x="269" y="65" type="line"/>
+			<point x="269" y="460" type="line"/>
+			<point x="349" y="460" type="line"/>
+			<point x="349" y="65" type="line"/>
+			<point x="505" y="65" type="line"/>
+			<point x="505" y="197"/>
+			<point x="505" y="328"/>
+			<point x="505" y="460" type="curve"/>
+			<point x="585" y="460" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 65</string>
+							<string>vstem 33 80</string>
+							<string>vstem 269 80</string>
+							<string>vstem 505 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w617m585,0l33,0l33,460l113,460l113,65l269,65l269,460l349,460l349,65l505,65c505,197 505,328 505,460l585,460</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

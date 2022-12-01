@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+	<unicode hex="0131"/>
+	<advance width="295"/>
+	<outline>
+		<contour>
+			<point x="207.5" y="0" type="line"/>
+			<point x="87.5" y="0" type="line"/>
+			<point x="87.5" y="460" type="line"/>
+			<point x="207.5" y="460" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="147.5" y="520"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 87.5 120</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w295m207.5,0l87.5,0l87.5,460l207.5,460</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

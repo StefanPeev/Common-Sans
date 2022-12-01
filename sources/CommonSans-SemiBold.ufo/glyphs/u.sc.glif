@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc" format="2">
+	<advance width="409"/>
+	<outline>
+		<contour>
+			<point x="33" y="161" type="curve" smooth="yes"/>
+			<point x="33" y="460" type="line"/>
+			<point x="113" y="460" type="line"/>
+			<point x="113" y="162" type="line" smooth="yes"/>
+			<point x="113" y="83"/>
+			<point x="155" y="55"/>
+			<point x="211" y="55" type="curve" smooth="yes"/>
+			<point x="269" y="55"/>
+			<point x="297" y="83"/>
+			<point x="297" y="162" type="curve" smooth="yes"/>
+			<point x="297" y="460" type="line"/>
+			<point x="324" y="460"/>
+			<point x="350" y="460"/>
+			<point x="377" y="460" type="curve"/>
+			<point x="377" y="161" type="line" smooth="yes"/>
+			<point x="377" y="72"/>
+			<point x="343" y="-10"/>
+			<point x="211" y="-10" type="curve" smooth="yes"/>
+			<point x="64" y="-10"/>
+			<point x="33" y="76"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 65</string>
+							<string>vstem 33 80</string>
+							<string>vstem 297 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>fc1305d0e0a019fe41207a29f6117e19e33270e2c5f7de4bded594bf690f47d02ac6a3e3133543d782fbbffed4544c7da2679d1661dda5baac85201ef6c2b304</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

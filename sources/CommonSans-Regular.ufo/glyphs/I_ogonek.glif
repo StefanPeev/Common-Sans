@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+	<unicode hex="012E"/>
+	<advance width="244"/>
+	<outline>
+		<contour>
+			<point x="42.75" y="-135.875" type="curve" smooth="yes"/>
+			<point x="42.75" y="-86.25"/>
+			<point x="68.5" y="-44.375"/>
+			<point x="110.625" y="0" type="curve"/>
+			<point name=".hr01" x="81.25" y="0" type="line"/>
+			<point x="81.25" y="680" type="line"/>
+			<point x="162.5" y="680" type="line"/>
+			<point x="162.5" y="0" type="line"/>
+			<point x="168.125" y="0" type="line"/>
+			<point x="122.125" y="-48.5"/>
+			<point name=".hr02" x="108.125" y="-78.75"/>
+			<point x="108.125" y="-113.375" type="curve" smooth="yes"/>
+			<point x="108.125" y="-141.625"/>
+			<point x="123" y="-156.25"/>
+			<point x="151.375" y="-156.25" type="curve" smooth="yes"/>
+			<point x="165" y="-156.25"/>
+			<point x="178.75" y="-149"/>
+			<point x="188.375" y="-140.125" type="curve"/>
+			<point x="200.625" y="-186.375" type="line"/>
+			<point x="180.625" y="-201.625"/>
+			<point x="155.125" y="-210"/>
+			<point x="124.125" y="-210" type="curve" smooth="yes"/>
+			<point x="72.375" y="-210"/>
+			<point x="42.75" y="-183.125"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 42.75 65.38</string>
+							<string>hstem -210 53.75</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 81.25 81.25</string>
+							<string>hstem -210 53.75</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr02</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 42.75 65.38</string>
+							<string>hstem -210 53.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>835c96ff524e19cebc5bfaf6f4ed71b217b68b2df10daca207dce26701ace2e697fc27211208a94c3318ff0d575bcfbcb0646856a35da9ca8f69b67ae38fc571</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

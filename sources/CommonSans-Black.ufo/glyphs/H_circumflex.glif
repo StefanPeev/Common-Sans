@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="2">
+	<unicode hex="0124"/>
+	<advance width="660"/>
+	<outline>
+		<contour>
+			<point x="610" y="680" type="line"/>
+			<point x="610" y="0" type="line"/>
+			<point x="430" y="0" type="line"/>
+			<point x="430" y="257" type="line"/>
+			<point x="230" y="257" type="line"/>
+			<point x="230" y="0" type="line"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="680" type="line"/>
+			<point x="230" y="680" type="line"/>
+			<point x="230" y="417" type="line"/>
+			<point x="430" y="417" type="line"/>
+			<point x="430" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="330" y="850" type="line"/>
+			<point x="254" y="760" type="line"/>
+			<point x="160" y="760" type="line"/>
+			<point x="260" y="940" type="line"/>
+			<point x="400" y="940" type="line"/>
+			<point x="500" y="760" type="line"/>
+			<point x="406" y="760" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 257 160</string>
+							<string>hstem 850 90</string>
+							<string>vstem 50 180</string>
+							<string>vstem 430 180</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>2aac50a3f114714b84bd53d9665b711c94032801b2634298147074b6c15e032abc2dbd7b50a43834bfc8c5d67f9e0bae42ae3703dbd148c8543c4d6360cfddfd</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

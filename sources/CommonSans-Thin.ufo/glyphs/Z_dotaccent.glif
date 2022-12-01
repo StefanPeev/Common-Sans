@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="2">
+	<unicode hex="017B"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="460" y="0" type="line"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="80" type="line"/>
+			<point x="370" y="620" type="line"/>
+			<point x="50" y="620" type="line"/>
+			<point x="50" y="700" type="line"/>
+			<point x="460" y="700" type="line"/>
+			<point x="460" y="620" type="line"/>
+			<point x="140" y="80" type="line"/>
+			<point x="460" y="80" type="line"/>
+		</contour>
+		<contour>
+			<point x="295" y="760" type="line"/>
+			<point x="215" y="760" type="line"/>
+			<point x="215" y="840" type="line"/>
+			<point x="295" y="840" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 80</string>
+							<string>hstem 620 80</string>
+							<string>hstem 760 80</string>
+							<string>vstem 50 90</string>
+							<string>vstem 215 80</string>
+							<string>vstem 370 90</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w510m460,0l50,0l50,80l370,620l50,620l50,700l460,700l460,620l140,80l460,80m295,760l215,760l215,840l295,840</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

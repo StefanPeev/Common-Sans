@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="2">
+	<unicode hex="0168"/>
+	<advance width="630"/>
+	<outline>
+		<contour>
+			<point x="50" y="265" type="curve" smooth="yes"/>
+			<point x="50" y="680" type="line"/>
+			<point x="210" y="680" type="line"/>
+			<point x="210" y="302.5" type="line" smooth="yes"/>
+			<point x="210" y="194.625"/>
+			<point x="237.5" y="141.25"/>
+			<point x="315" y="141.25" type="curve" smooth="yes"/>
+			<point x="392.5" y="141.25"/>
+			<point x="420" y="194.625"/>
+			<point x="420" y="302.5" type="curve" smooth="yes"/>
+			<point x="420" y="680" type="line"/>
+			<point x="580" y="680" type="line"/>
+			<point x="580" y="265" type="line" smooth="yes"/>
+			<point x="580" y="84"/>
+			<point x="482.5" y="-10"/>
+			<point x="315" y="-10" type="curve" smooth="yes"/>
+			<point x="147.5" y="-10"/>
+			<point x="50" y="84"/>
+		</contour>
+		<contour>
+			<point x="212" y="760" type="curve"/>
+			<point x="162" y="760" type="line"/>
+			<point x="176" y="847"/>
+			<point x="212" y="880"/>
+			<point name=".hr01" x="252" y="880" type="curve" smooth="yes"/>
+			<point x="277" y="880"/>
+			<point x="299" y="870"/>
+			<point x="321" y="859" type="curve"/>
+			<point x="337" y="850"/>
+			<point x="358" y="840"/>
+			<point name=".hr02" x="378" y="840" type="curve" smooth="yes"/>
+			<point x="398" y="840"/>
+			<point x="413" y="852"/>
+			<point x="418" y="880" type="curve"/>
+			<point name=".hr03" x="468" y="880" type="line"/>
+			<point x="454" y="793"/>
+			<point x="418" y="760"/>
+			<point name=".hr04" x="378" y="760" type="curve" smooth="yes"/>
+			<point x="353" y="760"/>
+			<point x="332" y="769"/>
+			<point x="311" y="780" type="curve" smooth="yes"/>
+			<point x="294" y="789"/>
+			<point x="272" y="800"/>
+			<point name=".hr05" x="252" y="800" type="curve" smooth="yes"/>
+			<point x="232" y="800"/>
+			<point x="217" y="788"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 50 160</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 420 160</string>
+							<string>hstem 760 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 800 80</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 50 160</string>
+							<string>vstem 420 160</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr02</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 760 80</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 50 160</string>
+							<string>vstem 420 160</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr03</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 800 80</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 50 160</string>
+							<string>vstem 420 160</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr04</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 760 80</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 50 160</string>
+							<string>vstem 420 160</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr05</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 800 80</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 50 160</string>
+							<string>vstem 420 160</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>rsb</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 760 80</string>
+							<string>hstem -10 151.25</string>
+							<string>vstem 50 160</string>
+							<string>vstem 420 160</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>b5a5fb74375ef60beeeb6e91fff16e0322ef345b93cc02ce16d4d70f74a65e57d753d58bc89b67fed0ff3cf14b7e735e4dc582180cdefd62f4a29e287169b00a</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="2">
+	<unicode hex="0062"/>
+	<advance width="569"/>
+	<outline>
+		<contour>
+			<point x="174.375" y="239.5" type="curve" smooth="yes"/>
+			<point x="174.375" y="213.5" type="line" smooth="yes"/>
+			<point x="174.375" y="112.25"/>
+			<point x="231" y="72.5"/>
+			<point x="280.625" y="72.5" type="curve" smooth="yes"/>
+			<point x="340.5" y="72.5"/>
+			<point x="389" y="122"/>
+			<point x="389" y="232.5" type="curve" smooth="yes"/>
+			<point x="389" y="344.875"/>
+			<point x="343.75" y="387.5"/>
+			<point x="277.5" y="387.5" type="curve" smooth="yes"/>
+			<point x="215.875" y="387.5"/>
+			<point x="174.375" y="327.125"/>
+		</contour>
+		<contour>
+			<point x="164.75" y="91.625" type="line"/>
+			<point x="162.875" y="359.625" type="line"/>
+			<point x="174.375" y="379.625" type="line"/>
+			<point x="205.5" y="438.375"/>
+			<point x="250.375" y="472.5"/>
+			<point x="321.875" y="472.5" type="curve" smooth="yes"/>
+			<point x="432.875" y="472.5"/>
+			<point x="515.25" y="392.625"/>
+			<point x="515.25" y="232.5" type="curve" smooth="yes"/>
+			<point x="515.25" y="83.75"/>
+			<point x="420.375" y="-12.5"/>
+			<point x="319.375" y="-12.5" type="curve" smooth="yes"/>
+			<point x="253.875" y="-12.5"/>
+			<point x="209.875" y="18.5"/>
+			<point x="174.375" y="91.625" type="curve"/>
+		</contour>
+		<contour>
+			<point x="54.375" y="0" type="line"/>
+			<point x="54.375" y="700" type="line"/>
+			<point x="174.375" y="700" type="line"/>
+			<point x="174.375" y="91.625" type="line"/>
+			<point x="172.375" y="91.625" type="line"/>
+			<point x="156.625" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -12.5 85</string>
+							<string>hstem 387.5 85</string>
+							<string>vstem 54.38 120</string>
+							<string>vstem 389 126.25</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>e22a4b0067cccbb63b5d7f295a662399fdb0535395d7225de90784ae847e202cc92270011e78ce561e5a1d90413ee06ea1bb995eb3acbf8ee7141a66a0eca21b</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

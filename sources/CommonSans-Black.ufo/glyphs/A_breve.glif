@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="2">
+	<unicode hex="0102"/>
+	<advance width="570"/>
+	<outline>
+		<contour>
+			<point x="330" y="295" type="line"/>
+			<point x="285" y="441" type="line"/>
+			<point x="240" y="295" type="line"/>
+		</contour>
+		<contour>
+			<point x="420" y="0" type="line"/>
+			<point x="385" y="115" type="line"/>
+			<point x="185" y="115" type="line"/>
+			<point x="150" y="0" type="line"/>
+			<point x="-30" y="0" type="line"/>
+			<point x="178" y="680" type="line"/>
+			<point x="390" y="680" type="line"/>
+			<point x="600" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="130" y="890" type="curve"/>
+			<point x="210" y="890" type="line"/>
+			<point x="210" y="830"/>
+			<point x="250" y="810"/>
+			<point x="285" y="810" type="curve" smooth="yes"/>
+			<point x="320" y="810"/>
+			<point x="360" y="830"/>
+			<point x="360" y="890" type="curve"/>
+			<point x="440" y="890" type="line"/>
+			<point x="440" y="790"/>
+			<point x="365" y="750"/>
+			<point x="285" y="750" type="curve" smooth="yes"/>
+			<point x="205" y="750"/>
+			<point x="130" y="790"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 115 180</string>
+							<string>hstem 441 239</string>
+							<string>hstem 750 60</string>
+							<string>vstem 130 80</string>
+							<string>vstem 360 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>3cb744fbf6eb05b56ac64ec05d18c3ef357e053bfc2bf3d5f93e7d26ad7d8b57359cb3316c18947ef6f7e950e30628a5e4a20327072de0a23d4e78d5761c8759</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

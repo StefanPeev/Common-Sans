@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="2">
+	<unicode hex="0173"/>
+	<advance width="478"/>
+	<outline>
+		<contour>
+			<point x="265" y="-124" type="curve" smooth="yes"/>
+			<point x="265" y="-70"/>
+			<point x="302" y="-25"/>
+			<point x="336" y="0" type="curve"/>
+			<point x="374" y="0" type="line"/>
+			<point x="354" y="90" type="line"/>
+			<point x="315" y="43"/>
+			<point x="233" y="-10"/>
+			<point x="167" y="-10" type="curve" smooth="yes"/>
+			<point x="50" y="-10"/>
+			<point x="45" y="78"/>
+			<point x="45" y="160" type="curve" smooth="yes"/>
+			<point x="45" y="460" type="line"/>
+			<point x="125" y="460" type="line"/>
+			<point x="125" y="190" type="line" smooth="yes"/>
+			<point x="125" y="140"/>
+			<point x="119" y="55"/>
+			<point x="193" y="55" type="curve" smooth="yes"/>
+			<point x="257" y="55"/>
+			<point x="353" y="116"/>
+			<point x="353" y="230" type="curve" smooth="yes"/>
+			<point x="353" y="460" type="line"/>
+			<point x="434" y="460" type="line"/>
+			<point x="434" y="0" type="line"/>
+			<point x="394" y="0" type="line"/>
+			<point x="353" y="-31"/>
+			<point x="326" y="-69"/>
+			<point x="326" y="-108" type="curve" smooth="yes"/>
+			<point x="326" y="-135"/>
+			<point x="346" y="-154"/>
+			<point x="372" y="-154" type="curve" smooth="yes"/>
+			<point x="386" y="-154"/>
+			<point x="401" y="-149"/>
+			<point x="412" y="-141" type="curve"/>
+			<point x="434" y="-182" type="line"/>
+			<point x="421" y="-191" type="line"/>
+			<point x="402" y="-202"/>
+			<point x="375" y="-209"/>
+			<point x="355" y="-209" type="curve" smooth="yes"/>
+			<point x="305" y="-209"/>
+			<point x="265" y="-180"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -209 55</string>
+							<string>hstem -10 65</string>
+							<string>vstem 45 80</string>
+							<string>vstem 265 61</string>
+							<string>vstem 353 81</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>1381b5597c406aacee8984aeac641a37315e3c26b337f786697c8bd58046540a138bb9aee44b0e4a1de7e662065c8aa0cb93d5662137fc2b40fa040c7b7e3ccf</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

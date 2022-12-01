@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+	<unicode hex="02C6"/>
+	<advance width="340"/>
+	<outline>
+		<contour>
+			<point x="170" y="667.75" type="line"/>
+			<point x="55.5" y="520" type="line"/>
+			<point x="26.25" y="520" type="line"/>
+			<point x="143.75" y="700" type="line"/>
+			<point x="196.25" y="700" type="line"/>
+			<point x="313.75" y="520" type="line"/>
+			<point x="284.5" y="520" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 26.25 287.5</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w340m170,667.75l55.5,520l26.25,520l143.75,700l196.25,700l313.75,520l284.5,520</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

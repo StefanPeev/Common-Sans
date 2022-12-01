@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043B.sc" format="2">
+	<advance width="441"/>
+	<outline>
+		<contour>
+			<point x="33" y="-7" type="curve"/>
+			<point x="33" y="73" type="line"/>
+			<point x="111" y="73"/>
+			<point x="111" y="202"/>
+			<point x="111" y="255" type="curve" smooth="yes"/>
+			<point x="111" y="460" type="line"/>
+			<point x="409" y="460" type="line"/>
+			<point x="409" y="0" type="line"/>
+			<point x="329" y="0" type="line"/>
+			<point x="329" y="395" type="line"/>
+			<point x="191" y="395" type="line"/>
+			<point x="191" y="233" type="line" smooth="yes"/>
+			<point x="191" y="43"/>
+			<point x="111" y="-7"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -7 80</string>
+							<string>hstem 395 65</string>
+							<string>vstem 111 80</string>
+							<string>vstem 329 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w441m33,-7l33,73c111,73 111,202 111,255l111,460l409,460l409,0l329,0l329,395l191,395l191,233c191,43 111,-7 33,-7</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

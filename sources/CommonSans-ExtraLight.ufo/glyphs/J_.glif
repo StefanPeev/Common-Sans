@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="2">
+	<unicode hex="004A"/>
+	<advance width="284"/>
+	<outline>
+		<contour>
+			<point x="80.25" y="0" type="curve" smooth="yes"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="37.5" type="line"/>
+			<point x="76" y="37.5" type="line" smooth="yes"/>
+			<point x="116" y="37.5"/>
+			<point x="148" y="97.25"/>
+			<point x="148" y="161.25" type="curve" smooth="yes"/>
+			<point x="148" y="680" type="line"/>
+			<point x="189.75" y="680" type="line"/>
+			<point x="189.75" y="174" type="line" smooth="yes"/>
+			<point x="189.75" y="66.25"/>
+			<point x="149" y="0"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="167.125" y="740"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 37.5</string>
+							<string>vstem 148 41.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w284m80.25,0l50,0l50,37.5l76,37.5c116,37.5 148,97.25 148,161.25l148,680l189.75,680l189.75,174c189.75,66.25 149,0 80.25,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

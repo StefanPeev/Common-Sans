@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0440" format="2">
+	<unicode hex="0440"/>
+	<advance width="506"/>
+	<outline>
+		<contour>
+			<point x="140" y="230" type="curve" smooth="yes"/>
+			<point x="140" y="226" type="line" smooth="yes"/>
+			<point x="140" y="123"/>
+			<point x="191" y="55"/>
+			<point x="260" y="55" type="curve" smooth="yes"/>
+			<point x="353" y="55"/>
+			<point x="391" y="123"/>
+			<point x="391" y="231" type="curve" smooth="yes"/>
+			<point x="391" y="306"/>
+			<point x="372" y="405"/>
+			<point x="260" y="405" type="curve" smooth="yes"/>
+			<point x="177" y="405"/>
+			<point x="140" y="314"/>
+		</contour>
+		<contour>
+			<point x="120" y="459" type="line"/>
+			<point x="137" y="375" type="line"/>
+			<point x="163" y="436"/>
+			<point x="217" y="470"/>
+			<point x="285" y="470" type="curve" smooth="yes"/>
+			<point x="410" y="470"/>
+			<point x="471" y="350"/>
+			<point x="471" y="231" type="curve" smooth="yes"/>
+			<point x="471" y="111"/>
+			<point x="407" y="-10"/>
+			<point x="281" y="-10" type="curve" smooth="yes"/>
+			<point x="218" y="-10"/>
+			<point x="163" y="18"/>
+			<point x="140" y="65" type="curve"/>
+			<point x="140" y="18.8978"/>
+			<point x="140" y="-151.593"/>
+			<point x="140" y="-200" type="curve"/>
+			<point x="123.16" y="-200"/>
+			<point x="74.164" y="-200"/>
+			<point x="60" y="-200" type="curve"/>
+			<point x="60" y="459" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 65</string>
+							<string>hstem 405 65</string>
+							<string>vstem 60 80</string>
+							<string>vstem 391 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>cef4ed99a2932d7586fa25957ef2d74a6797385e713e1b583d25864226599b9fd13f89ea40e099ac4b7fcc4cb77e66679d831ecbaf04ce0adc82686ee5c5d67a</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EE" format="2">
+	<unicode hex="04EE"/>
+	<advance width="658"/>
+	<outline>
+		<contour>
+			<point x="444" y="770" type="line"/>
+			<point x="174" y="770" type="line"/>
+			<point x="174" y="850" type="line"/>
+			<point x="444" y="850" type="line"/>
+		</contour>
+		<contour>
+			<point x="245" y="200" type="line"/>
+			<point name=".hr01" x="30" y="700" type="line"/>
+			<point x="137" y="700" type="line"/>
+			<point x="300" y="278" type="line"/>
+			<point x="521" y="700" type="line"/>
+			<point x="628" y="700" type="line"/>
+			<point x="251" y="0" type="line"/>
+			<point x="140" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 770 80</string>
+							<string>vstem 174 270</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 30 598</string>
+							<string>hstem 770 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w658m444,770l174,770l174,850l444,850m245,200l30,700l137,700l300,278l521,700l628,700l251,0l140,0</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

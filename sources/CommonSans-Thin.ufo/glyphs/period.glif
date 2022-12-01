@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+	<unicode hex="002E"/>
+	<advance width="140"/>
+	<outline>
+		<contour>
+			<point x="80" y="0" type="line"/>
+			<point x="60" y="0" type="line"/>
+			<point x="60" y="80" type="line"/>
+			<point x="80" y="80" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w140m80,0l60,0l60,80l80,80</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

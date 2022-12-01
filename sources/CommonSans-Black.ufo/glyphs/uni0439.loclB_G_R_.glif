@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0439.loclBGR" format="2">
+	<advance width="478"/>
+	<outline>
+		<contour>
+			<point x="354" y="154" type="curve"/>
+			<point x="354" y="460" type="line"/>
+			<point x="433" y="460" type="line"/>
+			<point x="433" y="0" type="line"/>
+			<point x="374" y="0" type="line"/>
+			<point x="357" y="83" type="line"/>
+			<point x="323" y="36"/>
+			<point x="275" y="-10"/>
+			<point x="200" y="-10" type="curve" smooth="yes"/>
+			<point x="51" y="-10"/>
+			<point x="45" y="98"/>
+			<point x="45" y="165" type="curve" smooth="yes"/>
+			<point x="45" y="460" type="line"/>
+			<point x="125" y="460" type="line"/>
+			<point x="125" y="165" type="line" smooth="yes"/>
+			<point x="125" y="121"/>
+			<point x="134" y="55"/>
+			<point x="222" y="55" type="curve" smooth="yes"/>
+			<point x="266" y="55"/>
+			<point x="330" y="90"/>
+		</contour>
+		<contour>
+			<point x="90" y="640" type="curve"/>
+			<point x="165" y="640" type="line"/>
+			<point x="164" y="584"/>
+			<point x="211" y="564"/>
+			<point x="245" y="564" type="curve" smooth="yes"/>
+			<point x="287" y="564"/>
+			<point x="325" y="582"/>
+			<point name=".hr01" x="325" y="640" type="curve"/>
+			<point x="400" y="640" type="line"/>
+			<point x="400" y="549"/>
+			<point x="333" y="500"/>
+			<point x="245" y="500" type="curve" smooth="yes"/>
+			<point x="159" y="500"/>
+			<point x="90" y="551"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 354 79</string>
+							<string>hstem -10 65</string>
+							<string>vstem 45 80</string>
+							<string>hstem 500 64</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 325 75</string>
+							<string>hstem 500 64</string>
+							<string>hstem -10 65</string>
+							<string>vstem 45 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>8bf24a0c1d90ced015afc9a878ae94151b516b78167dc4bef116a543b352f2caa93bf778c69f3eb6d0803aeb7700e34bba4955d7891f200d7b4a91cd8f0a3fea</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+	<unicode hex="00F7"/>
+	<advance width="520"/>
+	<outline>
+		<contour>
+			<point x="471" y="282" type="line"/>
+			<point x="49" y="282" type="line"/>
+			<point x="49" y="347" type="line"/>
+			<point x="471" y="347" type="line"/>
+		</contour>
+		<contour>
+			<point x="300" y="139" type="line"/>
+			<point x="220" y="139" type="line"/>
+			<point x="220" y="219" type="line"/>
+			<point x="300" y="219" type="line"/>
+		</contour>
+		<contour>
+			<point x="300" y="409" type="line"/>
+			<point x="220" y="409" type="line"/>
+			<point x="220" y="489" type="line"/>
+			<point x="300" y="489" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 139 80</string>
+							<string>hstem 282 65</string>
+							<string>hstem 409 80</string>
+							<string>vstem 220 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w520m471,282l49,282l49,347l471,347m300,139l220,139l220,219l300,219m300,409l220,409l220,489l300,489</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

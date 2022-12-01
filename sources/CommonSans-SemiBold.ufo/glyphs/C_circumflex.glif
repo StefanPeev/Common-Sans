@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccircumflex" format="2">
+	<unicode hex="0108"/>
+	<advance width="668"/>
+	<outline>
+		<contour>
+			<point x="351.75" y="582.5" type="curve" smooth="yes"/>
+			<point x="239.625" y="582.5"/>
+			<point x="169.5" y="488.375"/>
+			<point x="169.5" y="340" type="curve" smooth="yes"/>
+			<point x="169.5" y="191.625"/>
+			<point x="239.625" y="97.5"/>
+			<point x="351.75" y="97.5" type="curve" smooth="yes"/>
+			<point x="427.5" y="97.5"/>
+			<point x="490" y="141.25"/>
+			<point x="505.625" y="209" type="curve"/>
+			<point x="613.125" y="209" type="line"/>
+			<point x="590.25" y="76.875"/>
+			<point x="489.125" y="-10"/>
+			<point x="351.75" y="-10" type="curve" smooth="yes"/>
+			<point x="160.25" y="-10"/>
+			<point x="48.75" y="118.875"/>
+			<point x="48.75" y="340" type="curve" smooth="yes"/>
+			<point x="48.75" y="561.125"/>
+			<point x="160.25" y="690"/>
+			<point x="351.75" y="690" type="curve" smooth="yes"/>
+			<point x="494.75" y="690"/>
+			<point x="593.625" y="598.5"/>
+			<point x="618.75" y="447.75" type="curve"/>
+			<point x="511.25" y="447.75" type="line"/>
+			<point x="492.75" y="534.625"/>
+			<point x="433.375" y="582.5"/>
+		</contour>
+		<contour>
+			<point x="343.75" y="847.25" type="line"/>
+			<point x="251.25" y="740" type="line"/>
+			<point x="185" y="740" type="line"/>
+			<point x="292.5" y="912.5" type="line"/>
+			<point x="395" y="912.5" type="line"/>
+			<point x="502.5" y="740" type="line"/>
+			<point x="436.25" y="740" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 107.5</string>
+							<string>hstem 582.5 107.5</string>
+							<string>hstem 847.25 65.25</string>
+							<string>vstem 48.75 120.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>35ca498ff0092bc0b6a065453f431472fd6c6ccd74abf4b1af37e05b5b5fb02480a56de40b59b9de7a0084cc7882d4a99ae454de3dd08e1dee68bb1f67de08b1</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

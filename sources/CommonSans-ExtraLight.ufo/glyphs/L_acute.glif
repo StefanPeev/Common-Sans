@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+	<unicode hex="0139"/>
+	<advance width="554"/>
+	<outline>
+		<contour>
+			<point x="135.5" y="680" type="line"/>
+			<point x="135.5" y="37.5" type="line"/>
+			<point x="457.125" y="37.5" type="line"/>
+			<point x="457.125" y="0" type="line"/>
+			<point x="93.75" y="0" type="line"/>
+			<point x="93.75" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="215.125" y="893.75" type="line"/>
+			<point x="153.625" y="710" type="line"/>
+			<point x="118.875" y="710" type="line"/>
+			<point x="171.375" y="893.75" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 37.5</string>
+							<string>vstem 93.75 41.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w554m135.5,680l135.5,37.5l457.12,37.5l457.12,0l93.75,0l93.75,680m215.12,893.75l153.62,710l118.88,710l171.38,893.75</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

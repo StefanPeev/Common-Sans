@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+	<unicode hex="00C5"/>
+	<advance width="650"/>
+	<outline>
+		<contour>
+			<point x="370" y="295" type="line"/>
+			<point x="325" y="441" type="line"/>
+			<point x="280" y="295" type="line"/>
+		</contour>
+		<contour>
+			<point x="294" y="859" type="curve" smooth="yes"/>
+			<point x="294" y="842"/>
+			<point x="308" y="828"/>
+			<point x="325" y="828" type="curve" smooth="yes"/>
+			<point x="342" y="828"/>
+			<point x="356" y="842"/>
+			<point x="356" y="859" type="curve" smooth="yes"/>
+			<point x="356" y="876"/>
+			<point x="342" y="890"/>
+			<point x="325" y="890" type="curve" smooth="yes"/>
+			<point x="308" y="890"/>
+			<point x="294" y="876"/>
+		</contour>
+		<contour>
+			<point x="460" y="0" type="line"/>
+			<point x="425" y="115" type="line"/>
+			<point x="225" y="115" type="line"/>
+			<point x="190" y="0" type="line"/>
+			<point x="10" y="0" type="line"/>
+			<point x="218" y="680" type="line"/>
+			<point x="430" y="680" type="line"/>
+			<point x="640" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="247" y="859" type="curve" smooth="yes"/>
+			<point x="247" y="902"/>
+			<point x="282" y="937"/>
+			<point x="325" y="937" type="curve" smooth="yes"/>
+			<point x="368" y="937"/>
+			<point x="403" y="902"/>
+			<point x="403" y="859" type="curve" smooth="yes"/>
+			<point x="403" y="816"/>
+			<point x="368" y="781"/>
+			<point x="325" y="781" type="curve" smooth="yes"/>
+			<point x="282" y="781"/>
+			<point x="247" y="816"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 115 180</string>
+							<string>hstem 441 239</string>
+							<string>hstem 781 47</string>
+							<string>hstem 890 47</string>
+							<string>vstem 247 47</string>
+							<string>vstem 356 47</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>3cd836eb66b7ca7dc1acdceaeb60adbda545fb536fe7cb0f9f150e13c5486101fd20d0ebe48dd6f78afb9a7fa26a65e7e78e079d2c21bf2a0fb16e23175722d2</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

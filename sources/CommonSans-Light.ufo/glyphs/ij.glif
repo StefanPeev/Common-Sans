@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij" format="2">
+	<unicode hex="0133"/>
+	<advance width="330"/>
+	<outline>
+		<contour>
+			<point x="260" y="530" type="line"/>
+			<point x="180" y="530" type="line"/>
+			<point x="180" y="610" type="line"/>
+			<point x="260" y="610" type="line"/>
+		</contour>
+		<contour>
+			<point x="32" y="-100" type="curve"/>
+			<point x="97" y="-100" type="line"/>
+			<point x="97" y="-132"/>
+			<point x="124" y="-135"/>
+			<point x="140" y="-135" type="curve" smooth="yes"/>
+			<point x="167" y="-135"/>
+			<point x="180" y="-109"/>
+			<point x="180" y="-15" type="curve" smooth="yes"/>
+			<point x="180" y="143"/>
+			<point x="180" y="302"/>
+			<point x="180" y="460" type="curve"/>
+			<point x="260" y="460" type="line"/>
+			<point x="260" y="9" type="line" smooth="yes"/>
+			<point x="260" y="-171"/>
+			<point x="203" y="-200"/>
+			<point x="138" y="-200" type="curve" smooth="yes"/>
+			<point x="81" y="-200"/>
+			<point x="32" y="-158"/>
+		</contour>
+		<contour>
+			<point x="100" y="530" type="line"/>
+			<point name=".hr01" x="20" y="530" type="line"/>
+			<point x="20" y="610" type="line"/>
+			<point x="100" y="610" type="line"/>
+		</contour>
+		<contour>
+			<point x="100" y="0" type="line"/>
+			<point x="20" y="0" type="line"/>
+			<point x="20" y="460" type="line"/>
+			<point x="100" y="460" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 530 80</string>
+							<string>vstem 180 80</string>
+							<string>vstem 32 65</string>
+							<string>hstem -200 65</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 530 80</string>
+							<string>vstem 20 80</string>
+							<string>hstem -200 65</string>
+							<string>vstem 180 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>177167f01e782937f3cb476cc3df873165fcbb28be7f2ad75054fc584c6cee6eead1761b9ceb12e315f29ee1bb2fc5f2b9117ab18632695635dbb05f5ac8a8cc</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

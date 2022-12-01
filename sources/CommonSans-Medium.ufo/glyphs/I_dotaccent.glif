@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+	<unicode hex="0130"/>
+	<advance width="251"/>
+	<outline>
+		<contour>
+			<point x="176" y="0" type="line"/>
+			<point x="75" y="0" type="line"/>
+			<point x="75" y="680" type="line"/>
+			<point x="176" y="680" type="line"/>
+		</contour>
+		<contour>
+			<point x="175.5" y="740" type="line"/>
+			<point x="75.5" y="740" type="line"/>
+			<point x="75.5" y="850" type="line"/>
+			<point x="175.5" y="850" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 740 110</string>
+							<string>vstem 75 101</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w251m176,0l75,0l75,680l176,680m175.5,740l75.5,740l75.5,850l175.5,850</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

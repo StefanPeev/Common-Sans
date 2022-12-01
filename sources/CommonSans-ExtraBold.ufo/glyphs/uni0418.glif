@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0418" format="2">
+	<unicode hex="0418"/>
+	<advance width="630"/>
+	<outline>
+		<contour>
+			<point x="170" y="0" type="line"/>
+			<point x="50" y="0" type="line"/>
+			<point x="50" y="700" type="line"/>
+			<point x="140" y="700" type="line"/>
+			<point x="140" y="210" type="line" smooth="yes"/>
+			<point x="140" y="148"/>
+			<point x="138" y="127"/>
+			<point x="135" y="120" type="curve"/>
+			<point x="460" y="700" type="line"/>
+			<point x="580" y="700" type="line"/>
+			<point x="580" y="0" type="line"/>
+			<point x="490" y="0" type="line"/>
+			<point x="490" y="490" type="line"/>
+			<point x="491" y="514"/>
+			<point x="490" y="520"/>
+			<point x="495" y="580" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 580 120</string>
+							<string>vstem 50 90</string>
+							<string>vstem 490 90</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w630m170,0l50,0l50,700l140,700l140,210c140,148 138,127 135,120l460,700l580,700l580,0l490,0l490,490c491,514 490,520 495,580</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

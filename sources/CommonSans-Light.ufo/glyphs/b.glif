@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="2">
+	<unicode hex="0062"/>
+	<advance width="522"/>
+	<outline>
+		<contour>
+			<point x="123.75" y="247" type="curve" smooth="yes"/>
+			<point x="123.75" y="221" type="line" smooth="yes"/>
+			<point x="123.75" y="90.5"/>
+			<point x="210" y="35"/>
+			<point x="271.25" y="35" type="curve" smooth="yes"/>
+			<point x="345" y="35"/>
+			<point x="422" y="101"/>
+			<point x="422" y="234" type="curve" smooth="yes"/>
+			<point x="422" y="361.75"/>
+			<point x="356.5" y="425"/>
+			<point x="270" y="425" type="curve" smooth="yes"/>
+			<point x="193.75" y="425"/>
+			<point x="123.75" y="346.25"/>
+		</contour>
+		<contour>
+			<point x="114.5" y="109.25" type="line"/>
+			<point x="113.75" y="326.25" type="line"/>
+			<point x="123.75" y="349.25" type="line" smooth="yes"/>
+			<point x="156" y="426.75"/>
+			<point x="211.75" y="471"/>
+			<point x="287.75" y="471" type="curve" smooth="yes"/>
+			<point x="398.75" y="471"/>
+			<point x="484.5" y="383.25"/>
+			<point x="484.5" y="234" type="curve" smooth="yes"/>
+			<point x="484.5" y="78.5"/>
+			<point x="378.75" y="-11"/>
+			<point x="286.75" y="-11" type="curve" smooth="yes"/>
+			<point x="219.75" y="-11"/>
+			<point x="157.75" y="26"/>
+			<point x="123.75" y="109.25" type="curve"/>
+		</contour>
+		<contour>
+			<point x="63.75" y="0" type="line"/>
+			<point x="63.75" y="700" type="line"/>
+			<point x="123.75" y="700" type="line"/>
+			<point x="123.75" y="109.25" type="line"/>
+			<point x="121.75" y="109.25" type="line"/>
+			<point x="108.25" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -11 46</string>
+							<string>hstem 425 46</string>
+							<string>vstem 63.75 60</string>
+							<string>vstem 422 62.5</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>7be145946aa28d2994bc5ff554c33cee8704d528110c3ae7b0082131c236c865faf6c051968050f2c4382618f7b283a9f5d7fd7b9efe162cf0977fff4ddac4d8</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

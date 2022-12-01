@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohungarumlaut" format="2">
+	<unicode hex="0150"/>
+	<advance width="704"/>
+	<outline>
+		<contour>
+			<point x="351.75" y="582.5" type="curve" smooth="yes"/>
+			<point x="239.625" y="582.5"/>
+			<point x="169.5" y="488.375"/>
+			<point x="169.5" y="340" type="curve" smooth="yes"/>
+			<point x="169.5" y="191.625"/>
+			<point x="239.625" y="97.5"/>
+			<point x="351.75" y="97.5" type="curve" smooth="yes"/>
+			<point x="463.875" y="97.5"/>
+			<point x="534" y="191.625"/>
+			<point x="534" y="340" type="curve" smooth="yes"/>
+			<point x="534" y="488.375"/>
+			<point x="463.875" y="582.5"/>
+		</contour>
+		<contour>
+			<point x="351.75" y="-10" type="curve" smooth="yes"/>
+			<point x="160.25" y="-10"/>
+			<point x="48.75" y="118.875"/>
+			<point x="48.75" y="340" type="curve" smooth="yes"/>
+			<point x="48.75" y="561.125"/>
+			<point x="160.25" y="690"/>
+			<point x="351.75" y="690" type="curve" smooth="yes"/>
+			<point x="543.25" y="690"/>
+			<point x="654.75" y="561.125"/>
+			<point x="654.75" y="340" type="curve" smooth="yes"/>
+			<point x="654.75" y="118.875"/>
+			<point x="543.25" y="-10"/>
+		</contour>
+		<contour>
+			<point x="359.75" y="910" type="line"/>
+			<point x="298.75" y="730" type="line"/>
+			<point x="234.75" y="730" type="line"/>
+			<point x="279.75" y="910" type="line"/>
+		</contour>
+		<contour>
+			<point x="469.75" y="910" type="line"/>
+			<point x="393.75" y="730" type="line"/>
+			<point x="329.75" y="730" type="line"/>
+			<point x="389.75" y="910" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 107.5</string>
+							<string>hstem 582.5 107.5</string>
+							<string>hstem 730 180</string>
+							<string>vstem 48.75 120.75</string>
+							<string>vstem 534 120.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>4beb1d1ece140a7d3a3c9bfcac85e7572f324dd1e8ebe6c77ba2802daf4fe2ee8c62f2e877a90ebf6f4d92a3dee0ce70c2cd9c7d4380ca65c782b5d7b4af32f1</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

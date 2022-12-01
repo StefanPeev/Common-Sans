@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+	<unicode hex="006C"/>
+	<advance width="240"/>
+	<outline>
+		<contour>
+			<point x="170" y="0" type="line"/>
+			<point x="70" y="0" type="line"/>
+			<point x="70" y="700" type="line"/>
+			<point x="170" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 70 100</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w240m170,0l70,0l70,700l170,700</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

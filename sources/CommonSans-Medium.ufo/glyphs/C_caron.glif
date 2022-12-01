@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccaron" format="2">
+	<unicode hex="010C"/>
+	<advance width="675"/>
+	<outline>
+		<contour>
+			<point x="353" y="600" type="curve" smooth="yes"/>
+			<point x="231.5" y="600"/>
+			<point x="156" y="499.5"/>
+			<point x="156" y="340" type="curve" smooth="yes"/>
+			<point x="156" y="180.5"/>
+			<point x="231.5" y="80"/>
+			<point x="353" y="80" type="curve" smooth="yes"/>
+			<point x="437" y="80"/>
+			<point x="505" y="128"/>
+			<point x="522.5" y="204" type="curve"/>
+			<point x="612.5" y="204" type="line"/>
+			<point x="589" y="75.5"/>
+			<point x="489.5" y="-10"/>
+			<point x="353" y="-10" type="curve" smooth="yes"/>
+			<point x="166" y="-10"/>
+			<point x="55" y="120.5"/>
+			<point x="55" y="340" type="curve" smooth="yes"/>
+			<point x="55" y="559.5"/>
+			<point x="166" y="690"/>
+			<point x="353" y="690" type="curve" smooth="yes"/>
+			<point x="495" y="690"/>
+			<point x="593.5" y="600"/>
+			<point x="620" y="449" type="curve"/>
+			<point x="530" y="449" type="line"/>
+			<point x="509" y="545.5"/>
+			<point x="443.5" y="600"/>
+		</contour>
+		<contour>
+			<point x="385" y="740" type="line"/>
+			<point x="305" y="740" type="line"/>
+			<point x="205" y="900" type="line"/>
+			<point x="269" y="900" type="line"/>
+			<point x="345" y="815" type="line"/>
+			<point x="421" y="900" type="line"/>
+			<point x="485" y="900" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 90</string>
+							<string>hstem 600 90</string>
+							<string>hstem 740 160</string>
+							<string>vstem 55 101</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>c63425ab410d054c3a877b28a8232f740791d0ae35698806b7a2e3f7c72ba3959c4a7c32bad682b373904dc07d7a348733be21f6a402d81762c58c49e40b1e8c</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

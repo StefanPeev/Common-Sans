@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+	<unicode hex="0045"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="420" y="287.5" type="line"/>
+			<point x="203" y="287.5" type="line"/>
+			<point x="203" y="117.5" type="line"/>
+			<point x="460" y="117.5" type="line"/>
+			<point x="460" y="0" type="line"/>
+			<point x="62.5" y="0" type="line"/>
+			<point x="62.5" y="680" type="line"/>
+			<point x="460" y="680" type="line"/>
+			<point x="460" y="562.5" type="line"/>
+			<point x="203" y="562.5" type="line"/>
+			<point x="203" y="405" type="line"/>
+			<point x="420" y="405" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="264" y="740"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 117.5</string>
+							<string>hstem 287.5 117.5</string>
+							<string>hstem 562.5 117.5</string>
+							<string>vstem 62.5 140.5</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w510m420,287.5l203,287.5l203,117.5l460,117.5l460,0l62.5,0l62.5,680l460,680l460,562.5l203,562.5l203,405l420,405</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

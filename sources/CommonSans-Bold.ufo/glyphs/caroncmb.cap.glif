@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncmb.cap" format="2">
+	<outline>
+		<contour>
+			<point x="-180" y="700" type="line"/>
+			<point x="-260" y="700" type="line"/>
+			<point x="-360" y="860" type="line"/>
+			<point x="-296" y="860" type="line"/>
+			<point x="-220" y="775" type="line"/>
+			<point x="-144" y="860" type="line"/>
+			<point x="-80" y="860" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 700 160</string>
+							<string>vstem -360 280</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0m-180,700l-260,700l-360,860l-296,860l-220,775l-144,860l-80,860</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

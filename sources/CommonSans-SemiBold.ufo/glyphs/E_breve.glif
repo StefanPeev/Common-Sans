@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="2">
+	<unicode hex="0114"/>
+	<advance width="510"/>
+	<outline>
+		<contour>
+			<point x="420" y="296.25" type="line"/>
+			<point x="189.5" y="296.25" type="line"/>
+			<point x="189.5" y="101.25" type="line"/>
+			<point x="460" y="101.25" type="line"/>
+			<point x="460" y="0" type="line"/>
+			<point x="68.75" y="0" type="line"/>
+			<point x="68.75" y="680" type="line"/>
+			<point x="460" y="680" type="line"/>
+			<point x="460" y="578.75" type="line"/>
+			<point x="189.5" y="578.75" type="line"/>
+			<point x="189.5" y="397.5" type="line"/>
+			<point x="420" y="397.5" type="line"/>
+		</contour>
+		<contour>
+			<point name=".hr01" x="100" y="880" type="curve"/>
+			<point x="180" y="880" type="line"/>
+			<point x="180" y="820"/>
+			<point x="220" y="800"/>
+			<point x="255" y="800" type="curve" smooth="yes"/>
+			<point x="290" y="800"/>
+			<point x="330" y="820"/>
+			<point x="330" y="880" type="curve"/>
+			<point x="410" y="880" type="line"/>
+			<point x="410" y="780"/>
+			<point x="335" y="740"/>
+			<point x="255" y="740" type="curve" smooth="yes"/>
+			<point x="175" y="740"/>
+			<point x="100" y="780"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 296.25 101.25</string>
+							<string>vstem 68.75 120.75</string>
+							<string>hstem 0 101.25</string>
+							<string>hstem 578.75 101.25</string>
+							<string>hstem 740 60</string>
+							<string>vstem 330 80</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>vstem 100 80</string>
+							<string>hstem 740 60</string>
+							<string>vstem 330 80</string>
+							<string>hstem 0 101.25</string>
+							<string>hstem 296.25 101.25</string>
+							<string>hstem 578.75 101.25</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>cfa36abcdb8a772def1e04e8cfb231bcca7586f92d4f28291c2f1a4ba9f71ab82a54861cd6458c6a569093748cc6c1a053f46d1df67cccfb1012dd7924d608b2</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

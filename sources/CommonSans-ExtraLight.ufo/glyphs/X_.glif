@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<unicode hex="0058"/>
+	<advance width="659"/>
+	<outline>
+		<contour>
+			<point x="533.5" y="680" type="line"/>
+			<point x="346.25" y="360" type="line"/>
+			<point x="557" y="0" type="line"/>
+			<point x="506.25" y="0" type="line"/>
+			<point x="320.5" y="316.875" type="line"/>
+			<point x="134.625" y="0" type="line"/>
+			<point x="84.25" y="0" type="line"/>
+			<point x="295.75" y="359.875" type="line"/>
+			<point x="107.5" y="680" type="line"/>
+			<point x="158" y="680" type="line"/>
+			<point x="320.625" y="402.875" type="line"/>
+			<point x="483.375" y="680" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="321.875" y="740"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 84.25 472.75</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w659m533.5,680l346.25,360l557,0l506.25,0l320.5,316.88l134.62,0l84.25,0l295.75,359.88l107.5,680l158,680l320.62,402.88l483.38,680</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

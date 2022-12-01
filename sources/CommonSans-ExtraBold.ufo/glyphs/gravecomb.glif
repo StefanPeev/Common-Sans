@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+	<unicode hex="0300"/>
+	<outline>
+		<contour>
+			<point x="-322.75" y="520" type="line"/>
+			<point x="-418.5" y="715" type="line"/>
+			<point x="-227.5" y="715" type="line"/>
+			<point x="-177.5" y="520" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="-248.5" y="520"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 520 195</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0m-322.75,520l-418.5,715l-227.5,715l-177.5,520</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcircumflex" format="2">
+	<unicode hex="0175"/>
+	<advance width="724"/>
+	<outline>
+		<contour>
+			<point x="156" y="0" type="line"/>
+			<point x="35" y="460" type="line"/>
+			<point x="115" y="460" type="line"/>
+			<point x="215" y="65" type="line"/>
+			<point x="322" y="460" type="line"/>
+			<point x="402" y="460" type="line"/>
+			<point x="502" y="65" type="line"/>
+			<point x="609" y="460" type="line"/>
+			<point x="689" y="460" type="line"/>
+			<point x="553" y="0" type="line"/>
+			<point x="443" y="0" type="line"/>
+			<point x="360" y="317" type="line"/>
+			<point x="266" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point name=".hr02" x="266" y="520" type="line"/>
+			<point x="202" y="520" type="line"/>
+			<point x="322" y="700" type="line"/>
+			<point x="402" y="700" type="line"/>
+			<point x="522" y="520" type="line"/>
+			<point x="458" y="520" type="line"/>
+			<point name=".hr01" x="362" y="647" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 65</string>
+							<string>vstem 35 654</string>
+							<string>hstem 520 180</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr01</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 647 53</string>
+							<string>hstem 0 65</string>
+							<string>vstem 35 654</string>
+						</array>
+					</dict>
+					<dict>
+						<key>pointTag</key>
+						<string>.hr02</string>
+						<key>stems</key>
+						<array>
+							<string>hstem 520 180</string>
+							<string>hstem 0 65</string>
+							<string>vstem 35 654</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>29204906f22ee7de0983812e6875e46b9bd971a15543fdad70edd87dbd06c481f1d2a91972622026534c72518f62b1de2016e323dcc5e8efbef8c092131b631d</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

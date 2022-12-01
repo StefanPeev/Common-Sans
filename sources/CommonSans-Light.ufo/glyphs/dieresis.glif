@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+	<unicode hex="00A8"/>
+	<advance width="310"/>
+	<outline>
+		<contour>
+			<point x="92.5" y="520" type="line"/>
+			<point x="57.5" y="520" type="line"/>
+			<point x="57.5" y="600" type="line"/>
+			<point x="92.5" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="252" y="520" type="line"/>
+			<point x="217" y="520" type="line"/>
+			<point x="217" y="600" type="line"/>
+			<point x="252" y="600" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 520 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w310m92.5,520l57.5,520l57.5,600l92.5,600m252,520l217,520l217,600l252,600</string>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
