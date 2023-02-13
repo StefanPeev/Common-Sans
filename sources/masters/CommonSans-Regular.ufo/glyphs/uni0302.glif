@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302" format="2">
+  <unicode hex="0302"/>
+  <anchor x="-220" y="520" name="_top"/>
+  <outline>
+    <component base="circumflex" xOffset="-390"/>
+  </outline>
+</glyph>

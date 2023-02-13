@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0162" format="2">
+  <advance width="480"/>
+  <unicode hex="0162"/>
+  <anchor x="240" y="740" name="top"/>
+  <anchor x="240" y="-60" name="bottom"/>
+  <outline>
+    <component base="T"/>
+    <component base="uni0326" xOffset="330"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+uni0326</string>
+  </dict>
+  </lib>
+</glyph>

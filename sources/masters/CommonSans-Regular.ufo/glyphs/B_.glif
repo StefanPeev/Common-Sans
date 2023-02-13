@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+  <advance width="620"/>
+  <unicode hex="0042"/>
+  <outline>
+    <component base="I"/>
+    <contour>
+      <point x="120" y="407" type="line"/>
+      <point x="275" y="407" type="line" smooth="yes"/>
+      <point x="365" y="407"/>
+      <point x="400" y="421"/>
+      <point x="400" y="507" type="curve" smooth="yes"/>
+      <point x="400" y="569"/>
+      <point x="352" y="600"/>
+      <point x="275" y="600" type="curve" smooth="yes"/>
+      <point x="120" y="600" type="line"/>
+      <point x="120" y="680" type="line"/>
+      <point x="275" y="680" type="line" smooth="yes"/>
+      <point x="415" y="680"/>
+      <point x="490" y="653"/>
+      <point x="490" y="507" type="curve" smooth="yes"/>
+      <point x="490" y="451"/>
+      <point x="458" y="401"/>
+      <point x="398" y="374" type="curve"/>
+      <point x="476" y="360"/>
+      <point x="540" y="323"/>
+      <point x="540" y="200" type="curve" smooth="yes"/>
+      <point x="540" y="23"/>
+      <point x="423" y="0"/>
+      <point x="275" y="0" type="curve" smooth="yes"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="80" type="line"/>
+      <point x="275" y="80" type="line" smooth="yes"/>
+      <point x="361" y="80"/>
+      <point x="450" y="93"/>
+      <point x="450" y="200" type="curve" smooth="yes"/>
+      <point x="450" y="307"/>
+      <point x="369" y="327"/>
+      <point x="275" y="327" type="curve" smooth="yes"/>
+      <point x="120" y="327" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="42"/>
+  <guideline angle="0" x="0" y="654"/>
+  <guideline angle="0" x="0" y="382"/>
+  <guideline angle="0" x="0" y="360"/>
+  <guideline angle="0" x="0" y="127"/>
+  <guideline angle="0" x="0" y="536"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=80</string>
+  </dict>
+  </lib>
+</glyph>

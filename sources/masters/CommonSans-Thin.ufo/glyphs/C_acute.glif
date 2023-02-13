@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="2">
+  <advance width="705"/>
+  <unicode hex="0106"/>
+  <anchor x="350" y="-60" name="bottom"/>
+  <outline>
+    <component base="C"/>
+    <component base="acutecomb" xOffset="548" yOffset="220"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>C+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="2">
+  <advance width="647"/>
+  <unicode hex="011E"/>
+  <anchor x="320" y="740" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="uni0306" xOffset="525" yOffset="220"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+uni0306</string>
+  </dict>
+  </lib>
+</glyph>

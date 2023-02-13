@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="480"/>
+  <unicode hex="0054"/>
+  <anchor x="240" y="740" name="top"/>
+  <anchor x="240" y="-60" name="bottom"/>
+  <outline>
+    <component base="I" xOffset="129"/>
+    <contour>
+      <point x="10" y="660" type="line"/>
+      <point x="10" y="680" type="line"/>
+      <point x="470" y="680" type="line"/>
+      <point x="470" y="660" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="240" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
+  </lib>
+</glyph>

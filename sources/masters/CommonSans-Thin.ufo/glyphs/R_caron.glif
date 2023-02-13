@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+  <advance width="580"/>
+  <unicode hex="0158"/>
+  <outline>
+    <component base="caron" xOffset="90" yOffset="230"/>
+    <contour>
+      <point x="293" y="290" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="319" y="290" type="line"/>
+    </contour>
+  </outline>
+</glyph>

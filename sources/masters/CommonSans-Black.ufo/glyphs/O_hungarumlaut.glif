@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohungarumlaut" format="2">
+  <advance width="696"/>
+  <unicode hex="0150"/>
+  <anchor x="350" y="740" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni030B" xOffset="346" yOffset="240"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni030B</string>
+  </dict>
+  </lib>
+</glyph>

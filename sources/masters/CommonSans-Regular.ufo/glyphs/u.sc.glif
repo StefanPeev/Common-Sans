@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc" format="2">
+  <advance width="409"/>
+  <outline>
+    <contour>
+      <point x="33" y="161" type="curve" smooth="yes"/>
+      <point x="33" y="460" type="line"/>
+      <point x="113" y="460" type="line"/>
+      <point x="113" y="162" type="line" smooth="yes"/>
+      <point x="113" y="83"/>
+      <point x="155" y="55"/>
+      <point x="211" y="55" type="curve" smooth="yes"/>
+      <point x="269" y="55"/>
+      <point x="297" y="83"/>
+      <point x="297" y="162" type="curve" smooth="yes"/>
+      <point x="297" y="460" type="line"/>
+      <point x="324" y="460"/>
+      <point x="350" y="460"/>
+      <point x="377" y="460" type="curve"/>
+      <point x="377" y="161" type="line" smooth="yes"/>
+      <point x="377" y="72"/>
+      <point x="343" y="-10"/>
+      <point x="211" y="-10" type="curve" smooth="yes"/>
+      <point x="64" y="-10"/>
+      <point x="33" y="76"/>
+    </contour>
+  </outline>
+</glyph>

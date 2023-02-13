@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0438.sc" format="2">
+  <advance width="455"/>
+  <outline>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="33" y="460" type="line"/>
+      <point x="113" y="460" type="line"/>
+      <point x="113" y="142" type="line" smooth="yes"/>
+      <point x="113" y="102"/>
+      <point x="110" y="88"/>
+      <point x="108" y="84" type="curve"/>
+      <point x="323" y="460" type="line"/>
+      <point x="423" y="460" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="318" type="line"/>
+      <point x="344" y="334"/>
+      <point x="342" y="337"/>
+      <point x="347" y="376" type="curve"/>
+      <point x="133" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

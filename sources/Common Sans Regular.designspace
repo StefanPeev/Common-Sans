@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis default="400" tag="wght" maximum="900" minimum="100" name="weight">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="400" input="400"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source stylename="Black" filename="masters/CommonSans-Black.ufo" familyname="Common Sans" name="Black">
+   <location>
+    <dimension xvalue="900" name="weight"/>
+   </location>
+  </source>
+  <source stylename="Regular" filename="masters/CommonSans-Regular.ufo" familyname="Common Sans" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </source>
+  <source stylename="Thin" filename="masters/CommonSans-Thin.ufo" familyname="Common Sans" name="Thin">
+   <location>
+    <dimension xvalue="100" name="weight"/>
+   </location>
+  </source>
+ </sources>
+</designspace>

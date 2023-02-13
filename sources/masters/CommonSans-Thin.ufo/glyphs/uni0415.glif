@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0415" format="2">
+  <advance width="510"/>
+  <unicode hex="0415"/>
+  <anchor x="255" y="740" name="top"/>
+  <outline>
+    <component base="E"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

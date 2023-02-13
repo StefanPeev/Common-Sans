@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="658"/>
+  <unicode hex="00D1"/>
+  <anchor x="329" y="-60" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="tildecomb" xOffset="532" yOffset="220"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+  <advance width="272"/>
+  <unicode hex="00B4"/>
+  <anchor x="115" y="490" name="_aboveUC"/>
+  <outline>
+    <contour>
+      <point x="100" y="490" type="line"/>
+      <point x="150" y="670" type="line"/>
+      <point x="172" y="670" type="line"/>
+      <point x="114" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=100</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=100</string>
+  </dict>
+  </lib>
+</glyph>

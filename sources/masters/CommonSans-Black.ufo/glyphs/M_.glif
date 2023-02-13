@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="890"/>
+  <unicode hex="004D"/>
+  <anchor x="445" y="740" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="680" type="line"/>
+      <point x="250" y="680" type="line"/>
+      <point x="396" y="335" type="line" smooth="yes"/>
+      <point x="437" y="239"/>
+      <point x="494" y="30"/>
+      <point x="494" y="0" type="curve"/>
+      <point x="338" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="680" type="line"/>
+      <point x="820" y="680" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="396" y="30"/>
+      <point x="453" y="239"/>
+      <point x="494" y="335" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="680" type="line"/>
+      <point x="230" y="680" type="line"/>
+      <point x="230" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="0" type="line"/>
+      <point x="660" y="680" type="line"/>
+      <point x="840" y="680" type="line"/>
+      <point x="840" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="445" y="0"/>
+  <guideline angle="90" x="445" y="0"/>
+  <guideline angle="0" x="0" y="335"/>
+  <guideline angle="67.0625" x="494" y="335"/>
+  <guideline angle="111.51" x="338" y="0"/>
+  <guideline angle="248.344" x="820" y="680"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

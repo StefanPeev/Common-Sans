@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01D8" format="2">
+  <advance width="478"/>
+  <unicode hex="01D8"/>
+  <outline>
+    <component base="udieresis"/>
+    <component base="acutecomb" xOffset="396"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>udieresis+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="656"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="433" y="23" type="line"/>
+      <point x="531" y="-75" type="line"/>
+      <point x="595" y="-11" type="line"/>
+      <point x="508" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="103" type="line"/>
+      <point x="389" y="68" type="line"/>
+      <point x="466" y="119" type="line"/>
+      <point x="418" y="167" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>
