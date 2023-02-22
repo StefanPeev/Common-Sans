@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1440686166
-ModificationTime: 1669869811
+ModificationTime: 1677006950
 PfmFamily: 81
 TTFWeight: 100
 TTFWidth: 5
@@ -482,7 +482,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 231 21 11
+WinInfo: 0 25 9
 BeginPrivate: 12
 BlueValues 23 [-10 0 460 470 680 690]
 OtherBlues 27 [-200 -200 520 700 740 900]
@@ -2572,7 +2572,7 @@ StartChar: c
 Encoding: 99 99 74
 Width: 510
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 HStem: -10 68<209.5 297.5 209.5 323> 402 68<213.5 298.5>
 VStem: 50 84<188.5 282.5 188.5 289>
 LayerCount: 2
@@ -2581,11 +2581,11 @@ SplineSet
 50 230 m 0
  50 348 95 470 259 470 c 0
  378 470 437 405 459 320 c 1
- 370 320 l 1
- 367 335 338 402 259 402 c 0
- 168 402 134 335 134 230 c 0
- 134 147 160 58 259 58 c 0
- 336 58 365 118 372 150 c 1
+ 439 320 l 5
+ 436 335 400 450 259 450 c 0
+ 112 450 70 335 70 230 c 0
+ 70 147 104 10 259 10 c 0
+ 387 10 433 118 440 150 c 1
  460 150 l 1
  440 79 387 -10 259 -10 c 0
  94 -10 50 122 50 230 c 0
@@ -2598,27 +2598,27 @@ StartChar: d
 Encoding: 100 100 75
 Width: 491
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 HStem: -10 65<200.5 254> 0 21G<386 446 386 386> 405 66<195.5 256 159 287.5> 680 20G<366 446 446 446>
 VStem: 36 79<178 275 176.5 288> 366 80<72 72 381 700 0 700>
 LayerCount: 2
 Fore
 SplineSet
-115 230 m 0xbc
- 115 123 156 55 245 55 c 0
- 324 55 365 123 365 230 c 0
- 365 321 330 405 245 405 c 0
- 146 405 115 320 115 230 c 0xbc
-36 231 m 0
- 36 345 92 471 226 471 c 0
- 286 471 338 437 366 381 c 1
+16 231 m 0xbc
+ 16 124 76 10 195 10 c 0
+ 274 10 365 48 365 230 c 0
+ 365 396 281 451 196 451 c 0
+ 67 451 16 321 16 231 c 0xbc
+-4 231 m 0
+ -4 345 62 471 196 471 c 0
+ 316 471 366 375 366 341 c 1
  366 700 l 1
- 446 700 l 1
- 446 0 l 1
- 386 0 l 1x7c
- 366 72 l 1
- 343 21 283 -10 225 -10 c 0
- 92 -10 36 125 36 231 c 0
+ 386 700 l 1
+ 386 0 l 1
+ 380 0 l 1x7c
+ 366 122 l 1
+ 366 76 313 -10 195 -10 c 0
+ 62 -10 -4 125 -4 231 c 0
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" d.sc
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" d.sc
@@ -2628,26 +2628,26 @@ StartChar: e
 Encoding: 101 101 76
 Width: 518
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 HStem: -10 68<219 294 219 334> 210 68<139 379 139 468 134 379> 402 68<203 315>
 VStem: 50 84<180 210 175 300> 379 89<210 278>
 LayerCount: 2
 Fore
 SplineSet
-139 278 m 1
- 379 278 l 1
- 379 278 371 402 259 402 c 0
- 147 402 139 278 139 278 c 1
-50 240 m 0
- 50 360 119 470 259 470 c 0
- 399 470 468 360 468 240 c 2
- 468 210 l 1
- 134 210 l 1
- 134 140 179 58 259 58 c 0
- 329 58 365 98 375 142 c 1
- 458 142 l 1
- 443 73 409 -10 259 -10 c 0
- 109 -10 50 120 50 240 c 0
+102 254 m 1
+ 418 254 l 1
+ 418 254 420 450 259 450 c 0
+ 102 450 102 254 102 254 c 1
+82 240 m 0
+ 82 335 119 470 259 470 c 0
+ 399 470 438 339 438 244 c 2
+ 438 234 l 1
+ 102 234 l 1
+ 102 100 146 10 259 10 c 4
+ 388 10 408 108 408 142 c 5
+ 428 142 l 5
+ 428 101 402 -10 259 -10 c 4
+ 115 -10 82 120 82 240 c 0
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 22 subtable" e.sc
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" e.sc
