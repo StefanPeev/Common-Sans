@@ -1,6 +1,6 @@
-# This is the list of people who have contributed to this project.
-#
-# Names should be added to this file as:
+This is the list of people who have contributed to this project.
+
+Names should be added to this file as:
 + N: <Name>
 + E: <email address>
 + W: <web address>
