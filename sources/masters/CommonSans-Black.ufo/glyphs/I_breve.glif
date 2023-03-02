@@ -2,7 +2,6 @@
 <glyph name="Ibreve" format="2">
   <advance width="280"/>
   <unicode hex="012C"/>
-  <anchor x="140" y="740" name="top"/>
   <outline>
     <component base="I"/>
     <component base="uni0306" xOffset="345" yOffset="220"/>
@@ -13,6 +12,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>I+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

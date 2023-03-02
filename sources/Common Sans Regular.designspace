@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" tag="wght" maximum="900" minimum="100" name="weight">
+  <axis maximum="900" default="400" minimum="100" tag="wght" name="weight">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
    <map output="400" input="400"/>
@@ -9,23 +9,23 @@
   </axis>
  </axes>
  <sources>
-  <source stylename="Black" filename="masters/CommonSans-Black.ufo" familyname="Common Sans" name="Black">
+  <source filename="masters/CommonSans-Black.ufo" familyname="Common Sans" name="Black" stylename="Black">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension name="weight" xvalue="900"/>
    </location>
   </source>
-  <source stylename="Regular" filename="masters/CommonSans-Regular.ufo" familyname="Common Sans" name="Regular">
+  <source filename="masters/CommonSans-Regular.ufo" familyname="Common Sans" name="Regular" stylename="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source stylename="Thin" filename="masters/CommonSans-Thin.ufo" familyname="Common Sans" name="Thin">
+  <source filename="masters/CommonSans-Thin.ufo" familyname="Common Sans" name="Thin" stylename="Thin">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>

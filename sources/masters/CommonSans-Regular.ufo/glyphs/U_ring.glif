@@ -2,8 +2,19 @@
 <glyph name="Uring" format="2">
   <advance width="560"/>
   <unicode hex="016E"/>
+  <anchor x="280" y="740" name="top"/>
   <outline>
-    <component base="ring" xOffset="160" yOffset="200"/>
     <component base="U"/>
+    <component base="uni030A" xOffset="279" yOffset="240"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni030A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

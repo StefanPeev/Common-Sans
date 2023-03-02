@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="IJ" format="2">
-	<unicode hex="0132"/>
-	<advance width="554"/>
-	<outline>
-		<component base="J" xOffset="243.75"/>
-		<component base="I"/>
-	</outline>
-</glyph>

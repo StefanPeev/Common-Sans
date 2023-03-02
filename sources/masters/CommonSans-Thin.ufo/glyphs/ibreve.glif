@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve" format="2">
-  <advance width="280"/>
+  <advance width="220"/>
   <unicode hex="012D"/>
+  <anchor x="110" y="520" name="aboveLC"/>
   <outline>
-    <component base="breve" xOffset="-65"/>
     <component base="dotlessi"/>
+    <component base="uni0306" xOffset="315"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+brevecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="uni020A" format="2">
   <advance width="222"/>
   <unicode hex="020A"/>
-  <anchor x="111" y="740" name="top"/>
   <outline>
     <component base="I"/>
     <component base="uni0311" xOffset="316" yOffset="220"/>
@@ -13,6 +12,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>I+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

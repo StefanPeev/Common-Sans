@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="2">
-  <advance width="478"/>
+  <advance width="588"/>
   <unicode hex="00F1"/>
   <outline>
-    <component base="tilde" xOffset="36"/>
-    <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="45" y="460" type="line"/>
-      <point x="205" y="460" type="line"/>
-      <point x="225" y="360" type="line"/>
-      <point x="225" y="0" type="line"/>
-    </contour>
+    <component base="n"/>
+    <component base="tildecomb" xOffset="447"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

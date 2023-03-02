@@ -2,7 +2,6 @@
 <glyph name="Ntilde" format="2">
   <advance width="714"/>
   <unicode hex="00D1"/>
-  <anchor x="409" y="740" name="top"/>
   <anchor x="409" y="-60" name="bottom"/>
   <outline>
     <component base="N"/>

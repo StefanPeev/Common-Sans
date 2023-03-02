@@ -3,7 +3,17 @@
   <advance width="560"/>
   <unicode hex="00DB"/>
   <outline>
-    <component base="circumflex" xOffset="110" yOffset="230"/>
     <component base="U"/>
+    <component base="uni0302" xOffset="500" yOffset="220"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

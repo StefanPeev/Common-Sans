@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D0" format="2">
-  <advance width="280"/>
+  <advance width="300"/>
   <unicode hex="01D0"/>
+  <anchor x="150" y="520" name="aboveLC"/>
   <outline>
-    <component base="caron" xOffset="-30"/>
-    <component base="dotlessi" xOffset="40"/>
+    <component base="dotlessi"/>
+    <component base="caron" xOffset="-20"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+caron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

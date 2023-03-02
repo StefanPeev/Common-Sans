@@ -4,11 +4,16 @@
   <unicode hex="00E9"/>
   <outline>
     <component base="e"/>
-    <contour>
-      <point x="210" y="520" type="line"/>
-      <point x="260" y="680" type="line"/>
-      <point x="340" y="680" type="line"/>
-      <point x="274" y="520" type="line"/>
-    </contour>
+    <component base="acutecomb" xOffset="448"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

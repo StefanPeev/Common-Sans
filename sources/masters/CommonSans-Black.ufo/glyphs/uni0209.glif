@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0209" format="2">
-  <advance width="280"/>
+  <advance width="300"/>
   <unicode hex="0209"/>
+  <anchor x="150" y="520" name="aboveLC"/>
   <outline>
-    <contour>
-      <point x="94" y="710" type="line"/>
-      <point x="174" y="710" type="line"/>
-      <point x="219" y="530" type="line"/>
-      <point x="155" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="-16" y="710" type="line"/>
-      <point x="64" y="710" type="line"/>
-      <point x="124" y="530" type="line"/>
-      <point x="60" y="530" type="line"/>
-    </contour>
-    <contour>
-      <point x="99" y="0" type="line"/>
-      <point x="99" y="460" type="line"/>
-      <point x="179" y="460" type="line"/>
-      <point x="179" y="0" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="uni030F" xOffset="153"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

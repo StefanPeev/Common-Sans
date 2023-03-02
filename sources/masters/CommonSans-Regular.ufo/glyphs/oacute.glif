@@ -3,12 +3,17 @@
   <advance width="480"/>
   <unicode hex="00F3"/>
   <outline>
-    <component base="uni043E"/>
-    <contour>
-      <point x="208" y="520" type="line"/>
-      <point x="258" y="680" type="line"/>
-      <point x="338" y="680" type="line"/>
-      <point x="272" y="520" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="acutecomb" xOffset="428"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

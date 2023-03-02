@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
-FontName: CommonSans-Black
-FullName: Common Sans Black
+FontName: CommonSans-Regular
+FullName: Common Sans Regular
 FamilyName: Common Sans
-Weight: Black
+Weight: Normal
 Copyright: Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved.
 Version: 1.1
 StyleMapFamilyName: Common Sans
@@ -17,15 +17,15 @@ UFODescent: -200
 LayerCount: 2
 Layer: 0 0 "public.background" 1 "glyphs.public.background"
 Layer: 1 0 "public.default" 0 "glyphs"
-StyleMap: 0x0020
+StyleMap: 0x0040
 FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1677794816
-ModificationTime: 1677794816
+CreationTime: 1677794801
+ModificationTime: 1677794801
 PfmFamily: 16
-TTFWeight: 900
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 27
 VLineGap: 0
@@ -485,7 +485,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 001.000 " "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Black"
+LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 001.000 " "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Regular"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -2112,33 +2112,33 @@ EndChar
 StartChar: A
 Encoding: 1 65 1
 GlifName: A_
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 325 740 basechar 0
+AnchorPoint: "top" 265 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-160 295 m 257
- 493 295 l 257
- 493 115 l 257
- 160 115 l 257
- 160 295 l 257
-190 0 m 257
+130 280 m 257
+ 403 280 l 257
+ 403 190 l 257
+ 130 190 l 257
+ 130 280 l 257
+100 0 m 257
  10 0 l 257
  218 680 l 257
- 430 680 l 257
- 640 0 l 257
- 460 0 l 257
- 266 634 l 257
- 384 634 l 257
- 190 0 l 257
+ 312 680 l 257
+ 520 0 l 257
+ 430 0 l 257
+ 227 664 l 257
+ 303 664 l 257
+ 100 0 l 257
 EndSplineSet
-Guideline: "" "" 266 634 287 0 0
-Guideline: "" "" 325 0 90 0 0
+Guideline: "" "" 265 0 90 0 0
 Guideline: "" "" 10 0 73 0 0
-Guideline: "" "" 384 634 253 0 0
-Guideline: "" "" 430 680 287 0 0
+Guideline: "" "" 294 634 253 0 0
+Guideline: "" "" 430 0 107 0 0
+Guideline: "" "" 312 680 287 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -2190,13 +2190,13 @@ EndChar
 StartChar: Aacute
 Encoding: 3 193 3
 GlifName: A_acute
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 526 220 2
+Refer: 126 769 N 1 0 0 1 453 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2215,13 +2215,13 @@ EndChar
 StartChar: Abreve
 Encoding: 4 258 4
 GlifName: A_breve
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 501 774 N 1 0 0 1 530 220 2
+Refer: 501 774 N 1 0 0 1 470 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2240,13 +2240,13 @@ EndChar
 StartChar: Acircumflex
 Encoding: 5 194 5
 GlifName: A_circumflex
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 545 220 2
+Refer: 499 770 N 1 0 0 1 485 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2265,13 +2265,13 @@ EndChar
 StartChar: Adieresis
 Encoding: 6 196 6
 GlifName: A_dieresis
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 575 220 2
+Refer: 503 776 N 1 0 0 1 475 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2290,13 +2290,13 @@ EndChar
 StartChar: Agrave
 Encoding: 7 192 7
 GlifName: A_grave
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 537 220 2
+Refer: 229 768 N 1 0 0 1 477 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2315,13 +2315,13 @@ EndChar
 StartChar: Amacron
 Encoding: 8 256 8
 GlifName: A_macron
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 500 772 N 1 0 0 1 510 270 2
+Refer: 500 772 N 1 0 0 1 450 270 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2376,14 +2376,14 @@ EndChar
 StartChar: Aring
 Encoding: 10 197 10
 GlifName: A_ring
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 325 740 basechar 0
+AnchorPoint: "top" 265 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 504 778 N 1 0 0 1 324 240 2
+Refer: 504 778 N 1 0 0 1 264 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2402,13 +2402,13 @@ EndChar
 StartChar: Aringacute
 Encoding: 11 506 11
 GlifName: A_ringacute
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 10 197 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 526 220 2
+Refer: 126 769 N 1 0 0 1 453 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2427,13 +2427,13 @@ EndChar
 StartChar: Atilde
 Encoding: 12 195 12
 GlifName: A_tilde
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 528 220 2
+Refer: 378 771 N 1 0 0 1 468 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2458,32 +2458,32 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-120 447 m 257
- 275 447 l 258
- 295 447 310 463 310 484 c 256
- 310 501 302 520 275 520 c 258
- 120 520 l 257
+120 407 m 257
+ 275 407 l 258
+ 365 407 400 421 400 507 c 256
+ 400 569 352 600 275 600 c 258
+ 120 600 l 257
  120 680 l 257
  275 680 l 258
- 415 680 490 613 490 512 c 256
- 490 461 458 401 398 374 c 257
- 476 360 540 299 540 221 c 256
- 540 100 473 0 275 0 c 258
+ 415 680 490 653 490 507 c 256
+ 490 451 458 401 398 374 c 257
+ 476 360 540 323 540 200 c 256
+ 540 23 423 0 275 0 c 258
  120 0 l 257
- 120 160 l 257
- 275 160 l 258
- 321 160 360 182 360 233 c 256
- 360 271 329 287 275 287 c 258
- 120 287 l 257
- 120 447 l 257
+ 120 80 l 257
+ 275 80 l 258
+ 361 80 450 93 450 200 c 256
+ 450 307 369 327 275 327 c 258
+ 120 327 l 257
+ 120 407 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 Guideline: "" "" 0 42 0 0 0
 Guideline: "" "" 0 654 0 0 0
 Guideline: "" "" 0 382 0 0 0
 Guideline: "" "" 0 360 0 0 0
-Guideline: "" "" 0 160 0 0 0
-Guideline: "" "" 0 520 0 0 0
+Guideline: "" "" 0 127 0 0 0
+Guideline: "" "" 0 536 0 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -2503,28 +2503,28 @@ GlifName: C_
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 340 740 basechar 0
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-348 150 m 257
- 399 150 445 181 455 224 c 257
- 615 224 l 257
- 594 81 488 -10 348 -10 c 257
- 348 150 l 257
-348 -10 m 257
- 143 -10 30 114 30 340 c 256
- 30 566 143 690 348 690 c 257
- 348 530 l 257
- 264 530 210 455 210 340 c 256
- 210 225 264 150 348 150 c 257
- 348 -10 l 257
-348 690 m 257
- 494 690 594 594 615 444 c 257
- 455 444 l 257
- 444 502 403 530 348 530 c 257
- 348 690 l 257
+328 70 m 257
+ 409 70 468 116 488 184 c 257
+ 580 184 l 257
+ 560 76 473 -10 328 -10 c 257
+ 328 70 l 257
+328 -10 m 257
+ 158 -10 50 120 50 340 c 256
+ 50 560 158 690 328 690 c 257
+ 328 610 l 257
+ 208 610 140 514 140 340 c 256
+ 140 166 208 70 328 70 c 257
+ 328 -10 l 257
+328 690 m 257
+ 476 690 564 595 595 454 c 257
+ 507 454 l 257
+ 487 545 433 610 328 610 c 257
+ 328 690 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
@@ -2554,11 +2554,11 @@ GlifName: C_acute
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 541 220 2
+Refer: 126 769 N 1 0 0 1 508 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2580,11 +2580,11 @@ GlifName: C_caron
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 560 220 2
+Refer: 156 780 N 1 0 0 1 540 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2606,8 +2606,8 @@ GlifName: C_cedilla
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 340 740 basechar 0
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
@@ -2629,11 +2629,11 @@ GlifName: C_circumflex
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 560 220 2
+Refer: 499 770 N 1 0 0 1 540 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2655,11 +2655,11 @@ GlifName: C_dotaccent
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 480 220 2
+Refer: 502 775 N 1 0 0 1 410 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2678,23 +2678,23 @@ EndChar
 StartChar: D
 Encoding: 21 68 21
 GlifName: D_
-Width: 640
+Width: 590
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-140 0 m 257
- 308 0 l 258
- 499 0 610 113 610 340 c 256
- 610 564 498 680 308 680 c 258
- 140 680 l 257
- 140 520 l 257
- 308 520 l 258
- 377 520 430 483 430 340 c 256
- 430 233 375 160 308 160 c 258
- 140 160 l 257
- 140 0 l 257
+70 0 m 257
+ 258 0 l 258
+ 449 0 540 143 540 340 c 256
+ 540 534 448 680 258 680 c 258
+ 70 680 l 257
+ 70 600 l 257
+ 258 600 l 258
+ 407 600 450 483 450 340 c 256
+ 450 233 405 80 258 80 c 258
+ 70 80 l 257
+ 70 0 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -2713,13 +2713,13 @@ EndChar
 StartChar: Dcaron
 Encoding: 22 270 22
 GlifName: D_caron
-Width: 640
+Width: 590
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 21 68 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 540 240 2
+Refer: 156 780 N 1 0 0 1 515 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2777,21 +2777,21 @@ AnchorPoint: "top" 255 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-110 150 m 257
- 460 150 l 257
+110 80 m 257
+ 460 80 l 257
  460 0 l 257
  110 0 l 257
- 110 150 l 257
+ 110 80 l 257
 110 680 m 257
  460 680 l 257
- 460 530 l 257
- 110 530 l 257
+ 460 600 l 257
+ 110 600 l 257
  110 680 l 257
-110 420 m 257
- 420 420 l 257
- 420 270 l 257
- 110 270 l 257
- 110 420 l 257
+110 387 m 257
+ 420 387 l 257
+ 420 307 l 257
+ 110 307 l 257
+ 110 387 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -2812,7 +2812,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 456 220 2
+Refer: 126 769 N 1 0 0 1 443 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2912,7 +2912,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 505 220 2
+Refer: 503 776 N 1 0 0 1 465 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -2937,7 +2937,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 395 220 2
+Refer: 502 775 N 1 0 0 1 345 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3082,14 +3082,14 @@ Fore
 SplineSet
 110 680 m 257
  460 680 l 257
- 460 530 l 257
- 110 530 l 257
+ 460 600 l 257
+ 110 600 l 257
  110 680 l 257
-110 420 m 257
- 420 420 l 257
- 420 270 l 257
- 110 270 l 257
- 110 420 l 257
+110 387 m 257
+ 420 387 l 257
+ 420 307 l 257
+ 110 307 l 257
+ 110 387 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -3115,30 +3115,30 @@ AnchorPoint: "top" 320 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-457 230 m 257
- 457 0 l 257
- 607 0 l 257
- 607 350 l 257
- 347 350 l 257
- 347 230 l 257
- 457 230 l 257
-469 247 m 257
- 457 185 410 150 348 150 c 257
- 348 -10 l 257
- 393 -10 452 11 469 35 c 257
- 469 247 l 257
-348 150 m 257
- 264 150 210 225 210 340 c 256
- 210 455 264 530 348 530 c 257
- 348 690 l 257
- 143 690 30 566 30 340 c 256
- 30 114 143 -10 348 -10 c 257
- 348 150 l 257
-348 530 m 257
- 403 530 444 502 455 444 c 257
- 615 444 l 257
- 594 594 494 690 348 690 c 257
- 348 530 l 257
+498 240 m 257
+ 498 0 l 257
+ 587 0 l 257
+ 587 310 l 257
+ 327 310 l 257
+ 327 240 l 257
+ 498 240 l 257
+510 197 m 257
+ 481 127 421 70 328 70 c 257
+ 328 -10 l 257
+ 400 -10 468 29 510 99 c 257
+ 510 197 l 257
+328 70 m 257
+ 208 70 140 166 140 340 c 256
+ 140 514 208 610 328 610 c 257
+ 328 690 l 257
+ 158 690 50 560 50 340 c 256
+ 50 120 158 -10 328 -10 c 257
+ 328 70 l 257
+328 610 m 257
+ 433 610 487 545 507 454 c 257
+ 595 454 l 257
+ 564 595 476 690 328 690 c 257
+ 328 610 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
@@ -3272,7 +3272,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 460 220 2
+Refer: 502 775 N 1 0 0 1 410 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3291,28 +3291,28 @@ EndChar
 StartChar: H
 Encoding: 42 72 42
 GlifName: H_
-Width: 660
+Width: 600
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-501 417 m 257
- 109 417 l 257
- 109 257 l 257
- 501 257 l 257
- 501 417 l 257
+491 367 m 257
+ 99 367 l 257
+ 99 287 l 257
+ 491 287 l 257
+ 491 367 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 44 73 N 1 0 0 1 380 0 2
+Refer: 44 73 N 1 0 0 1 390 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
-V=50
+V=60
 p2
 sVcom.fontlab.metricsRight
 p3
-V=50
+V=60
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" h.sc
@@ -3321,13 +3321,13 @@ EndChar
 StartChar: Hcircumflex
 Encoding: 43 292 43
 GlifName: H_circumflex
-Width: 660
+Width: 600
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 42 72 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 550 240 2
+Refer: 499 770 N 1 0 0 1 520 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3342,20 +3342,20 @@ EndChar
 StartChar: I
 Encoding: 44 73 44
 GlifName: I_
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 140 740 basechar 0
+AnchorPoint: "top" 105 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 680 l 257
- 230 680 l 257
- 230 0 l 257
- 50 0 l 257
+60 0 m 257
+ 60 680 l 257
+ 150 680 l 257
+ 150 0 l 257
+ 60 0 l 257
 EndSplineSet
-Guideline: "" "" 120 0 90 0 0
+Guideline: "" "" 110 0 90 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -3398,13 +3398,13 @@ EndChar
 StartChar: Iacute
 Encoding: 46 205 46
 GlifName: I_acute
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 341 220 2
+Refer: 126 769 N 1 0 0 1 293 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3423,13 +3423,13 @@ EndChar
 StartChar: Ibreve
 Encoding: 47 300 47
 GlifName: I_breve
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 501 774 N 1 0 0 1 345 220 2
+Refer: 501 774 N 1 0 0 1 310 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3448,13 +3448,13 @@ EndChar
 StartChar: Icircumflex
 Encoding: 48 206 48
 GlifName: I_circumflex
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 360 220 2
+Refer: 499 770 N 1 0 0 1 325 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3473,13 +3473,13 @@ EndChar
 StartChar: Idieresis
 Encoding: 49 207 49
 GlifName: I_dieresis
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 390 220 2
+Refer: 503 776 N 1 0 0 1 315 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3498,13 +3498,13 @@ EndChar
 StartChar: Idotaccent
 Encoding: 50 304 50
 GlifName: I_dotaccent
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 280 220 2
+Refer: 502 775 N 1 0 0 1 195 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3519,13 +3519,13 @@ EndChar
 StartChar: Igrave
 Encoding: 51 204 51
 GlifName: I_grave
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 352 220 2
+Refer: 229 768 N 1 0 0 1 317 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3550,20 +3550,20 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 500 772 N 1 0 0 1 280 230 2
-Refer: 44 73 N 1 0 0 1 0 0 2
+Refer: 44 73 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: Iogonek
 Encoding: 53 302 53
 GlifName: I_ogonek
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 140 740 basechar 0
+AnchorPoint: "top" 105 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 296 731 N 1 0 0 1 -6 0 2
+Refer: 296 731 N 1 0 0 1 -40 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3578,13 +3578,13 @@ EndChar
 StartChar: Itilde
 Encoding: 54 296 54
 GlifName: I_tilde
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 343 220 2
+Refer: 378 771 N 1 0 0 1 308 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3603,21 +3603,21 @@ EndChar
 StartChar: J
 Encoding: 55 74 55
 GlifName: J_
-Width: 378
+Width: 298
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 233 740 basechar 0
+AnchorPoint: "top" 193 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 50 0 m 257
- 50 160 l 257
- 76 160 l 258
- 116 160 148 176 148 240 c 258
+ 50 90 l 257
+ 76 90 l 258
+ 116 90 148 106 148 170 c 258
  148 680 l 257
- 328 680 l 257
- 328 244 l 258
- 328 110 296 0 124 0 c 258
+ 238 680 l 257
+ 238 174 l 258
+ 238 70 196 0 74 0 c 258
  50 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
@@ -3644,29 +3644,30 @@ EndChar
 StartChar: K
 Encoding: 57 75 57
 GlifName: K_
-Width: 710
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-206 225 m 257
- 308 259 l 257
- 480 0 l 257
-NamedP: "n02"
- 700 0 l 257
- 460 350 l 257
- 660 680 l 257
-NamedP: "n05"
- 460 680 l 257
- 290 397 l 257
- 206 373 l 257
- 206 225 l 257
+146 293 m 257
+ 230 317 l 257
+ 440 0 l 257
+ 550 0 l 257
+ 310 350 l 257
+ 510 680 l 257
+ 400 680 l 257
+ 230 397 l 257
+ 146 373 l 257
+ 146 293 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
-Guideline: "" "" 290 317 303.523 0 0
-Guideline: "" "" 460 680 239.006 0 0
-Guideline: "" "" 290 417 195.945 0 0
+Guideline: "" "" 230 317 303.523 0 0
+Guideline: "" "" 400 680 239.006 0 0
+Guideline: "" "" 146 293 15.9454 0 0
+Guideline: "" "" 230 397 195.945 0 0
+Guideline: "" "" 0 350 0 0 0
+Guideline: "" "" 146 293 15.9454 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -3683,13 +3684,13 @@ EndChar
 StartChar: Kcommaaccent
 Encoding: 58 310 58
 GlifName: K_commaaccent
-Width: 710
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 57 75 N 1 0 0 1 0 0 2
-Refer: 512 806 N 1 0 0 1 445 0 2
+Refer: 512 806 N 1 0 0 1 370 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3704,18 +3705,18 @@ EndChar
 StartChar: L
 Encoding: 59 76 59
 GlifName: L_
-Width: 510
+Width: 520
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 95 740 basechar 0
+AnchorPoint: "top" 105 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-190 160 m 257
- 500 160 l 257
- 500 0 l 257
- 190 0 l 257
- 190 160 l 257
+130 80 m 257
+ 470 80 l 257
+ 470 0 l 257
+ 130 0 l 257
+ 130 80 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -3730,13 +3731,13 @@ EndChar
 StartChar: Lacute
 Encoding: 60 313 60
 GlifName: L_acute
-Width: 510
+Width: 520
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 296 220 2
+Refer: 126 769 N 1 0 0 1 293 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -3856,42 +3857,43 @@ EndChar
 StartChar: M
 Encoding: 65 77 65
 GlifName: M_
-Width: 890
+Width: 770
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 445 740 basechar 0
+AnchorPoint: "top" 385 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 70 680 m 257
- 250 680 l 257
- 396 335 l 258
- 437 239 494 30 494 0 c 257
+ 160 680 l 257
+ 338 230 l 258
+ 357 182 409 30 409 0 c 257
  338 0 l 257
  70 680 l 257
-640 680 m 257
- 820 680 l 257
- 550 0 l 257
- 396 0 l 257
- 396 30 453 239 494 335 c 258
- 640 680 l 257
-50 0 m 257
- 50 680 l 257
- 230 680 l 257
- 230 0 l 257
- 50 0 l 257
-660 0 m 257
- 660 680 l 257
- 840 680 l 257
- 840 0 l 257
- 660 0 l 257
+610 680 m 257
+ 700 680 l 257
+ 432 0 l 257
+ 361 0 l 257
+ 361 30 413 182 432 230 c 258
+ 610 680 l 257
+60 0 m 257
+ 60 680 l 257
+ 150 680 l 257
+ 150 0 l 257
+ 60 0 l 257
+620 0 m 257
+ 620 680 l 257
+ 710 680 l 257
+ 710 0 l 257
+ 620 0 l 257
 EndSplineSet
-Guideline: "" "" 445 0 90 0 0
-Guideline: "" "" 445 0 90 0 0
-Guideline: "" "" 0 335 0 0 0
-Guideline: "" "" 494 335 67.0625 0 0
+Guideline: "" "" 385 0 90 0 0
+Guideline: "" "" 0 230 0 0 0
+Guideline: "" "" 610 0 90 0 0
 Guideline: "" "" 338 0 111.51 0 0
-Guideline: "" "" 820 680 248.344 0 0
+Guideline: "" "" 428 0 111.51 0 0
+Guideline: "" "" 700 680 248.49 0 0
+Guideline: "" "" 610 680 248.49 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -3908,33 +3910,31 @@ EndChar
 StartChar: N
 Encoding: 66 78 66
 GlifName: N_
-Width: 714
+Width: 658
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 409 740 basechar 0
-AnchorPoint: "bottom" 409 -60 basechar 0
+AnchorPoint: "top" 329 740 basechar 0
+AnchorPoint: "bottom" 329 -60 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 680 l 257
- 250 680 l 257
- 494 280 l 257
- 488 280 l 257
- 484 311 484 339 484 360 c 258
- 484 680 l 257
- 664 680 l 257
- 664 0 l 257
- 464 0 l 257
- 220 400 l 257
- 226 400 l 257
- 230 369 230 341 230 320 c 258
- 230 0 l 257
- 50 0 l 257
+60 0 m 257
+ 60 680 l 257
+ 150 680 l 257
+ 518 140 l 257
+ 512 140 l 257
+ 508 171 508 199 508 220 c 258
+ 508 680 l 257
+ 598 680 l 257
+ 598 0 l 257
+ 508 0 l 257
+ 140 540 l 257
+ 146 540 l 257
+ 150 509 150 481 150 460 c 258
+ 150 0 l 257
+ 60 0 l 257
 EndSplineSet
-Guideline: "" "" 230 0 90 0 0
-Guideline: "" "" 626 0 90 0 0
-Guideline: "" "" 409 0 90 0 0
+Guideline: "" "" 329 0 90 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -3963,7 +3963,7 @@ SplineSet
  332 750 l 257
  268 750 l 257
 EndSplineSet
-Refer: 66 78 N 1 0 0 1 -90 0 2
+Refer: 66 78 N 1 0 0 1 -50 0 2
 EndChar
 
 StartChar: Ncaron
@@ -4006,20 +4006,20 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 512 806 N 1 0 0 1 390 0 2
-Refer: 66 78 N 1 0 0 1 -90 0 2
+Refer: 66 78 N 1 0 0 1 -50 0 2
 EndChar
 
 StartChar: Ntilde
 Encoding: 71 209 70
 GlifName: N_tilde
-Width: 714
+Width: 658
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 409 -60 basechar 0
+AnchorPoint: "bottom" 329 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 66 78 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 612 220 2
+Refer: 378 771 N 1 0 0 1 532 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4034,36 +4034,36 @@ EndChar
 StartChar: O
 Encoding: 72 79 71
 GlifName: O_
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 350 740 basechar 0
+AnchorPoint: "top" 330 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-348 -10 m 257
- 143 -10 30 114 30 340 c 256
- 30 566 143 690 348 690 c 257
- 348 530 l 257
- 264 530 210 455 210 340 c 256
- 210 225 264 150 348 150 c 257
- 348 -10 l 257
-348 690 m 257
- 553 690 666 566 666 340 c 256
- 666 114 553 -10 348 -10 c 257
- 348 150 l 257
- 432 150 486 225 486 340 c 256
- 486 455 432 530 348 530 c 257
- 348 690 l 257
+328 -10 m 257
+ 158 -10 50 120 50 340 c 256
+ 50 560 158 690 328 690 c 257
+ 328 610 l 257
+ 208 610 140 514 140 340 c 256
+ 140 166 208 70 328 70 c 257
+ 328 -10 l 257
+328 690 m 257
+ 498 690 606 560 606 340 c 256
+ 606 120 498 -10 328 -10 c 257
+ 328 70 l 257
+ 448 70 516 166 516 340 c 256
+ 516 514 448 610 328 610 c 257
+ 328 690 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
-V=30
+V=50
 p2
 sVcom.fontlab.metricsRight
 p3
-V=30
+V=50
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" o.sc
@@ -4109,13 +4109,13 @@ EndChar
 StartChar: Oacute
 Encoding: 74 211 73
 GlifName: O_acute
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 551 220 2
+Refer: 126 769 N 1 0 0 1 518 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4134,13 +4134,13 @@ EndChar
 StartChar: Obreve
 Encoding: 75 334 74
 GlifName: O_breve
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 501 774 N 1 0 0 1 555 220 2
+Refer: 501 774 N 1 0 0 1 535 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4159,13 +4159,13 @@ EndChar
 StartChar: Ocircumflex
 Encoding: 76 212 75
 GlifName: O_circumflex
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 570 220 2
+Refer: 499 770 N 1 0 0 1 550 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4184,13 +4184,13 @@ EndChar
 StartChar: Odieresis
 Encoding: 77 214 76
 GlifName: O_dieresis
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 600 220 2
+Refer: 503 776 N 1 0 0 1 540 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4209,13 +4209,13 @@ EndChar
 StartChar: Ograve
 Encoding: 78 210 77
 GlifName: O_grave
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 562 220 2
+Refer: 229 768 N 1 0 0 1 542 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4234,14 +4234,14 @@ EndChar
 StartChar: Ohungarumlaut
 Encoding: 79 336 78
 GlifName: O_hungarumlaut
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 350 740 basechar 0
+AnchorPoint: "top" 330 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 505 779 N 1 0 0 1 346 240 2
+Refer: 505 779 N 1 0 0 1 326 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4260,13 +4260,13 @@ EndChar
 StartChar: Omacron
 Encoding: 80 332 79
 GlifName: O_macron
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 500 772 N 1 0 0 1 535 270 2
+Refer: 500 772 N 1 0 0 1 515 270 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4321,13 +4321,13 @@ EndChar
 StartChar: Otilde
 Encoding: 82 213 81
 GlifName: O_tilde
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 553 220 2
+Refer: 378 771 N 1 0 0 1 533 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4352,17 +4352,17 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-120 520 m 257
- 290 520 l 258
- 330 520 370 501 370 457 c 256
- 370 397 330 380 290 380 c 258
- 120 380 l 257
- 120 220 l 257
- 290 220 l 258
- 430 220 530 297 530 457 c 256
- 530 617 430 680 290 680 c 258
+120 600 m 257
+ 285 600 l 258
+ 363 600 440 551 440 487 c 256
+ 440 397 375 360 285 360 c 258
+ 120 360 l 257
+ 120 280 l 257
+ 285 280 l 258
+ 454 280 530 392 530 487 c 256
+ 530 637 425 680 285 680 c 258
  120 680 l 257
- 120 520 l 257
+ 120 600 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" p.sc
@@ -4371,28 +4371,24 @@ EndChar
 StartChar: Q
 Encoding: 84 81 83
 GlifName: Q_
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-443 31 m 257
- 555 -81 l 257
- 662 23 l 257
- 551 134 l 257
- 443 31 l 257
-364 110 m 257
- 426 48 l 257
- 536 149 l 257
- 479 206 l 257
- 364 110 l 257
+433 23 m 257
+ 531 -75 l 257
+ 595 -11 l 257
+ 508 76 l 257
+ 433 23 l 257
+354 103 m 257
+ 389 68 l 257
+ 466 119 l 257
+ 418 167 l 257
+ 354 103 l 257
 EndSplineSet
 Refer: 71 79 N 1 0 0 1 0 0 2
-Guideline: "" "" 595 90 135 0 0
-Guideline: "" "" 433 41 315 0 0
-Guideline: "" "" 662 23 135 0 0
-Guideline: "" "" 443 31 315 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -4417,11 +4413,11 @@ AnchorPoint: "bottom" 280 -60 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-222 300 m 257
- 340 0 l 257
- 530 0 l 257
- 412 300 l 257
- 222 300 l 257
+242 300 m 257
+ 410 0 l 257
+ 520 0 l 257
+ 352 300 l 257
+ 242 300 l 257
 EndSplineSet
 Refer: 82 80 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -4447,7 +4443,7 @@ AnchorPoint: "bottom" 280 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 84 82 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 461 220 2
+Refer: 126 769 N 1 0 0 1 448 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4525,23 +4521,23 @@ AnchorPoint: "top" 289 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-30 223 m 257
- 220 223 l 257
- 220 183 243 150 290 150 c 256
- 340 150 361 170 361 194 c 256
- 361 222 347 243 325 255 c 258
- 138 358 l 258
- 84 388 48 430 48 492 c 256
- 48 612 139 690 298 690 c 256
- 442 690 549 590 549 481 c 257
- 359 481 l 257
- 359 506 341 530 289 530 c 256
- 253 530 238 522 238 493 c 256
- 238 479 245 470 273 455 c 258
- 448 360 l 258
- 515 324 551 274 551 191 c 256
- 551 69 458 -10 283 -10 c 256
- 135 -10 30 91 30 223 c 257
+50 193 m 257
+ 140 193 l 257
+ 140 103 214 70 290 70 c 256
+ 390 70 439 117 439 191 c 256
+ 439 243 414 276 329 304 c 258
+ 250 330 l 258
+ 117 374 68 423 68 523 c 256
+ 68 621 139 690 298 690 c 256
+ 442 690 529 610 529 501 c 257
+ 439 501 l 257
+ 439 566 371 610 289 610 c 256
+ 193 610 160 576 160 517 c 256
+ 160 465 192 434 273 406 c 258
+ 352 379 l 258
+ 473 338 531 289 531 191 c 256
+ 531 45 422 -10 283 -10 c 256
+ 135 -10 50 61 50 193 c 257
 EndSplineSet
 Guideline: "" "" 270 0 90 0 0
 PickledDataWithLists: "(dp0
@@ -4660,13 +4656,13 @@ AnchorPoint: "bottom" 240 -60 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-10 520 m 257
+10 600 m 257
  10 680 l 257
  470 680 l 257
- 470 520 l 257
- 10 520 l 257
+ 470 600 l 257
+ 10 600 l 257
 EndSplineSet
-Refer: 44 73 N 1 0 0 1 100 0 2
+Refer: 44 73 N 1 0 0 1 135 0 2
 Guideline: "" "" 240 0 90 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
@@ -4735,26 +4731,26 @@ EndChar
 StartChar: U
 Encoding: 98 85 97
 GlifName: U_
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 270 m 258
+50 230 m 258
  50 680 l 257
- 230 680 l 257
- 230 310 l 258
- 230 211 250 160 320 160 c 256
- 390 160 410 211 410 310 c 258
- 410 680 l 257
- 590 680 l 257
- 590 270 l 258
- 590 86 490 -10 320 -10 c 256
- 150 -10 50 86 50 270 c 258
+ 140 680 l 257
+ 140 270 l 258
+ 140 111 190 80 280 80 c 256
+ 370 80 420 111 420 270 c 258
+ 420 680 l 257
+ 510 680 l 257
+ 510 230 l 258
+ 510 86 450 -10 280 -10 c 256
+ 110 -10 50 86 50 230 c 258
 EndSplineSet
-Guideline: "" "" 320 0 90 0 0
+Guideline: "" "" 280 0 90 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -4771,13 +4767,13 @@ EndChar
 StartChar: Uacute
 Encoding: 99 218 98
 GlifName: U_acute
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 521 220 2
+Refer: 126 769 N 1 0 0 1 468 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4796,13 +4792,13 @@ EndChar
 StartChar: Ubreve
 Encoding: 100 364 99
 GlifName: U_breve
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 501 774 N 1 0 0 1 525 220 2
+Refer: 501 774 N 1 0 0 1 485 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4821,13 +4817,13 @@ EndChar
 StartChar: Ucircumflex
 Encoding: 101 219 100
 GlifName: U_circumflex
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 540 220 2
+Refer: 499 770 N 1 0 0 1 500 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4846,13 +4842,13 @@ EndChar
 StartChar: Udieresis
 Encoding: 102 220 101
 GlifName: U_dieresis
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 570 220 2
+Refer: 503 776 N 1 0 0 1 490 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4871,13 +4867,13 @@ EndChar
 StartChar: Ugrave
 Encoding: 103 217 102
 GlifName: U_grave
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 532 220 2
+Refer: 229 768 N 1 0 0 1 492 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4896,14 +4892,14 @@ EndChar
 StartChar: Uhungarumlaut
 Encoding: 104 368 103
 GlifName: U_hungarumlaut
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 505 779 N 1 0 0 1 318 240 2
+Refer: 505 779 N 1 0 0 1 278 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4922,13 +4918,13 @@ EndChar
 StartChar: Umacron
 Encoding: 105 362 104
 GlifName: U_macron
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 500 772 N 1 0 0 1 505 270 2
+Refer: 500 772 N 1 0 0 1 465 270 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -4981,14 +4977,14 @@ EndChar
 StartChar: Uring
 Encoding: 107 366 106
 GlifName: U_ring
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 504 778 N 1 0 0 1 319 240 2
+Refer: 504 778 N 1 0 0 1 279 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -5007,13 +5003,13 @@ EndChar
 StartChar: Utilde
 Encoding: 108 360 107
 GlifName: U_tilde
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 523 220 2
+Refer: 378 771 N 1 0 0 1 483 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -5032,27 +5028,27 @@ EndChar
 StartChar: V
 Encoding: 109 86 108
 GlifName: V_
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 10 680 m 257
- 190 680 l 257
- 296 335 l 258
- 327 235 354 30 354 0 c 257
+ 100 680 l 257
+ 238 230 l 258
+ 253 182 289 30 289 0 c 257
  218 0 l 257
  10 680 l 257
-460 680 m 257
- 640 680 l 257
- 430 0 l 257
- 296 0 l 257
- 296 30 323 235 354 335 c 258
- 460 680 l 257
+430 680 m 257
+ 520 680 l 257
+ 312 0 l 257
+ 241 0 l 257
+ 241 30 277 182 292 230 c 258
+ 430 680 l 257
 EndSplineSet
-Guideline: "" "" 325 0 90 0 0
-Guideline: "" "" 0 335 0 0 0
+Guideline: "" "" 265 0 90 0 0
+Guideline: "" "" 0 230 0 0 0
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -5069,13 +5065,13 @@ EndChar
 StartChar: W
 Encoding: 110 87 109
 GlifName: W_
-Width: 1100
+Width: 950
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 108 86 N 1 0 0 1 0 0 2
-Refer: 108 86 N 1 0 0 1 450 0 2
+Refer: 108 86 N 1 0 0 1 420 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
@@ -5133,25 +5129,23 @@ LayerCount: 2
 Fore
 SplineSet
 147 680 m 257
- -68 680 l 257
- 329 0 l 257
+ 37 680 l 257
+ 436 0 l 257
  546 0 l 257
  147 680 l 257
-174 396 m 257
- -58 0 l 257
- 156 0 l 257
- 290 229 l 257
- 174 396 l 257
-324 286 m 257
- 554 680 l 257
- 342 680 l 257
- 210 456 l 257
- 324 286 l 257
+240 371 m 257
+ 22 0 l 257
+ 133 0 l 257
+ 295 293 l 257
+ 240 371 l 257
+324 343 m 257
+ 528 680 l 257
+ 421 680 l 257
+ 269 421 l 257
+ 324 343 l 257
 EndSplineSet
-Guideline: "" "" 555 680 59.6 0 0
-Guideline: "" "" 331 0 120.403 0 0
 Guideline: "" "" 546 0 120.403 0 0
-Guideline: "" "" 341 680 59.6 0 0
+Guideline: "" "" 421 680 59.6 0 0
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" x.sc
 EndChar
 
@@ -5164,17 +5158,17 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--5 680 m 257
- 180 680 l 257
- 296 418 l 257
- 298 418 l 257
- 419 680 l 257
- 599 680 l 257
- 387 210 l 257
- 387 0 l 257
- 207 0 l 257
- 207 210 l 257
- -5 680 l 257
+40 680 m 257
+ 147 680 l 257
+ 296 388 l 257
+ 298 388 l 257
+ 447 680 l 257
+ 554 680 l 257
+ 342 280 l 257
+ 342 0 l 257
+ 252 0 l 257
+ 252 280 l 257
+ 40 680 l 257
 EndSplineSet
 Guideline: "" "" 297 0 90 0 0
 Guideline: "" "" 0 680 0 0 0
@@ -5273,7 +5267,7 @@ EndChar
 StartChar: Z
 Encoding: 117 90 116
 GlifName: Z_
-Width: 615
+Width: 510
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -5282,19 +5276,18 @@ SplineSet
 50 0 m 257
  50 80 l 257
  376 610 l 257
- 376 520 l 257
- 70 520 l 257
- 70 680 l 257
- 586 680 l 257
- 586 600 l 257
- 260 70 l 257
- 260 160 l 257
- 590 160 l 257
- 590 0 l 257
+ 382 600 l 257
+ 50 600 l 257
+ 50 680 l 257
+ 460 680 l 257
+ 460 600 l 257
+ 134 70 l 257
+ 128 80 l 257
+ 460 80 l 257
+ 460 0 l 257
  50 0 l 257
 EndSplineSet
 Guideline: "" "" 50 80 58.4046 0 0
-Guideline: "" "" 266 80 58.4046 0 0
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" z.sc
 EndChar
 
@@ -5455,7 +5448,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 451 0 2
+Refer: 126 769 N 1 0 0 1 438 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -5524,27 +5517,27 @@ EndChar
 StartChar: acute
 Encoding: 126 180 125
 GlifName: acute
-Width: 346
+Width: 276
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveUC" 137 490 mark 0
+AnchorPoint: "aboveUC" 111 490 mark 0
 LayerCount: 2
 Fore
 SplineSet
-40 490 m 257
- 110 700 l 257
- 306 700 l 257
- 220 490 l 257
- 40 490 l 257
+60 490 m 257
+ 110 670 l 257
+ 216 670 l 257
+ 150 490 l 257
+ 60 490 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
-V=40
+V=60
 p2
 sVcom.fontlab.metricsRight
 p3
-V=40
+V=60
 p4
 s."
 EndChar
@@ -5554,10 +5547,10 @@ Encoding: 127 769 126
 GlifName: acutecomb
 Width: 0
 VWidth: 0
-AnchorPoint: "top" -201 520 mark 0
+AnchorPoint: "top" -188 520 mark 0
 LayerCount: 2
 Fore
-Refer: 125 180 N 1 0 0 1 -330 0 2
+Refer: 125 180 N 1 0 0 1 -295 0 2
 EndChar
 
 StartChar: adieresis
@@ -5569,7 +5562,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 500 0 2
+Refer: 503 776 N 1 0 0 1 460 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -5735,8 +5728,8 @@ SplineSet
  187 405 139 378 135 330 c 257
  70 330 l 257
  77 417 154 470 243 470 c 256
- 340 470 423 432 423 319 c 258
- 422 86 l 258
+ 340 470 423 432 423 319 c 257
+ 422 86 l 257
  422 54 439 26 463 0 c 257
  373 0 l 257
  354 26 349 34 342 74 c 257
@@ -5796,7 +5789,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 133 229 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 451 0 2
+Refer: 126 769 N 1 0 0 1 438 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -6283,7 +6276,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 456 0 2
+Refer: 126 769 N 1 0 0 1 443 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -6457,7 +6450,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 395 0 2
+Refer: 502 775 N 1 0 0 1 345 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -6543,15 +6536,15 @@ AnchorPoint: "top" 170 520 mark 0
 LayerCount: 2
 Fore
 SplineSet
-0 520 m 257
- 100 700 l 257
- 240 700 l 257
- 340 520 l 257
+30 520 m 257
+ 130 680 l 257
+ 210 680 l 257
+ 310 520 l 257
  246 520 l 257
- 130 657 l 257
- 210 657 l 257
+ 150 627 l 257
+ 190 627 l 257
  94 520 l 257
- 0 520 l 257
+ 30 520 l 257
 EndSplineSet
 EndChar
 
@@ -6981,17 +6974,17 @@ EndChar
 StartChar: dotaccent
 Encoding: 179 729 178
 GlifName: dotaccent
-Width: 280
+Width: 180
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 140 520 mark 0
+AnchorPoint: "top" 90 520 mark 0
 LayerCount: 2
 Fore
 SplineSet
 50 520 m 257
- 50 660 l 257
- 230 660 l 257
- 230 520 l 257
+ 50 600 l 257
+ 130 600 l 257
+ 130 520 l 257
  50 520 l 257
 EndSplineSet
 EndChar
@@ -6999,27 +6992,27 @@ EndChar
 StartChar: dotlessi
 Encoding: 180 305 179
 GlifName: dotlessi
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-60 0 m 257
- 60 460 l 257
- 240 460 l 257
- 240 0 l 257
- 60 0 l 257
+80 0 m 257
+ 80 460 l 257
+ 160 460 l 257
+ 160 0 l 257
+ 80 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
-V=60
+V=80
 p2
 sVcom.fontlab.metricsRight
 p3
-V=60
+V=80
 p4
 s."
 EndChar
@@ -7036,7 +7029,7 @@ Fore
 SplineSet
 50 240 m 256
  50 360 119 470 259 470 c 256
- 399 470 468 360 468 240 c 258
+ 399 470 468 360 468 240 c 257
  468 210 l 257
  134 210 l 257
  134 140 179 58 259 58 c 256
@@ -7086,7 +7079,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 461 0 2
+Refer: 126 769 N 1 0 0 1 448 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -7186,7 +7179,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 510 0 2
+Refer: 503 776 N 1 0 0 1 470 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -7211,7 +7204,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 400 0 2
+Refer: 502 775 N 1 0 0 1 350 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -7273,7 +7266,7 @@ SplineSet
 129 205 m 256
  129 115 175 70 265 70 c 256
  355 70 404 115 404 205 c 256
- 404 296 352 338 265 339 c 256
+ 404 296 352 338 265 339 c 257
  187 339 129 280 129 205 c 256
 140 520 m 256
  140 460 175 403 265 403 c 256
@@ -7321,7 +7314,7 @@ SplineSet
 94 -92 m 256
  94 -149 126 -177 188 -177 c 256
  250 -177 284 -149 284 -92 c 256
- 284 -35 248 -9 188 -8 c 256
+ 284 -35 248 -9 188 -8 c 257
  134 -8 94 -45 94 -92 c 256
 103 115 m 256
  103 77 127 41 188 41 c 256
@@ -7354,7 +7347,7 @@ SplineSet
 94 -322 m 256
  94 -379 126 -407 188 -407 c 256
  250 -407 284 -379 284 -322 c 256
- 284 -265 248 -239 188 -238 c 256
+ 284 -265 248 -239 188 -238 c 257
  134 -238 94 -275 94 -322 c 256
 103 -115 m 256
  103 -153 127 -189 188 -189 c 256
@@ -7387,7 +7380,7 @@ SplineSet
 94 368 m 256
  94 311 126 283 188 283 c 256
  250 283 284 311 284 368 c 256
- 284 425 248 451 188 452 c 256
+ 284 425 248 451 188 452 c 257
  134 452 94 415 94 368 c 256
 103 575 m 256
  103 537 127 501 188 501 c 256
@@ -7420,7 +7413,7 @@ SplineSet
 94 -184 m 256
  94 -241 126 -269 188 -269 c 256
  250 -269 284 -241 284 -184 c 256
- 284 -127 248 -101 188 -100 c 256
+ 284 -127 248 -101 188 -100 c 257
  134 -100 94 -137 94 -184 c 256
 103 23 m 256
  103 -15 127 -51 188 -51 c 256
@@ -7453,7 +7446,7 @@ SplineSet
 94 552 m 256
  94 495 126 467 188 467 c 256
  250 467 284 495 284 552 c 256
- 284 609 248 635 188 636 c 256
+ 284 609 248 635 188 636 c 257
  134 636 94 599 94 552 c 256
 103 759 m 256
  103 721 127 685 188 685 c 256
@@ -8349,7 +8342,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 220 103 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 381 0 2
+Refer: 502 775 N 1 0 0 1 331 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8545,24 +8538,24 @@ EndChar
 StartChar: h
 Encoding: 236 104 235
 GlifName: h
-Width: 614
+Width: 539
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-394 470 m 256
- 543 470 549 362 549 295 c 258
- 549 0 l 257
- 369 0 l 257
- 369 255 l 258
- 369 299 360 365 312 365 c 256
- 256 365 230 310 230 210 c 257
- 191 210 l 257
- 191 351 l 257
- 235 351 l 257
- 210 338 l 257
- 246 394 297 470 394 470 c 256
+314 470 m 256
+ 463 470 469 362 469 295 c 258
+ 469 0 l 257
+ 389 0 l 257
+ 389 295 l 258
+ 389 339 380 405 292 405 c 256
+ 236 405 150 350 150 250 c 257
+ 111 250 l 257
+ 111 351 l 257
+ 155 351 l 257
+ 130 338 l 257
+ 166 394 217 470 314 470 c 256
 EndSplineSet
 Refer: 259 108 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -8570,6 +8563,10 @@ Vcom.fontlab.metricsLeft
 p1
 V=n
 p2
+sVcom.fontlab.metricsRight
+p3
+V=n
+p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" h.sc
 EndChar
@@ -8708,14 +8705,14 @@ EndChar
 StartChar: i
 Encoding: 242 105 241
 GlifName: i
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 290 0 2
+Refer: 502 775 N 1 0 0 1 210 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8748,14 +8745,14 @@ EndChar
 StartChar: iacute
 Encoding: 244 237 243
 GlifName: iacute
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 307 0 2
+Refer: 126 769 N 1 0 0 1 277 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8774,14 +8771,14 @@ EndChar
 StartChar: ibreve
 Encoding: 245 301 244
 GlifName: ibreve
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 501 774 N 1 0 0 1 355 0 2
+Refer: 501 774 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8800,14 +8797,14 @@ EndChar
 StartChar: icircumflex
 Encoding: 246 238 245
 GlifName: icircumflex
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 499 770 N 1 0 0 1 370 0 2
+Refer: 499 770 N 1 0 0 1 340 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8826,14 +8823,14 @@ EndChar
 StartChar: idieresis
 Encoding: 247 239 246
 GlifName: idieresis
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 400 0 2
+Refer: 503 776 N 1 0 0 1 330 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8852,14 +8849,14 @@ EndChar
 StartChar: igrave
 Encoding: 248 236 247
 GlifName: igrave
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 395 0 2
+Refer: 229 768 N 1 0 0 1 365 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -8922,7 +8919,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 500 772 N 1 0 0 1 325 50 2
-Refer: 179 305 N 1 0 0 1 40 0 2
+Refer: 179 305 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: iogonek
@@ -8959,14 +8956,14 @@ EndChar
 StartChar: itilde
 Encoding: 252 297 251
 GlifName: itilde
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 353 0 2
+Refer: 378 771 N 1 0 0 1 323 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -9158,17 +9155,17 @@ EndChar
 StartChar: l
 Encoding: 260 108 259
 GlifName: l
-Width: 280
+Width: 220
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
- 230 700 l 257
- 230 0 l 257
- 50 0 l 257
+70 0 m 257
+ 70 700 l 257
+ 150 700 l 257
+ 150 0 l 257
+ 70 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
@@ -9389,42 +9386,42 @@ EndChar
 StartChar: m
 Encoding: 270 109 269
 GlifName: m
-Width: 776
+Width: 816
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-576 470 m 256
- 720 470 726 362 726 295 c 258
- 726 0 l 257
- 646 0 l 257
- 646 295 l 258
- 646 339 637 405 554 405 c 256
- 500 405 417 350 417 250 c 257
- 378 250 l 257
- 378 351 l 257
- 422 351 l 257
- 397 338 l 257
- 432 394 482 470 576 470 c 256
-278 470 m 256
- 422 470 428 362 428 295 c 258
- 428 0 l 257
- 348 0 l 257
- 348 295 l 258
- 348 339 339 405 256 405 c 256
- 202 405 119 350 119 250 c 257
- 80 250 l 257
- 80 351 l 257
- 124 351 l 257
- 99 338 l 257
- 134 394 184 470 278 470 c 256
-50 0 m 257
- 50 460 l 257
- 110 460 l 257
- 130 360 l 257
- 130 0 l 257
- 50 0 l 257
+596 470 m 256
+ 740 470 746 362 746 295 c 258
+ 746 0 l 257
+ 666 0 l 257
+ 666 295 l 258
+ 666 339 657 405 574 405 c 256
+ 520 405 437 350 437 250 c 257
+ 398 250 l 257
+ 398 351 l 257
+ 442 351 l 257
+ 417 338 l 257
+ 452 394 502 470 596 470 c 256
+298 470 m 256
+ 442 470 448 362 448 295 c 258
+ 448 0 l 257
+ 368 0 l 257
+ 368 295 l 258
+ 368 339 359 405 276 405 c 256
+ 222 405 139 350 139 250 c 257
+ 100 250 l 257
+ 100 351 l 257
+ 144 351 l 257
+ 119 338 l 257
+ 154 394 204 470 298 470 c 256
+70 0 m 257
+ 70 460 l 257
+ 130 460 l 257
+ 150 360 l 257
+ 150 0 l 257
+ 70 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
@@ -9559,40 +9556,40 @@ EndChar
 StartChar: n
 Encoding: 276 110 275
 GlifName: n
-Width: 588
+Width: 528
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 244 520 basechar 0
+AnchorPoint: "top" 264 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 460 l 257
- 210 460 l 257
- 230 360 l 257
- 230 0 l 257
- 50 0 l 257
-383 470 m 256
- 532 470 538 362 538 295 c 258
- 538 0 l 257
- 358 0 l 257
- 358 255 l 258
- 358 299 349 365 301 365 c 256
- 245 365 219 310 219 210 c 257
- 180 210 l 257
- 180 351 l 257
- 224 351 l 257
- 199 338 l 257
- 235 394 286 470 383 470 c 256
+70 0 m 257
+ 70 460 l 257
+ 129 460 l 257
+ 149 360 l 257
+ 149 0 l 257
+ 70 0 l 257
+303 470 m 256
+ 452 470 458 362 458 295 c 258
+ 458 0 l 257
+ 378 0 l 257
+ 378 295 l 258
+ 378 339 369 405 281 405 c 256
+ 225 405 139 350 139 250 c 257
+ 100 250 l 257
+ 100 351 l 257
+ 144 351 l 257
+ 119 338 l 257
+ 155 394 206 470 303 470 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
-V=50
+V=70
 p2
 sVcom.fontlab.metricsRight
 p3
-V=50
+V=70
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" n.sc
@@ -9624,13 +9621,13 @@ EndChar
 StartChar: nacute
 Encoding: 278 324 277
 GlifName: nacute
-Width: 588
+Width: 528
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 445 0 2
+Refer: 126 769 N 1 0 0 1 452 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -9683,13 +9680,13 @@ EndChar
 StartChar: ncaron
 Encoding: 280 328 279
 GlifName: ncaron
-Width: 588
+Width: 528
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 464 0 2
+Refer: 156 780 N 1 0 0 1 484 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -9939,13 +9936,13 @@ EndChar
 StartChar: ntilde
 Encoding: 288 241 287
 GlifName: ntilde
-Width: 588
+Width: 528
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
-Refer: 378 771 N 1 0 0 1 447 0 2
+Refer: 378 771 N 1 0 0 1 467 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -10018,15 +10015,15 @@ LayerCount: 2
 Fore
 SplineSet
 240 -10 m 257
- 118 -10 35 88 35 230 c 256
- 35 371 120 470 240 470 c 257
+ 117 -10 35 86 35 230 c 256
+ 35 363 126 470 240 470 c 257
  240 405 l 257
  169 405 115 357 115 230 c 256
  115 109 170 55 240 55 c 257
  240 -10 l 257
 240 470 m 257
- 362 470 445 372 445 230 c 256
- 445 89 360 -10 240 -10 c 257
+ 363 470 445 374 445 230 c 256
+ 445 97 354 -10 240 -10 c 257
  240 55 l 257
  311 55 365 103 365 230 c 256
  365 351 310 405 240 405 c 257
@@ -10067,7 +10064,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 441 0 2
+Refer: 126 769 N 1 0 0 1 428 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -10142,7 +10139,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 490 0 2
+Refer: 503 776 N 1 0 0 1 450 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -10196,31 +10193,31 @@ EndChar
 StartChar: ogonek
 Encoding: 297 731 296
 GlifName: ogonek
-Width: 291
+Width: 289
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 165 0 mark 0
+AnchorPoint: "bottom" 148 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-40 -124 m 256
- 40 -70 77 -25 111 0 c 257
- 231 0 l 257
- 190 -31 181 -55 181 -74 c 256
- 181 -91 194 -100 208 -100 c 256
- 216 -100 226 -94 235 -87 c 257
- 251 -182 l 257
- 231 -196 188 -210 142 -210 c 256
- 79 -210 40 -180 40 -124 c 256
+60 -130 m 256
+ 60 -82 79 -42 122 0 c 257
+ 180 0 l 257
+ 138 -41 121 -73 121 -114 c 256
+ 121 -140 137 -155 167 -155 c 256
+ 181 -155 196 -150 207 -142 c 257
+ 229 -183 l 257
+ 209 -197 177 -210 150 -210 c 256
+ 93 -210 60 -180 60 -130 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
 Vcom.fontlab.metricsLeft
 p1
-V=40
+V=60
 p2
 sVcom.fontlab.metricsRight
 p3
-V=40
+V=60
 p4
 s."
 EndChar
@@ -11229,15 +11226,15 @@ LayerCount: 2
 Fore
 SplineSet
 45 0 m 257
- 225 0 l 257
- 225 251 l 257
- 241 305 279 334 333 334 c 256
- 364 334 401 324 429 309 c 257
- 429 459 l 257
- 414 468 392 473 371 473 c 256
- 309 473 252 430 225 362 c 257
- 221 362 l 257
- 205 460 l 257
+ 125 0 l 257
+ 125 233 l 257
+ 134 293 172 390 246 390 c 256
+ 278 390 312 379 335 359 c 257
+ 335 460 l 257
+ 317 466 295 470 272 470 c 256
+ 208 470 140 414 121 360 c 257
+ 125 358 l 257
+ 115 460 l 257
  45 460 l 257
  45 0 l 257
 EndSplineSet
@@ -11662,7 +11659,7 @@ SplineSet
  50 700 l 257
  510 700 l 257
  510 620 l 257
- 470 570 l 258
+ 470 570 l 257
  364 433 270 277 270 0 c 257
  225 0 l 257
  180 0 l 257
@@ -12192,7 +12189,7 @@ SplineSet
  189 417 l 257
  235 417 l 258
  309 417 340 433 340 532 c 256
- 340 589 299 630 232 630 c 257
+ 340 589 299 630 232 630 c 256
  177 630 126 601 126 551 c 257
  40 551 l 257
  40 657 131 710 230 710 c 256
@@ -12460,7 +12457,7 @@ SplineSet
  356 660 l 257
  342 573 306 540 266 540 c 256
  241 540 220 549 199 560 c 256
- 182 569 160 580 140 580 c 256
+ 182 569 160 580 140 580 c 257
  120 580 105 568 100 540 c 257
  50 540 l 257
 EndSplineSet
@@ -12483,7 +12480,7 @@ SplineSet
  -50 660 l 257
  -64 573 -100 540 -140 540 c 256
  -165 540 -186 549 -207 560 c 256
- -224 569 -246 580 -266 580 c 256
+ -224 569 -246 580 -266 580 c 257
  -286 580 -301 568 -306 540 c 257
  -356 540 l 257
 EndSplineSet
@@ -12765,7 +12762,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 386 117 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 440 0 2
+Refer: 126 769 N 1 0 0 1 427 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -12840,7 +12837,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 386 117 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 489 0 2
+Refer: 503 776 N 1 0 0 1 449 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13278,14 +13275,14 @@ EndChar
 StartChar: uni01C7
 Encoding: 412 455 411
 GlifName: uni01C_7
-Width: 888
+Width: 818
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 743 740 basechar 0
+AnchorPoint: "top" 713 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
-Refer: 55 74 N 1 0 0 1 510 0 2
+Refer: 55 74 N 1 0 0 1 520 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13304,14 +13301,14 @@ EndChar
 StartChar: uni01C8
 Encoding: 413 456 412
 GlifName: uni01C_8
-Width: 740
+Width: 750
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 95 740 basechar 0
+AnchorPoint: "top" 105 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
-Refer: 252 106 N 1 0 0 1 510 0 2
+Refer: 252 106 N 1 0 0 1 520 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13336,7 +13333,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 252 106 N 1 0 0 1 220 0 2
-Refer: 259 108 N 1 0 0 1 20 0 2
+Refer: 259 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CA
@@ -13348,7 +13345,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 55 74 N 1 0 0 1 600 0 2
-Refer: 66 78 N 1 0 0 1 -90 0 2
+Refer: 66 78 N 1 0 0 1 -50 0 2
 EndChar
 
 StartChar: uni01CB
@@ -13360,20 +13357,20 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 252 106 N 1 0 0 1 600 0 2
-Refer: 66 78 N 1 0 0 1 -90 0 2
+Refer: 66 78 N 1 0 0 1 -50 0 2
 EndChar
 
 StartChar: uni01CC
 Encoding: 417 460 416
 GlifName: uni01C_C_
-Width: 818
+Width: 758
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 244 520 basechar 0
+AnchorPoint: "top" 264 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
-Refer: 252 106 N 1 0 0 1 588 0 2
+Refer: 252 106 N 1 0 0 1 528 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13392,13 +13389,13 @@ EndChar
 StartChar: uni01CD
 Encoding: 418 461 417
 GlifName: uni01C_D_
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 154 711 N 1 0 0 1 155 220 2
+Refer: 154 711 N 1 0 0 1 95 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13442,13 +13439,13 @@ EndChar
 StartChar: uni01CF
 Encoding: 420 463 419
 GlifName: uni01C_F_
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 154 711 N 1 0 0 1 -30 220 2
+Refer: 154 711 N 1 0 0 1 -65 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13467,14 +13464,14 @@ EndChar
 StartChar: uni01D0
 Encoding: 421 464 420
 GlifName: uni01D_0
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 154 711 N 1 0 0 1 -20 0 2
+Refer: 154 711 N 1 0 0 1 -50 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13493,13 +13490,13 @@ EndChar
 StartChar: uni01D1
 Encoding: 422 465 421
 GlifName: uni01D_1
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 154 711 N 1 0 0 1 180 220 2
+Refer: 154 711 N 1 0 0 1 160 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13543,13 +13540,13 @@ EndChar
 StartChar: uni01D3
 Encoding: 424 467 423
 GlifName: uni01D_3
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 154 711 N 1 0 0 1 150 220 2
+Refer: 154 711 N 1 0 0 1 110 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13912,13 +13909,13 @@ EndChar
 StartChar: uni01DE
 Encoding: 435 478 434
 GlifName: uni01D_E_
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 6 196 N 1 0 0 1 0 0 2
-Refer: 500 772 N 1 0 0 1 510 240 2
+Refer: 500 772 N 1 0 0 1 450 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -13950,8 +13947,8 @@ SplineSet
  187 405 139 378 135 330 c 257
  70 330 l 257
  77 417 154 470 243 470 c 256
- 340 470 423 432 423 319 c 258
- 422 86 l 258
+ 340 470 423 432 423 319 c 257
+ 422 86 l 257
  422 54 439 26 463 0 c 257
  373 0 l 257
  354 26 349 34 342 74 c 257
@@ -14061,13 +14058,13 @@ EndChar
 StartChar: uni01E8
 Encoding: 439 488 438
 GlifName: uni01E_8
-Width: 710
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 57 75 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 575 240 2
+Refer: 156 780 N 1 0 0 1 500 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14265,13 +14262,13 @@ EndChar
 StartChar: uni01F1
 Encoding: 446 497 445
 GlifName: uni01F_1
-Width: 1255
+Width: 1100
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 21 68 N 1 0 0 1 0 0 2
-Refer: 116 90 N 1 0 0 1 640 0 2
+Refer: 116 90 N 1 0 0 1 590 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14286,13 +14283,13 @@ EndChar
 StartChar: uni01F2
 Encoding: 447 498 446
 GlifName: uni01F_2
-Width: 1090
+Width: 1040
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 21 68 N 1 0 0 1 0 0 2
-Refer: 711 122 N 1 0 0 1 640 0 2
+Refer: 711 122 N 1 0 0 1 590 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14334,7 +14331,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 521 220 2
+Refer: 126 769 N 1 0 0 1 508 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14371,14 +14368,14 @@ EndChar
 StartChar: uni01F8
 Encoding: 451 504 450
 GlifName: uni01F_8
-Width: 714
+Width: 658
 VWidth: 0
 Flags: W
-AnchorPoint: "bottom" 409 -60 basechar 0
+AnchorPoint: "bottom" 329 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 66 78 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 621 220 2
+Refer: 229 768 N 1 0 0 1 541 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14397,13 +14394,13 @@ EndChar
 StartChar: uni01F9
 Encoding: 452 505 451
 GlifName: uni01F_9
-Width: 588
+Width: 528
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
-Refer: 229 768 N 1 0 0 1 456 0 2
+Refer: 229 768 N 1 0 0 1 476 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14422,14 +14419,14 @@ EndChar
 StartChar: uni0200
 Encoding: 453 512 452
 GlifName: uni0200
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 325 740 basechar 0
+AnchorPoint: "top" 265 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 506 783 N 1 0 0 1 328 240 2
+Refer: 506 783 N 1 0 0 1 268 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14474,13 +14471,13 @@ EndChar
 StartChar: uni0202
 Encoding: 455 514 454
 GlifName: uni0202
-Width: 650
+Width: 530
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 507 785 N 1 0 0 1 530 220 2
+Refer: 507 785 N 1 0 0 1 470 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14626,14 +14623,14 @@ EndChar
 StartChar: uni0208
 Encoding: 461 520 460
 GlifName: uni0208
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 140 740 basechar 0
+AnchorPoint: "top" 105 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 506 783 N 1 0 0 1 143 240 2
+Refer: 506 783 N 1 0 0 1 108 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14652,14 +14649,14 @@ EndChar
 StartChar: uni0209
 Encoding: 462 521 461
 GlifName: uni0209
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 506 783 N 1 0 0 1 153 0 2
+Refer: 506 783 N 1 0 0 1 123 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14678,13 +14675,13 @@ EndChar
 StartChar: uni020A
 Encoding: 463 522 462
 GlifName: uni020A_
-Width: 280
+Width: 210
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 507 785 N 1 0 0 1 345 220 2
+Refer: 507 785 N 1 0 0 1 310 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14703,14 +14700,14 @@ EndChar
 StartChar: uni020B
 Encoding: 464 523 463
 GlifName: uni020B_
-Width: 300
+Width: 240
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 150 520 basechar 0
+AnchorPoint: "aboveLC" 120 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 507 785 N 1 0 0 1 355 0 2
+Refer: 507 785 N 1 0 0 1 325 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14729,14 +14726,14 @@ EndChar
 StartChar: uni020C
 Encoding: 465 524 464
 GlifName: uni020C_
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 350 740 basechar 0
+AnchorPoint: "top" 330 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 506 783 N 1 0 0 1 351 240 2
+Refer: 506 783 N 1 0 0 1 331 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14781,13 +14778,13 @@ EndChar
 StartChar: uni020E
 Encoding: 467 526 466
 GlifName: uni020E_
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 507 785 N 1 0 0 1 555 220 2
+Refer: 507 785 N 1 0 0 1 535 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -14961,14 +14958,14 @@ EndChar
 StartChar: uni0214
 Encoding: 473 532 472
 GlifName: uni0214
-Width: 640
+Width: 560
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 506 783 N 1 0 0 1 323 240 2
+Refer: 506 783 N 1 0 0 1 283 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -15024,7 +15021,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 507 785 N 1 0 0 1 480 200 2
-Refer: 97 85 N 1 0 0 1 -40 0 2
+Refer: 97 85 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0217
@@ -15173,7 +15170,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 178 729 N 1 0 0 1 185 230 2
-Refer: 1 65 N 1 0 0 1 -40 0 2
+Refer: 1 65 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: uni0227
@@ -15449,7 +15446,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
-Refer: 502 775 N 1 0 0 1 380 0 2
+Refer: 502 775 N 1 0 0 1 330 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -15483,20 +15480,20 @@ LayerCount: 2
 Fore
 SplineSet
 240 -10 m 257
- 118 -10 35 88 35 230 c 256
- 35 371 120 470 240 470 c 257
+ 117 -10 35 86 35 230 c 256
+ 35 363 126 470 240 470 c 257
  240 405 l 257
  169 405 115 357 115 230 c 256
  115 109 170 55 240 55 c 257
  240 -10 l 257
 200 560 m 257
- 200 700 l 257
- 380 700 l 257
- 380 560 l 257
+ 200 640 l 257
+ 280 640 l 257
+ 280 560 l 257
  200 560 l 257
 240 -10 m 257
- 118 -10 35 88 35 230 c 256
- 35 371 120 470 240 470 c 257
+ 117 -10 35 86 35 230 c 256
+ 35 363 126 470 240 470 c 257
  240 405 l 257
  169 405 115 357 115 230 c 256
  115 109 170 55 240 55 c 257
@@ -15724,10 +15721,10 @@ Encoding: 503 775 502
 GlifName: uni0307
 Width: 0
 VWidth: 0
-AnchorPoint: "top" -140 520 mark 0
+AnchorPoint: "top" -90 520 mark 0
 LayerCount: 2
 Fore
-Refer: 178 729 N 1 0 0 1 -280 0 2
+Refer: 178 729 N 1 0 0 1 -180 0 2
 EndChar
 
 StartChar: uni0308
@@ -15735,20 +15732,20 @@ Encoding: 504 776 503
 GlifName: uni0308
 Width: 0
 VWidth: 0
-AnchorPoint: "top" -250 520 mark 0
+AnchorPoint: "top" -210 520 mark 0
 LayerCount: 2
 Fore
 SplineSet
--470 520 m 257
- -470 700 l 257
- -290 700 l 257
- -290 520 l 257
- -470 520 l 257
--210 520 m 257
- -210 700 l 257
- -30 700 l 257
- -30 520 l 257
- -210 520 l 257
+-340 520 m 257
+ -340 610 l 257
+ -250 610 l 257
+ -250 520 l 257
+ -340 520 l 257
+-170 520 m 257
+ -170 610 l 257
+ -80 610 l 257
+ -80 520 l 257
+ -170 520 l 257
 EndSplineSet
 EndChar
 
@@ -15980,7 +15977,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 536 1045 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 505 220 2
+Refer: 503 776 N 1 0 0 1 465 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -15995,17 +15992,17 @@ EndChar
 StartChar: uni0402
 Encoding: 517 1026 516
 GlifName: uni0402
-Width: 1314
+Width: 1239
 VWidth: 0
 Flags: W
 AnchorPoint: "top" 240 740 basechar 0
 AnchorPoint: "bottom" 240 -60 basechar 0
-AnchorPoint: "aboveLC" 1204 520 basechar 0
+AnchorPoint: "aboveLC" 1129 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 94 84 N 1 0 0 1 0 0 2
 Refer: 235 104 N 1 0 0 1 480 0 2
-Refer: 494 567 N 1 0 0 1 1094 0 2
+Refer: 494 567 N 1 0 0 1 1019 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -16087,7 +16084,7 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 44 73 N 1 0 0 1 0 0 2
+Refer: 44 73 N 1 0 0 1 -10 0 2
 EndChar
 
 StartChar: uni0407
@@ -16099,7 +16096,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 520 1030 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 345 240 2
+Refer: 503 776 N 1 0 0 1 305 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -16208,13 +16205,13 @@ EndChar
 StartChar: uni040C
 Encoding: 527 1036 526
 GlifName: uni040C_
-Width: 710
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 541 1050 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 512 240 2
+Refer: 126 769 N 1 0 0 1 437 240 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -16300,7 +16297,7 @@ Flags: W
 AnchorPoint: "aboveUC" 285 740 basechar 0
 LayerCount: 2
 Fore
-Refer: 1 65 N 1 0 0 1 -40 0 2
+Refer: 1 65 N 1 0 0 1 20 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0430.sc
 EndChar
 
@@ -16365,11 +16362,11 @@ Fore
 SplineSet
 110 680 m 257
  460 680 l 257
- 460 530 l 257
- 110 530 l 257
+ 460 600 l 257
+ 110 600 l 257
  110 680 l 257
 EndSplineSet
-Refer: 44 73 N 1 0 0 1 0 0 2
+Refer: 44 73 N 1 0 0 1 -10 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0433.sc
 EndChar
 
@@ -16570,7 +16567,7 @@ EndChar
 StartChar: uni041A
 Encoding: 542 1050 541
 GlifName: uni041A_
-Width: 710
+Width: 560
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -16638,10 +16635,10 @@ EndChar
 StartChar: uni041C
 Encoding: 545 1052 544
 GlifName: uni041C_
-Width: 890
+Width: 770
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 445 740 basechar 0
+AnchorPoint: "top" 385 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 65 77 N 1 0 0 1 0 0 2
@@ -16660,7 +16657,7 @@ EndChar
 StartChar: uni041D
 Encoding: 546 1053 545
 GlifName: uni041D_
-Width: 660
+Width: 600
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -16681,10 +16678,10 @@ EndChar
 StartChar: uni041E
 Encoding: 547 1054 546
 GlifName: uni041E_
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 350 740 basechar 0
+AnchorPoint: "top" 330 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
@@ -16749,8 +16746,8 @@ GlifName: uni0421
 Width: 645
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 340 740 basechar 0
-AnchorPoint: "bottom" 350 -60 basechar 0
+AnchorPoint: "top" 320 740 basechar 0
+AnchorPoint: "bottom" 320 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
@@ -17220,7 +17217,7 @@ SplineSet
  345 678 384 688 416 700 c 257
  416 620 l 257
  396 614 356 606 322 599 c 256
- 243 584 139 557 139 421 c 256
+ 243 584 139 557 139 421 c 257
  139 410 138 394 134 371 c 257
  166 432 218 470 299 470 c 256
  429 470 504 374 504 240 c 257
@@ -17269,7 +17266,7 @@ LayerCount: 2
 Fore
 SplineSet
 150 270 m 257
- 261 270 l 258
+ 261 270 l 257
  307 270 346 279 346 330 c 256
  346 367 309 395 261 395 c 258
  150 395 l 257
@@ -17321,7 +17318,7 @@ SplineSet
  212 463 245 469 279 469 c 256
  293 469 307 467 322 462 c 257
  338 487 351 521 351 550 c 256
- 351 598 312 634 239 635 c 256
+ 351 598 312 634 239 635 c 257
  145 635 125 555 125 471 c 257
  126 471 l 257
  127 440 127 414 127 390 c 256
@@ -17716,10 +17713,10 @@ SplineSet
  136 150 l 257
  144 86 199 66 253 66 c 256
  303 66 370 80 370 138 c 256
- 370 188 345 210 278 210 c 258
+ 370 188 345 210 278 210 c 257
  208 210 l 257
  208 275 l 257
- 277 275 l 258
+ 277 275 l 257
  339 275 360 301 360 331 c 256
  360 371 322 394 253 394 c 256
  197 394 149 367 140 320 c 257
@@ -17978,7 +17975,7 @@ SplineSet
  376 174 389 106 393 88 c 256
  400 55 413 50 430 45 c 257
  430 -10 l 257
- 404 -10 l 258
+ 404 -10 l 257
  370 -10 336 7 325 59 c 256
  315 107 315 134 287 168 c 256
  268 191 236 205 217 205 c 258
@@ -18298,10 +18295,10 @@ EndChar
 StartChar: uni043F.loclBGR
 Encoding: 605 -1 604
 GlifName: uni043F_.loclB_G_R_
-Width: 588
+Width: 528
 VWidth: 0
 Flags: W
-AnchorPoint: "top" 244 520 basechar 0
+AnchorPoint: "top" 264 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
@@ -18453,7 +18450,7 @@ EndChar
 StartChar: uni0442.loclBGR
 Encoding: 612 -1 611
 GlifName: uni0442.loclB_G_R_
-Width: 776
+Width: 816
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -19571,7 +19568,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 175 168 N 1 0 0 1 -29 40 2
-Refer: 179 305 N 1 0 0 1 40 0 2
+Refer: 179 305 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: uni0458
@@ -19597,7 +19594,7 @@ SplineSet
 41 -3 m 257
  41 60 l 257
  50 56 63 55 75 55 c 256
- 121 55 160 136 160 290 c 258
+ 121 55 160 136 160 290 c 257
  159 460 l 257
  499 460 l 257
  499 305 l 257
@@ -19607,7 +19604,7 @@ SplineSet
  420 0 l 257
  420 405 l 257
  240 405 l 257
- 241 290 l 258
+ 241 290 l 257
  241 149 189 -10 94 -10 c 256
  74 -10 56 -7 41 -3 c 257
 500 65 m 257
@@ -19792,8 +19789,8 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 148 728 N 1 0 0 1 80 230 2
-Refer: 1 65 N 1 0 0 1 -40 0 2
-Refer: 1 65 N 1 0 0 1 -40 0 2
+Refer: 1 65 N 1 0 0 1 20 0 2
+Refer: 1 65 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: uni04D1
@@ -19818,8 +19815,8 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 175 168 N 1 0 0 1 116 240 2
-Refer: 1 65 N 1 0 0 1 -40 0 2
-Refer: 1 65 N 1 0 0 1 -40 0 2
+Refer: 1 65 N 1 0 0 1 20 0 2
+Refer: 1 65 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: uni04D3
@@ -19832,7 +19829,7 @@ AnchorPoint: "aboveLC" 250 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 564 1072 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 497 0 2
+Refer: 503 776 N 1 0 0 1 457 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -20151,13 +20148,13 @@ EndChar
 StartChar: uni04E6
 Encoding: 679 1254 678
 GlifName: uni04E_6
-Width: 696
+Width: 656
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 546 1054 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 600 220 2
+Refer: 503 776 N 1 0 0 1 540 220 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -20182,7 +20179,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 601 1086 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 490 0 2
+Refer: 503 776 N 1 0 0 1 450 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -21070,7 +21067,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 705 121 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 480 0 2
+Refer: 503 776 N 1 0 0 1 440 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1

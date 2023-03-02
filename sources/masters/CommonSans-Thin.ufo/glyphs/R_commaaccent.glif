@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="2">
-  <advance width="580"/>
+  <advance width="530"/>
   <unicode hex="0156"/>
+  <anchor x="260" y="740" name="top"/>
   <outline>
+    <component base="R"/>
     <component base="uni0326" xOffset="370"/>
-    <contour>
-      <point x="293" y="290" type="line"/>
-      <point x="480" y="0" type="line"/>
-      <point x="506" y="0" type="line"/>
-      <point x="319" y="290" type="line"/>
-    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
