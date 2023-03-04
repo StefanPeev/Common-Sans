@@ -7,7 +7,7 @@
   <outline>
     <component base="P"/>
     <contour>
-      <point x="222" y="300" type="line"/>
+      <point x="238" y="300" type="line"/>
       <point x="340" y="0" type="line"/>
       <point x="530" y="0" type="line"/>
       <point x="412" y="300" type="line"/>

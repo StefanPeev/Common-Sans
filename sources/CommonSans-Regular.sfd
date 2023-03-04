@@ -4,7 +4,7 @@ FullName: Common Sans Regular
 FamilyName: Common Sans
 Weight: Normal
 Copyright: Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved.
-Version: 1.1
+Version: 1.2
 StyleMapFamilyName: Common Sans
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -22,8 +22,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1677794801
-ModificationTime: 1677794801
+CreationTime: 1677930889
+ModificationTime: 1677930889
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -485,7 +485,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 001.000 " "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Regular"
+LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 1.002" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Regular"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -4413,11 +4413,11 @@ AnchorPoint: "bottom" 280 -60 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-242 300 m 257
+285 310 m 257
  410 0 l 257
  520 0 l 257
- 352 300 l 257
- 242 300 l 257
+ 390 310 l 257
+ 285 310 l 257
 EndSplineSet
 Refer: 82 80 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
@@ -19825,11 +19825,10 @@ GlifName: uni04D_3
 Width: 493
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveLC" 250 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 564 1072 N 1 0 0 1 0 0 2
-Refer: 503 776 N 1 0 0 1 457 0 2
+Refer: 503 776 N 1 0 0 1 460 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
