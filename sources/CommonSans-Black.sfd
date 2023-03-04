@@ -4,7 +4,7 @@ FullName: Common Sans Black
 FamilyName: Common Sans
 Weight: Black
 Copyright: Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved.
-Version: 1.2
+Version: 1.4
 StyleMapFamilyName: Common Sans
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -22,8 +22,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1677930916
-ModificationTime: 1677930916
+CreationTime: 1677950196
+ModificationTime: 1677950196
 PfmFamily: 16
 TTFWeight: 900
 TTFWidth: 5
@@ -485,7 +485,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 1.002" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Black"
+LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 1.004" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Black"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -1991,7 +1991,7 @@ p741
 aVzero.superior
 p742
 as."
-Encoding: Custom
+Encoding: iso8859-5
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -2013,10 +2013,10 @@ NamedP: "m"
  1000 250 l 1024
 EndSplineSet
 AnchorClass2: "aboveLC"""  "aboveUC"""  "bottom"""  "top""" 
-BeginChars: 723 722
+BeginChars: 787 722
 
 StartChar: .notdef
-Encoding: 0 -1 0
+Encoding: 256 -1 0
 GlifName: _notdef
 Width: 1000
 VWidth: 0
@@ -2110,7 +2110,7 @@ EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 1 65 1
+Encoding: 65 65 1
 GlifName: A_
 Width: 650
 VWidth: 0
@@ -2154,7 +2154,7 @@ Substitution2: "Single Substitution lookup 31 subtable" ordfeminine
 EndChar
 
 StartChar: AE
-Encoding: 2 198 2
+Encoding: 257 198 2
 GlifName: A_E_
 Width: 830
 VWidth: 0
@@ -2188,7 +2188,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aacute
-Encoding: 3 193 3
+Encoding: 258 193 3
 GlifName: A_acute
 Width: 650
 VWidth: 0
@@ -2213,7 +2213,7 @@ s."
 EndChar
 
 StartChar: Abreve
-Encoding: 4 258 4
+Encoding: 259 258 4
 GlifName: A_breve
 Width: 650
 VWidth: 0
@@ -2238,7 +2238,7 @@ s."
 EndChar
 
 StartChar: Acircumflex
-Encoding: 5 194 5
+Encoding: 260 194 5
 GlifName: A_circumflex
 Width: 650
 VWidth: 0
@@ -2263,7 +2263,7 @@ s."
 EndChar
 
 StartChar: Adieresis
-Encoding: 6 196 6
+Encoding: 261 196 6
 GlifName: A_dieresis
 Width: 650
 VWidth: 0
@@ -2288,7 +2288,7 @@ s."
 EndChar
 
 StartChar: Agrave
-Encoding: 7 192 7
+Encoding: 262 192 7
 GlifName: A_grave
 Width: 650
 VWidth: 0
@@ -2313,7 +2313,7 @@ s."
 EndChar
 
 StartChar: Amacron
-Encoding: 8 256 8
+Encoding: 263 256 8
 GlifName: A_macron
 Width: 650
 VWidth: 0
@@ -2338,7 +2338,7 @@ s."
 EndChar
 
 StartChar: Aogonek
-Encoding: 9 260 9
+Encoding: 264 260 9
 GlifName: A_ogonek
 Width: 560
 VWidth: 0
@@ -2374,7 +2374,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aring
-Encoding: 10 197 10
+Encoding: 265 197 10
 GlifName: A_ring
 Width: 650
 VWidth: 0
@@ -2400,7 +2400,7 @@ s."
 EndChar
 
 StartChar: Aringacute
-Encoding: 11 506 11
+Encoding: 266 506 11
 GlifName: A_ringacute
 Width: 650
 VWidth: 0
@@ -2425,7 +2425,7 @@ s."
 EndChar
 
 StartChar: Atilde
-Encoding: 12 195 12
+Encoding: 267 195 12
 GlifName: A_tilde
 Width: 650
 VWidth: 0
@@ -2450,7 +2450,7 @@ s."
 EndChar
 
 StartChar: B
-Encoding: 13 66 13
+Encoding: 66 66 13
 GlifName: B_
 Width: 620
 VWidth: 0
@@ -2498,7 +2498,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" b.sc
 EndChar
 
 StartChar: C
-Encoding: 14 67 14
+Encoding: 67 67 14
 GlifName: C_
 Width: 645
 VWidth: 0
@@ -2540,7 +2540,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" c.sc
 EndChar
 
 StartChar: CR
-Encoding: 15 -1 15
+Encoding: 268 -1 15
 GlifName: C_R_
 Width: 222
 VWidth: 0
@@ -2549,7 +2549,7 @@ LayerCount: 2
 EndChar
 
 StartChar: Cacute
-Encoding: 16 262 16
+Encoding: 269 262 16
 GlifName: C_acute
 Width: 645
 VWidth: 0
@@ -2575,7 +2575,7 @@ s."
 EndChar
 
 StartChar: Ccaron
-Encoding: 17 268 17
+Encoding: 270 268 17
 GlifName: C_caron
 Width: 645
 VWidth: 0
@@ -2601,7 +2601,7 @@ s."
 EndChar
 
 StartChar: Ccedilla
-Encoding: 18 199 18
+Encoding: 271 199 18
 GlifName: C_cedilla
 Width: 645
 VWidth: 0
@@ -2624,7 +2624,7 @@ s."
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 19 264 19
+Encoding: 272 264 19
 GlifName: C_circumflex
 Width: 645
 VWidth: 0
@@ -2650,7 +2650,7 @@ s."
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 20 266 20
+Encoding: 273 266 20
 GlifName: C_dotaccent
 Width: 645
 VWidth: 0
@@ -2676,7 +2676,7 @@ s."
 EndChar
 
 StartChar: D
-Encoding: 21 68 21
+Encoding: 68 68 21
 GlifName: D_
 Width: 640
 VWidth: 0
@@ -2711,7 +2711,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" d.sc
 EndChar
 
 StartChar: Dcaron
-Encoding: 22 270 22
+Encoding: 274 270 22
 GlifName: D_caron
 Width: 640
 VWidth: 0
@@ -2736,7 +2736,7 @@ s."
 EndChar
 
 StartChar: Dcroat
-Encoding: 23 272 23
+Encoding: 275 272 23
 GlifName: D_croat
 Width: 705
 VWidth: 0
@@ -2768,7 +2768,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 24 69 24
+Encoding: 69 69 24
 GlifName: E_
 Width: 510
 VWidth: 0
@@ -2804,7 +2804,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" e.sc
 EndChar
 
 StartChar: Eacute
-Encoding: 25 201 25
+Encoding: 276 201 25
 GlifName: E_acute
 Width: 510
 VWidth: 0
@@ -2829,7 +2829,7 @@ s."
 EndChar
 
 StartChar: Ebreve
-Encoding: 26 276 26
+Encoding: 277 276 26
 GlifName: E_breve
 Width: 510
 VWidth: 0
@@ -2854,7 +2854,7 @@ s."
 EndChar
 
 StartChar: Ecaron
-Encoding: 27 282 27
+Encoding: 278 282 27
 GlifName: E_caron
 Width: 510
 VWidth: 0
@@ -2879,7 +2879,7 @@ s."
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 28 202 28
+Encoding: 279 202 28
 GlifName: E_circumflex
 Width: 510
 VWidth: 0
@@ -2904,7 +2904,7 @@ s."
 EndChar
 
 StartChar: Edieresis
-Encoding: 29 203 29
+Encoding: 280 203 29
 GlifName: E_dieresis
 Width: 510
 VWidth: 0
@@ -2929,7 +2929,7 @@ s."
 EndChar
 
 StartChar: Edotaccent
-Encoding: 30 278 30
+Encoding: 281 278 30
 GlifName: E_dotaccent
 Width: 510
 VWidth: 0
@@ -2954,7 +2954,7 @@ s."
 EndChar
 
 StartChar: Egrave
-Encoding: 31 200 31
+Encoding: 282 200 31
 GlifName: E_grave
 Width: 510
 VWidth: 0
@@ -2979,7 +2979,7 @@ s."
 EndChar
 
 StartChar: Emacron
-Encoding: 32 274 32
+Encoding: 283 274 32
 GlifName: E_macron
 Width: 510
 VWidth: 0
@@ -3004,7 +3004,7 @@ s."
 EndChar
 
 StartChar: Eogonek
-Encoding: 33 280 33
+Encoding: 284 280 33
 GlifName: E_ogonek
 Width: 510
 VWidth: 0
@@ -3039,7 +3039,7 @@ EndSplineSet
 EndChar
 
 StartChar: Eth
-Encoding: 34 208 34
+Encoding: 285 208 34
 GlifName: E_th
 Width: 660
 VWidth: 0
@@ -3072,7 +3072,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 35 70 35
+Encoding: 70 70 35
 GlifName: F_
 Width: 510
 VWidth: 0
@@ -3106,7 +3106,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" f.sc
 EndChar
 
 StartChar: G
-Encoding: 36 71 36
+Encoding: 71 71 36
 GlifName: G_
 Width: 647
 VWidth: 0
@@ -3150,7 +3150,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" g.sc
 EndChar
 
 StartChar: Gbreve
-Encoding: 37 286 37
+Encoding: 286 286 37
 GlifName: G_breve
 Width: 647
 VWidth: 0
@@ -3175,7 +3175,7 @@ s."
 EndChar
 
 StartChar: Gcaron
-Encoding: 38 486 38
+Encoding: 287 486 38
 GlifName: G_caron
 Width: 647
 VWidth: 0
@@ -3213,7 +3213,7 @@ EndSplineSet
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 39 284 39
+Encoding: 288 284 39
 GlifName: G_circumflex
 Width: 647
 VWidth: 0
@@ -3238,7 +3238,7 @@ s."
 EndChar
 
 StartChar: Gcommaaccent
-Encoding: 40 290 40
+Encoding: 289 290 40
 GlifName: G_commaaccent
 Width: 647
 VWidth: 0
@@ -3264,7 +3264,7 @@ s."
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 41 288 41
+Encoding: 290 288 41
 GlifName: G_dotaccent
 Width: 647
 VWidth: 0
@@ -3289,7 +3289,7 @@ s."
 EndChar
 
 StartChar: H
-Encoding: 42 72 42
+Encoding: 72 72 42
 GlifName: H_
 Width: 660
 VWidth: 0
@@ -3319,7 +3319,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" h.sc
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 43 292 43
+Encoding: 291 292 43
 GlifName: H_circumflex
 Width: 660
 VWidth: 0
@@ -3340,7 +3340,7 @@ s."
 EndChar
 
 StartChar: I
-Encoding: 44 73 44
+Encoding: 73 73 44
 GlifName: I_
 Width: 280
 VWidth: 0
@@ -3370,7 +3370,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" i.sc
 EndChar
 
 StartChar: IJ
-Encoding: 45 306 45
+Encoding: 292 306 45
 GlifName: I_J_
 Width: 418
 VWidth: 0
@@ -3396,7 +3396,7 @@ EndSplineSet
 EndChar
 
 StartChar: Iacute
-Encoding: 46 205 46
+Encoding: 293 205 46
 GlifName: I_acute
 Width: 280
 VWidth: 0
@@ -3421,7 +3421,7 @@ s."
 EndChar
 
 StartChar: Ibreve
-Encoding: 47 300 47
+Encoding: 294 300 47
 GlifName: I_breve
 Width: 280
 VWidth: 0
@@ -3446,7 +3446,7 @@ s."
 EndChar
 
 StartChar: Icircumflex
-Encoding: 48 206 48
+Encoding: 295 206 48
 GlifName: I_circumflex
 Width: 280
 VWidth: 0
@@ -3471,7 +3471,7 @@ s."
 EndChar
 
 StartChar: Idieresis
-Encoding: 49 207 49
+Encoding: 296 207 49
 GlifName: I_dieresis
 Width: 280
 VWidth: 0
@@ -3496,7 +3496,7 @@ s."
 EndChar
 
 StartChar: Idotaccent
-Encoding: 50 304 50
+Encoding: 297 304 50
 GlifName: I_dotaccent
 Width: 280
 VWidth: 0
@@ -3517,7 +3517,7 @@ s."
 EndChar
 
 StartChar: Igrave
-Encoding: 51 204 51
+Encoding: 298 204 51
 GlifName: I_grave
 Width: 280
 VWidth: 0
@@ -3542,7 +3542,7 @@ s."
 EndChar
 
 StartChar: Imacron
-Encoding: 52 298 52
+Encoding: 299 298 52
 GlifName: I_macron
 Width: 190
 VWidth: 0
@@ -3554,7 +3554,7 @@ Refer: 44 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Iogonek
-Encoding: 53 302 53
+Encoding: 300 302 53
 GlifName: I_ogonek
 Width: 280
 VWidth: 0
@@ -3576,7 +3576,7 @@ s."
 EndChar
 
 StartChar: Itilde
-Encoding: 54 296 54
+Encoding: 301 296 54
 GlifName: I_tilde
 Width: 280
 VWidth: 0
@@ -3601,7 +3601,7 @@ s."
 EndChar
 
 StartChar: J
-Encoding: 55 74 55
+Encoding: 74 74 55
 GlifName: J_
 Width: 378
 VWidth: 0
@@ -3630,7 +3630,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" j.sc
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 56 308 56
+Encoding: 302 308 56
 GlifName: J_circumflex
 Width: 286
 VWidth: 0
@@ -3642,7 +3642,7 @@ Refer: 55 74 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: K
-Encoding: 57 75 57
+Encoding: 75 75 57
 GlifName: K_
 Width: 710
 VWidth: 0
@@ -3681,7 +3681,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" k.sc
 EndChar
 
 StartChar: Kcommaaccent
-Encoding: 58 310 58
+Encoding: 303 310 58
 GlifName: K_commaaccent
 Width: 710
 VWidth: 0
@@ -3702,7 +3702,7 @@ s."
 EndChar
 
 StartChar: L
-Encoding: 59 76 59
+Encoding: 76 76 59
 GlifName: L_
 Width: 510
 VWidth: 0
@@ -3728,7 +3728,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" l.sc
 EndChar
 
 StartChar: Lacute
-Encoding: 60 313 60
+Encoding: 304 313 60
 GlifName: L_acute
 Width: 510
 VWidth: 0
@@ -3749,7 +3749,7 @@ s."
 EndChar
 
 StartChar: Lcaron
-Encoding: 61 317 61
+Encoding: 305 317 61
 GlifName: L_caron
 Width: 510
 VWidth: 0
@@ -3776,7 +3776,7 @@ EndSplineSet
 EndChar
 
 StartChar: Lcommaaccent
-Encoding: 62 315 62
+Encoding: 306 315 62
 GlifName: L_commaaccent
 Width: 510
 VWidth: 0
@@ -3803,7 +3803,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ldot
-Encoding: 63 319 63
+Encoding: 307 319 63
 GlifName: L_dot
 Width: 510
 VWidth: 0
@@ -3827,7 +3827,7 @@ EndSplineSet
 EndChar
 
 StartChar: Lslash
-Encoding: 64 321 64
+Encoding: 308 321 64
 GlifName: L_slash
 Width: 610
 VWidth: 0
@@ -3854,7 +3854,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 65 77 65
+Encoding: 77 77 65
 GlifName: M_
 Width: 890
 VWidth: 0
@@ -3906,7 +3906,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" m.sc
 EndChar
 
 StartChar: N
-Encoding: 66 78 66
+Encoding: 78 78 66
 GlifName: N_
 Width: 714
 VWidth: 0
@@ -3949,7 +3949,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" n.sc
 EndChar
 
 StartChar: Nacute
-Encoding: 68 323 67
+Encoding: 310 323 67
 GlifName: N_acute
 Width: 600
 VWidth: 0
@@ -3967,7 +3967,7 @@ Refer: 66 78 N 1 0 0 1 -90 0 2
 EndChar
 
 StartChar: Ncaron
-Encoding: 69 327 68
+Encoding: 311 327 68
 GlifName: N_caron
 Width: 560
 VWidth: 0
@@ -3998,7 +3998,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ncommaaccent
-Encoding: 70 325 69
+Encoding: 312 325 69
 GlifName: N_commaaccent
 Width: 600
 VWidth: 0
@@ -4010,7 +4010,7 @@ Refer: 66 78 N 1 0 0 1 -90 0 2
 EndChar
 
 StartChar: Ntilde
-Encoding: 71 209 70
+Encoding: 313 209 70
 GlifName: N_tilde
 Width: 714
 VWidth: 0
@@ -4032,7 +4032,7 @@ s."
 EndChar
 
 StartChar: O
-Encoding: 72 79 71
+Encoding: 79 79 71
 GlifName: O_
 Width: 696
 VWidth: 0
@@ -4071,7 +4071,7 @@ Substitution2: "Single Substitution lookup 32 subtable" ordmasculine
 EndChar
 
 StartChar: OE
-Encoding: 73 338 72
+Encoding: 314 338 72
 GlifName: O_E_
 Width: 980
 VWidth: 0
@@ -4107,7 +4107,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oacute
-Encoding: 74 211 73
+Encoding: 315 211 73
 GlifName: O_acute
 Width: 696
 VWidth: 0
@@ -4132,7 +4132,7 @@ s."
 EndChar
 
 StartChar: Obreve
-Encoding: 75 334 74
+Encoding: 316 334 74
 GlifName: O_breve
 Width: 696
 VWidth: 0
@@ -4157,7 +4157,7 @@ s."
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 76 212 75
+Encoding: 317 212 75
 GlifName: O_circumflex
 Width: 696
 VWidth: 0
@@ -4182,7 +4182,7 @@ s."
 EndChar
 
 StartChar: Odieresis
-Encoding: 77 214 76
+Encoding: 318 214 76
 GlifName: O_dieresis
 Width: 696
 VWidth: 0
@@ -4207,7 +4207,7 @@ s."
 EndChar
 
 StartChar: Ograve
-Encoding: 78 210 77
+Encoding: 319 210 77
 GlifName: O_grave
 Width: 696
 VWidth: 0
@@ -4232,7 +4232,7 @@ s."
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 79 336 78
+Encoding: 320 336 78
 GlifName: O_hungarumlaut
 Width: 696
 VWidth: 0
@@ -4258,7 +4258,7 @@ s."
 EndChar
 
 StartChar: Omacron
-Encoding: 80 332 79
+Encoding: 321 332 79
 GlifName: O_macron
 Width: 696
 VWidth: 0
@@ -4283,7 +4283,7 @@ s."
 EndChar
 
 StartChar: Oslash
-Encoding: 81 216 80
+Encoding: 322 216 80
 GlifName: O_slash
 Width: 660
 VWidth: 0
@@ -4319,7 +4319,7 @@ EndSplineSet
 EndChar
 
 StartChar: Otilde
-Encoding: 82 213 81
+Encoding: 323 213 81
 GlifName: O_tilde
 Width: 696
 VWidth: 0
@@ -4344,7 +4344,7 @@ s."
 EndChar
 
 StartChar: P
-Encoding: 83 80 82
+Encoding: 80 80 82
 GlifName: P_
 Width: 580
 VWidth: 0
@@ -4369,7 +4369,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" p.sc
 EndChar
 
 StartChar: Q
-Encoding: 84 81 83
+Encoding: 81 81 83
 GlifName: Q_
 Width: 696
 VWidth: 0
@@ -4407,7 +4407,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" q.sc
 EndChar
 
 StartChar: R
-Encoding: 85 82 84
+Encoding: 82 82 84
 GlifName: R_
 Width: 540
 VWidth: 0
@@ -4438,7 +4438,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" r.sc
 EndChar
 
 StartChar: Racute
-Encoding: 86 340 85
+Encoding: 324 340 85
 GlifName: R_acute
 Width: 540
 VWidth: 0
@@ -4464,7 +4464,7 @@ s."
 EndChar
 
 StartChar: Rcaron
-Encoding: 87 344 86
+Encoding: 325 344 86
 GlifName: R_caron
 Width: 540
 VWidth: 0
@@ -4490,7 +4490,7 @@ s."
 EndChar
 
 StartChar: Rcommaaccent
-Encoding: 88 342 87
+Encoding: 326 342 87
 GlifName: R_commaaccent
 Width: 540
 VWidth: 0
@@ -4516,7 +4516,7 @@ s."
 EndChar
 
 StartChar: S
-Encoding: 89 83 88
+Encoding: 83 83 88
 GlifName: S_
 Width: 581
 VWidth: 0
@@ -4558,7 +4558,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" s.sc
 EndChar
 
 StartChar: Sacute
-Encoding: 90 346 89
+Encoding: 327 346 89
 GlifName: S_acute
 Width: 582
 VWidth: 0
@@ -4576,7 +4576,7 @@ Refer: 88 83 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: Scaron
-Encoding: 91 352 90
+Encoding: 328 352 90
 GlifName: S_caron
 Width: 582
 VWidth: 0
@@ -4588,7 +4588,7 @@ Refer: 88 83 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: Scedilla
-Encoding: 92 350 91
+Encoding: 329 350 91
 GlifName: S_cedilla
 Width: 582
 VWidth: 0
@@ -4626,7 +4626,7 @@ EndSplineSet
 EndChar
 
 StartChar: Scircumflex
-Encoding: 93 348 92
+Encoding: 330 348 92
 GlifName: S_circumflex
 Width: 582
 VWidth: 0
@@ -4638,7 +4638,7 @@ Refer: 88 83 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: Scommaaccent
-Encoding: 94 536 93
+Encoding: 331 536 93
 GlifName: S_commaaccent
 Width: 582
 VWidth: 0
@@ -4650,7 +4650,7 @@ Refer: 88 83 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: T
-Encoding: 95 84 94
+Encoding: 84 84 94
 GlifName: T_
 Width: 480
 VWidth: 0
@@ -4682,7 +4682,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" t.sc
 EndChar
 
 StartChar: Tbar
-Encoding: 96 358 95
+Encoding: 332 358 95
 GlifName: T_bar
 Width: 560
 VWidth: 0
@@ -4711,7 +4711,7 @@ EndSplineSet
 EndChar
 
 StartChar: Tcaron
-Encoding: 97 356 96
+Encoding: 333 356 96
 GlifName: T_caron
 Width: 480
 VWidth: 0
@@ -4733,7 +4733,7 @@ s."
 EndChar
 
 StartChar: U
-Encoding: 98 85 97
+Encoding: 85 85 97
 GlifName: U_
 Width: 640
 VWidth: 0
@@ -4769,7 +4769,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" u.sc
 EndChar
 
 StartChar: Uacute
-Encoding: 99 218 98
+Encoding: 334 218 98
 GlifName: U_acute
 Width: 640
 VWidth: 0
@@ -4794,7 +4794,7 @@ s."
 EndChar
 
 StartChar: Ubreve
-Encoding: 100 364 99
+Encoding: 335 364 99
 GlifName: U_breve
 Width: 640
 VWidth: 0
@@ -4819,7 +4819,7 @@ s."
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 101 219 100
+Encoding: 336 219 100
 GlifName: U_circumflex
 Width: 640
 VWidth: 0
@@ -4844,7 +4844,7 @@ s."
 EndChar
 
 StartChar: Udieresis
-Encoding: 102 220 101
+Encoding: 337 220 101
 GlifName: U_dieresis
 Width: 640
 VWidth: 0
@@ -4869,7 +4869,7 @@ s."
 EndChar
 
 StartChar: Ugrave
-Encoding: 103 217 102
+Encoding: 338 217 102
 GlifName: U_grave
 Width: 640
 VWidth: 0
@@ -4894,7 +4894,7 @@ s."
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 104 368 103
+Encoding: 339 368 103
 GlifName: U_hungarumlaut
 Width: 640
 VWidth: 0
@@ -4920,7 +4920,7 @@ s."
 EndChar
 
 StartChar: Umacron
-Encoding: 105 362 104
+Encoding: 340 362 104
 GlifName: U_macron
 Width: 640
 VWidth: 0
@@ -4945,7 +4945,7 @@ s."
 EndChar
 
 StartChar: Uogonek
-Encoding: 106 370 105
+Encoding: 341 370 105
 GlifName: U_ogonek
 Width: 560
 VWidth: 0
@@ -4979,7 +4979,7 @@ EndSplineSet
 EndChar
 
 StartChar: Uring
-Encoding: 107 366 106
+Encoding: 342 366 106
 GlifName: U_ring
 Width: 640
 VWidth: 0
@@ -5005,7 +5005,7 @@ s."
 EndChar
 
 StartChar: Utilde
-Encoding: 108 360 107
+Encoding: 343 360 107
 GlifName: U_tilde
 Width: 640
 VWidth: 0
@@ -5030,7 +5030,7 @@ s."
 EndChar
 
 StartChar: V
-Encoding: 109 86 108
+Encoding: 86 86 108
 GlifName: V_
 Width: 650
 VWidth: 0
@@ -5067,7 +5067,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" v.sc
 EndChar
 
 StartChar: W
-Encoding: 110 87 109
+Encoding: 87 87 109
 GlifName: W_
 Width: 1100
 VWidth: 0
@@ -5090,7 +5090,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" w.sc
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 111 372 110
+Encoding: 344 372 110
 GlifName: W_circumflex
 Width: 1061
 VWidth: 0
@@ -5124,7 +5124,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 112 88 111
+Encoding: 88 88 111
 GlifName: X_
 Width: 658
 VWidth: 0
@@ -5156,7 +5156,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" x.sc
 EndChar
 
 StartChar: Y
-Encoding: 113 89 112
+Encoding: 89 89 112
 GlifName: Y_
 Width: 594
 VWidth: 0
@@ -5182,7 +5182,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" y.sc
 EndChar
 
 StartChar: Yacute
-Encoding: 114 221 113
+Encoding: 345 221 113
 GlifName: Y_acute
 Width: 594
 VWidth: 0
@@ -5209,7 +5209,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 115 374 114
+Encoding: 346 374 114
 GlifName: Y_circumflex
 Width: 594
 VWidth: 0
@@ -5239,7 +5239,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ydieresis
-Encoding: 116 376 115
+Encoding: 347 376 115
 GlifName: Y_dieresis
 Width: 594
 VWidth: 0
@@ -5271,7 +5271,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z
-Encoding: 117 90 116
+Encoding: 90 90 116
 GlifName: Z_
 Width: 615
 VWidth: 0
@@ -5299,7 +5299,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" z.sc
 EndChar
 
 StartChar: Zacute
-Encoding: 118 377 117
+Encoding: 348 377 117
 GlifName: Z_acute
 Width: 510
 VWidth: 0
@@ -5327,7 +5327,7 @@ EndSplineSet
 EndChar
 
 StartChar: Zcaron
-Encoding: 119 381 118
+Encoding: 349 381 118
 GlifName: Z_caron
 Width: 510
 VWidth: 0
@@ -5358,7 +5358,7 @@ EndSplineSet
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 120 379 119
+Encoding: 350 379 119
 GlifName: Z_dotaccent
 Width: 510
 VWidth: 0
@@ -5386,7 +5386,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 121 97 120
+Encoding: 97 97 120
 GlifName: a
 Width: 493
 VWidth: 0
@@ -5422,7 +5422,7 @@ Substitution2: "Single Substitution lookup 31 subtable" ordfeminine
 EndChar
 
 StartChar: a.sc
-Encoding: 122 -1 121
+Encoding: 351 -1 121
 GlifName: a.sc
 Width: 450
 VWidth: 0
@@ -5447,7 +5447,7 @@ EndSplineSet
 EndChar
 
 StartChar: aacute
-Encoding: 123 225 122
+Encoding: 352 225 122
 GlifName: aacute
 Width: 493
 VWidth: 0
@@ -5472,7 +5472,7 @@ s."
 EndChar
 
 StartChar: abreve
-Encoding: 124 259 123
+Encoding: 353 259 123
 GlifName: abreve
 Width: 493
 VWidth: 0
@@ -5497,7 +5497,7 @@ s."
 EndChar
 
 StartChar: acircumflex
-Encoding: 125 226 124
+Encoding: 354 226 124
 GlifName: acircumflex
 Width: 493
 VWidth: 0
@@ -5522,7 +5522,7 @@ s."
 EndChar
 
 StartChar: acute
-Encoding: 126 180 125
+Encoding: 355 180 125
 GlifName: acute
 Width: 346
 VWidth: 0
@@ -5550,7 +5550,7 @@ s."
 EndChar
 
 StartChar: acutecomb
-Encoding: 127 769 126
+Encoding: 356 769 126
 GlifName: acutecomb
 Width: 0
 VWidth: 0
@@ -5561,7 +5561,7 @@ Refer: 125 180 N 1 0 0 1 -330 0 2
 EndChar
 
 StartChar: adieresis
-Encoding: 128 228 127
+Encoding: 357 228 127
 GlifName: adieresis
 Width: 493
 VWidth: 0
@@ -5586,7 +5586,7 @@ s."
 EndChar
 
 StartChar: ae
-Encoding: 129 230 128
+Encoding: 358 230 128
 GlifName: ae
 Width: 757
 VWidth: 0
@@ -5631,7 +5631,7 @@ EndSplineSet
 EndChar
 
 StartChar: agrave
-Encoding: 130 224 129
+Encoding: 359 224 129
 GlifName: agrave
 Width: 493
 VWidth: 0
@@ -5656,7 +5656,7 @@ s."
 EndChar
 
 StartChar: amacron
-Encoding: 131 257 130
+Encoding: 360 257 130
 GlifName: amacron
 Width: 493
 VWidth: 0
@@ -5681,7 +5681,7 @@ s."
 EndChar
 
 StartChar: ampersand
-Encoding: 132 38 131
+Encoding: 38 38 131
 GlifName: ampersand
 Width: 699
 VWidth: 0
@@ -5720,7 +5720,7 @@ EndSplineSet
 EndChar
 
 StartChar: aogonek
-Encoding: 133 261 132
+Encoding: 361 261 132
 GlifName: aogonek
 Width: 493
 VWidth: 0
@@ -5762,7 +5762,7 @@ EndSplineSet
 EndChar
 
 StartChar: aring
-Encoding: 134 229 133
+Encoding: 362 229 133
 GlifName: aring
 Width: 493
 VWidth: 0
@@ -5788,7 +5788,7 @@ s."
 EndChar
 
 StartChar: aringacute
-Encoding: 135 507 134
+Encoding: 363 507 134
 GlifName: aringacute
 Width: 493
 VWidth: 0
@@ -5813,7 +5813,7 @@ s."
 EndChar
 
 StartChar: asciicircum
-Encoding: 136 94 135
+Encoding: 94 94 135
 GlifName: asciicircum
 Width: 402
 VWidth: 0
@@ -5833,7 +5833,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 137 126 136
+Encoding: 126 126 136
 GlifName: asciitilde
 Width: 510
 VWidth: 0
@@ -5857,7 +5857,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 138 42 137
+Encoding: 42 42 137
 GlifName: asterisk
 Width: 550
 VWidth: 0
@@ -5894,7 +5894,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 139 64 138
+Encoding: 64 64 138
 GlifName: at
 Width: 1020
 VWidth: 0
@@ -5943,7 +5943,7 @@ EndSplineSet
 EndChar
 
 StartChar: atilde
-Encoding: 140 227 139
+Encoding: 364 227 139
 GlifName: atilde
 Width: 493
 VWidth: 0
@@ -5968,7 +5968,7 @@ s."
 EndChar
 
 StartChar: b
-Encoding: 141 98 140
+Encoding: 98 98 140
 GlifName: b
 Width: 491
 VWidth: 0
@@ -5999,7 +5999,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" b.sc
 EndChar
 
 StartChar: b.sc
-Encoding: 142 -1 141
+Encoding: 365 -1 141
 GlifName: b.sc
 Width: 437
 VWidth: 0
@@ -6031,7 +6031,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 143 92 142
+Encoding: 92 92 142
 GlifName: backslash
 Width: 558
 VWidth: 0
@@ -6048,7 +6048,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 144 124 143
+Encoding: 124 124 143
 GlifName: bar
 Width: 220
 VWidth: 0
@@ -6065,7 +6065,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 145 123 144
+Encoding: 123 123 144
 GlifName: braceleft
 Width: 324
 VWidth: 0
@@ -6093,7 +6093,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 146 125 145
+Encoding: 125 125 145
 GlifName: braceright
 Width: 324
 VWidth: 0
@@ -6123,7 +6123,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 147 91 146
+Encoding: 91 91 146
 GlifName: bracketleft
 Width: 360
 VWidth: 0
@@ -6145,7 +6145,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 148 93 147
+Encoding: 93 93 147
 GlifName: bracketright
 Width: 360
 VWidth: 0
@@ -6167,7 +6167,7 @@ EndSplineSet
 EndChar
 
 StartChar: breve
-Encoding: 149 728 148
+Encoding: 366 728 148
 GlifName: breve
 Width: 410
 VWidth: 0
@@ -6187,7 +6187,7 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 150 166 149
+Encoding: 367 166 149
 GlifName: brokenbar
 Width: 180
 VWidth: 0
@@ -6209,7 +6209,7 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 151 8226 150
+Encoding: 368 8226 150
 GlifName: bullet
 Width: 311
 VWidth: 0
@@ -6226,7 +6226,7 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 152 99 151
+Encoding: 99 99 151
 GlifName: c
 Width: 510
 VWidth: 0
@@ -6251,7 +6251,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" c.sc
 EndChar
 
 StartChar: c.sc
-Encoding: 153 -1 152
+Encoding: 369 -1 152
 GlifName: c.sc
 Width: 466
 VWidth: 0
@@ -6275,7 +6275,7 @@ EndSplineSet
 EndChar
 
 StartChar: cacute
-Encoding: 154 263 153
+Encoding: 370 263 153
 GlifName: cacute
 Width: 510
 VWidth: 0
@@ -6300,7 +6300,7 @@ s."
 EndChar
 
 StartChar: caron
-Encoding: 155 711 154
+Encoding: 371 711 154
 GlifName: caron
 Width: 340
 VWidth: 0
@@ -6322,7 +6322,7 @@ EndSplineSet
 EndChar
 
 StartChar: caroncmb.cap
-Encoding: 156 -1 155
+Encoding: 372 -1 155
 GlifName: caroncmb.cap
 Width: 0
 VWidth: 0
@@ -6343,7 +6343,7 @@ EndSplineSet
 EndChar
 
 StartChar: caroncomb
-Encoding: 157 780 156
+Encoding: 373 780 156
 GlifName: caroncomb
 Width: 0
 VWidth: 0
@@ -6364,7 +6364,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccaron
-Encoding: 158 269 157
+Encoding: 374 269 157
 GlifName: ccaron
 Width: 510
 VWidth: 0
@@ -6389,7 +6389,7 @@ s."
 EndChar
 
 StartChar: ccedilla
-Encoding: 159 231 158
+Encoding: 375 231 158
 GlifName: ccedilla
 Width: 452
 VWidth: 0
@@ -6424,7 +6424,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccircumflex
-Encoding: 160 265 159
+Encoding: 376 265 159
 GlifName: ccircumflex
 Width: 510
 VWidth: 0
@@ -6449,7 +6449,7 @@ s."
 EndChar
 
 StartChar: cdotaccent
-Encoding: 161 267 160
+Encoding: 377 267 160
 GlifName: cdotaccent
 Width: 510
 VWidth: 0
@@ -6474,7 +6474,7 @@ s."
 EndChar
 
 StartChar: cedilla
-Encoding: 162 184 161
+Encoding: 378 184 161
 GlifName: cedilla
 Width: 452
 VWidth: 0
@@ -6497,7 +6497,7 @@ EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 163 162 162
+Encoding: 379 162 162
 GlifName: cent
 Width: 495
 VWidth: 0
@@ -6534,7 +6534,7 @@ EndSplineSet
 EndChar
 
 StartChar: circumflex
-Encoding: 164 710 163
+Encoding: 380 710 163
 GlifName: circumflex
 Width: 340
 VWidth: 0
@@ -6556,7 +6556,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 165 58 164
+Encoding: 58 58 164
 GlifName: colon
 Width: 180
 VWidth: 0
@@ -6578,7 +6578,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 166 44 165
+Encoding: 44 44 165
 GlifName: comma
 Width: 180
 VWidth: 0
@@ -6598,7 +6598,7 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 167 169 166
+Encoding: 381 169 166
 GlifName: copyright
 Width: 572
 VWidth: 0
@@ -6632,7 +6632,7 @@ EndSplineSet
 EndChar
 
 StartChar: currency
-Encoding: 168 164 167
+Encoding: 382 164 167
 GlifName: currency
 Width: 495
 VWidth: 0
@@ -6670,7 +6670,7 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 169 100 168
+Encoding: 100 100 168
 GlifName: d
 Width: 491
 VWidth: 0
@@ -6698,7 +6698,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" d.sc
 EndChar
 
 StartChar: d.sc
-Encoding: 170 -1 169
+Encoding: 383 -1 169
 GlifName: d.sc
 Width: 475
 VWidth: 0
@@ -6723,7 +6723,7 @@ EndSplineSet
 EndChar
 
 StartChar: dagger
-Encoding: 171 8224 170
+Encoding: 384 8224 170
 GlifName: dagger
 Width: 495
 VWidth: 0
@@ -6750,7 +6750,7 @@ EndSplineSet
 EndChar
 
 StartChar: daggerdbl
-Encoding: 172 8225 171
+Encoding: 385 8225 171
 GlifName: daggerdbl
 Width: 495
 VWidth: 0
@@ -6785,7 +6785,7 @@ EndSplineSet
 EndChar
 
 StartChar: dcaron
-Encoding: 173 271 172
+Encoding: 386 271 172
 GlifName: dcaron
 Width: 491
 VWidth: 0
@@ -6821,7 +6821,7 @@ EndSplineSet
 EndChar
 
 StartChar: dcroat
-Encoding: 174 273 173
+Encoding: 387 273 173
 GlifName: dcroat
 Width: 491
 VWidth: 0
@@ -6858,7 +6858,7 @@ EndSplineSet
 EndChar
 
 StartChar: degree
-Encoding: 175 176 174
+Encoding: 388 176 174
 GlifName: degree
 Width: 356
 VWidth: 0
@@ -6880,7 +6880,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 176 168 175
+Encoding: 389 168 175
 GlifName: dieresis
 Width: 338
 VWidth: 0
@@ -6904,7 +6904,7 @@ EndSplineSet
 EndChar
 
 StartChar: divide
-Encoding: 177 247 176
+Encoding: 390 247 176
 GlifName: divide
 Width: 520
 VWidth: 0
@@ -6931,7 +6931,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 178 36 177
+Encoding: 36 36 177
 GlifName: dollar
 Width: 582
 VWidth: 0
@@ -6979,7 +6979,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotaccent
-Encoding: 179 729 178
+Encoding: 391 729 178
 GlifName: dotaccent
 Width: 280
 VWidth: 0
@@ -6997,7 +6997,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotlessi
-Encoding: 180 305 179
+Encoding: 392 305 179
 GlifName: dotlessi
 Width: 300
 VWidth: 0
@@ -7025,7 +7025,7 @@ s."
 EndChar
 
 StartChar: e
-Encoding: 181 101 180
+Encoding: 101 101 180
 GlifName: e
 Width: 518
 VWidth: 0
@@ -7053,7 +7053,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" e.sc
 EndChar
 
 StartChar: e.sc
-Encoding: 182 -1 181
+Encoding: 393 -1 181
 GlifName: e.sc
 Width: 355
 VWidth: 0
@@ -7078,7 +7078,7 @@ EndSplineSet
 EndChar
 
 StartChar: eacute
-Encoding: 183 233 182
+Encoding: 394 233 182
 GlifName: eacute
 Width: 518
 VWidth: 0
@@ -7103,7 +7103,7 @@ s."
 EndChar
 
 StartChar: ebreve
-Encoding: 184 277 183
+Encoding: 395 277 183
 GlifName: ebreve
 Width: 518
 VWidth: 0
@@ -7128,7 +7128,7 @@ s."
 EndChar
 
 StartChar: ecaron
-Encoding: 185 283 184
+Encoding: 396 283 184
 GlifName: ecaron
 Width: 518
 VWidth: 0
@@ -7153,7 +7153,7 @@ s."
 EndChar
 
 StartChar: ecircumflex
-Encoding: 186 234 185
+Encoding: 397 234 185
 GlifName: ecircumflex
 Width: 518
 VWidth: 0
@@ -7178,7 +7178,7 @@ s."
 EndChar
 
 StartChar: edieresis
-Encoding: 187 235 186
+Encoding: 398 235 186
 GlifName: edieresis
 Width: 518
 VWidth: 0
@@ -7203,7 +7203,7 @@ s."
 EndChar
 
 StartChar: edotaccent
-Encoding: 188 279 187
+Encoding: 399 279 187
 GlifName: edotaccent
 Width: 518
 VWidth: 0
@@ -7228,7 +7228,7 @@ s."
 EndChar
 
 StartChar: egrave
-Encoding: 189 232 188
+Encoding: 400 232 188
 GlifName: egrave
 Width: 518
 VWidth: 0
@@ -7253,7 +7253,7 @@ s."
 EndChar
 
 StartChar: eight
-Encoding: 190 56 189
+Encoding: 56 56 189
 GlifName: eight
 Width: 553
 VWidth: 0
@@ -7300,7 +7300,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" eight.inferior
 EndChar
 
 StartChar: eight.dnom
-Encoding: 191 -1 190
+Encoding: 401 -1 190
 GlifName: eight.dnom
 Width: 390
 VWidth: 0
@@ -7333,7 +7333,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.inferior
-Encoding: 192 -1 191
+Encoding: 402 -1 191
 GlifName: eight.inferior
 Width: 390
 VWidth: 0
@@ -7366,7 +7366,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.numr
-Encoding: 193 -1 192
+Encoding: 403 -1 192
 GlifName: eight.numr
 Width: 390
 VWidth: 0
@@ -7399,7 +7399,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.subscript
-Encoding: 194 -1 193
+Encoding: 404 -1 193
 GlifName: eight.subscript
 Width: 390
 VWidth: 0
@@ -7432,7 +7432,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.superior
-Encoding: 195 -1 194
+Encoding: 405 -1 194
 GlifName: eight.superior
 Width: 390
 VWidth: 0
@@ -7465,7 +7465,7 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 196 8230 195
+Encoding: 406 8230 195
 GlifName: ellipsis
 Width: 560
 VWidth: 0
@@ -7492,7 +7492,7 @@ EndSplineSet
 EndChar
 
 StartChar: emacron
-Encoding: 197 275 196
+Encoding: 407 275 196
 GlifName: emacron
 Width: 518
 VWidth: 0
@@ -7517,7 +7517,7 @@ s."
 EndChar
 
 StartChar: emdash
-Encoding: 198 8212 197
+Encoding: 408 8212 197
 GlifName: emdash
 Width: 550
 VWidth: 0
@@ -7534,7 +7534,7 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 199 8211 198
+Encoding: 409 8211 198
 GlifName: endash
 Width: 450
 VWidth: 0
@@ -7551,7 +7551,7 @@ EndSplineSet
 EndChar
 
 StartChar: eng
-Encoding: 200 331 199
+Encoding: 410 331 199
 GlifName: eng
 Width: 478
 VWidth: 0
@@ -7579,7 +7579,7 @@ EndSplineSet
 EndChar
 
 StartChar: eogonek
-Encoding: 201 281 200
+Encoding: 411 281 200
 GlifName: eogonek
 Width: 471
 VWidth: 0
@@ -7613,7 +7613,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 202 61 201
+Encoding: 61 61 201
 GlifName: equal
 Width: 450
 VWidth: 0
@@ -7635,7 +7635,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam
-Encoding: 203 33 202
+Encoding: 33 33 202
 GlifName: exclam
 Width: 190
 VWidth: 0
@@ -7659,7 +7659,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 204 161 203
+Encoding: 412 161 203
 GlifName: exclamdown
 Width: 190
 VWidth: 0
@@ -7683,7 +7683,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 205 102 204
+Encoding: 102 102 204
 GlifName: f
 Width: 341
 VWidth: 0
@@ -7713,7 +7713,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" f.sc
 EndChar
 
 StartChar: f.sc
-Encoding: 206 -1 205
+Encoding: 413 -1 205
 GlifName: f.sc
 Width: 355
 VWidth: 0
@@ -7736,7 +7736,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 207 53 206
+Encoding: 53 53 206
 GlifName: five
 Width: 528
 VWidth: 0
@@ -7782,7 +7782,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" five.inferior
 EndChar
 
 StartChar: five.dnom
-Encoding: 208 -1 207
+Encoding: 414 -1 207
 GlifName: five.dnom
 Width: 366
 VWidth: 0
@@ -7811,7 +7811,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.inferior
-Encoding: 209 -1 208
+Encoding: 415 -1 208
 GlifName: five.inferior
 Width: 366
 VWidth: 0
@@ -7840,7 +7840,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.numr
-Encoding: 210 -1 209
+Encoding: 416 -1 209
 GlifName: five.numr
 Width: 366
 VWidth: 0
@@ -7869,7 +7869,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.subscript
-Encoding: 211 -1 210
+Encoding: 417 -1 210
 GlifName: five.subscript
 Width: 366
 VWidth: 0
@@ -7898,7 +7898,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.superior
-Encoding: 212 -1 211
+Encoding: 418 -1 211
 GlifName: five.superior
 Width: 366
 VWidth: 0
@@ -7927,7 +7927,7 @@ EndSplineSet
 EndChar
 
 StartChar: florin
-Encoding: 213 402 212
+Encoding: 419 402 212
 GlifName: florin
 Width: 495
 VWidth: 0
@@ -7967,7 +7967,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 214 52 213
+Encoding: 52 52 213
 GlifName: four
 Width: 521
 VWidth: 0
@@ -7979,20 +7979,17 @@ SplineSet
  50 253 l 257
  318 700 l 257
  460 700 l 257
- 460 253 l 257
- 520 253 l 257
- 520 173 l 257
- 460 173 l 257
  460 0 l 257
  370 0 l 257
- 370 173 l 257
+ 370 669 l 257
+ 389 669 l 257
+ 105 195 l 257
+ 105 253 l 257
+ 520 253 l 257
+ 520 173 l 257
  50 173 l 257
-140 253 m 257
- 370 253 l 257
- 370 620 l 257
- 360 620 l 257
- 140 253 l 257
 EndSplineSet
+Guideline: "" "" 360 620 239.059 0 0
 Substitution2: "Single Substitution lookup 29 subtable" four.dnom
 Substitution2: "Single Substitution lookup 27 subtable" four.numr
 Substitution2: "Single Substitution lookup 25 subtable" four.numr
@@ -8012,7 +8009,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" four.inferior
 EndChar
 
 StartChar: four.dnom
-Encoding: 215 -1 214
+Encoding: 420 -1 214
 GlifName: four.dnom
 Width: 355
 VWidth: 0
@@ -8041,7 +8038,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.inferior
-Encoding: 216 -1 215
+Encoding: 421 -1 215
 GlifName: four.inferior
 Width: 355
 VWidth: 0
@@ -8070,7 +8067,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.numr
-Encoding: 217 -1 216
+Encoding: 422 -1 216
 GlifName: four.numr
 Width: 355
 VWidth: 0
@@ -8099,7 +8096,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.subscript
-Encoding: 218 -1 217
+Encoding: 423 -1 217
 GlifName: four.subscript
 Width: 355
 VWidth: 0
@@ -8127,7 +8124,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.superior
-Encoding: 219 -1 218
+Encoding: 424 -1 218
 GlifName: four.superior
 Width: 355
 VWidth: 0
@@ -8156,7 +8153,7 @@ EndSplineSet
 EndChar
 
 StartChar: fraction
-Encoding: 220 8260 219
+Encoding: 425 8260 219
 GlifName: fraction
 Width: 555
 VWidth: 0
@@ -8173,7 +8170,7 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 221 103 220
+Encoding: 103 103 220
 GlifName: g
 Width: 492
 VWidth: 0
@@ -8207,7 +8204,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" g.sc
 EndChar
 
 StartChar: g.sc
-Encoding: 222 -1 221
+Encoding: 426 -1 221
 GlifName: g.sc
 Width: 468
 VWidth: 0
@@ -8237,7 +8234,7 @@ EndSplineSet
 EndChar
 
 StartChar: gbreve
-Encoding: 223 287 222
+Encoding: 427 287 222
 GlifName: gbreve
 Width: 492
 VWidth: 0
@@ -8262,7 +8259,7 @@ s."
 EndChar
 
 StartChar: gcaron
-Encoding: 224 487 223
+Encoding: 428 487 223
 GlifName: gcaron
 Width: 492
 VWidth: 0
@@ -8274,7 +8271,7 @@ Refer: 220 103 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: gcircumflex
-Encoding: 225 285 224
+Encoding: 429 285 224
 GlifName: gcircumflex
 Width: 492
 VWidth: 0
@@ -8299,7 +8296,7 @@ s."
 EndChar
 
 StartChar: gcommaaccent
-Encoding: 226 291 225
+Encoding: 430 291 225
 GlifName: gcommaaccent
 Width: 491
 VWidth: 0
@@ -8341,7 +8338,7 @@ EndSplineSet
 EndChar
 
 StartChar: gdotaccent
-Encoding: 227 289 226
+Encoding: 431 289 226
 GlifName: gdotaccent
 Width: 492
 VWidth: 0
@@ -8366,7 +8363,7 @@ s."
 EndChar
 
 StartChar: germandbls
-Encoding: 228 223 227
+Encoding: 432 223 227
 GlifName: germandbls
 Width: 536
 VWidth: 0
@@ -8399,7 +8396,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 229 96 228
+Encoding: 96 96 228
 GlifName: grave
 Width: 230
 VWidth: 0
@@ -8416,7 +8413,7 @@ EndSplineSet
 EndChar
 
 StartChar: gravecomb
-Encoding: 230 768 229
+Encoding: 433 768 229
 GlifName: gravecomb
 Width: 0
 VWidth: 0
@@ -8433,7 +8430,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 231 62 230
+Encoding: 62 62 230
 GlifName: greater
 Width: 514
 VWidth: 0
@@ -8453,7 +8450,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 232 171 231
+Encoding: 434 171 231
 GlifName: guillemotleft
 Width: 495
 VWidth: 0
@@ -8479,7 +8476,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright
-Encoding: 233 187 232
+Encoding: 435 187 232
 GlifName: guillemotright
 Width: 495
 VWidth: 0
@@ -8505,7 +8502,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 234 8249 233
+Encoding: 436 8249 233
 GlifName: guilsinglleft
 Width: 296
 VWidth: 0
@@ -8524,7 +8521,7 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglright
-Encoding: 235 8250 234
+Encoding: 437 8250 234
 GlifName: guilsinglright
 Width: 296
 VWidth: 0
@@ -8543,7 +8540,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 236 104 235
+Encoding: 104 104 235
 GlifName: h
 Width: 614
 VWidth: 0
@@ -8575,7 +8572,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" h.sc
 EndChar
 
 StartChar: h.sc
-Encoding: 237 -1 236
+Encoding: 438 -1 236
 GlifName: h.sc
 Width: 409
 VWidth: 0
@@ -8600,7 +8597,7 @@ EndSplineSet
 EndChar
 
 StartChar: hbar
-Encoding: 238 295 237
+Encoding: 439 295 237
 GlifName: hbar
 Width: 478
 VWidth: 0
@@ -8633,7 +8630,7 @@ EndSplineSet
 EndChar
 
 StartChar: hcircumflex
-Encoding: 239 293 238
+Encoding: 440 293 238
 GlifName: hcircumflex
 Width: 478
 VWidth: 0
@@ -8666,7 +8663,7 @@ EndSplineSet
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 240 733 239
+Encoding: 441 733 239
 GlifName: hungarumlaut
 Width: 350
 VWidth: 0
@@ -8689,7 +8686,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 241 45 240
+Encoding: 45 45 240
 GlifName: hyphen
 Width: 320
 VWidth: 0
@@ -8706,7 +8703,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 242 105 241
+Encoding: 105 105 241
 GlifName: i
 Width: 300
 VWidth: 0
@@ -8729,7 +8726,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" i.sc
 EndChar
 
 StartChar: i.sc
-Encoding: 243 -1 242
+Encoding: 442 -1 242
 GlifName: i.sc
 Width: 145
 VWidth: 0
@@ -8746,7 +8743,7 @@ EndSplineSet
 EndChar
 
 StartChar: iacute
-Encoding: 244 237 243
+Encoding: 443 237 243
 GlifName: iacute
 Width: 300
 VWidth: 0
@@ -8772,7 +8769,7 @@ s."
 EndChar
 
 StartChar: ibreve
-Encoding: 245 301 244
+Encoding: 444 301 244
 GlifName: ibreve
 Width: 300
 VWidth: 0
@@ -8798,7 +8795,7 @@ s."
 EndChar
 
 StartChar: icircumflex
-Encoding: 246 238 245
+Encoding: 445 238 245
 GlifName: icircumflex
 Width: 300
 VWidth: 0
@@ -8824,7 +8821,7 @@ s."
 EndChar
 
 StartChar: idieresis
-Encoding: 247 239 246
+Encoding: 446 239 246
 GlifName: idieresis
 Width: 300
 VWidth: 0
@@ -8850,7 +8847,7 @@ s."
 EndChar
 
 StartChar: igrave
-Encoding: 248 236 247
+Encoding: 447 236 247
 GlifName: igrave
 Width: 300
 VWidth: 0
@@ -8876,7 +8873,7 @@ s."
 EndChar
 
 StartChar: ij
-Encoding: 249 307 248
+Encoding: 448 307 248
 GlifName: ij
 Width: 330
 VWidth: 0
@@ -8914,7 +8911,7 @@ EndSplineSet
 EndChar
 
 StartChar: imacron
-Encoding: 250 299 249
+Encoding: 449 299 249
 GlifName: imacron
 Width: 280
 VWidth: 0
@@ -8926,7 +8923,7 @@ Refer: 179 305 N 1 0 0 1 40 0 2
 EndChar
 
 StartChar: iogonek
-Encoding: 251 303 250
+Encoding: 450 303 250
 GlifName: iogonek
 Width: 220
 VWidth: 0
@@ -8957,7 +8954,7 @@ EndSplineSet
 EndChar
 
 StartChar: itilde
-Encoding: 252 297 251
+Encoding: 451 297 251
 GlifName: itilde
 Width: 300
 VWidth: 0
@@ -8983,7 +8980,7 @@ s."
 EndChar
 
 StartChar: j
-Encoding: 253 106 252
+Encoding: 106 106 252
 GlifName: j
 Width: 230
 VWidth: 0
@@ -9010,7 +9007,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" j.sc
 EndChar
 
 StartChar: j.sc
-Encoding: 254 -1 253
+Encoding: 452 -1 253
 GlifName: j.sc
 Width: 208
 VWidth: 0
@@ -9031,7 +9028,7 @@ EndSplineSet
 EndChar
 
 StartChar: jcircumflex
-Encoding: 255 309 254
+Encoding: 453 309 254
 GlifName: jcircumflex
 Width: 220
 VWidth: 0
@@ -9043,7 +9040,7 @@ Refer: 494 567 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: k
-Encoding: 256 107 255
+Encoding: 107 107 255
 GlifName: k
 Width: 422
 VWidth: 0
@@ -9070,7 +9067,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" k.sc
 EndChar
 
 StartChar: k.sc
-Encoding: 257 -1 256
+Encoding: 454 -1 256
 GlifName: k.sc
 Width: 409
 VWidth: 0
@@ -9096,7 +9093,7 @@ EndSplineSet
 EndChar
 
 StartChar: kcommaaccent
-Encoding: 258 311 257
+Encoding: 455 311 257
 GlifName: kcommaaccent
 Width: 422
 VWidth: 0
@@ -9130,7 +9127,7 @@ EndSplineSet
 EndChar
 
 StartChar: kgreenlandic
-Encoding: 259 312 258
+Encoding: 456 312 258
 GlifName: kgreenlandic
 Width: 422
 VWidth: 0
@@ -9156,7 +9153,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 260 108 259
+Encoding: 108 108 259
 GlifName: l
 Width: 280
 VWidth: 0
@@ -9184,7 +9181,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" l.sc
 EndChar
 
 StartChar: l.sc
-Encoding: 261 -1 260
+Encoding: 457 -1 260
 GlifName: l.sc
 Width: 355
 VWidth: 0
@@ -9203,7 +9200,7 @@ EndSplineSet
 EndChar
 
 StartChar: lacute
-Encoding: 262 314 261
+Encoding: 458 314 261
 GlifName: lacute
 Width: 220
 VWidth: 0
@@ -9225,7 +9222,7 @@ EndSplineSet
 EndChar
 
 StartChar: lcaron
-Encoding: 263 318 262
+Encoding: 459 318 262
 GlifName: lcaron
 Width: 220
 VWidth: 0
@@ -9250,7 +9247,7 @@ EndSplineSet
 EndChar
 
 StartChar: lcommaaccent
-Encoding: 264 316 263
+Encoding: 460 316 263
 GlifName: lcommaaccent
 Width: 220
 VWidth: 0
@@ -9275,7 +9272,7 @@ EndSplineSet
 EndChar
 
 StartChar: ldot
-Encoding: 265 320 264
+Encoding: 461 320 264
 GlifName: ldot
 Width: 370
 VWidth: 0
@@ -9297,7 +9294,7 @@ EndSplineSet
 EndChar
 
 StartChar: less
-Encoding: 266 60 265
+Encoding: 60 60 265
 GlifName: less
 Width: 514
 VWidth: 0
@@ -9317,7 +9314,7 @@ EndSplineSet
 EndChar
 
 StartChar: logicalnot
-Encoding: 267 172 266
+Encoding: 462 172 266
 GlifName: logicalnot
 Width: 520
 VWidth: 0
@@ -9336,7 +9333,7 @@ EndSplineSet
 EndChar
 
 StartChar: longs
-Encoding: 268 383 267
+Encoding: 463 383 267
 GlifName: longs
 Width: 421
 VWidth: 0
@@ -9362,7 +9359,7 @@ EndSplineSet
 EndChar
 
 StartChar: lslash
-Encoding: 269 322 268
+Encoding: 464 322 268
 GlifName: lslash
 Width: 448
 VWidth: 0
@@ -9387,7 +9384,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 270 109 269
+Encoding: 109 109 269
 GlifName: m
 Width: 776
 VWidth: 0
@@ -9440,7 +9437,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" m.sc
 EndChar
 
 StartChar: m.sc
-Encoding: 271 -1 270
+Encoding: 465 -1 270
 GlifName: m.sc
 Width: 514
 VWidth: 0
@@ -9467,7 +9464,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron
-Encoding: 272 175 271
+Encoding: 466 175 271
 GlifName: macron
 Width: 370
 VWidth: 0
@@ -9486,7 +9483,7 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 273 8722 272
+Encoding: 467 8722 272
 GlifName: minus
 Width: 422
 VWidth: 0
@@ -9503,7 +9500,7 @@ EndSplineSet
 EndChar
 
 StartChar: mu
-Encoding: 274 181 273
+Encoding: 468 181 273
 GlifName: mu
 Width: 495
 VWidth: 0
@@ -9532,7 +9529,7 @@ EndSplineSet
 EndChar
 
 StartChar: multiply
-Encoding: 275 215 274
+Encoding: 469 215 274
 GlifName: multiply
 Width: 520
 VWidth: 0
@@ -9557,7 +9554,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 276 110 275
+Encoding: 110 110 275
 GlifName: n
 Width: 588
 VWidth: 0
@@ -9599,7 +9596,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" n.sc
 EndChar
 
 StartChar: n.sc
-Encoding: 277 -1 276
+Encoding: 470 -1 276
 GlifName: n.sc
 Width: 409
 VWidth: 0
@@ -9622,7 +9619,7 @@ EndSplineSet
 EndChar
 
 StartChar: nacute
-Encoding: 278 324 277
+Encoding: 471 324 277
 GlifName: nacute
 Width: 588
 VWidth: 0
@@ -9647,7 +9644,7 @@ s."
 EndChar
 
 StartChar: napostrophe
-Encoding: 279 329 278
+Encoding: 472 329 278
 GlifName: napostrophe
 Width: 608
 VWidth: 0
@@ -9681,7 +9678,7 @@ EndSplineSet
 EndChar
 
 StartChar: ncaron
-Encoding: 280 328 279
+Encoding: 473 328 279
 GlifName: ncaron
 Width: 588
 VWidth: 0
@@ -9706,7 +9703,7 @@ s."
 EndChar
 
 StartChar: ncommaaccent
-Encoding: 281 326 280
+Encoding: 474 326 280
 GlifName: ncommaaccent
 Width: 478
 VWidth: 0
@@ -9740,7 +9737,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 282 57 281
+Encoding: 57 57 281
 GlifName: nine
 Width: 528
 VWidth: 0
@@ -9787,7 +9784,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" nine.inferior
 EndChar
 
 StartChar: nine.dnom
-Encoding: 283 -1 282
+Encoding: 475 -1 282
 GlifName: nine.dnom
 Width: 367
 VWidth: 0
@@ -9817,7 +9814,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.inferior
-Encoding: 284 -1 283
+Encoding: 476 -1 283
 GlifName: nine.inferior
 Width: 367
 VWidth: 0
@@ -9847,7 +9844,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.numr
-Encoding: 285 -1 284
+Encoding: 477 -1 284
 GlifName: nine.numr
 Width: 367
 VWidth: 0
@@ -9877,7 +9874,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.subscript
-Encoding: 286 -1 285
+Encoding: 478 -1 285
 GlifName: nine.subscript
 Width: 367
 VWidth: 0
@@ -9907,7 +9904,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.superior
-Encoding: 287 -1 286
+Encoding: 479 -1 286
 GlifName: nine.superior
 Width: 367
 VWidth: 0
@@ -9937,7 +9934,7 @@ EndSplineSet
 EndChar
 
 StartChar: ntilde
-Encoding: 288 241 287
+Encoding: 480 241 287
 GlifName: ntilde
 Width: 588
 VWidth: 0
@@ -9962,7 +9959,7 @@ s."
 EndChar
 
 StartChar: numbersign
-Encoding: 289 35 288
+Encoding: 35 35 288
 GlifName: numbersign
 Width: 579
 VWidth: 0
@@ -10008,7 +10005,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 290 111 289
+Encoding: 111 111 289
 GlifName: o
 Width: 480
 VWidth: 0
@@ -10037,7 +10034,7 @@ Substitution2: "Single Substitution lookup 32 subtable" ordmasculine
 EndChar
 
 StartChar: o.sc
-Encoding: 291 -1 290
+Encoding: 481 -1 290
 GlifName: o.sc
 Width: 475
 VWidth: 0
@@ -10059,7 +10056,7 @@ EndSplineSet
 EndChar
 
 StartChar: oacute
-Encoding: 292 243 291
+Encoding: 482 243 291
 GlifName: oacute
 Width: 480
 VWidth: 0
@@ -10084,7 +10081,7 @@ s."
 EndChar
 
 StartChar: obreve
-Encoding: 293 335 292
+Encoding: 483 335 292
 GlifName: obreve
 Width: 480
 VWidth: 0
@@ -10109,7 +10106,7 @@ s."
 EndChar
 
 StartChar: ocircumflex
-Encoding: 294 244 293
+Encoding: 484 244 293
 GlifName: ocircumflex
 Width: 480
 VWidth: 0
@@ -10134,7 +10131,7 @@ s."
 EndChar
 
 StartChar: odieresis
-Encoding: 295 246 294
+Encoding: 485 246 294
 GlifName: odieresis
 Width: 480
 VWidth: 0
@@ -10159,7 +10156,7 @@ s."
 EndChar
 
 StartChar: oe
-Encoding: 296 339 295
+Encoding: 486 339 295
 GlifName: oe
 Width: 801
 VWidth: 0
@@ -10194,7 +10191,7 @@ EndSplineSet
 EndChar
 
 StartChar: ogonek
-Encoding: 297 731 296
+Encoding: 487 731 296
 GlifName: ogonek
 Width: 291
 VWidth: 0
@@ -10226,7 +10223,7 @@ s."
 EndChar
 
 StartChar: ograve
-Encoding: 298 242 297
+Encoding: 488 242 297
 GlifName: ograve
 Width: 480
 VWidth: 0
@@ -10251,7 +10248,7 @@ s."
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 299 337 298
+Encoding: 489 337 298
 GlifName: ohungarumlaut
 Width: 480
 VWidth: 0
@@ -10277,7 +10274,7 @@ s."
 EndChar
 
 StartChar: omacron
-Encoding: 300 333 299
+Encoding: 490 333 299
 GlifName: omacron
 Width: 480
 VWidth: 0
@@ -10302,7 +10299,7 @@ s."
 EndChar
 
 StartChar: one
-Encoding: 301 49 300
+Encoding: 49 49 300
 GlifName: one
 Width: 327
 VWidth: 0
@@ -10339,7 +10336,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" one.inferior
 EndChar
 
 StartChar: one.dnom
-Encoding: 302 -1 301
+Encoding: 491 -1 301
 GlifName: one.dnom
 Width: 225
 VWidth: 0
@@ -10359,7 +10356,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.inferior
-Encoding: 303 -1 302
+Encoding: 492 -1 302
 GlifName: one.inferior
 Width: 225
 VWidth: 0
@@ -10379,7 +10376,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.numr
-Encoding: 304 -1 303
+Encoding: 493 -1 303
 GlifName: one.numr
 Width: 225
 VWidth: 0
@@ -10399,7 +10396,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.subscript
-Encoding: 305 -1 304
+Encoding: 494 -1 304
 GlifName: one.subscript
 Width: 225
 VWidth: 0
@@ -10419,7 +10416,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.superior
-Encoding: 306 -1 305
+Encoding: 495 -1 305
 GlifName: one.superior
 Width: 225
 VWidth: 0
@@ -10439,7 +10436,7 @@ EndSplineSet
 EndChar
 
 StartChar: onehalf
-Encoding: 307 189 306
+Encoding: 496 189 306
 GlifName: onehalf
 Width: 742
 VWidth: 0
@@ -10479,7 +10476,7 @@ EndSplineSet
 EndChar
 
 StartChar: onequarter
-Encoding: 308 188 307
+Encoding: 497 188 307
 GlifName: onequarter
 Width: 742
 VWidth: 0
@@ -10521,7 +10518,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 309 170 308
+Encoding: 498 170 308
 GlifName: ordfeminine
 Width: 329
 VWidth: 0
@@ -10553,7 +10550,7 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 310 186 309
+Encoding: 499 186 309
 GlifName: ordmasculine
 Width: 325
 VWidth: 0
@@ -10575,7 +10572,7 @@ EndSplineSet
 EndChar
 
 StartChar: oslash
-Encoding: 311 248 310
+Encoding: 500 248 310
 GlifName: oslash
 Width: 480
 VWidth: 0
@@ -10611,7 +10608,7 @@ EndSplineSet
 EndChar
 
 StartChar: otilde
-Encoding: 312 245 311
+Encoding: 501 245 311
 GlifName: otilde
 Width: 480
 VWidth: 0
@@ -10636,7 +10633,7 @@ s."
 EndChar
 
 StartChar: p
-Encoding: 313 112 312
+Encoding: 112 112 312
 GlifName: p
 Width: 506
 VWidth: 0
@@ -10646,7 +10643,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" p.sc
 EndChar
 
 StartChar: p.sc
-Encoding: 314 -1 313
+Encoding: 502 -1 313
 GlifName: p.sc
 Width: 422
 VWidth: 0
@@ -10672,7 +10669,7 @@ EndSplineSet
 EndChar
 
 StartChar: paragraph
-Encoding: 315 182 314
+Encoding: 503 182 314
 GlifName: paragraph
 Width: 478
 VWidth: 0
@@ -10697,7 +10694,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 316 40 315
+Encoding: 40 40 315
 GlifName: parenleft
 Width: 241
 VWidth: 0
@@ -10719,7 +10716,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 317 41 316
+Encoding: 41 41 316
 GlifName: parenright
 Width: 241
 VWidth: 0
@@ -10742,7 +10739,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 318 37 317
+Encoding: 37 37 317
 GlifName: percent
 Width: 720
 VWidth: 0
@@ -10780,7 +10777,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 319 46 318
+Encoding: 46 46 318
 GlifName: period
 Width: 180
 VWidth: 0
@@ -10797,7 +10794,7 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 320 183 319
+Encoding: 504 183 319
 GlifName: periodcentered
 Width: 180
 VWidth: 0
@@ -10814,7 +10811,7 @@ EndSplineSet
 EndChar
 
 StartChar: perthousand
-Encoding: 321 8240 320
+Encoding: 505 8240 320
 GlifName: perthousand
 Width: 1040
 VWidth: 0
@@ -10861,7 +10858,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 322 43 321
+Encoding: 43 43 321
 GlifName: plus
 Width: 450
 VWidth: 0
@@ -10886,7 +10883,7 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 323 177 322
+Encoding: 506 177 322
 GlifName: plusminus
 Width: 445
 VWidth: 0
@@ -10916,7 +10913,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 324 113 323
+Encoding: 113 113 323
 GlifName: q
 Width: 491
 VWidth: 0
@@ -10945,7 +10942,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" q.sc
 EndChar
 
 StartChar: q.sc
-Encoding: 325 -1 324
+Encoding: 507 -1 324
 GlifName: q.sc
 Width: 475
 VWidth: 0
@@ -10975,7 +10972,7 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 326 63 325
+Encoding: 63 63 325
 GlifName: question
 Width: 502
 VWidth: 0
@@ -11003,7 +11000,7 @@ EndSplineSet
 EndChar
 
 StartChar: questiondown
-Encoding: 327 191 326
+Encoding: 508 191 326
 GlifName: questiondown
 Width: 502
 VWidth: 0
@@ -11031,7 +11028,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 328 34 327
+Encoding: 34 34 327
 GlifName: quotedbl
 Width: 290
 VWidth: 0
@@ -11057,7 +11054,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblbase
-Encoding: 329 8222 328
+Encoding: 509 8222 328
 GlifName: quotedblbase
 Width: 290
 VWidth: 0
@@ -11085,7 +11082,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 330 8220 329
+Encoding: 510 8220 329
 GlifName: quotedblleft
 Width: 290
 VWidth: 0
@@ -11113,7 +11110,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 331 8221 330
+Encoding: 511 8221 330
 GlifName: quotedblright
 Width: 290
 VWidth: 0
@@ -11141,7 +11138,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 332 8216 331
+Encoding: 512 8216 331
 GlifName: quoteleft
 Width: 180
 VWidth: 0
@@ -11161,7 +11158,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 333 8217 332
+Encoding: 513 8217 332
 GlifName: quoteright
 Width: 180
 VWidth: 0
@@ -11181,7 +11178,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 334 8218 333
+Encoding: 514 8218 333
 GlifName: quotesinglbase
 Width: 198
 VWidth: 0
@@ -11201,7 +11198,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 335 39 334
+Encoding: 39 39 334
 GlifName: quotesingle
 Width: 180
 VWidth: 0
@@ -11220,7 +11217,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 336 114 335
+Encoding: 114 114 335
 GlifName: r
 Width: 370
 VWidth: 0
@@ -11245,7 +11242,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" r.sc
 EndChar
 
 StartChar: r.sc
-Encoding: 337 -1 336
+Encoding: 515 -1 336
 GlifName: r.sc
 Width: 422
 VWidth: 0
@@ -11274,7 +11271,7 @@ EndSplineSet
 EndChar
 
 StartChar: racute
-Encoding: 338 341 337
+Encoding: 516 341 337
 GlifName: racute
 Width: 370
 VWidth: 0
@@ -11304,7 +11301,7 @@ EndSplineSet
 EndChar
 
 StartChar: rcaron
-Encoding: 339 345 338
+Encoding: 517 345 338
 GlifName: rcaron
 Width: 370
 VWidth: 0
@@ -11337,7 +11334,7 @@ EndSplineSet
 EndChar
 
 StartChar: rcommaaccent
-Encoding: 340 343 339
+Encoding: 518 343 339
 GlifName: rcommaaccent
 Width: 370
 VWidth: 0
@@ -11370,7 +11367,7 @@ EndSplineSet
 EndChar
 
 StartChar: registered
-Encoding: 341 174 340
+Encoding: 519 174 340
 GlifName: registered
 Width: 572
 VWidth: 0
@@ -11410,7 +11407,7 @@ EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 342 730 341
+Encoding: 520 730 341
 GlifName: ring
 Width: 222
 VWidth: 0
@@ -11433,7 +11430,7 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 343 115 342
+Encoding: 115 115 342
 GlifName: s
 Width: 452
 VWidth: 0
@@ -11462,7 +11459,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" s.sc
 EndChar
 
 StartChar: s.sc
-Encoding: 344 -1 343
+Encoding: 521 -1 343
 GlifName: s.sc
 Width: 429
 VWidth: 0
@@ -11489,7 +11486,7 @@ EndSplineSet
 EndChar
 
 StartChar: sacute
-Encoding: 345 347 344
+Encoding: 522 347 344
 GlifName: sacute
 Width: 452
 VWidth: 0
@@ -11507,7 +11504,7 @@ Refer: 342 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: scaron
-Encoding: 346 353 345
+Encoding: 523 353 345
 GlifName: scaron
 Width: 452
 VWidth: 0
@@ -11519,7 +11516,7 @@ Refer: 342 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: scedilla
-Encoding: 347 351 346
+Encoding: 524 351 346
 GlifName: scedilla
 Width: 452
 VWidth: 0
@@ -11557,7 +11554,7 @@ EndSplineSet
 EndChar
 
 StartChar: scircumflex
-Encoding: 348 349 347
+Encoding: 525 349 347
 GlifName: scircumflex
 Width: 452
 VWidth: 0
@@ -11569,7 +11566,7 @@ Refer: 342 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: scommaaccent
-Encoding: 349 537 348
+Encoding: 526 537 348
 GlifName: scommaaccent
 Width: 452
 VWidth: 0
@@ -11581,7 +11578,7 @@ Refer: 342 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: section
-Encoding: 350 167 349
+Encoding: 253 167 349
 GlifName: section
 Width: 465
 VWidth: 0
@@ -11625,7 +11622,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 351 59 350
+Encoding: 59 59 350
 GlifName: semicolon
 Width: 180
 VWidth: 0
@@ -11650,7 +11647,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 352 55 351
+Encoding: 55 55 351
 GlifName: seven
 Width: 560
 VWidth: 0
@@ -11689,7 +11686,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" seven.inferior
 EndChar
 
 StartChar: seven.dnom
-Encoding: 353 -1 352
+Encoding: 527 -1 352
 GlifName: seven.dnom
 Width: 381
 VWidth: 0
@@ -11710,7 +11707,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.inferior
-Encoding: 354 -1 353
+Encoding: 528 -1 353
 GlifName: seven.inferior
 Width: 381
 VWidth: 0
@@ -11731,7 +11728,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.numr
-Encoding: 355 -1 354
+Encoding: 529 -1 354
 GlifName: seven.numr
 Width: 381
 VWidth: 0
@@ -11752,7 +11749,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.subscript
-Encoding: 356 -1 355
+Encoding: 530 -1 355
 GlifName: seven.subscript
 Width: 381
 VWidth: 0
@@ -11773,7 +11770,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.superior
-Encoding: 357 -1 356
+Encoding: 531 -1 356
 GlifName: seven.superior
 Width: 381
 VWidth: 0
@@ -11794,7 +11791,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 358 54 357
+Encoding: 54 54 357
 GlifName: six
 Width: 528
 VWidth: 0
@@ -11841,7 +11838,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" six.inferior
 EndChar
 
 StartChar: six.dnom
-Encoding: 359 -1 358
+Encoding: 532 -1 358
 GlifName: six.dnom
 Width: 367
 VWidth: 0
@@ -11871,7 +11868,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.inferior
-Encoding: 360 -1 359
+Encoding: 533 -1 359
 GlifName: six.inferior
 Width: 367
 VWidth: 0
@@ -11901,7 +11898,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.numr
-Encoding: 361 -1 360
+Encoding: 534 -1 360
 GlifName: six.numr
 Width: 367
 VWidth: 0
@@ -11931,7 +11928,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.subscript
-Encoding: 362 -1 361
+Encoding: 535 -1 361
 GlifName: six.subscript
 Width: 367
 VWidth: 0
@@ -11961,7 +11958,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.superior
-Encoding: 363 -1 362
+Encoding: 536 -1 362
 GlifName: six.superior
 Width: 367
 VWidth: 0
@@ -11991,7 +11988,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 364 47 363
+Encoding: 47 47 363
 GlifName: slash
 Width: 419
 VWidth: 0
@@ -12009,7 +12006,7 @@ Substitution2: "Single Substitution lookup 7 subtable" fraction
 EndChar
 
 StartChar: space
-Encoding: 365 32 364
+Encoding: 32 32 364
 GlifName: space
 Width: 280
 VWidth: 0
@@ -12018,7 +12015,7 @@ LayerCount: 2
 EndChar
 
 StartChar: sterling
-Encoding: 366 163 365
+Encoding: 537 163 365
 GlifName: sterling
 Width: 495
 VWidth: 0
@@ -12065,7 +12062,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 367 116 366
+Encoding: 116 116 366
 GlifName: t
 Width: 331
 VWidth: 0
@@ -12096,7 +12093,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" t.sc
 EndChar
 
 StartChar: t.sc
-Encoding: 368 -1 367
+Encoding: 538 -1 367
 GlifName: t.sc
 Width: 388
 VWidth: 0
@@ -12117,7 +12114,7 @@ EndSplineSet
 EndChar
 
 StartChar: tbar
-Encoding: 369 359 368
+Encoding: 539 359 368
 GlifName: tbar
 Width: 331
 VWidth: 0
@@ -12154,7 +12151,7 @@ EndSplineSet
 EndChar
 
 StartChar: tcaron
-Encoding: 370 357 369
+Encoding: 540 357 369
 GlifName: tcaron
 Width: 511
 VWidth: 0
@@ -12175,7 +12172,7 @@ s."
 EndChar
 
 StartChar: three
-Encoding: 371 51 370
+Encoding: 51 51 370
 GlifName: three
 Width: 520
 VWidth: 0
@@ -12222,7 +12219,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" three.inferior
 EndChar
 
 StartChar: three.dnom
-Encoding: 372 -1 371
+Encoding: 541 -1 371
 GlifName: three.dnom
 Width: 375
 VWidth: 0
@@ -12255,7 +12252,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.inferior
-Encoding: 373 -1 372
+Encoding: 542 -1 372
 GlifName: three.inferior
 Width: 375
 VWidth: 0
@@ -12289,7 +12286,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.numr
-Encoding: 374 -1 373
+Encoding: 543 -1 373
 GlifName: three.numr
 Width: 375
 VWidth: 0
@@ -12322,7 +12319,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.subscript
-Encoding: 375 -1 374
+Encoding: 544 -1 374
 GlifName: three.subscript
 Width: 375
 VWidth: 0
@@ -12355,7 +12352,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.superior
-Encoding: 376 -1 375
+Encoding: 545 -1 375
 GlifName: three.superior
 Width: 375
 VWidth: 0
@@ -12389,7 +12386,7 @@ EndSplineSet
 EndChar
 
 StartChar: threequarters
-Encoding: 377 190 376
+Encoding: 546 190 376
 GlifName: threequarters
 Width: 742
 VWidth: 0
@@ -12443,7 +12440,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 378 732 377
+Encoding: 547 732 377
 GlifName: tilde
 Width: 406
 VWidth: 0
@@ -12467,7 +12464,7 @@ EndSplineSet
 EndChar
 
 StartChar: tildecomb
-Encoding: 379 771 378
+Encoding: 548 771 378
 GlifName: tildecomb
 Width: 0
 VWidth: 0
@@ -12490,7 +12487,7 @@ EndSplineSet
 EndChar
 
 StartChar: trademark
-Encoding: 380 8482 379
+Encoding: 549 8482 379
 GlifName: trademark
 Width: 890
 VWidth: 0
@@ -12528,7 +12525,7 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 381 50 380
+Encoding: 50 50 380
 GlifName: two
 Width: 528
 VWidth: 0
@@ -12536,20 +12533,18 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-36 480 m 257
- 36 508 40 534 47 558 c 256
- 76 653 157 710 260 710 c 256
+58 0 m 257
+ 58 90 l 257
+ 146 202 402 388 402 498 c 256
+ 402 575 388 630 260 630 c 256
+ 173 630 128 561 125 481 c 257
+ 36 481 l 257
+ 36 612 122 710 260 710 c 256
  442 710 492 630 492 509 c 256
  492 349 264 195 172 90 c 257
  514 90 l 257
  514 0 l 257
  58 0 l 257
- 58 90 l 257
- 80 118 102 143 125 167 c 256
- 261 310 402 393 402 498 c 256
- 402 575 388 630 260 630 c 256
- 173 630 128 562 125 482 c 257
- 36 480 l 257
 EndSplineSet
 Substitution2: "Single Substitution lookup 29 subtable" two.dnom
 Substitution2: "Single Substitution lookup 27 subtable" two.numr
@@ -12570,7 +12565,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" two.inferior
 EndChar
 
 StartChar: two.dnom
-Encoding: 382 -1 381
+Encoding: 550 -1 381
 GlifName: two.dnom
 Width: 368
 VWidth: 0
@@ -12597,7 +12592,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.inferior
-Encoding: 383 -1 382
+Encoding: 551 -1 382
 GlifName: two.inferior
 Width: 368
 VWidth: 0
@@ -12623,7 +12618,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.numr
-Encoding: 384 -1 383
+Encoding: 552 -1 383
 GlifName: two.numr
 Width: 368
 VWidth: 0
@@ -12649,7 +12644,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.subscript
-Encoding: 385 -1 384
+Encoding: 553 -1 384
 GlifName: two.subscript
 Width: 368
 VWidth: 0
@@ -12676,7 +12671,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.superior
-Encoding: 386 -1 385
+Encoding: 554 -1 385
 GlifName: two.superior
 Width: 368
 VWidth: 0
@@ -12702,7 +12697,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 387 117 386
+Encoding: 117 117 386
 GlifName: u
 Width: 478
 VWidth: 0
@@ -12734,7 +12729,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" u.sc
 EndChar
 
 StartChar: u.sc
-Encoding: 388 -1 387
+Encoding: 555 -1 387
 GlifName: u.sc
 Width: 409
 VWidth: 0
@@ -12757,7 +12752,7 @@ EndSplineSet
 EndChar
 
 StartChar: uacute
-Encoding: 389 250 388
+Encoding: 556 250 388
 GlifName: uacute
 Width: 478
 VWidth: 0
@@ -12782,7 +12777,7 @@ s."
 EndChar
 
 StartChar: ubreve
-Encoding: 390 365 389
+Encoding: 557 365 389
 GlifName: ubreve
 Width: 478
 VWidth: 0
@@ -12807,7 +12802,7 @@ s."
 EndChar
 
 StartChar: ucircumflex
-Encoding: 391 251 390
+Encoding: 558 251 390
 GlifName: ucircumflex
 Width: 478
 VWidth: 0
@@ -12832,7 +12827,7 @@ s."
 EndChar
 
 StartChar: udieresis
-Encoding: 392 252 391
+Encoding: 559 252 391
 GlifName: udieresis
 Width: 478
 VWidth: 0
@@ -12857,7 +12852,7 @@ s."
 EndChar
 
 StartChar: ugrave
-Encoding: 393 249 392
+Encoding: 560 249 392
 GlifName: ugrave
 Width: 478
 VWidth: 0
@@ -12882,7 +12877,7 @@ s."
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 394 369 393
+Encoding: 561 369 393
 GlifName: uhungarumlaut
 Width: 478
 VWidth: 0
@@ -12908,7 +12903,7 @@ s."
 EndChar
 
 StartChar: umacron
-Encoding: 395 363 394
+Encoding: 562 363 394
 GlifName: umacron
 Width: 478
 VWidth: 0
@@ -12933,7 +12928,7 @@ s."
 EndChar
 
 StartChar: underscore
-Encoding: 396 95 395
+Encoding: 95 95 395
 GlifName: underscore
 Width: 545
 VWidth: 0
@@ -12950,7 +12945,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0000
-Encoding: 397 0 396
+Encoding: 0 0 396
 GlifName: uni0000
 Width: 280
 VWidth: 0
@@ -12959,7 +12954,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni0002
-Encoding: 398 2 397
+Encoding: 2 2 397
 GlifName: uni0002
 Width: 280
 VWidth: 0
@@ -12968,7 +12963,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni0009
-Encoding: 399 9 398
+Encoding: 9 9 398
 GlifName: uni0009
 Width: 280
 VWidth: 0
@@ -12977,7 +12972,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni000A
-Encoding: 400 10 399
+Encoding: 10 10 399
 GlifName: uni000A_
 Width: 280
 VWidth: 0
@@ -12986,7 +12981,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni000D
-Encoding: 401 13 400
+Encoding: 13 13 400
 GlifName: uni000D_
 Width: 280
 VWidth: 0
@@ -12995,7 +12990,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni00A0
-Encoding: 402 160 401
+Encoding: 160 160 401
 GlifName: uni00A_0
 Width: 100
 VWidth: 0
@@ -13004,7 +12999,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uni00AD
-Encoding: 403 173 402
+Encoding: 173 173 402
 GlifName: uni00A_D_
 Width: 320
 VWidth: 0
@@ -13021,7 +13016,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B2
-Encoding: 404 178 403
+Encoding: 563 178 403
 GlifName: uni00B_2
 Width: 296
 VWidth: 0
@@ -13048,7 +13043,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3
-Encoding: 405 179 404
+Encoding: 564 179 404
 GlifName: uni00B_3
 Width: 296
 VWidth: 0
@@ -13078,7 +13073,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B9
-Encoding: 406 185 405
+Encoding: 565 185 405
 GlifName: uni00B_9
 Width: 296
 VWidth: 0
@@ -13099,7 +13094,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0162
-Encoding: 407 354 406
+Encoding: 566 354 406
 GlifName: uni0162
 Width: 480
 VWidth: 0
@@ -13121,7 +13116,7 @@ s."
 EndChar
 
 StartChar: uni0163
-Encoding: 408 355 407
+Encoding: 567 355 407
 GlifName: uni0163
 Width: 331
 VWidth: 0
@@ -13142,7 +13137,7 @@ s."
 EndChar
 
 StartChar: uni01C4
-Encoding: 409 452 408
+Encoding: 568 452 408
 GlifName: uni01C_4
 Width: 1170
 VWidth: 0
@@ -13185,7 +13180,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01C5
-Encoding: 410 453 409
+Encoding: 569 453 409
 GlifName: uni01C_5
 Width: 1110
 VWidth: 0
@@ -13228,7 +13223,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01C6
-Encoding: 411 454 410
+Encoding: 570 454 410
 GlifName: uni01C_6
 Width: 941
 VWidth: 0
@@ -13276,7 +13271,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01C7
-Encoding: 412 455 411
+Encoding: 571 455 411
 GlifName: uni01C_7
 Width: 888
 VWidth: 0
@@ -13302,7 +13297,7 @@ s."
 EndChar
 
 StartChar: uni01C8
-Encoding: 413 456 412
+Encoding: 572 456 412
 GlifName: uni01C_8
 Width: 740
 VWidth: 0
@@ -13328,7 +13323,7 @@ s."
 EndChar
 
 StartChar: uni01C9
-Encoding: 414 457 413
+Encoding: 573 457 413
 GlifName: uni01C_9
 Width: 450
 VWidth: 0
@@ -13340,7 +13335,7 @@ Refer: 259 108 N 1 0 0 1 20 0 2
 EndChar
 
 StartChar: uni01CA
-Encoding: 415 458 414
+Encoding: 574 458 414
 GlifName: uni01C_A_
 Width: 886
 VWidth: 0
@@ -13352,7 +13347,7 @@ Refer: 66 78 N 1 0 0 1 -90 0 2
 EndChar
 
 StartChar: uni01CB
-Encoding: 416 459 415
+Encoding: 575 459 415
 GlifName: uni01C_B_
 Width: 830
 VWidth: 0
@@ -13364,7 +13359,7 @@ Refer: 66 78 N 1 0 0 1 -90 0 2
 EndChar
 
 StartChar: uni01CC
-Encoding: 417 460 416
+Encoding: 576 460 416
 GlifName: uni01C_C_
 Width: 818
 VWidth: 0
@@ -13390,7 +13385,7 @@ s."
 EndChar
 
 StartChar: uni01CD
-Encoding: 418 461 417
+Encoding: 577 461 417
 GlifName: uni01C_D_
 Width: 650
 VWidth: 0
@@ -13415,7 +13410,7 @@ s."
 EndChar
 
 StartChar: uni01CE
-Encoding: 419 462 418
+Encoding: 578 462 418
 GlifName: uni01C_E_
 Width: 493
 VWidth: 0
@@ -13440,7 +13435,7 @@ s."
 EndChar
 
 StartChar: uni01CF
-Encoding: 420 463 419
+Encoding: 579 463 419
 GlifName: uni01C_F_
 Width: 280
 VWidth: 0
@@ -13465,7 +13460,7 @@ s."
 EndChar
 
 StartChar: uni01D0
-Encoding: 421 464 420
+Encoding: 580 464 420
 GlifName: uni01D_0
 Width: 300
 VWidth: 0
@@ -13491,7 +13486,7 @@ s."
 EndChar
 
 StartChar: uni01D1
-Encoding: 422 465 421
+Encoding: 581 465 421
 GlifName: uni01D_1
 Width: 696
 VWidth: 0
@@ -13516,7 +13511,7 @@ s."
 EndChar
 
 StartChar: uni01D2
-Encoding: 423 466 422
+Encoding: 582 466 422
 GlifName: uni01D_2
 Width: 480
 VWidth: 0
@@ -13541,7 +13536,7 @@ s."
 EndChar
 
 StartChar: uni01D3
-Encoding: 424 467 423
+Encoding: 583 467 423
 GlifName: uni01D_3
 Width: 640
 VWidth: 0
@@ -13566,7 +13561,7 @@ s."
 EndChar
 
 StartChar: uni01D4
-Encoding: 425 468 424
+Encoding: 584 468 424
 GlifName: uni01D_4
 Width: 478
 VWidth: 0
@@ -13591,7 +13586,7 @@ s."
 EndChar
 
 StartChar: uni01D5
-Encoding: 426 469 425
+Encoding: 585 469 425
 GlifName: uni01D_5
 Width: 560
 VWidth: 0
@@ -13630,7 +13625,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01D6
-Encoding: 427 470 426
+Encoding: 586 470 426
 GlifName: uni01D_6
 Width: 478
 VWidth: 0
@@ -13655,7 +13650,7 @@ s."
 EndChar
 
 StartChar: uni01D7
-Encoding: 428 471 427
+Encoding: 587 471 427
 GlifName: uni01D_7
 Width: 560
 VWidth: 0
@@ -13694,7 +13689,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01D8
-Encoding: 429 472 428
+Encoding: 588 472 428
 GlifName: uni01D_8
 Width: 478
 VWidth: 0
@@ -13719,7 +13714,7 @@ s."
 EndChar
 
 StartChar: uni01D9
-Encoding: 430 473 429
+Encoding: 589 473 429
 GlifName: uni01D_9
 Width: 560
 VWidth: 0
@@ -13761,7 +13756,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01DA
-Encoding: 431 474 430
+Encoding: 590 474 430
 GlifName: uni01D_A_
 Width: 478
 VWidth: 0
@@ -13805,7 +13800,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01DB
-Encoding: 432 475 431
+Encoding: 591 475 431
 GlifName: uni01D_B_
 Width: 560
 VWidth: 0
@@ -13844,7 +13839,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01DC
-Encoding: 433 476 432
+Encoding: 592 476 432
 GlifName: uni01D_C_
 Width: 478
 VWidth: 0
@@ -13885,7 +13880,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01DD
-Encoding: 434 477 433
+Encoding: 593 477 433
 GlifName: uni01D_D_
 Width: 471
 VWidth: 0
@@ -13910,7 +13905,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01DE
-Encoding: 435 478 434
+Encoding: 594 478 434
 GlifName: uni01D_E_
 Width: 650
 VWidth: 0
@@ -13935,7 +13930,7 @@ s."
 EndChar
 
 StartChar: uni01DF
-Encoding: 436 479 435
+Encoding: 595 479 435
 GlifName: uni01D_F_
 Width: 493
 VWidth: 0
@@ -13981,7 +13976,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01E0
-Encoding: 437 480 436
+Encoding: 596 480 436
 GlifName: uni01E_0
 Width: 560
 VWidth: 0
@@ -14016,7 +14011,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01E1
-Encoding: 438 481 437
+Encoding: 597 481 437
 GlifName: uni01E_1
 Width: 503
 VWidth: 0
@@ -14059,7 +14054,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01E8
-Encoding: 439 488 438
+Encoding: 598 488 438
 GlifName: uni01E_8
 Width: 710
 VWidth: 0
@@ -14084,7 +14079,7 @@ s."
 EndChar
 
 StartChar: uni01E9
-Encoding: 440 489 439
+Encoding: 599 489 439
 GlifName: uni01E_9
 Width: 422
 VWidth: 0
@@ -14109,7 +14104,7 @@ s."
 EndChar
 
 StartChar: uni01EA
-Encoding: 441 490 440
+Encoding: 600 490 440
 GlifName: uni01E_A_
 Width: 660
 VWidth: 0
@@ -14142,7 +14137,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01EB
-Encoding: 442 491 441
+Encoding: 601 491 441
 GlifName: uni01E_B_
 Width: 480
 VWidth: 0
@@ -14175,7 +14170,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01EC
-Encoding: 443 492 442
+Encoding: 602 492 442
 GlifName: uni01E_C_
 Width: 660
 VWidth: 0
@@ -14213,7 +14208,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01ED
-Encoding: 444 493 443
+Encoding: 603 493 443
 GlifName: uni01E_D_
 Width: 480
 VWidth: 0
@@ -14251,7 +14246,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni01F0
-Encoding: 445 496 444
+Encoding: 604 496 444
 GlifName: uni01F_0
 Width: 220
 VWidth: 0
@@ -14263,7 +14258,7 @@ Refer: 494 567 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F1
-Encoding: 446 497 445
+Encoding: 605 497 445
 GlifName: uni01F_1
 Width: 1255
 VWidth: 0
@@ -14284,7 +14279,7 @@ s."
 EndChar
 
 StartChar: uni01F2
-Encoding: 447 498 446
+Encoding: 606 498 446
 GlifName: uni01F_2
 Width: 1090
 VWidth: 0
@@ -14305,7 +14300,7 @@ s."
 EndChar
 
 StartChar: uni01F3
-Encoding: 448 499 447
+Encoding: 607 499 447
 GlifName: uni01F_3
 Width: 941
 VWidth: 0
@@ -14326,7 +14321,7 @@ s."
 EndChar
 
 StartChar: uni01F4
-Encoding: 449 500 448
+Encoding: 608 500 448
 GlifName: uni01F_4
 Width: 647
 VWidth: 0
@@ -14351,7 +14346,7 @@ s."
 EndChar
 
 StartChar: uni01F5
-Encoding: 450 501 449
+Encoding: 609 501 449
 GlifName: uni01F_5
 Width: 492
 VWidth: 0
@@ -14369,7 +14364,7 @@ Refer: 220 103 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F8
-Encoding: 451 504 450
+Encoding: 610 504 450
 GlifName: uni01F_8
 Width: 714
 VWidth: 0
@@ -14395,7 +14390,7 @@ s."
 EndChar
 
 StartChar: uni01F9
-Encoding: 452 505 451
+Encoding: 611 505 451
 GlifName: uni01F_9
 Width: 588
 VWidth: 0
@@ -14420,7 +14415,7 @@ s."
 EndChar
 
 StartChar: uni0200
-Encoding: 453 512 452
+Encoding: 612 512 452
 GlifName: uni0200
 Width: 650
 VWidth: 0
@@ -14446,7 +14441,7 @@ s."
 EndChar
 
 StartChar: uni0201
-Encoding: 454 513 453
+Encoding: 613 513 453
 GlifName: uni0201
 Width: 493
 VWidth: 0
@@ -14472,7 +14467,7 @@ s."
 EndChar
 
 StartChar: uni0202
-Encoding: 455 514 454
+Encoding: 614 514 454
 GlifName: uni0202
 Width: 650
 VWidth: 0
@@ -14497,7 +14492,7 @@ s."
 EndChar
 
 StartChar: uni0203
-Encoding: 456 515 455
+Encoding: 615 515 455
 GlifName: uni0203
 Width: 493
 VWidth: 0
@@ -14522,7 +14517,7 @@ s."
 EndChar
 
 StartChar: uni0204
-Encoding: 457 516 456
+Encoding: 616 516 456
 GlifName: uni0204
 Width: 510
 VWidth: 0
@@ -14548,7 +14543,7 @@ s."
 EndChar
 
 StartChar: uni0205
-Encoding: 458 517 457
+Encoding: 617 517 457
 GlifName: uni0205
 Width: 518
 VWidth: 0
@@ -14574,7 +14569,7 @@ s."
 EndChar
 
 StartChar: uni0206
-Encoding: 459 518 458
+Encoding: 618 518 458
 GlifName: uni0206
 Width: 510
 VWidth: 0
@@ -14599,7 +14594,7 @@ s."
 EndChar
 
 StartChar: uni0207
-Encoding: 460 519 459
+Encoding: 619 519 459
 GlifName: uni0207
 Width: 518
 VWidth: 0
@@ -14624,7 +14619,7 @@ s."
 EndChar
 
 StartChar: uni0208
-Encoding: 461 520 460
+Encoding: 620 520 460
 GlifName: uni0208
 Width: 280
 VWidth: 0
@@ -14650,7 +14645,7 @@ s."
 EndChar
 
 StartChar: uni0209
-Encoding: 462 521 461
+Encoding: 621 521 461
 GlifName: uni0209
 Width: 300
 VWidth: 0
@@ -14676,7 +14671,7 @@ s."
 EndChar
 
 StartChar: uni020A
-Encoding: 463 522 462
+Encoding: 622 522 462
 GlifName: uni020A_
 Width: 280
 VWidth: 0
@@ -14701,7 +14696,7 @@ s."
 EndChar
 
 StartChar: uni020B
-Encoding: 464 523 463
+Encoding: 623 523 463
 GlifName: uni020B_
 Width: 300
 VWidth: 0
@@ -14727,7 +14722,7 @@ s."
 EndChar
 
 StartChar: uni020C
-Encoding: 465 524 464
+Encoding: 624 524 464
 GlifName: uni020C_
 Width: 696
 VWidth: 0
@@ -14753,7 +14748,7 @@ s."
 EndChar
 
 StartChar: uni020D
-Encoding: 466 525 465
+Encoding: 625 525 465
 GlifName: uni020D_
 Width: 480
 VWidth: 0
@@ -14779,7 +14774,7 @@ s."
 EndChar
 
 StartChar: uni020E
-Encoding: 467 526 466
+Encoding: 626 526 466
 GlifName: uni020E_
 Width: 696
 VWidth: 0
@@ -14804,7 +14799,7 @@ s."
 EndChar
 
 StartChar: uni020F
-Encoding: 468 527 467
+Encoding: 627 527 467
 GlifName: uni020F_
 Width: 480
 VWidth: 0
@@ -14829,7 +14824,7 @@ s."
 EndChar
 
 StartChar: uni0210
-Encoding: 469 528 468
+Encoding: 628 528 468
 GlifName: uni0210
 Width: 580
 VWidth: 0
@@ -14869,7 +14864,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0211
-Encoding: 470 529 469
+Encoding: 629 529 469
 GlifName: uni0211
 Width: 370
 VWidth: 0
@@ -14902,7 +14897,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0212
-Encoding: 471 530 470
+Encoding: 630 530 470
 GlifName: uni0212
 Width: 540
 VWidth: 0
@@ -14924,7 +14919,7 @@ s."
 EndChar
 
 StartChar: uni0213
-Encoding: 472 531 471
+Encoding: 631 531 471
 GlifName: uni0213
 Width: 370
 VWidth: 0
@@ -14959,7 +14954,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0214
-Encoding: 473 532 472
+Encoding: 632 532 472
 GlifName: uni0214
 Width: 640
 VWidth: 0
@@ -14981,7 +14976,7 @@ s."
 EndChar
 
 StartChar: uni0215
-Encoding: 474 533 473
+Encoding: 633 533 473
 GlifName: uni0215
 Width: 478
 VWidth: 0
@@ -15016,7 +15011,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0216
-Encoding: 475 534 474
+Encoding: 634 534 474
 GlifName: uni0216
 Width: 560
 VWidth: 0
@@ -15028,7 +15023,7 @@ Refer: 97 85 N 1 0 0 1 -40 0 2
 EndChar
 
 StartChar: uni0217
-Encoding: 476 535 475
+Encoding: 635 535 475
 GlifName: uni0217
 Width: 478
 VWidth: 0
@@ -15040,7 +15035,7 @@ Refer: 386 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni021A
-Encoding: 477 538 476
+Encoding: 636 538 476
 GlifName: uni021A_
 Width: 480
 VWidth: 0
@@ -15062,7 +15057,7 @@ s."
 EndChar
 
 StartChar: uni021B
-Encoding: 478 539 477
+Encoding: 637 539 477
 GlifName: uni021B_
 Width: 331
 VWidth: 0
@@ -15099,7 +15094,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni021E
-Encoding: 479 542 478
+Encoding: 638 542 478
 GlifName: uni021E_
 Width: 560
 VWidth: 0
@@ -15132,7 +15127,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni021F
-Encoding: 480 543 479
+Encoding: 639 543 479
 GlifName: uni021F_
 Width: 478
 VWidth: 0
@@ -15165,7 +15160,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0226
-Encoding: 481 550 480
+Encoding: 640 550 480
 GlifName: uni0226
 Width: 570
 VWidth: 0
@@ -15177,7 +15172,7 @@ Refer: 1 65 N 1 0 0 1 -40 0 2
 EndChar
 
 StartChar: uni0227
-Encoding: 482 551 481
+Encoding: 641 551 481
 GlifName: uni0227
 Width: 493
 VWidth: 0
@@ -15189,7 +15184,7 @@ Refer: 120 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0228
-Encoding: 483 552 482
+Encoding: 642 552 482
 GlifName: uni0228
 Width: 510
 VWidth: 0
@@ -15227,7 +15222,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0229
-Encoding: 484 553 483
+Encoding: 643 553 483
 GlifName: uni0229
 Width: 471
 VWidth: 0
@@ -15264,7 +15259,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni022A
-Encoding: 485 554 484
+Encoding: 644 554 484
 GlifName: uni022A_
 Width: 660
 VWidth: 0
@@ -15301,7 +15296,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni022B
-Encoding: 486 555 485
+Encoding: 645 555 485
 GlifName: uni022B_
 Width: 480
 VWidth: 0
@@ -15338,7 +15333,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni022C
-Encoding: 487 556 486
+Encoding: 646 556 486
 GlifName: uni022C_
 Width: 660
 VWidth: 0
@@ -15375,7 +15370,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni022D
-Encoding: 488 557 487
+Encoding: 647 557 487
 GlifName: uni022D_
 Width: 480
 VWidth: 0
@@ -15414,7 +15409,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni022E
-Encoding: 489 558 488
+Encoding: 648 558 488
 GlifName: uni022E_
 Width: 660
 VWidth: 0
@@ -15441,7 +15436,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni022F
-Encoding: 490 559 489
+Encoding: 649 559 489
 GlifName: uni022F_
 Width: 480
 VWidth: 0
@@ -15462,7 +15457,7 @@ s."
 EndChar
 
 StartChar: uni0230
-Encoding: 491 560 490
+Encoding: 650 560 490
 GlifName: uni0230
 Width: 660
 VWidth: 0
@@ -15474,7 +15469,7 @@ Refer: 488 558 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0231
-Encoding: 492 561 491
+Encoding: 651 561 491
 GlifName: uni0231
 Width: 480
 VWidth: 0
@@ -15507,7 +15502,7 @@ Refer: 178 729 N 1 0 0 1 150 40 2
 EndChar
 
 StartChar: uni0232
-Encoding: 493 562 492
+Encoding: 652 562 492
 GlifName: uni0232
 Width: 594
 VWidth: 0
@@ -15534,7 +15529,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0233
-Encoding: 494 563 493
+Encoding: 653 563 493
 GlifName: uni0233
 Width: 470
 VWidth: 0
@@ -15564,7 +15559,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0237
-Encoding: 495 567 494
+Encoding: 654 567 494
 GlifName: uni0237
 Width: 220
 VWidth: 0
@@ -15587,7 +15582,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0259
-Encoding: 496 601 495
+Encoding: 655 601 495
 GlifName: uni0259
 Width: 471
 VWidth: 0
@@ -15613,7 +15608,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni02BC
-Encoding: 497 700 496
+Encoding: 656 700 496
 GlifName: uni02B_C_
 Width: 180
 VWidth: 0
@@ -15633,7 +15628,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni02C4
-Encoding: 498 708 497
+Encoding: 657 708 497
 GlifName: uni02C_4
 Width: 514
 VWidth: 0
@@ -15653,7 +15648,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni02C5
-Encoding: 499 709 498
+Encoding: 658 709 498
 GlifName: uni02C_5
 Width: 514
 VWidth: 0
@@ -15673,7 +15668,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0302
-Encoding: 500 770 499
+Encoding: 659 770 499
 GlifName: uni0302
 Width: 0
 VWidth: 0
@@ -15684,7 +15679,7 @@ Refer: 163 710 N 1 0 0 1 -390 0 2
 EndChar
 
 StartChar: uni0304
-Encoding: 501 772 500
+Encoding: 660 772 500
 GlifName: uni0304
 Width: 0
 VWidth: 0
@@ -15701,7 +15696,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0306
-Encoding: 502 774 501
+Encoding: 661 774 501
 GlifName: uni0306
 Width: 0
 VWidth: 0
@@ -15720,7 +15715,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0307
-Encoding: 503 775 502
+Encoding: 662 775 502
 GlifName: uni0307
 Width: 0
 VWidth: 0
@@ -15731,7 +15726,7 @@ Refer: 178 729 N 1 0 0 1 -280 0 2
 EndChar
 
 StartChar: uni0308
-Encoding: 504 776 503
+Encoding: 663 776 503
 GlifName: uni0308
 Width: 0
 VWidth: 0
@@ -15753,7 +15748,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030A
-Encoding: 505 778 504
+Encoding: 664 778 504
 GlifName: uni030A_
 Width: 0
 VWidth: 0
@@ -15774,7 +15769,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030B
-Encoding: 506 779 505
+Encoding: 665 779 505
 GlifName: uni030B_
 Width: 0
 VWidth: 0
@@ -15795,7 +15790,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni030F
-Encoding: 507 783 506
+Encoding: 666 783 506
 GlifName: uni030F_
 Width: 0
 VWidth: 0
@@ -15816,7 +15811,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0311
-Encoding: 508 785 507
+Encoding: 667 785 507
 GlifName: uni0311
 Width: 0
 VWidth: 0
@@ -15835,7 +15830,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0312
-Encoding: 509 786 508
+Encoding: 668 786 508
 GlifName: uni0312
 Width: 180
 VWidth: 0
@@ -15855,7 +15850,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0313
-Encoding: 510 787 509
+Encoding: 669 787 509
 GlifName: uni0313
 Width: 180
 VWidth: 0
@@ -15875,7 +15870,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0314
-Encoding: 511 788 510
+Encoding: 670 788 510
 GlifName: uni0314
 Width: 180
 VWidth: 0
@@ -15895,7 +15890,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0315
-Encoding: 512 789 511
+Encoding: 671 789 511
 GlifName: uni0315
 Width: 180
 VWidth: 0
@@ -15915,7 +15910,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0326
-Encoding: 513 806 512
+Encoding: 672 806 512
 GlifName: uni0326
 Width: 0
 VWidth: 0
@@ -15935,7 +15930,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0329
-Encoding: 514 809 513
+Encoding: 673 809 513
 GlifName: uni0329
 Width: 0
 VWidth: 0
@@ -15951,7 +15946,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0400
-Encoding: 515 1024 514
+Encoding: 674 1024 514
 GlifName: uni0400
 Width: 510
 VWidth: 0
@@ -15972,7 +15967,7 @@ s."
 EndChar
 
 StartChar: uni0401
-Encoding: 516 1025 515
+Encoding: 161 1025 515
 GlifName: uni0401
 Width: 510
 VWidth: 0
@@ -15993,7 +15988,7 @@ s."
 EndChar
 
 StartChar: uni0402
-Encoding: 517 1026 516
+Encoding: 162 1026 516
 GlifName: uni0402
 Width: 1314
 VWidth: 0
@@ -16018,7 +16013,7 @@ s."
 EndChar
 
 StartChar: uni0403
-Encoding: 518 1027 517
+Encoding: 163 1027 517
 GlifName: uni0403
 Width: 580
 VWidth: 0
@@ -16042,7 +16037,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0404
-Encoding: 519 1028 518
+Encoding: 164 1028 518
 GlifName: uni0404
 Width: 590
 VWidth: 0
@@ -16069,7 +16064,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0405
-Encoding: 520 1029 519
+Encoding: 165 1029 519
 GlifName: uni0405
 Width: 582
 VWidth: 0
@@ -16080,7 +16075,7 @@ Refer: 88 83 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: uni0406
-Encoding: 521 1030 520
+Encoding: 166 1030 520
 GlifName: uni0406
 Width: 190
 VWidth: 0
@@ -16091,7 +16086,7 @@ Refer: 44 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0407
-Encoding: 522 1031 521
+Encoding: 167 1031 521
 GlifName: uni0407
 Width: 190
 VWidth: 0
@@ -16112,7 +16107,7 @@ s."
 EndChar
 
 StartChar: uni0408
-Encoding: 523 1032 522
+Encoding: 168 1032 522
 GlifName: uni0408
 Width: 286
 VWidth: 0
@@ -16123,7 +16118,7 @@ Refer: 55 74 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0409
-Encoding: 524 1033 523
+Encoding: 169 1033 523
 GlifName: uni0409
 Width: 998
 VWidth: 0
@@ -16157,7 +16152,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni040A
-Encoding: 525 1034 524
+Encoding: 170 1034 524
 GlifName: uni040A_
 Width: 950
 VWidth: 0
@@ -16191,7 +16186,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni040B
-Encoding: 526 1035 525
+Encoding: 171 1035 525
 GlifName: uni040B_
 Width: 100
 VWidth: 0
@@ -16206,7 +16201,7 @@ s."
 EndChar
 
 StartChar: uni040C
-Encoding: 527 1036 526
+Encoding: 172 1036 526
 GlifName: uni040C_
 Width: 710
 VWidth: 0
@@ -16227,7 +16222,7 @@ s."
 EndChar
 
 StartChar: uni040D
-Encoding: 528 1037 527
+Encoding: 675 1037 527
 GlifName: uni040D_
 Width: 630
 VWidth: 0
@@ -16239,7 +16234,7 @@ Refer: 539 1048 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni040E
-Encoding: 529 1038 528
+Encoding: 174 1038 528
 GlifName: uni040E_
 Width: 658
 VWidth: 0
@@ -16267,7 +16262,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni040F
-Encoding: 530 1039 529
+Encoding: 175 1039 529
 GlifName: uni040F_
 Width: 590
 VWidth: 0
@@ -16292,7 +16287,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0410
-Encoding: 531 1040 530
+Encoding: 176 1040 530
 GlifName: uni0410
 Width: 570
 VWidth: 0
@@ -16305,7 +16300,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0430.sc
 EndChar
 
 StartChar: uni0411
-Encoding: 532 1041 531
+Encoding: 177 1041 531
 GlifName: uni0411
 Width: 580
 VWidth: 0
@@ -16334,7 +16329,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0431.sc
 EndChar
 
 StartChar: uni0412
-Encoding: 533 1042 532
+Encoding: 178 1042 532
 GlifName: uni0412
 Width: 620
 VWidth: 0
@@ -16355,7 +16350,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0432.sc
 EndChar
 
 StartChar: uni0413
-Encoding: 534 1043 533
+Encoding: 179 1043 533
 GlifName: uni0413
 Width: 490
 VWidth: 0
@@ -16374,7 +16369,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0433.sc
 EndChar
 
 StartChar: uni0414
-Encoding: 535 1044 534
+Encoding: 180 1044 534
 GlifName: uni0414
 Width: 700
 VWidth: 0
@@ -16408,7 +16403,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0414.lo
 EndChar
 
 StartChar: uni0414.loclBGR
-Encoding: 536 -1 535
+Encoding: 676 -1 535
 GlifName: uni0414.loclB_G_R_
 Width: 700
 VWidth: 0
@@ -16437,7 +16432,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0415
-Encoding: 537 1045 536
+Encoding: 181 1045 536
 GlifName: uni0415
 Width: 510
 VWidth: 0
@@ -16459,7 +16454,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0435.sc
 EndChar
 
 StartChar: uni0416
-Encoding: 538 1046 537
+Encoding: 182 1046 537
 GlifName: uni0416
 Width: 930
 VWidth: 0
@@ -16495,7 +16490,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0436.sc
 EndChar
 
 StartChar: uni0417
-Encoding: 539 1047 538
+Encoding: 183 1047 538
 GlifName: uni0417
 Width: 580
 VWidth: 0
@@ -16528,7 +16523,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0437.sc
 EndChar
 
 StartChar: uni0418
-Encoding: 540 1048 539
+Encoding: 184 1048 539
 GlifName: uni0418
 Width: 630
 VWidth: 0
@@ -16555,7 +16550,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0438.sc
 EndChar
 
 StartChar: uni0419
-Encoding: 541 1049 540
+Encoding: 185 1049 540
 GlifName: uni0419
 Width: 630
 VWidth: 0
@@ -16568,7 +16563,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0439.sc
 EndChar
 
 StartChar: uni041A
-Encoding: 542 1050 541
+Encoding: 186 1050 541
 GlifName: uni041A_
 Width: 710
 VWidth: 0
@@ -16589,7 +16584,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043A.sc
 EndChar
 
 StartChar: uni041B
-Encoding: 543 1051 542
+Encoding: 187 1051 542
 GlifName: uni041B_
 Width: 608
 VWidth: 0
@@ -16616,7 +16611,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni041B.lo
 EndChar
 
 StartChar: uni041B.loclBGR
-Encoding: 544 -1 543
+Encoding: 677 -1 543
 GlifName: uni041B_.loclB_G_R_
 Width: 608
 VWidth: 0
@@ -16636,7 +16631,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni041C
-Encoding: 545 1052 544
+Encoding: 188 1052 544
 GlifName: uni041C_
 Width: 890
 VWidth: 0
@@ -16658,7 +16653,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043C.sc
 EndChar
 
 StartChar: uni041D
-Encoding: 546 1053 545
+Encoding: 189 1053 545
 GlifName: uni041D_
 Width: 660
 VWidth: 0
@@ -16679,7 +16674,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043D.sc
 EndChar
 
 StartChar: uni041E
-Encoding: 547 1054 546
+Encoding: 190 1054 546
 GlifName: uni041E_
 Width: 696
 VWidth: 0
@@ -16701,7 +16696,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043E.sc
 EndChar
 
 StartChar: uni041F
-Encoding: 548 1055 547
+Encoding: 191 1055 547
 GlifName: uni041F_
 Width: 590
 VWidth: 0
@@ -16723,7 +16718,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043F.sc
 EndChar
 
 StartChar: uni0420
-Encoding: 549 1056 548
+Encoding: 192 1056 548
 GlifName: uni0420
 Width: 580
 VWidth: 0
@@ -16744,7 +16739,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0440.sc
 EndChar
 
 StartChar: uni0421
-Encoding: 550 1057 549
+Encoding: 193 1057 549
 GlifName: uni0421
 Width: 645
 VWidth: 0
@@ -16767,7 +16762,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0441.sc
 EndChar
 
 StartChar: uni0422
-Encoding: 551 1058 550
+Encoding: 194 1058 550
 GlifName: uni0422
 Width: 480
 VWidth: 0
@@ -16790,7 +16785,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0442.sc
 EndChar
 
 StartChar: uni0423
-Encoding: 552 1059 551
+Encoding: 195 1059 551
 GlifName: uni0423
 Width: 658
 VWidth: 0
@@ -16812,7 +16807,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0443.sc
 EndChar
 
 StartChar: uni0424
-Encoding: 553 1060 552
+Encoding: 196 1060 552
 GlifName: uni0424
 Width: 830
 VWidth: 0
@@ -16854,7 +16849,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0444.sc
 EndChar
 
 StartChar: uni0425
-Encoding: 554 1061 553
+Encoding: 197 1061 553
 GlifName: uni0425
 Width: 658
 VWidth: 0
@@ -16866,7 +16861,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0445.sc
 EndChar
 
 StartChar: uni0426
-Encoding: 555 1062 554
+Encoding: 198 1062 554
 GlifName: uni0426
 Width: 630
 VWidth: 0
@@ -16892,7 +16887,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0446.sc
 EndChar
 
 StartChar: uni0427
-Encoding: 556 1063 555
+Encoding: 199 1063 555
 GlifName: uni0427
 Width: 510
 VWidth: 0
@@ -16918,7 +16913,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0447.sc
 EndChar
 
 StartChar: uni0428
-Encoding: 557 1064 556
+Encoding: 200 1064 556
 GlifName: uni0428
 Width: 846
 VWidth: 0
@@ -16944,7 +16939,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0448.sc
 EndChar
 
 StartChar: uni0429
-Encoding: 558 1065 557
+Encoding: 201 1065 557
 GlifName: uni0429
 Width: 916
 VWidth: 0
@@ -16974,7 +16969,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0449.sc
 EndChar
 
 StartChar: uni042A
-Encoding: 559 1066 558
+Encoding: 202 1066 558
 GlifName: uni042A_
 Width: 730
 VWidth: 0
@@ -17003,7 +16998,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044A.sc
 EndChar
 
 StartChar: uni042B
-Encoding: 560 1067 559
+Encoding: 203 1067 559
 GlifName: uni042B_
 Width: 748
 VWidth: 0
@@ -17035,7 +17030,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044B.sc
 EndChar
 
 StartChar: uni042C
-Encoding: 561 1068 560
+Encoding: 204 1068 560
 GlifName: uni042C_
 Width: 580
 VWidth: 0
@@ -17062,7 +17057,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044C.sc
 EndChar
 
 StartChar: uni042D
-Encoding: 562 1069 561
+Encoding: 205 1069 561
 GlifName: uni042D_
 Width: 590
 VWidth: 0
@@ -17090,7 +17085,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044D.sc
 EndChar
 
 StartChar: uni042E
-Encoding: 563 1070 562
+Encoding: 206 1070 562
 GlifName: uni042E_
 Width: 850
 VWidth: 0
@@ -17120,7 +17115,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044E.sc
 EndChar
 
 StartChar: uni042F
-Encoding: 564 1071 563
+Encoding: 207 1071 563
 GlifName: uni042F_
 Width: 580
 VWidth: 0
@@ -17150,7 +17145,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044F.sc
 EndChar
 
 StartChar: uni0430
-Encoding: 565 1072 564
+Encoding: 208 1072 564
 GlifName: uni0430
 Width: 493
 VWidth: 0
@@ -17176,7 +17171,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0430.s
 EndChar
 
 StartChar: uni0430.sc
-Encoding: 566 -1 565
+Encoding: 678 -1 565
 GlifName: uni0430.sc
 Width: 451
 VWidth: 0
@@ -17201,7 +17196,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0431
-Encoding: 567 1073 566
+Encoding: 209 1073 566
 GlifName: uni0431
 Width: 554
 VWidth: 0
@@ -17232,7 +17227,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0431.s
 EndChar
 
 StartChar: uni0431.sc
-Encoding: 568 -1 567
+Encoding: 679 -1 567
 GlifName: uni0431.sc
 Width: 422
 VWidth: 0
@@ -17260,7 +17255,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0432
-Encoding: 569 1074 568
+Encoding: 210 1074 568
 GlifName: uni0432
 Width: 496
 VWidth: 0
@@ -17295,7 +17290,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0432.lo
 EndChar
 
 StartChar: uni0432.loclBGR
-Encoding: 570 -1 569
+Encoding: 680 -1 569
 GlifName: uni0432.loclB_G_R_
 Width: 506
 VWidth: 0
@@ -17330,7 +17325,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0432.sc
-Encoding: 571 -1 570
+Encoding: 681 -1 570
 GlifName: uni0432.sc
 Width: 437
 VWidth: 0
@@ -17362,7 +17357,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0433
-Encoding: 572 1075 571
+Encoding: 211 1075 571
 GlifName: uni0433
 Width: 437
 VWidth: 0
@@ -17384,7 +17379,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0433.lo
 EndChar
 
 StartChar: uni0433.loclBGR
-Encoding: 573 -1 572
+Encoding: 682 -1 572
 GlifName: uni0433.loclB_G_R_
 Width: 445
 VWidth: 0
@@ -17411,7 +17406,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0433.sc
-Encoding: 574 -1 573
+Encoding: 683 -1 573
 GlifName: uni0433.sc
 Width: 360
 VWidth: 0
@@ -17430,7 +17425,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0434
-Encoding: 575 1076 574
+Encoding: 212 1076 574
 GlifName: uni0434
 Width: 531
 VWidth: 0
@@ -17464,7 +17459,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0434.lo
 EndChar
 
 StartChar: uni0434.loclBGR
-Encoding: 576 -1 575
+Encoding: 684 -1 575
 GlifName: uni0434.loclB_G_R_
 Width: 501
 VWidth: 0
@@ -17494,7 +17489,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0434.sc
-Encoding: 577 -1 576
+Encoding: 685 -1 576
 GlifName: uni0434.sc
 Width: 543
 VWidth: 0
@@ -17526,7 +17521,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0435
-Encoding: 578 1077 577
+Encoding: 213 1077 577
 GlifName: uni0435
 Width: 518
 VWidth: 0
@@ -17552,7 +17547,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0435.s
 EndChar
 
 StartChar: uni0435.sc
-Encoding: 579 -1 578
+Encoding: 686 -1 578
 GlifName: uni0435.sc
 Width: 355
 VWidth: 0
@@ -17577,7 +17572,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0436
-Encoding: 580 1078 579
+Encoding: 214 1078 579
 GlifName: uni0436
 Width: 700
 VWidth: 0
@@ -17631,7 +17626,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0436.lo
 EndChar
 
 StartChar: uni0436.loclBGR
-Encoding: 581 -1 580
+Encoding: 687 -1 580
 GlifName: uni0436.loclB_G_R_
 Width: 664
 VWidth: 0
@@ -17668,7 +17663,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0436.sc
-Encoding: 582 -1 581
+Encoding: 688 -1 581
 GlifName: uni0436.sc
 Width: 652
 VWidth: 0
@@ -17703,7 +17698,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0437
-Encoding: 583 1079 582
+Encoding: 215 1079 582
 GlifName: uni0437
 Width: 501
 VWidth: 0
@@ -17736,7 +17731,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0437.lo
 EndChar
 
 StartChar: uni0437.loclBGR
-Encoding: 584 -1 583
+Encoding: 689 -1 583
 GlifName: uni0437.loclB_G_R_
 Width: 451
 VWidth: 0
@@ -17764,7 +17759,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0437.sc
-Encoding: 585 -1 584
+Encoding: 690 -1 584
 GlifName: uni0437.sc
 Width: 437
 VWidth: 0
@@ -17797,7 +17792,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0438
-Encoding: 586 1080 585
+Encoding: 216 1080 585
 GlifName: uni0438
 Width: 528
 VWidth: 0
@@ -17825,7 +17820,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0438.lo
 EndChar
 
 StartChar: uni0438.loclBGR
-Encoding: 587 -1 586
+Encoding: 691 -1 586
 GlifName: uni0438.loclB_G_R_
 Width: 478
 VWidth: 0
@@ -17850,7 +17845,7 @@ s."
 EndChar
 
 StartChar: uni0438.sc
-Encoding: 588 -1 587
+Encoding: 692 -1 587
 GlifName: uni0438.sc
 Width: 455
 VWidth: 0
@@ -17875,7 +17870,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0439
-Encoding: 589 1081 588
+Encoding: 217 1081 588
 GlifName: uni0439
 Width: 528
 VWidth: 0
@@ -17897,7 +17892,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0439.lo
 EndChar
 
 StartChar: uni0439.loclBGR
-Encoding: 590 -1 589
+Encoding: 693 -1 589
 GlifName: uni0439.loclB_G_R_
 Width: 478
 VWidth: 0
@@ -17920,7 +17915,7 @@ Refer: 386 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0439.sc
-Encoding: 591 -1 590
+Encoding: 694 -1 590
 GlifName: uni0439.sc
 Width: 455
 VWidth: 0
@@ -17954,7 +17949,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043A
-Encoding: 592 1082 591
+Encoding: 218 1082 591
 GlifName: uni043A_
 Width: 478
 VWidth: 0
@@ -17991,7 +17986,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni043A.lo
 EndChar
 
 StartChar: uni043A.loclBGR
-Encoding: 593 -1 592
+Encoding: 695 -1 592
 GlifName: uni043A_.loclB_G_R_
 Width: 420
 VWidth: 0
@@ -18018,7 +18013,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043A.sc
-Encoding: 594 -1 593
+Encoding: 696 -1 593
 GlifName: uni043A_.sc
 Width: 426
 VWidth: 0
@@ -18044,7 +18039,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043B
-Encoding: 595 1083 594
+Encoding: 219 1083 594
 GlifName: uni043B_
 Width: 507
 VWidth: 0
@@ -18070,7 +18065,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni043B.lo
 EndChar
 
 StartChar: uni043B.loclBGR
-Encoding: 596 -1 595
+Encoding: 697 -1 595
 GlifName: uni043B_.loclB_G_R_
 Width: 437
 VWidth: 0
@@ -18090,7 +18085,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043B.sc
-Encoding: 597 -1 596
+Encoding: 698 -1 596
 GlifName: uni043B_.sc
 Width: 441
 VWidth: 0
@@ -18115,7 +18110,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043C
-Encoding: 598 1084 597
+Encoding: 220 1084 597
 GlifName: uni043C_
 Width: 627
 VWidth: 0
@@ -18145,7 +18140,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043C.s
 EndChar
 
 StartChar: uni043C.sc
-Encoding: 599 -1 598
+Encoding: 699 -1 598
 GlifName: uni043C_.sc
 Width: 609
 VWidth: 0
@@ -18174,7 +18169,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043D
-Encoding: 600 1085 599
+Encoding: 221 1085 599
 GlifName: uni043D_
 Width: 518
 VWidth: 0
@@ -18200,7 +18195,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043D.s
 EndChar
 
 StartChar: uni043D.sc
-Encoding: 601 -1 600
+Encoding: 700 -1 600
 GlifName: uni043D_.sc
 Width: 409
 VWidth: 0
@@ -18225,7 +18220,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043E
-Encoding: 602 1086 601
+Encoding: 222 1086 601
 GlifName: uni043E_
 Width: 480
 VWidth: 0
@@ -18251,7 +18246,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043E.s
 EndChar
 
 StartChar: uni043E.sc
-Encoding: 603 -1 602
+Encoding: 701 -1 602
 GlifName: uni043E_.sc
 Width: 475
 VWidth: 0
@@ -18273,7 +18268,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni043F
-Encoding: 604 1087 603
+Encoding: 223 1087 603
 GlifName: uni043F_
 Width: 497
 VWidth: 0
@@ -18296,7 +18291,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni043F.lo
 EndChar
 
 StartChar: uni043F.loclBGR
-Encoding: 605 -1 604
+Encoding: 702 -1 604
 GlifName: uni043F_.loclB_G_R_
 Width: 588
 VWidth: 0
@@ -18321,7 +18316,7 @@ s."
 EndChar
 
 StartChar: uni043F.sc
-Encoding: 606 -1 605
+Encoding: 703 -1 605
 GlifName: uni043F_.sc
 Width: 429
 VWidth: 0
@@ -18342,7 +18337,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0440
-Encoding: 607 1088 606
+Encoding: 224 1088 606
 GlifName: uni0440
 Width: 506
 VWidth: 0
@@ -18352,7 +18347,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0440.s
 EndChar
 
 StartChar: uni0440.sc
-Encoding: 608 -1 607
+Encoding: 704 -1 607
 GlifName: uni0440.sc
 Width: 422
 VWidth: 0
@@ -18378,7 +18373,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0441
-Encoding: 609 1089 608
+Encoding: 225 1089 608
 GlifName: uni0441
 Width: 510
 VWidth: 0
@@ -18404,7 +18399,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0441.s
 EndChar
 
 StartChar: uni0441.sc
-Encoding: 610 -1 609
+Encoding: 705 -1 609
 GlifName: uni0441.sc
 Width: 466
 VWidth: 0
@@ -18428,7 +18423,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0442
-Encoding: 611 1090 610
+Encoding: 226 1090 610
 GlifName: uni0442
 Width: 434
 VWidth: 0
@@ -18451,7 +18446,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0442.lo
 EndChar
 
 StartChar: uni0442.loclBGR
-Encoding: 612 -1 611
+Encoding: 706 -1 611
 GlifName: uni0442.loclB_G_R_
 Width: 776
 VWidth: 0
@@ -18471,7 +18466,7 @@ s."
 EndChar
 
 StartChar: uni0442.sc
-Encoding: 613 -1 612
+Encoding: 707 -1 612
 GlifName: uni0442.sc
 Width: 388
 VWidth: 0
@@ -18492,7 +18487,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0443
-Encoding: 614 1091 613
+Encoding: 227 1091 613
 GlifName: uni0443
 Width: 460
 VWidth: 0
@@ -18518,7 +18513,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0443.s
 EndChar
 
 StartChar: uni0443.sc
-Encoding: 615 -1 614
+Encoding: 708 -1 614
 GlifName: uni0443.sc
 Width: 428
 VWidth: 0
@@ -18539,7 +18534,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0444
-Encoding: 616 1092 615
+Encoding: 228 1092 615
 GlifName: uni0444
 Width: 646
 VWidth: 0
@@ -18571,7 +18566,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0444.s
 EndChar
 
 StartChar: uni0444.sc
-Encoding: 617 -1 616
+Encoding: 709 -1 616
 GlifName: uni0444.sc
 Width: 607
 VWidth: 0
@@ -18610,7 +18605,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0445
-Encoding: 618 1093 617
+Encoding: 229 1093 617
 GlifName: uni0445
 Width: 416
 VWidth: 0
@@ -18634,7 +18629,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0445.s
 EndChar
 
 StartChar: uni0445.alt
-Encoding: 619 -1 618
+Encoding: 710 -1 618
 GlifName: uni0445.alt
 Width: 550
 VWidth: 0
@@ -18660,7 +18655,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0445.sc
-Encoding: 620 -1 619
+Encoding: 711 -1 619
 GlifName: uni0445.sc
 Width: 432
 VWidth: 0
@@ -18685,7 +18680,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0446
-Encoding: 621 1094 620
+Encoding: 230 1094 620
 GlifName: uni0446
 Width: 527
 VWidth: 0
@@ -18712,7 +18707,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0446.lo
 EndChar
 
 StartChar: uni0446.loclBGR
-Encoding: 622 -1 621
+Encoding: 712 -1 621
 GlifName: uni0446.loclB_G_R_
 Width: 538
 VWidth: 0
@@ -18741,7 +18736,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0446.sc
-Encoding: 623 -1 622
+Encoding: 713 -1 622
 GlifName: uni0446.sc
 Width: 471
 VWidth: 0
@@ -18766,7 +18761,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0447
-Encoding: 624 1095 623
+Encoding: 231 1095 623
 GlifName: uni0447
 Width: 497
 VWidth: 0
@@ -18792,7 +18787,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0447.s
 EndChar
 
 StartChar: uni0447.sc
-Encoding: 625 -1 624
+Encoding: 714 -1 624
 GlifName: uni0447.sc
 Width: 409
 VWidth: 0
@@ -18817,7 +18812,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0448
-Encoding: 626 1096 625
+Encoding: 232 1096 625
 GlifName: uni0448
 Width: 754
 VWidth: 0
@@ -18844,7 +18839,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0448.lo
 EndChar
 
 StartChar: uni0448.loclBGR
-Encoding: 627 -1 626
+Encoding: 715 -1 626
 GlifName: uni0448.loclB_G_R_
 Width: 765
 VWidth: 0
@@ -18876,7 +18871,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0448.sc
-Encoding: 628 -1 627
+Encoding: 716 -1 627
 GlifName: uni0448.sc
 Width: 617
 VWidth: 0
@@ -18901,7 +18896,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0449
-Encoding: 629 1097 628
+Encoding: 233 1097 628
 GlifName: uni0449
 Width: 784
 VWidth: 0
@@ -18932,7 +18927,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0449.lo
 EndChar
 
 StartChar: uni0449.loclBGR
-Encoding: 630 -1 629
+Encoding: 717 -1 629
 GlifName: uni0449.loclB_G_R_
 Width: 826
 VWidth: 0
@@ -18968,7 +18963,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0449.sc
-Encoding: 631 -1 630
+Encoding: 718 -1 630
 GlifName: uni0449.sc
 Width: 679
 VWidth: 0
@@ -18997,7 +18992,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044A
-Encoding: 632 1098 631
+Encoding: 234 1098 631
 GlifName: uni044A_
 Width: 528
 VWidth: 0
@@ -19027,7 +19022,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044A.lo
 EndChar
 
 StartChar: uni044A.loclBGR
-Encoding: 633 -1 632
+Encoding: 719 -1 632
 GlifName: uni044A_.loclB_G_R_
 Width: 571
 VWidth: 0
@@ -19055,7 +19050,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044A.sc
-Encoding: 634 -1 633
+Encoding: 720 -1 633
 GlifName: uni044A_.sc
 Width: 521
 VWidth: 0
@@ -19083,7 +19078,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044B
-Encoding: 635 1099 634
+Encoding: 235 1099 634
 GlifName: uni044B_
 Width: 645
 VWidth: 0
@@ -19103,7 +19098,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044B.lo
 EndChar
 
 StartChar: uni044B.loclBGR
-Encoding: 636 -1 635
+Encoding: 721 -1 635
 GlifName: uni044B_.loclB_G_R_
 Width: 620
 VWidth: 0
@@ -19135,7 +19130,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044B.sc
-Encoding: 637 -1 636
+Encoding: 722 -1 636
 GlifName: uni044B_.sc
 Width: 576
 VWidth: 0
@@ -19166,7 +19161,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044C
-Encoding: 638 1100 637
+Encoding: 236 1100 637
 GlifName: uni044C_
 Width: 478
 VWidth: 0
@@ -19194,7 +19189,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044C.lo
 EndChar
 
 StartChar: uni044C.loclBGR
-Encoding: 639 -1 638
+Encoding: 723 -1 638
 GlifName: uni044C_.loclB_G_R_
 Width: 481
 VWidth: 0
@@ -19220,7 +19215,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044C.sc
-Encoding: 640 -1 639
+Encoding: 724 -1 639
 GlifName: uni044C_.sc
 Width: 437
 VWidth: 0
@@ -19246,7 +19241,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044D
-Encoding: 641 1101 640
+Encoding: 237 1101 640
 GlifName: uni044D_
 Width: 471
 VWidth: 0
@@ -19273,7 +19268,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044D.s
 EndChar
 
 StartChar: uni044D.sc
-Encoding: 642 -1 641
+Encoding: 725 -1 641
 GlifName: uni044D_.sc
 Width: 408
 VWidth: 0
@@ -19300,7 +19295,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044E
-Encoding: 643 1102 642
+Encoding: 238 1102 642
 GlifName: uni044E_
 Width: 673
 VWidth: 0
@@ -19331,7 +19326,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044E.lo
 EndChar
 
 StartChar: uni044E.loclBGR
-Encoding: 644 -1 643
+Encoding: 726 -1 643
 GlifName: uni044E_.loclB_G_R_
 Width: 608
 VWidth: 0
@@ -19361,7 +19356,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044E.sc
-Encoding: 645 -1 644
+Encoding: 727 -1 644
 GlifName: uni044E_.sc
 Width: 636
 VWidth: 0
@@ -19391,7 +19386,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni044F
-Encoding: 646 1103 645
+Encoding: 239 1103 645
 GlifName: uni044F_
 Width: 477
 VWidth: 0
@@ -19422,7 +19417,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044F.s
 EndChar
 
 StartChar: uni044F.sc
-Encoding: 647 -1 646
+Encoding: 728 -1 646
 GlifName: uni044F_.sc
 Width: 422
 VWidth: 0
@@ -19452,7 +19447,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0450
-Encoding: 648 1104 647
+Encoding: 729 1104 647
 GlifName: uni0450
 Width: 518
 VWidth: 0
@@ -19465,7 +19460,7 @@ Refer: 180 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0451
-Encoding: 649 1105 648
+Encoding: 241 1105 648
 GlifName: uni0451
 Width: 518
 VWidth: 0
@@ -19478,7 +19473,7 @@ Refer: 180 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0453
-Encoding: 650 1107 649
+Encoding: 243 1107 649
 GlifName: uni0453
 Width: 397
 VWidth: 0
@@ -19502,7 +19497,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0454
-Encoding: 651 1108 650
+Encoding: 244 1108 650
 GlifName: uni0454
 Width: 451
 VWidth: 0
@@ -19530,7 +19525,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0455
-Encoding: 652 1109 651
+Encoding: 245 1109 651
 GlifName: uni0455
 Width: 452
 VWidth: 0
@@ -19541,7 +19536,7 @@ Refer: 342 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0456
-Encoding: 653 1110 652
+Encoding: 246 1110 652
 GlifName: uni0456
 Width: 220
 VWidth: 0
@@ -19563,7 +19558,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0457
-Encoding: 654 1111 653
+Encoding: 247 1111 653
 GlifName: uni0457
 Width: 280
 VWidth: 0
@@ -19575,7 +19570,7 @@ Refer: 179 305 N 1 0 0 1 40 0 2
 EndChar
 
 StartChar: uni0458
-Encoding: 655 1112 654
+Encoding: 248 1112 654
 GlifName: uni0458
 Width: 230
 VWidth: 0
@@ -19586,7 +19581,7 @@ Refer: 252 106 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0459
-Encoding: 656 1113 655
+Encoding: 249 1113 655
 GlifName: uni0459
 Width: 829
 VWidth: 0
@@ -19620,7 +19615,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni045C
-Encoding: 657 1116 656
+Encoding: 252 1116 656
 GlifName: uni045C_
 Width: 420
 VWidth: 0
@@ -19652,7 +19647,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni045D
-Encoding: 658 1117 657
+Encoding: 730 1117 657
 GlifName: uni045D_
 Width: 528
 VWidth: 0
@@ -19665,7 +19660,7 @@ Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni045D.lo
 EndChar
 
 StartChar: uni045D.loclBGR
-Encoding: 659 -1 658
+Encoding: 731 -1 658
 GlifName: uni045D_.loclB_G_R_
 Width: 478
 VWidth: 0
@@ -19696,7 +19691,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni045E
-Encoding: 660 1118 659
+Encoding: 254 1118 659
 GlifName: uni045E_
 Width: 460
 VWidth: 0
@@ -19730,7 +19725,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04C1
-Encoding: 661 1217 660
+Encoding: 732 1217 660
 GlifName: uni04C_1
 Width: 930
 VWidth: 0
@@ -19772,7 +19767,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04C2
-Encoding: 662 1218 661
+Encoding: 733 1218 661
 GlifName: uni04C_2
 Width: 700
 VWidth: 0
@@ -19784,7 +19779,7 @@ Refer: 579 1078 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04D0
-Encoding: 663 1232 662
+Encoding: 734 1232 662
 GlifName: uni04D_0
 Width: 570
 VWidth: 0
@@ -19797,7 +19792,7 @@ Refer: 1 65 N 1 0 0 1 -40 0 2
 EndChar
 
 StartChar: uni04D1
-Encoding: 664 1233 663
+Encoding: 735 1233 663
 GlifName: uni04D_1
 Width: 493
 VWidth: 0
@@ -19810,7 +19805,7 @@ Refer: 120 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04D2
-Encoding: 665 1234 664
+Encoding: 736 1234 664
 GlifName: uni04D_2
 Width: 570
 VWidth: 0
@@ -19823,7 +19818,7 @@ Refer: 1 65 N 1 0 0 1 -40 0 2
 EndChar
 
 StartChar: uni04D3
-Encoding: 666 1235 665
+Encoding: 737 1235 665
 GlifName: uni04D_3
 Width: 493
 VWidth: 0
@@ -19844,7 +19839,7 @@ s."
 EndChar
 
 StartChar: uni04D6
-Encoding: 667 1238 666
+Encoding: 738 1238 666
 GlifName: uni04D_6
 Width: 510
 VWidth: 0
@@ -19865,7 +19860,7 @@ s."
 EndChar
 
 StartChar: uni04D7
-Encoding: 668 1239 667
+Encoding: 739 1239 667
 GlifName: uni04D_7
 Width: 518
 VWidth: 0
@@ -19878,7 +19873,7 @@ Refer: 180 101 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04D9
-Encoding: 669 1241 668
+Encoding: 740 1241 668
 GlifName: uni04D_9
 Width: 471
 VWidth: 0
@@ -19904,7 +19899,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04DB
-Encoding: 670 1243 669
+Encoding: 741 1243 669
 GlifName: uni04D_B_
 Width: 471
 VWidth: 0
@@ -19916,7 +19911,7 @@ Refer: 668 1241 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04DC
-Encoding: 671 1244 670
+Encoding: 742 1244 670
 GlifName: uni04D_C_
 Width: 930
 VWidth: 0
@@ -19928,7 +19923,7 @@ Refer: 537 1046 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04DD
-Encoding: 672 1245 671
+Encoding: 743 1245 671
 GlifName: uni04D_D_
 Width: 664
 VWidth: 0
@@ -19975,7 +19970,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04DE
-Encoding: 673 1246 672
+Encoding: 744 1246 672
 GlifName: uni04D_E_
 Width: 580
 VWidth: 0
@@ -20017,7 +20012,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04DF
-Encoding: 674 1247 673
+Encoding: 745 1247 673
 GlifName: uni04D_F_
 Width: 451
 VWidth: 0
@@ -20057,7 +20052,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04E2
-Encoding: 675 1250 674
+Encoding: 746 1250 674
 GlifName: uni04E_2
 Width: 630
 VWidth: 0
@@ -20088,7 +20083,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04E3
-Encoding: 676 1251 675
+Encoding: 747 1251 675
 GlifName: uni04E_3
 Width: 528
 VWidth: 0
@@ -20100,7 +20095,7 @@ Refer: 585 1080 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04E4
-Encoding: 677 1252 676
+Encoding: 748 1252 676
 GlifName: uni04E_4
 Width: 630
 VWidth: 0
@@ -20136,7 +20131,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04E5
-Encoding: 678 1253 677
+Encoding: 749 1253 677
 GlifName: uni04E_5
 Width: 528
 VWidth: 0
@@ -20148,7 +20143,7 @@ Refer: 585 1080 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04E6
-Encoding: 679 1254 678
+Encoding: 750 1254 678
 GlifName: uni04E_6
 Width: 696
 VWidth: 0
@@ -20173,7 +20168,7 @@ s."
 EndChar
 
 StartChar: uni04E7
-Encoding: 680 1255 679
+Encoding: 751 1255 679
 GlifName: uni04E_7
 Width: 480
 VWidth: 0
@@ -20198,7 +20193,7 @@ s."
 EndChar
 
 StartChar: uni04EC
-Encoding: 681 1260 680
+Encoding: 752 1260 680
 GlifName: uni04E_C_
 Width: 590
 VWidth: 0
@@ -20235,7 +20230,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04ED
-Encoding: 682 1261 681
+Encoding: 753 1261 681
 GlifName: uni04E_D_
 Width: 451
 VWidth: 0
@@ -20272,7 +20267,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04EE
-Encoding: 683 1262 682
+Encoding: 754 1262 682
 GlifName: uni04E_E_
 Width: 658
 VWidth: 0
@@ -20298,7 +20293,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04EF
-Encoding: 684 1263 683
+Encoding: 755 1263 683
 GlifName: uni04E_F_
 Width: 460
 VWidth: 0
@@ -20328,7 +20323,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F0
-Encoding: 685 1264 684
+Encoding: 756 1264 684
 GlifName: uni04F_0
 Width: 658
 VWidth: 0
@@ -20359,7 +20354,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F1
-Encoding: 686 1265 685
+Encoding: 757 1265 685
 GlifName: uni04F_1
 Width: 460
 VWidth: 0
@@ -20394,7 +20389,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F2
-Encoding: 687 1266 686
+Encoding: 758 1266 686
 GlifName: uni04F_2
 Width: 658
 VWidth: 0
@@ -20425,7 +20420,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F3
-Encoding: 688 1267 687
+Encoding: 759 1267 687
 GlifName: uni04F_3
 Width: 460
 VWidth: 0
@@ -20460,7 +20455,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F4
-Encoding: 689 1268 688
+Encoding: 760 1268 688
 GlifName: uni04F_4
 Width: 560
 VWidth: 0
@@ -20495,7 +20490,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F5
-Encoding: 690 1269 689
+Encoding: 761 1269 689
 GlifName: uni04F_5
 Width: 468
 VWidth: 0
@@ -20530,7 +20525,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F8
-Encoding: 691 1272 690
+Encoding: 762 1272 690
 GlifName: uni04F_8
 Width: 748
 VWidth: 0
@@ -20571,7 +20566,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni04F9
-Encoding: 692 1273 691
+Encoding: 763 1273 691
 GlifName: uni04F_9
 Width: 620
 VWidth: 0
@@ -20613,7 +20608,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2116
-Encoding: 693 8470 692
+Encoding: 240 8470 692
 GlifName: uni2116
 Width: 880
 VWidth: 0
@@ -20654,7 +20649,7 @@ Ligature2: "'ordn' Ordinals lookup 33 subtable" N o period
 EndChar
 
 StartChar: uniFB01
-Encoding: 694 64257 693
+Encoding: 764 64257 693
 GlifName: uniF_B_01
 Width: 439
 VWidth: 0
@@ -20685,7 +20680,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniFB02
-Encoding: 695 64258 694
+Encoding: 765 64258 694
 GlifName: uniF_B_02
 Width: 501
 VWidth: 0
@@ -20717,7 +20712,7 @@ EndSplineSet
 EndChar
 
 StartChar: uogonek
-Encoding: 696 371 695
+Encoding: 766 371 695
 GlifName: uogonek
 Width: 478
 VWidth: 0
@@ -20753,7 +20748,7 @@ EndSplineSet
 EndChar
 
 StartChar: uring
-Encoding: 697 367 696
+Encoding: 767 367 696
 GlifName: uring
 Width: 478
 VWidth: 0
@@ -20779,7 +20774,7 @@ s."
 EndChar
 
 StartChar: utilde
-Encoding: 698 361 697
+Encoding: 768 361 697
 GlifName: utilde
 Width: 478
 VWidth: 0
@@ -20804,7 +20799,7 @@ s."
 EndChar
 
 StartChar: v
-Encoding: 699 118 698
+Encoding: 118 118 698
 GlifName: v
 Width: 437
 VWidth: 0
@@ -20825,7 +20820,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" v.sc
 EndChar
 
 StartChar: v.sc
-Encoding: 700 -1 699
+Encoding: 769 -1 699
 GlifName: v.sc
 Width: 416
 VWidth: 0
@@ -20845,7 +20840,7 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 701 119 700
+Encoding: 119 119 700
 GlifName: w
 Width: 724
 VWidth: 0
@@ -20872,7 +20867,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" w.sc
 EndChar
 
 StartChar: w.sc
-Encoding: 702 -1 701
+Encoding: 770 -1 701
 GlifName: w.sc
 Width: 696
 VWidth: 0
@@ -20898,7 +20893,7 @@ EndSplineSet
 EndChar
 
 StartChar: wcircumflex
-Encoding: 703 373 702
+Encoding: 771 373 702
 GlifName: wcircumflex
 Width: 724
 VWidth: 0
@@ -20932,7 +20927,7 @@ EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 704 120 703
+Encoding: 120 120 703
 GlifName: x
 Width: 416
 VWidth: 0
@@ -20944,7 +20939,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" x.sc
 EndChar
 
 StartChar: x.sc
-Encoding: 705 -1 704
+Encoding: 772 -1 704
 GlifName: x.sc
 Width: 432
 VWidth: 0
@@ -20969,7 +20964,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 706 121 705
+Encoding: 121 121 705
 GlifName: y
 Width: 460
 VWidth: 0
@@ -20981,7 +20976,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" y.sc
 EndChar
 
 StartChar: y.sc
-Encoding: 707 -1 706
+Encoding: 773 -1 706
 GlifName: y.sc
 Width: 410
 VWidth: 0
@@ -21003,7 +20998,7 @@ EndSplineSet
 EndChar
 
 StartChar: yacute
-Encoding: 708 253 707
+Encoding: 774 253 707
 GlifName: yacute
 Width: 460
 VWidth: 0
@@ -21028,7 +21023,7 @@ s."
 EndChar
 
 StartChar: ycircumflex
-Encoding: 709 375 708
+Encoding: 775 375 708
 GlifName: ycircumflex
 Width: 460
 VWidth: 0
@@ -21061,7 +21056,7 @@ EndSplineSet
 EndChar
 
 StartChar: ydieresis
-Encoding: 710 255 709
+Encoding: 776 255 709
 GlifName: ydieresis
 Width: 460
 VWidth: 0
@@ -21082,7 +21077,7 @@ s."
 EndChar
 
 StartChar: yen
-Encoding: 711 165 710
+Encoding: 777 165 710
 GlifName: yen
 Width: 495
 VWidth: 0
@@ -21120,7 +21115,7 @@ EndSplineSet
 EndChar
 
 StartChar: z
-Encoding: 712 122 711
+Encoding: 122 122 711
 GlifName: z
 Width: 450
 VWidth: 0
@@ -21144,7 +21139,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" z.sc
 EndChar
 
 StartChar: z.sc
-Encoding: 713 -1 712
+Encoding: 778 -1 712
 GlifName: z.sc
 Width: 399
 VWidth: 0
@@ -21167,7 +21162,7 @@ EndSplineSet
 EndChar
 
 StartChar: zacute
-Encoding: 714 378 713
+Encoding: 779 378 713
 GlifName: zacute
 Width: 450
 VWidth: 0
@@ -21195,7 +21190,7 @@ EndSplineSet
 EndChar
 
 StartChar: zcaron
-Encoding: 715 382 714
+Encoding: 780 382 714
 GlifName: zcaron
 Width: 450
 VWidth: 0
@@ -21226,7 +21221,7 @@ EndSplineSet
 EndChar
 
 StartChar: zdotaccent
-Encoding: 716 380 715
+Encoding: 781 380 715
 GlifName: zdotaccent
 Width: 450
 VWidth: 0
@@ -21254,7 +21249,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 717 48 716
+Encoding: 48 48 716
 GlifName: zero
 Width: 540
 VWidth: 0
@@ -21292,7 +21287,7 @@ Substitution2: "'sinf' Scientific Inferiors lookup 1 subtable" zero.inferior
 EndChar
 
 StartChar: zero.dnom
-Encoding: 718 -1 717
+Encoding: 782 -1 717
 GlifName: zero.dnom
 Width: 439
 VWidth: 0
@@ -21314,7 +21309,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.inferior
-Encoding: 719 -1 718
+Encoding: 783 -1 718
 GlifName: zero.inferior
 Width: 439
 VWidth: 0
@@ -21336,7 +21331,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.numr
-Encoding: 720 -1 719
+Encoding: 784 -1 719
 GlifName: zero.numr
 Width: 439
 VWidth: 0
@@ -21358,7 +21353,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.subscript
-Encoding: 721 -1 720
+Encoding: 785 -1 720
 GlifName: zero.subscript
 Width: 439
 VWidth: 0
@@ -21380,7 +21375,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.superior
-Encoding: 722 -1 721
+Encoding: 786 -1 721
 GlifName: zero.superior
 Width: 439
 VWidth: 0
