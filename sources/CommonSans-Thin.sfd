@@ -3,8 +3,8 @@ FontName: CommonSans-Thin
 FullName: Common Sans Thin
 FamilyName: Common Sans
 Weight: Thin
-Copyright: Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved.
-Version: 1.5
+Copyright: Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.
+Version: 1.6
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 50
@@ -21,8 +21,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1678110060
-ModificationTime: 1678195983
+CreationTime: 1678553279
+ModificationTime: 1678553279
 PfmFamily: 16
 TTFWeight: 100
 TTFWidth: 5
@@ -484,14 +484,14 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "" "" "" "" "Version 1.005" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Stefan Peev, Context Ltd" "Stefan Peev, Context Ltd." "Copyright (c) 2015 by Stefan Peev, Context Ltd. All rights reserved." "http://www.contextbg.net" "http://www.contextbg.net" "" "" "" "Common Sans" "Thin"
+LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.006" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Thin"
 Encoding: iso8859-5
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 38 38 13
+WinInfo: 0 38 13
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -5487,22 +5487,23 @@ Encoding: 52 52 213
 GlifName: four
 Width: 521
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-378 690 m 261
- 391 690 l 261
- 84 253 l 261
- 460 253 l 261
- 460 233 l 261
- 60 233 l 261
- 60 253 l 261
- 374 700 l 261
- 400 700 l 261
- 400 0 l 261
- 378 0 l 261
- 378 690 l 261
+64 234 m 257
+ 64 255 l 257
+ 385 700 l 257
+ 405 700 l 257
+ 405 0 l 257
+ 385 0 l 257
+ 385 689 l 257
+ 400 689 l 257
+ 76 238 l 257
+ 76 255 l 257
+ 465 255 l 257
+ 465 234 l 257
+ 64 234 l 257
 EndSplineSet
 Substitution2: "Single Substitution lookup 29 subtable" four.dnom
 Substitution2: "Single Substitution lookup 27 subtable" four.numr
