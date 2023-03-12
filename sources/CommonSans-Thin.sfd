@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1678553279
-ModificationTime: 1678553279
+ModificationTime: 1678612365
 PfmFamily: 16
 TTFWeight: 100
 TTFWidth: 5
@@ -491,7 +491,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 13
+WinInfo: 27 27 10
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -634,13 +634,13 @@ Guideline: "" "" 247 672 252.258 0 0
 Guideline: "" "" 448 0 107.742 0 0
 Guideline: "" "" 251 680 287.852 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=10\\u000d
+V=10\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=10\\u000d
+V=10\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" a.sc
@@ -862,13 +862,13 @@ Guideline: "" "" 0 360 0 0 0
 Guideline: "" "" 0 127 0 0 0
 Guideline: "" "" 0 536 0 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=80\\u000d
+V=80\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" b.sc
@@ -904,13 +904,13 @@ SplineSet
  358 690 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=O\\u000d
+V=O\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=O\\u000d
+V=O\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" c.sc
@@ -1014,13 +1014,13 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=O\\u000d
+V=O\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" d.sc
@@ -1098,9 +1098,9 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" e.sc
@@ -1292,13 +1292,13 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=E\\u000d
+V=E\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" f.sc
@@ -1350,9 +1350,9 @@ SplineSet
  358 670 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=O\\u000d
+V=O\\u000d\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" g.sc
@@ -1463,13 +1463,13 @@ EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 44 73 N 1 0 0 1 380 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=100\\u000d
+V=100\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=100\\u000d
+V=100\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" h.sc
@@ -1505,13 +1505,13 @@ SplineSet
 EndSplineSet
 Guideline: "" "" 111 0 90 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=H\\u000d
+V=H\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" i.sc
@@ -1673,9 +1673,9 @@ SplineSet
  50 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsRight\\u000d
+Vcom.fontlab.metricsRight\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" j.sc
@@ -1721,13 +1721,13 @@ Guideline: "" "" 260 397 195.945 0 0
 Guideline: "" "" 0 350 0 0 0
 Guideline: "" "" 176 293 15.9454 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=10\\u000d
+V=10\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" k.sc
@@ -1763,9 +1763,9 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" l.sc
@@ -1947,13 +1947,13 @@ Guideline: "" "" 372 0 90 0 0
 Guideline: "" "" 372 0 90 0 0
 Guideline: "" "" 0 335 0 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=H\\u000d
+V=H\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" m.sc
@@ -1990,13 +1990,13 @@ Guideline: "" "" 301 0 90 0 0
 Guideline: "" "" 124 680 300.199 0 0
 Guideline: "" "" 98 680 300.199 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=H\\u000d
+V=H\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" n.sc
@@ -2102,13 +2102,13 @@ SplineSet
  358 690 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=80\\u000d
+V=80\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=80\\u000d
+V=80\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" o.sc
@@ -2333,13 +2333,13 @@ Refer: 71 79 N 1 0 0 1 0 0 2
 Guideline: "" "" 542 -59 135 0 0
 Guideline: "" "" 433 23 315 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=O\\u000d
+V=O\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=O\\u000d
+V=O\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" q.sc
@@ -2364,13 +2364,13 @@ SplineSet
 EndSplineSet
 Refer: 82 80 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=H\\u000d
+V=H\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=A\\u000d
+V=A\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" r.sc
@@ -2444,13 +2444,13 @@ SplineSet
  174 -10 80 67 80 193 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=O\\u000d
+V=O\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=O\\u000d
+V=O\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" s.sc
@@ -2568,13 +2568,13 @@ EndSplineSet
 Refer: 44 73 N 1 0 0 1 129 0 2
 Guideline: "" "" 240 0 90 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=A\\u000d
+V=A\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=A\\u000d
+V=A\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" t.sc
@@ -2646,13 +2646,13 @@ SplineSet
 EndSplineSet
 Guideline: "" "" 280 0 90 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=50\\u000d
+V=50\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=50\\u000d
+V=50\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" u.sc
@@ -2827,13 +2827,13 @@ EndSplineSet
 Guideline: "" "" 240 0 90 0 0
 Guideline: "" "" 0 335 0 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=A\\u000d
+V=A\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=A\\u000d
+V=A\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" v.sc
@@ -2850,13 +2850,13 @@ Fore
 Refer: 108 86 N 1 0 0 1 0 0 2
 Refer: 108 86 N 1 0 0 1 438 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=A\\u000d
+V=A\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=A\\u000d
+V=A\\u000d\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" w.sc
@@ -3271,13 +3271,13 @@ SplineSet
  100 490 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=100\\u000d
+V=100\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=100\\u000d
+V=100\\u000d\\u000d
 p4
 s."
 EndChar
@@ -4633,13 +4633,13 @@ SplineSet
  100 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=100\\u000d
+V=100\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=100\\u000d
+V=100\\u000d\\u000d
 p4
 s."
 EndChar
@@ -6039,13 +6039,13 @@ SplineSet
 EndSplineSet
 Refer: 259 108 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=n\\u000d
+V=n\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=n\\u000d
+V=n\\u000d\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" h.sc
@@ -6561,13 +6561,13 @@ SplineSet
  90 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=n\\u000d
+V=n\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=n\\u000d
+V=n\\u000d\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" l.sc
@@ -6817,13 +6817,13 @@ SplineSet
  90 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=n\\u000d
+V=n\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=n\\u000d
+V=n\\u000d\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" m.sc
@@ -6976,13 +6976,13 @@ SplineSet
  133 417 207 470 284 470 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=90\\u000d
+V=90\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=90\\u000d
+V=90\\u000d\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" n.sc
@@ -7513,13 +7513,13 @@ SplineSet
  124 -210 100 -185 100 -143 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft\\u000d
+Vcom.fontlab.metricsLeft\\u000d\\u000d
 p1
-V=100\\u000d
+V=100\\u000d\\u000d
 p2
-sVcom.fontlab.metricsRight\\u000d
+sVcom.fontlab.metricsRight\\u000d\\u000d
 p3
-V=100\\u000d
+V=100\\u000d\\u000d
 p4
 s."
 EndChar
@@ -7887,29 +7887,29 @@ Encoding: 112 112 312
 GlifName: p
 Width: 506
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-130 98 m 257
- 130 226 l 257
- 140 226 l 257
- 140 123 191 55 260 55 c 256
- 353 55 391 123 391 231 c 256
- 391 306 372 405 260 405 c 256
- 177 405 140 314 140 230 c 257
- 130 230 l 257
- 130 355 l 257
- 152 428 210 470 285 470 c 256
- 410 470 471 350 471 231 c 256
- 471 111 407 -10 281 -10 c 256
- 205 -10 140 31 130 98 c 257
-140 -200 m 257
- 60 -200 l 257
- 60 459 l 257
- 120 459 l 257
- 140 361 l 257
- 140 -200 l 257
+80 146 m 257
+ 78 253 l 257
+ 83 229 l 257
+ 83 116 192 43 258 43 c 256
+ 342 43 445 104 445 232 c 256
+ 445 356 382 435 256 435 c 256
+ 160 435 88 326 88 252 c 257
+ 78 230 l 257
+ 78 333 l 257
+ 108 367 144 459 255 459 c 256
+ 416 459 468 340 468 231 c 256
+ 468 84 346 19 259 19 c 256
+ 172 19 80 99 80 146 c 257
+88 -200 m 257
+ 64 -200 l 257
+ 64 459 l 257
+ 78 459 l 257
+ 92 343 l 257
+ 88 -200 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" p.sc
 EndChar
@@ -13369,23 +13369,23 @@ Encoding: 198 1062 554
 GlifName: uni0426
 Width: 630
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
+118 0 m 257
+ 118 700 l 257
  140 700 l 257
- 140 70 l 257
- 420 70 l 257
- 420 700 l 257
- 510 700 l 257
- 510 70 l 257
- 580 70 l 257
- 580 -140 l 257
- 510 -140 l 257
- 510 0 l 257
- 50 0 l 257
+ 140 20 l 257
+ 508 20 l 257
+ 508 700 l 257
+ 530 700 l 257
+ 530 20 l 257
+ 552 20 l 257
+ 552 -140 l 257
+ 530 -140 l 257
+ 530 0 l 257
+ 118 0 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0446.sc
 EndChar
@@ -14780,7 +14780,7 @@ Encoding: 224 1088 606
 GlifName: uni0440
 Width: 506
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 312 112 N 1 0 0 1 0 0 2
