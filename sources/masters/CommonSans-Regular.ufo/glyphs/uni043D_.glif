@@ -3,19 +3,13 @@
   <advance width="518"/>
   <unicode hex="043D"/>
   <outline>
+    <component base="dotlessi" xOffset="-10"/>
+    <component base="dotlessi" xOffset="288"/>
     <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="70" y="460" type="line"/>
-      <point x="150" y="460" type="line"/>
-      <point x="150" y="273" type="line"/>
-      <point x="368" y="273" type="line"/>
-      <point x="368" y="460" type="line"/>
-      <point x="448" y="460" type="line"/>
-      <point x="448" y="0" type="line"/>
-      <point x="368" y="0" type="line"/>
-      <point x="368" y="205" type="line"/>
-      <point x="150" y="205" type="line"/>
-      <point x="150" y="0" type="line"/>
+      <point x="115" y="205" type="line"/>
+      <point x="115" y="273" type="line"/>
+      <point x="403" y="273" type="line"/>
+      <point x="403" y="205" type="line"/>
     </contour>
   </outline>
 </glyph>
