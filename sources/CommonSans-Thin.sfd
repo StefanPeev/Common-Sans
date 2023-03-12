@@ -4,7 +4,7 @@ FullName: Common Sans Thin
 FamilyName: Common Sans
 Weight: Thin
 Copyright: Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.
-Version: 1.12
+Version: 1.16
 StyleMapFamilyName: Common Sans
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -22,8 +22,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1678651173
-ModificationTime: 1678651173
+CreationTime: 1678655545
+ModificationTime: 1678655545
 PfmFamily: 16
 TTFWeight: 100
 TTFWidth: 5
@@ -485,7 +485,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.012" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Thin"
+LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.016" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Thin"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -6597,18 +6597,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-50 370 m 257
- 50 450 l 257
- 130 450 l 257
- 130 370 l 257
- 50 370 l 257
-50 0 m 257
- 50 80 l 257
- 130 80 l 257
- 130 0 l 257
- 50 0 l 257
-EndSplineSet
+Refer: 319 46 N 1 0 0 1 0 0 2
+Refer: 319 46 N 1 0 0 1 0 370 2
 EndChar
 
 StartChar: comma
@@ -6620,14 +6610,14 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 80 l 257
- 130 80 l 257
- 130 0 l 257
- 84 -130 l 257
- 50 -130 l 257
- 72 0 l 257
- 50 0 l 257
+69 0 m 257
+ 69 80 l 257
+ 99 80 l 257
+ 99 4 l 257
+ 69 -130 l 257
+ 59 -130 l 257
+ 84 0 l 257
+ 69 0 l 257
 EndSplineSet
 EndChar
 
@@ -7677,18 +7667,18 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 410 m 257
- 50 700 l 257
- 140 700 l 257
- 140 410 l 257
- 120 150 l 257
- 70 150 l 257
- 50 410 l 257
-55 0 m 257
- 55 80 l 257
- 135 80 l 257
- 135 0 l 257
- 55 0 l 257
+84 330 m 257
+ 84 686 l 257
+ 106 686 l 257
+ 106 330 l 257
+ 101 60 l 257
+ 89 60 l 257
+ 84 330 l 257
+85 0 m 257
+ 85 20 l 257
+ 105 20 l 257
+ 105 0 l 257
+ 85 0 l 257
 EndSplineSet
 EndChar
 
@@ -7719,29 +7709,29 @@ EndChar
 StartChar: f
 Encoding: 102 102 204
 GlifName: f
-Width: 341
+Width: 265
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-35 400 m 257
+35 442 m 257
  35 460 l 257
  110 460 l 257
- 110 500 l 258
- 110 642 121 692 272 700 c 257
- 306 700 l 257
- 306 635 l 257
- 272 635 l 257
- 203 634 190 606 190 500 c 258
- 190 460 l 257
- 274 460 l 257
- 274 400 l 257
- 190 400 l 257
- 190 0 l 257
+ 110 570 l 258
+ 110 652 143 700 200 700 c 258
+ 230 700 l 257
+ 230 682 l 257
+ 203 682 l 258
+ 154 682 130 644 130 564 c 258
+ 130 460 l 257
+ 214 460 l 257
+ 214 442 l 257
+ 130 442 l 257
+ 130 0 l 257
  110 0 l 257
- 110 400 l 257
- 35 400 l 257
+ 110 442 l 257
+ 35 442 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" f.sc
 EndChar
@@ -8211,26 +8201,33 @@ AnchorPoint: "top" 241 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-115 230 m 256
- 115 159 141 65 246 65 c 256
- 331 65 367 143 367 210 c 258
- 367 245 l 258
- 367 347 311 405 246 405 c 256
- 156 405 115 337 115 230 c 256
-35 230 m 256
- 35 355 96 470 226 470 c 256
- 284 470 344 439 367 388 c 257
- 387 459 l 257
- 447 459 l 257
- 447 27 l 258
- 447 -146 362 -200 244 -200 c 256
- 114 -200 62 -106 52 -54 c 257
- 135 -54 l 257
- 153 -113 206 -134 244 -134 c 256
- 316 -134 367 -91 367 27 c 258
- 367 89 l 257
- 339 33 286 -1 227 -1 c 256
- 56 -1 35 144 35 230 c 256
+66 231 m 256
+ 66 124 126 10 245 10 c 256
+ 324 10 415 48 415 230 c 258
+ 415 240 l 258
+ 415 398 329 451 246 451 c 256
+ 117 451 66 321 66 231 c 256
+46 231 m 256
+ 46 345 112 471 246 471 c 256
+ 334 471 419 395 419 314 c 257
+ 415 329 l 257
+ 422 460 l 257
+ 436 460 l 257
+ 436 90 l 257
+ 416 90 l 257
+ 416 134 l 257
+ 420 134 l 257
+ 420 90 369 -10 245 -10 c 256
+ 112 -10 46 125 46 231 c 256
+436 90 m 257
+ 436 -7 l 258
+ 436 -139 381 -200 261 -200 c 256
+ 158 -200 97 -128 87 -76 c 257
+ 107 -76 l 257
+ 118 -126 176 -182 261 -182 c 256
+ 367 -182 416 -126 416 -7 c 258
+ 416 90 l 257
+ 436 90 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" g.sc
 EndChar
@@ -9065,26 +9062,26 @@ EndChar
 StartChar: k
 Encoding: 107 107 255
 GlifName: k
-Width: 422
+Width: 379
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-74 0 m 257
- 74 700 l 257
- 96 700 l 257
- 96 261 l 257
- 128 271 l 257
- 282 460 l 257
- 304 460 l 257
- 147 260 l 257
- 324 0 l 257
- 302 0 l 257
- 128 249 l 257
- 96 239 l 257
- 96 0 l 257
- 74 0 l 257
+114 0 m 257
+ 114 700 l 257
+ 136 700 l 257
+ 136 261 l 257
+ 168 271 l 257
+ 322 460 l 257
+ 344 460 l 257
+ 187 260 l 257
+ 364 0 l 257
+ 342 0 l 257
+ 168 249 l 257
+ 136 239 l 257
+ 136 0 l 257
+ 114 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" k.sc
 EndChar
@@ -10855,11 +10852,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 80 l 257
- 130 80 l 257
- 130 0 l 257
- 50 0 l 257
+80 0 m 257
+ 80 80 l 257
+ 100 80 l 257
+ 100 0 l 257
+ 80 0 l 257
 EndSplineSet
 EndChar
 
@@ -10991,22 +10988,24 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-35 230 m 256
- 35 349 95 470 219 470 c 256
- 299 470 343 421 366 370 c 257
- 386 459 l 257
- 446 459 l 257
- 446 -200 l 257
- 366 -200 l 257
- 366 79 l 257
- 338 23 286 -11 226 -11 c 256
- 93 -11 35 100 35 230 c 256
-115 230 m 256
- 115 145 151 55 235 55 c 256
- 327 55 366 133 366 220 c 258
- 366 253 l 258
- 366 346 311 404 245 404 c 256
- 155 404 115 337 115 230 c 256
+66 231 m 256
+ 66 124 126 10 245 10 c 256
+ 324 10 415 48 415 230 c 258
+ 415 240 l 258
+ 415 398 329 451 246 451 c 256
+ 117 451 66 321 66 231 c 256
+46 231 m 256
+ 46 345 112 471 246 471 c 256
+ 334 471 419 395 419 314 c 257
+ 415 329 l 257
+ 422 460 l 257
+ 436 460 l 257
+ 436 -200 l 257
+ 416 -200 l 257
+ 416 134 l 257
+ 420 134 l 257
+ 420 90 369 -10 245 -10 c 256
+ 112 -10 46 125 46 231 c 256
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" q.sc
 EndChar
@@ -11511,18 +11510,18 @@ LayerCount: 2
 Fore
 SplineSet
 35 136 m 257
- 114 136 l 257
- 114 62 192 55 237 55 c 256
- 261 55 335 67 335 130 c 256
- 335 236 55 185 55 340 c 256
+ 57 136 l 257
+ 57 54 139 10 237 10 c 256
+ 334 10 395 39 395 130 c 256
+ 395 269 55 172 55 340 c 256
  55 407 105 470 215 470 c 256
- 307 470 397 414 397 336 c 257
- 316 336 l 257
- 304 378 265 405 215 405 c 256
- 170 405 135 385 135 340 c 256
- 135 263 417 288 417 130 c 256
- 417 10 314 -10 237 -10 c 256
- 133 -10 35 52 35 136 c 257
+ 324 470 397 414 397 336 c 257
+ 375 336 l 257
+ 375 384 337 450 215 450 c 256
+ 107 450 77 385 77 340 c 256
+ 78 191 417 288 417 130 c 256
+ 417 10 324 -10 237 -10 c 256
+ 115 -10 35 52 35 136 c 257
 EndSplineSet
 Substitution2: "'hist' Historical Forms lookup 37 subtable" longs
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" s.sc
@@ -11699,21 +11698,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-50 0 m 257
- 50 80 l 257
- 130 80 l 257
- 130 0 l 257
- 84 -130 l 257
- 50 -130 l 257
- 72 0 l 257
- 50 0 l 257
-50 370 m 257
- 50 450 l 257
- 130 450 l 257
- 130 370 l 257
- 50 370 l 257
-EndSplineSet
+Refer: 165 44 N 1 0 0 1 0 0 2
+Refer: 319 46 N 1 0 0 1 -10 370 2
 EndChar
 
 StartChar: seven
@@ -11867,23 +11853,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-123 230 m 257
- 124 144 137 70 262 70 c 256
- 356 70 400 144 400 230 c 256
- 400 354 322 380 274 380 c 258
- 271 380 l 257
- 207 379 123 352 123 232 c 257
- 123 231 123 231 123 230 c 257
+61 230 m 257
+ 64 155 99 10 266 10 c 256
+ 360 10 467 76 467 224 c 256
+ 467 348 386 433 274 433 c 258
+ 271 433 l 257
+ 168 434 61 352 61 232 c 257
+ 61 231 61 231 61 230 c 257
 36 300 m 256
- 36 539 86 710 266 710 c 256
- 377 710 437 658 467 573 c 257
- 437 573 406 572 376 572 c 257
- 356 608 342 630 264 630 c 256
- 238 630 217 625 200 616 c 256
- 131 581 124 481 123 363 c 257
- 124 363 125 363 126 363 c 257
- 152 416 205 453 275 453 c 256
- 393 453 489 372 489 223 c 256
+ 36 539 86 700 266 700 c 256
+ 377 700 435 656 467 573 c 257
+ 464 573 448 572 445 572 c 257
+ 428 603 402 680 266 680 c 256
+ 162 680 59 626 59 322 c 257
+ 60 322 61 322 62 322 c 257
+ 94 398 177 454 275 453 c 256
+ 393 452 489 372 489 223 c 256
  489 81 395 -10 266 -10 c 256
  86 -10 36 119 36 300 c 256
 EndSplineSet
@@ -14177,13 +14162,13 @@ EndChar
 StartChar: uni01E9
 Encoding: 600 489 440
 GlifName: uni01E_9
-Width: 422
+Width: 379
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 255 107 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 431 0 2
+Refer: 156 780 N 1 0 0 1 410 0 2
 PickledDataWithLists: "(dp0
 Vcom.fontlab.autolayer
 p1
@@ -21255,16 +21240,16 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-20 0 m 257
- 306 460 l 257
- 386 460 l 257
- 100 0 l 257
- 20 0 l 257
-316 0 m 257
- 30 460 l 257
- 110 460 l 257
- 396 0 l 257
- 316 0 l 257
+50 0 m 257
+ 336 460 l 257
+ 356 460 l 257
+ 70 0 l 257
+ 50 0 l 257
+346 0 m 257
+ 60 460 l 257
+ 80 460 l 257
+ 366 0 l 257
+ 346 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" x.sc
 EndChar
@@ -21464,17 +21449,19 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-40 0 m 257
- 40 65 l 257
- 310 395 l 257
- 40 395 l 257
- 40 460 l 257
- 410 460 l 257
- 410 395 l 257
- 150 65 l 257
- 410 65 l 257
- 410 0 l 257
- 40 0 l 257
+60 0 m 257
+ 60 18 l 257
+ 378 451 l 257
+ 381 442 l 257
+ 60 442 l 257
+ 60 460 l 257
+ 390 460 l 257
+ 390 442 l 257
+ 76 9 l 257
+ 71 18 l 257
+ 390 18 l 257
+ 390 0 l 257
+ 60 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" z.sc
 EndChar

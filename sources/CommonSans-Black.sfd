@@ -4,7 +4,7 @@ FullName: Common Sans Black
 FamilyName: Common Sans
 Weight: Black
 Copyright: Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.
-Version: 1.12
+Version: 1.16
 StyleMapFamilyName: Common Sans
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -22,8 +22,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1678651238
-ModificationTime: 1678651238
+CreationTime: 1678655598
+ModificationTime: 1678655598
 PfmFamily: 16
 TTFWeight: 900
 TTFWidth: 5
@@ -485,7 +485,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.012" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Black"
+LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.016" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Black"
 PickledDataWithLists: "(dp0
 Vcom.fontlab.v2.tth
 p1
@@ -6572,12 +6572,8 @@ SplineSet
  130 450 l 257
  130 370 l 257
  50 370 l 257
-50 0 m 257
- 50 80 l 257
- 130 80 l 257
- 130 0 l 257
- 50 0 l 257
 EndSplineSet
+Refer: 319 46 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: comma
@@ -10966,22 +10962,24 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-35 230 m 256
- 35 349 95 470 219 470 c 256
- 299 470 343 421 366 370 c 257
- 386 459 l 257
- 446 459 l 257
- 446 -200 l 257
- 366 -200 l 257
- 366 79 l 257
- 338 23 286 -11 226 -11 c 256
- 93 -11 35 100 35 230 c 256
 115 230 m 256
  115 145 151 55 235 55 c 256
  327 55 366 133 366 220 c 258
  366 253 l 258
  366 346 311 404 245 404 c 256
  155 404 115 337 115 230 c 256
+35 230 m 256
+ 35 349 95 470 219 470 c 256
+ 304 470 348 415 370 360 c 257
+ 363 358 l 257
+ 386 459 l 257
+ 446 459 l 257
+ 446 -200 l 257
+ 366 -200 l 257
+ 366 91 l 257
+ 371 91 l 257
+ 345 28 290 -11 226 -11 c 256
+ 93 -11 35 100 35 230 c 256
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" q.sc
 EndChar
@@ -11674,21 +11672,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-50 0 m 257
- 50 80 l 257
- 130 80 l 257
- 130 0 l 257
- 84 -130 l 257
- 50 -130 l 257
- 72 0 l 257
- 50 0 l 257
-50 370 m 257
- 50 450 l 257
- 130 450 l 257
- 130 370 l 257
- 50 370 l 257
-EndSplineSet
+Refer: 165 44 N 1 0 0 1 0 0 2
+Refer: 319 46 N 1 0 0 1 0 370 2
 EndChar
 
 StartChar: seven
@@ -13344,10 +13329,11 @@ EndChar
 StartChar: uni01C8
 Encoding: 573 456 413
 GlifName: uni01C_8
-Width: 740
+Width: 730
 VWidth: 0
 Flags: W
 AnchorPoint: "top" 95 740 basechar 0
+AnchorPoint: "aboveLC" 620 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
@@ -13436,10 +13422,11 @@ EndChar
 StartChar: uni01CC
 Encoding: 577 460 417
 GlifName: uni01C_C_
-Width: 821
+Width: 811
 VWidth: 0
 Flags: W
 AnchorPoint: "top" 244 520 basechar 0
+AnchorPoint: "aboveLC" 701 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
@@ -19812,9 +19799,10 @@ EndChar
 StartChar: uni0458
 Encoding: 248 1112 655
 GlifName: uni0458
-Width: 230
+Width: 220
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 252 106 N 1 0 0 1 0 0 2
@@ -21475,12 +21463,14 @@ Fore
 SplineSet
 40 0 m 257
  40 65 l 257
- 310 395 l 257
+ 318 404 l 257
+ 322 395 l 257
  40 395 l 257
  40 460 l 257
  410 460 l 257
  410 395 l 257
- 150 65 l 257
+ 143 56 l 257
+ 138 65 l 257
  410 65 l 257
  410 0 l 257
  40 0 l 257
