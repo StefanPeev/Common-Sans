@@ -4,8 +4,7 @@ FullName: Common Sans Thin
 FamilyName: Common Sans
 Weight: Thin
 Copyright: Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.
-Version: 1.16
-StyleMapFamilyName: Common Sans
+Version: 1.20
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 50
@@ -22,12 +21,12 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1678655545
-ModificationTime: 1678655545
+CreationTime: 1679127011
+ModificationTime: 1679127011
 PfmFamily: 16
 TTFWeight: 100
 TTFWidth: 5
-LineGap: 27
+LineGap: 0
 VLineGap: 0
 Panose: 0 0 0 0 0 0 0 0 0 0
 OS2TypoAscent: 700
@@ -53,7 +52,7 @@ OS2SupXOff: 0
 OS2SupYOff: 350
 OS2StrikeYSize: 50
 OS2StrikeYPos: 276
-OS2CapHeight: 700
+OS2CapHeight: 680
 OS2XHeight: 460
 OS2Vendor: 'CNTX'
 OS2CodePages: 20000097.00000000
@@ -485,1514 +484,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.016" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Thin"
-PickledDataWithLists: "(dp0
-Vcom.fontlab.v2.tth
-p1
-(dp2
-Vzones
-p3
-(dp4
-Vbase
-p5
-(dp6
-Vposition
-p7
-I0
-sVwidth
-p8
-I10
-sVtop
-p9
-I00
-ssVdsc
-p10
-(dp11
-g7
-I-200
-sg8
-I0
-sg9
-I00
-ssVxhgt
-p12
-(dp13
-g7
-I460
-sg8
-I10
-sg9
-I01
-ssVT: 689
-p14
-(dp15
-g7
-I689
-sg8
-I11
-sg9
-I01
-ssVfig
-p16
-(dp17
-g7
-I710
-sg8
-I0
-sg9
-I01
-ssssVpublic.glyphOrder
-p18
-(lp19
-V.notdef
-p20
-aVA
-p21
-aVAE
-p22
-aVAacute
-p23
-aVAbreve
-p24
-aVAcircumflex
-p25
-aVAdieresis
-p26
-aVAgrave
-p27
-aVAmacron
-p28
-aVAogonek
-p29
-aVAring
-p30
-aVAringacute
-p31
-aVAtilde
-p32
-aVB
-p33
-aVC
-p34
-aVCR
-p35
-aVCacute
-p36
-aVCcaron
-p37
-aVCcedilla
-p38
-aVCcircumflex
-p39
-aVCdotaccent
-p40
-aVD
-p41
-aVDcaron
-p42
-aVDcroat
-p43
-aVE
-p44
-aVEacute
-p45
-aVEbreve
-p46
-aVEcaron
-p47
-aVEcircumflex
-p48
-aVEdieresis
-p49
-aVEdotaccent
-p50
-aVEgrave
-p51
-aVEmacron
-p52
-aVEogonek
-p53
-aVEth
-p54
-aVF
-p55
-aVG
-p56
-aVGbreve
-p57
-aVGcaron
-p58
-aVGcircumflex
-p59
-aVGcommaaccent
-p60
-aVGdotaccent
-p61
-aVH
-p62
-aVHcircumflex
-p63
-aVI
-p64
-aVIJ
-p65
-aVIacute
-p66
-aVIbreve
-p67
-aVIcircumflex
-p68
-aVIdieresis
-p69
-aVIdotaccent
-p70
-aVIgrave
-p71
-aVImacron
-p72
-aVIogonek
-p73
-aVItilde
-p74
-aVJ
-p75
-aVJcircumflex
-p76
-aVK
-p77
-aVKcommaaccent
-p78
-aVL
-p79
-aVLacute
-p80
-aVLcaron
-p81
-aVLcommaaccent
-p82
-aVLdot
-p83
-aVLslash
-p84
-aVM
-p85
-aVN
-p86
-aVNULL
-p87
-aVNacute
-p88
-aVNcaron
-p89
-aVNcommaaccent
-p90
-aVNtilde
-p91
-aVO
-p92
-aVOE
-p93
-aVOacute
-p94
-aVObreve
-p95
-aVOcircumflex
-p96
-aVOdieresis
-p97
-aVOgrave
-p98
-aVOhungarumlaut
-p99
-aVOmacron
-p100
-aVOslash
-p101
-aVOtilde
-p102
-aVP
-p103
-aVQ
-p104
-aVR
-p105
-aVRacute
-p106
-aVRcaron
-p107
-aVRcommaaccent
-p108
-aVS
-p109
-aVSacute
-p110
-aVScaron
-p111
-aVScedilla
-p112
-aVScircumflex
-p113
-aVScommaaccent
-p114
-aVT
-p115
-aVTbar
-p116
-aVTcaron
-p117
-aVU
-p118
-aVUacute
-p119
-aVUbreve
-p120
-aVUcircumflex
-p121
-aVUdieresis
-p122
-aVUgrave
-p123
-aVUhungarumlaut
-p124
-aVUmacron
-p125
-aVUogonek
-p126
-aVUring
-p127
-aVUtilde
-p128
-aVV
-p129
-aVW
-p130
-aVWcircumflex
-p131
-aVX
-p132
-aVY
-p133
-aVYacute
-p134
-aVYcircumflex
-p135
-aVYdieresis
-p136
-aVZ
-p137
-aVZacute
-p138
-aVZcaron
-p139
-aVZdotaccent
-p140
-aVa
-p141
-aVa.sc
-p142
-aVaacute
-p143
-aVabreve
-p144
-aVacircumflex
-p145
-aVacute
-p146
-aVacutecomb
-p147
-aVadieresis
-p148
-aVae
-p149
-aVagrave
-p150
-aVamacron
-p151
-aVampersand
-p152
-aVaogonek
-p153
-aVaring
-p154
-aVaringacute
-p155
-aVasciicircum
-p156
-aVasciitilde
-p157
-aVasterisk
-p158
-aVat
-p159
-aVatilde
-p160
-aVb
-p161
-aVb.sc
-p162
-aVbackslash
-p163
-aVbar
-p164
-aVbraceleft
-p165
-aVbraceright
-p166
-aVbracketleft
-p167
-aVbracketright
-p168
-aVbreve
-p169
-aVbrokenbar
-p170
-aVbullet
-p171
-aVc
-p172
-aVc.sc
-p173
-aVcacute
-p174
-aVcaron
-p175
-aVcaroncmb.cap
-p176
-aVcaroncomb
-p177
-aVccaron
-p178
-aVccedilla
-p179
-aVccircumflex
-p180
-aVcdotaccent
-p181
-aVcedilla
-p182
-aVcent
-p183
-aVcircumflex
-p184
-aVcolon
-p185
-aVcomma
-p186
-aVcopyright
-p187
-aVcurrency
-p188
-aVd
-p189
-aVd.sc
-p190
-aVdagger
-p191
-aVdaggerdbl
-p192
-aVdcaron
-p193
-aVdcroat
-p194
-aVdegree
-p195
-aVdieresis
-p196
-aVdivide
-p197
-aVdollar
-p198
-aVdotaccent
-p199
-aVdotlessi
-p200
-aVe
-p201
-aVe.sc
-p202
-aVeacute
-p203
-aVebreve
-p204
-aVecaron
-p205
-aVecircumflex
-p206
-aVedieresis
-p207
-aVedotaccent
-p208
-aVegrave
-p209
-aVeight
-p210
-aVeight.dnom
-p211
-aVeight.inferior
-p212
-aVeight.numr
-p213
-aVeight.subscript
-p214
-aVeight.superior
-p215
-aVellipsis
-p216
-aVemacron
-p217
-aVemdash
-p218
-aVendash
-p219
-aVeng
-p220
-aVeogonek
-p221
-aVequal
-p222
-aVexclam
-p223
-aVexclamdown
-p224
-aVf
-p225
-aVf.sc
-p226
-aVfive
-p227
-aVfive.dnom
-p228
-aVfive.inferior
-p229
-aVfive.numr
-p230
-aVfive.subscript
-p231
-aVfive.superior
-p232
-aVflorin
-p233
-aVfour
-p234
-aVfour.dnom
-p235
-aVfour.inferior
-p236
-aVfour.numr
-p237
-aVfour.subscript
-p238
-aVfour.superior
-p239
-aVfraction
-p240
-aVg
-p241
-aVg.sc
-p242
-aVgbreve
-p243
-aVgcaron
-p244
-aVgcircumflex
-p245
-aVgcommaaccent
-p246
-aVgdotaccent
-p247
-aVgermandbls
-p248
-aVgrave
-p249
-aVgravecomb
-p250
-aVgreater
-p251
-aVguillemotleft
-p252
-aVguillemotright
-p253
-aVguilsinglleft
-p254
-aVguilsinglright
-p255
-aVh
-p256
-aVh.sc
-p257
-aVhbar
-p258
-aVhcircumflex
-p259
-aVhungarumlaut
-p260
-aVhyphen
-p261
-aVi
-p262
-aVi.sc
-p263
-aViacute
-p264
-aVibreve
-p265
-aVicircumflex
-p266
-aVidieresis
-p267
-aVigrave
-p268
-aVij
-p269
-aVimacron
-p270
-aViogonek
-p271
-aVitilde
-p272
-aVj
-p273
-aVj.sc
-p274
-aVjcircumflex
-p275
-aVk
-p276
-aVk.sc
-p277
-aVkcommaaccent
-p278
-aVkgreenlandic
-p279
-aVl
-p280
-aVl.sc
-p281
-aVlacute
-p282
-aVlcaron
-p283
-aVlcommaaccent
-p284
-aVldot
-p285
-aVless
-p286
-aVlogicalnot
-p287
-aVlongs
-p288
-aVlslash
-p289
-aVm
-p290
-aVm.sc
-p291
-aVmacron
-p292
-aVminus
-p293
-aVmu
-p294
-aVmultiply
-p295
-aVn
-p296
-aVn.sc
-p297
-aVnacute
-p298
-aVnapostrophe
-p299
-aVncaron
-p300
-aVncommaaccent
-p301
-aVnine
-p302
-aVnine.dnom
-p303
-aVnine.inferior
-p304
-aVnine.numr
-p305
-aVnine.subscript
-p306
-aVnine.superior
-p307
-aVntilde
-p308
-aVnumbersign
-p309
-aVo
-p310
-aVo.sc
-p311
-aVoacute
-p312
-aVobreve
-p313
-aVocircumflex
-p314
-aVodieresis
-p315
-aVoe
-p316
-aVogonek
-p317
-aVograve
-p318
-aVohungarumlaut
-p319
-aVomacron
-p320
-aVone
-p321
-aVone.dnom
-p322
-aVone.inferior
-p323
-aVone.numr
-p324
-aVone.subscript
-p325
-aVone.superior
-p326
-aVonehalf
-p327
-aVonequarter
-p328
-aVordfeminine
-p329
-aVordmasculine
-p330
-aVoslash
-p331
-aVotilde
-p332
-aVp
-p333
-aVp.sc
-p334
-aVparagraph
-p335
-aVparenleft
-p336
-aVparenright
-p337
-aVpercent
-p338
-aVperiod
-p339
-aVperiodcentered
-p340
-aVperthousand
-p341
-aVplus
-p342
-aVplusminus
-p343
-aVq
-p344
-aVq.sc
-p345
-aVquestion
-p346
-aVquestiondown
-p347
-aVquotedbl
-p348
-aVquotedblbase
-p349
-aVquotedblleft
-p350
-aVquotedblright
-p351
-aVquoteleft
-p352
-aVquoteright
-p353
-aVquotesinglbase
-p354
-aVquotesingle
-p355
-aVr
-p356
-aVr.sc
-p357
-aVracute
-p358
-aVrcaron
-p359
-aVrcommaaccent
-p360
-aVregistered
-p361
-aVring
-p362
-aVs
-p363
-aVs.sc
-p364
-aVsacute
-p365
-aVscaron
-p366
-aVscedilla
-p367
-aVscircumflex
-p368
-aVscommaaccent
-p369
-aVsection
-p370
-aVsemicolon
-p371
-aVseven
-p372
-aVseven.dnom
-p373
-aVseven.inferior
-p374
-aVseven.numr
-p375
-aVseven.subscript
-p376
-aVseven.superior
-p377
-aVsix
-p378
-aVsix.dnom
-p379
-aVsix.inferior
-p380
-aVsix.numr
-p381
-aVsix.subscript
-p382
-aVsix.superior
-p383
-aVslash
-p384
-aVspace
-p385
-aVsterling
-p386
-aVt
-p387
-aVt.sc
-p388
-aVtbar
-p389
-aVtcaron
-p390
-aVthree
-p391
-aVthree.dnom
-p392
-aVthree.inferior
-p393
-aVthree.numr
-p394
-aVthree.subscript
-p395
-aVthree.superior
-p396
-aVthreequarters
-p397
-aVtilde
-p398
-aVtildecomb
-p399
-aVtrademark
-p400
-aVtwo
-p401
-aVtwo.dnom
-p402
-aVtwo.inferior
-p403
-aVtwo.numr
-p404
-aVtwo.subscript
-p405
-aVtwo.superior
-p406
-aVu
-p407
-aVu.sc
-p408
-aVuacute
-p409
-aVubreve
-p410
-aVucircumflex
-p411
-aVudieresis
-p412
-aVugrave
-p413
-aVuhungarumlaut
-p414
-aVumacron
-p415
-aVunderscore
-p416
-aVuni0000
-p417
-aVuni0002
-p418
-aVuni0009
-p419
-aVuni000A
-p420
-aVuni000D
-p421
-aVuni00A0
-p422
-aVuni00AD
-p423
-aVuni00B2
-p424
-aVuni00B3
-p425
-aVuni00B9
-p426
-aVuni0162
-p427
-aVuni0163
-p428
-aVuni01C4
-p429
-aVuni01C5
-p430
-aVuni01C6
-p431
-aVuni01C7
-p432
-aVuni01C8
-p433
-aVuni01C9
-p434
-aVuni01CA
-p435
-aVuni01CB
-p436
-aVuni01CC
-p437
-aVuni01CD
-p438
-aVuni01CE
-p439
-aVuni01CF
-p440
-aVuni01D0
-p441
-aVuni01D1
-p442
-aVuni01D2
-p443
-aVuni01D3
-p444
-aVuni01D4
-p445
-aVuni01D5
-p446
-aVuni01D6
-p447
-aVuni01D7
-p448
-aVuni01D8
-p449
-aVuni01D9
-p450
-aVuni01DA
-p451
-aVuni01DB
-p452
-aVuni01DC
-p453
-aVuni01DD
-p454
-aVuni01DE
-p455
-aVuni01DF
-p456
-aVuni01E0
-p457
-aVuni01E1
-p458
-aVuni01E8
-p459
-aVuni01E9
-p460
-aVuni01EA
-p461
-aVuni01EB
-p462
-aVuni01EC
-p463
-aVuni01ED
-p464
-aVuni01F0
-p465
-aVuni01F1
-p466
-aVuni01F2
-p467
-aVuni01F3
-p468
-aVuni01F4
-p469
-aVuni01F5
-p470
-aVuni01F8
-p471
-aVuni01F9
-p472
-aVuni0200
-p473
-aVuni0201
-p474
-aVuni0202
-p475
-aVuni0203
-p476
-aVuni0204
-p477
-aVuni0205
-p478
-aVuni0206
-p479
-aVuni0207
-p480
-aVuni0208
-p481
-aVuni0209
-p482
-aVuni020A
-p483
-aVuni020B
-p484
-aVuni020C
-p485
-aVuni020D
-p486
-aVuni020E
-p487
-aVuni020F
-p488
-aVuni0210
-p489
-aVuni0211
-p490
-aVuni0212
-p491
-aVuni0213
-p492
-aVuni0214
-p493
-aVuni0215
-p494
-aVuni0216
-p495
-aVuni0217
-p496
-aVuni021A
-p497
-aVuni021B
-p498
-aVuni021E
-p499
-aVuni021F
-p500
-aVuni0226
-p501
-aVuni0227
-p502
-aVuni0228
-p503
-aVuni0229
-p504
-aVuni022A
-p505
-aVuni022B
-p506
-aVuni022C
-p507
-aVuni022D
-p508
-aVuni022E
-p509
-aVuni022F
-p510
-aVuni0230
-p511
-aVuni0231
-p512
-aVuni0232
-p513
-aVuni0233
-p514
-aVuni0237
-p515
-aVuni0259
-p516
-aVuni02BC
-p517
-aVuni02C4
-p518
-aVuni02C5
-p519
-aVuni0302
-p520
-aVuni0304
-p521
-aVuni0306
-p522
-aVuni0307
-p523
-aVuni0308
-p524
-aVuni030A
-p525
-aVuni030B
-p526
-aVuni030F
-p527
-aVuni0311
-p528
-aVuni0312
-p529
-aVuni0313
-p530
-aVuni0314
-p531
-aVuni0315
-p532
-aVuni0326
-p533
-aVuni0329
-p534
-aVuni0400
-p535
-aVuni0401
-p536
-aVuni0402
-p537
-aVuni0403
-p538
-aVuni0404
-p539
-aVuni0405
-p540
-aVuni0406
-p541
-aVuni0407
-p542
-aVuni0408
-p543
-aVuni0409
-p544
-aVuni040A
-p545
-aVuni040B
-p546
-aVuni040C
-p547
-aVuni040D
-p548
-aVuni040E
-p549
-aVuni040F
-p550
-aVuni0410
-p551
-aVuni0411
-p552
-aVuni0412
-p553
-aVuni0413
-p554
-aVuni0414
-p555
-aVuni0414.loclBGR
-p556
-aVuni0415
-p557
-aVuni0416
-p558
-aVuni0417
-p559
-aVuni0418
-p560
-aVuni0419
-p561
-aVuni041A
-p562
-aVuni041B
-p563
-aVuni041B.loclBGR
-p564
-aVuni041C
-p565
-aVuni041D
-p566
-aVuni041E
-p567
-aVuni041F
-p568
-aVuni0420
-p569
-aVuni0421
-p570
-aVuni0422
-p571
-aVuni0423
-p572
-aVuni0424
-p573
-aVuni0425
-p574
-aVuni0426
-p575
-aVuni0427
-p576
-aVuni0428
-p577
-aVuni0429
-p578
-aVuni042A
-p579
-aVuni042B
-p580
-aVuni042C
-p581
-aVuni042D
-p582
-aVuni042E
-p583
-aVuni042F
-p584
-aVuni0430
-p585
-aVuni0430.sc
-p586
-aVuni0431
-p587
-aVuni0431.sc
-p588
-aVuni0432
-p589
-aVuni0432.loclBGR
-p590
-aVuni0432.sc
-p591
-aVuni0433
-p592
-aVuni0433.loclBGR
-p593
-aVuni0433.sc
-p594
-aVuni0434
-p595
-aVuni0434.loclBGR
-p596
-aVuni0434.sc
-p597
-aVuni0435
-p598
-aVuni0435.sc
-p599
-aVuni0436
-p600
-aVuni0436.loclBGR
-p601
-aVuni0436.sc
-p602
-aVuni0437
-p603
-aVuni0437.loclBGR
-p604
-aVuni0437.sc
-p605
-aVuni0438
-p606
-aVuni0438.loclBGR
-p607
-aVuni0438.sc
-p608
-aVuni0439
-p609
-aVuni0439.loclBGR
-p610
-aVuni0439.sc
-p611
-aVuni043A
-p612
-aVuni043A.loclBGR
-p613
-aVuni043A.sc
-p614
-aVuni043B
-p615
-aVuni043B.loclBGR
-p616
-aVuni043B.sc
-p617
-aVuni043C
-p618
-aVuni043C.sc
-p619
-aVuni043D
-p620
-aVuni043D.sc
-p621
-aVuni043E
-p622
-aVuni043E.sc
-p623
-aVuni043F
-p624
-aVuni043F.loclBGR
-p625
-aVuni043F.sc
-p626
-aVuni0440
-p627
-aVuni0440.sc
-p628
-aVuni0441
-p629
-aVuni0441.sc
-p630
-aVuni0442
-p631
-aVuni0442.loclBGR
-p632
-aVuni0442.sc
-p633
-aVuni0443
-p634
-aVuni0443.sc
-p635
-aVuni0444
-p636
-aVuni0444.sc
-p637
-aVuni0445
-p638
-aVuni0445.alt
-p639
-aVuni0445.sc
-p640
-aVuni0446
-p641
-aVuni0446.loclBGR
-p642
-aVuni0446.sc
-p643
-aVuni0447
-p644
-aVuni0447.sc
-p645
-aVuni0448
-p646
-aVuni0448.loclBGR
-p647
-aVuni0448.sc
-p648
-aVuni0449
-p649
-aVuni0449.loclBGR
-p650
-aVuni0449.sc
-p651
-aVuni044A
-p652
-aVuni044A.loclBGR
-p653
-aVuni044A.sc
-p654
-aVuni044B
-p655
-aVuni044B.loclBGR
-p656
-aVuni044B.sc
-p657
-aVuni044C
-p658
-aVuni044C.loclBGR
-p659
-aVuni044C.sc
-p660
-aVuni044D
-p661
-aVuni044D.sc
-p662
-aVuni044E
-p663
-aVuni044E.loclBGR
-p664
-aVuni044E.sc
-p665
-aVuni044F
-p666
-aVuni044F.sc
-p667
-aVuni0450
-p668
-aVuni0451
-p669
-aVuni0453
-p670
-aVuni0454
-p671
-aVuni0455
-p672
-aVuni0456
-p673
-aVuni0457
-p674
-aVuni0458
-p675
-aVuni0459
-p676
-aVuni045C
-p677
-aVuni045D
-p678
-aVuni045D.loclBGR
-p679
-aVuni045E
-p680
-aVuni04C1
-p681
-aVuni04C2
-p682
-aVuni04D0
-p683
-aVuni04D1
-p684
-aVuni04D2
-p685
-aVuni04D3
-p686
-aVuni04D6
-p687
-aVuni04D7
-p688
-aVuni04D9
-p689
-aVuni04DB
-p690
-aVuni04DC
-p691
-aVuni04DD
-p692
-aVuni04DE
-p693
-aVuni04DF
-p694
-aVuni04E2
-p695
-aVuni04E3
-p696
-aVuni04E4
-p697
-aVuni04E5
-p698
-aVuni04E6
-p699
-aVuni04E7
-p700
-aVuni04EC
-p701
-aVuni04ED
-p702
-aVuni04EE
-p703
-aVuni04EF
-p704
-aVuni04F0
-p705
-aVuni04F1
-p706
-aVuni04F2
-p707
-aVuni04F3
-p708
-aVuni04F4
-p709
-aVuni04F5
-p710
-aVuni04F8
-p711
-aVuni04F9
-p712
-aVuni2116
-p713
-aVuniFB01
-p714
-aVuniFB02
-p715
-aVuogonek
-p716
-aVuring
-p717
-aVutilde
-p718
-aVv
-p719
-aVv.sc
-p720
-aVw
-p721
-aVw.sc
-p722
-aVwcircumflex
-p723
-aVx
-p724
-aVx.sc
-p725
-aVy
-p726
-aVy.sc
-p727
-aVyacute
-p728
-aVycircumflex
-p729
-aVydieresis
-p730
-aVyen
-p731
-aVz
-p732
-aVz.sc
-p733
-aVzacute
-p734
-aVzcaron
-p735
-aVzdotaccent
-p736
-aVzero
-p737
-aVzero.dnom
-p738
-aVzero.inferior
-p739
-aVzero.numr
-p740
-aVzero.subscript
-p741
-aVzero.superior
-p742
-aVogonekcomb
-p743
-as."
+LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.020" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Thin"
 Encoding: iso8859-5
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -2004,10 +496,10 @@ BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
 BlueShift 1 7
-BlueValues 15 [-10 0 689 700]
+BlueValues 23 [-10 0 680 690 680 690]
 ForceBold 5 false
-StemSnapH 11 [65 80 180]
-StemSnapV 10 [68 80 90]
+StemSnapH 7 [20 18]
+StemSnapV 7 [22 20]
 EndPrivate
 Grid
 -1000 261 m 0
@@ -2142,13 +634,13 @@ Guideline: "" "" 247 672 252.258 0 0
 Guideline: "" "" 448 0 107.742 0 0
 Guideline: "" "" 251 680 287.852 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=10
+V=10\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=10
+V=10\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" a.sc
@@ -2199,19 +691,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 438 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Abreve
@@ -2224,19 +703,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 445 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Acircumflex
@@ -2249,19 +715,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 460 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Adieresis
@@ -2274,19 +727,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 410 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Agrave
@@ -2299,19 +739,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 452 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Amacron
@@ -2324,19 +751,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 425 270 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Aogonek
@@ -2350,19 +764,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 296 731 N 1 0 0 1 244 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+>ogonek
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Aring
@@ -2375,20 +776,7 @@ AnchorPoint: "top" 240 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 505 778 N 1 0 0 1 239 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni030A
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 505 778 N 1 0 0 1 429 220 2
 EndChar
 
 StartChar: Aringacute
@@ -2401,19 +789,6 @@ LayerCount: 2
 Fore
 Refer: 10 197 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 438 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VAring+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Atilde
@@ -2426,19 +801,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 443 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: B
@@ -2477,13 +839,13 @@ Guideline: "" "" 0 360 0 0 0
 Guideline: "" "" 0 127 0 0 0
 Guideline: "" "" 0 536 0 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=80
+V=80\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" b.sc
@@ -2519,13 +881,13 @@ SplineSet
  358 690 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=O
+V=O\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=O
+V=O\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" c.sc
@@ -2551,19 +913,6 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 548 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VC+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ccaron
@@ -2577,19 +926,6 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 570 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VC+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ccedilla
@@ -2604,15 +940,6 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
 Refer: 161 184 N 1 0 0 1 127 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VC+cedilla
-p3
-s."
 EndChar
 
 StartChar: Ccircumflex
@@ -2626,19 +953,6 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 570 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VC+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Cdotaccent
@@ -2652,19 +966,6 @@ LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 440 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VC+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: D
@@ -2690,13 +991,13 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=O
+V=O\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" d.sc
@@ -2711,20 +1012,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 21 68 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 535 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VD+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 156 780 N 1 0 0 1 535 220 2
 EndChar
 
 StartChar: Dcroat
@@ -2787,9 +1075,9 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" e.sc
@@ -2805,19 +1093,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 453 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ebreve
@@ -2830,19 +1105,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 460 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ecaron
@@ -2855,19 +1117,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 475 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ecircumflex
@@ -2880,19 +1129,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 475 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Edieresis
@@ -2905,19 +1141,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 425 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Edotaccent
@@ -2930,19 +1153,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 345 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Egrave
@@ -2955,19 +1165,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 467 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Emacron
@@ -2980,19 +1177,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 440 270 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Eogonek
@@ -3085,13 +1269,13 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=E
+V=E\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" f.sc
@@ -3143,9 +1327,9 @@ SplineSet
  358 670 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=O
+V=O\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" g.sc
@@ -3161,57 +1345,18 @@ LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 563 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VG+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Gcaron
 Encoding: 287 486 38
 GlifName: G_caron
-Width: 647
+Width: 707
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-168 950 m 257
- 232 950 l 257
- 328 823 l 257
- 424 950 l 257
- 488 950 l 257
- 368 770 l 257
- 288 770 l 257
- 168 950 l 257
-50 350 m 256
- 50 560 146 710 328 710 c 256
- 477 710 566 615 597 474 c 257
- 508 474 l 257
- 502 497 495 518 485 537 c 256
- 456 594 407 630 328 630 c 256
- 189 630 140 502 140 350 c 256
- 140 200 187 70 328 70 c 256
- 415 70 468 120 498 184 c 257
- 498 240 l 257
- 327 240 l 257
- 327 320 l 257
- 587 320 l 257
- 587 0 l 257
- 498 0 l 257
- 498 85 l 257
- 456 24 401 -10 334 -10 c 256
- 141 -10 50 138 50 350 c 256
-EndSplineSet
+Refer: 36 71 N 1 0 0 1 0 0 2
+Refer: 156 780 N 1 0 0 1 578 220 2
 EndChar
 
 StartChar: Gcircumflex
@@ -3224,19 +1369,6 @@ LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 578 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VG+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Gcommaaccent
@@ -3250,19 +1382,6 @@ LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
 Refer: 513 806 N 1 0 0 1 444 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VG+uni0326
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Gdotaccent
@@ -3275,46 +1394,33 @@ LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 448 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VG+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: H
 Encoding: 72 72 42
 GlifName: H_
-Width: 602
+Width: 662
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-491 357 m 257
+551 357 m 257
  109 357 l 257
  109 337 l 257
- 491 337 l 257
- 491 357 l 257
+ 551 337 l 257
+ 551 357 l 257
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 44 73 N 1 0 0 1 380 0 2
+Refer: 44 73 N 1 0 0 1 440 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=100
+V=100\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=100
+V=100\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" h.sc
@@ -3323,26 +1429,13 @@ EndChar
 StartChar: Hcircumflex
 Encoding: 291 292 43
 GlifName: H_circumflex
-Width: 602
+Width: 662
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 42 72 N 1 0 0 1 0 0 2
-Refer: 500 770 N 1 0 0 1 521 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VH+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 500 770 N 1 0 0 1 551 220 2
 EndChar
 
 StartChar: I
@@ -3363,13 +1456,13 @@ SplineSet
 EndSplineSet
 Guideline: "" "" 111 0 90 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=H
+V=H\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" i.sc
@@ -3386,19 +1479,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 55 74 N 1 0 0 1 222 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI_J
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Iacute
@@ -3411,19 +1491,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 309 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ibreve
@@ -3436,19 +1503,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 316 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Icircumflex
@@ -3461,19 +1515,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 331 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Idieresis
@@ -3486,19 +1527,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 281 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Idotaccent
@@ -3511,19 +1539,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 201 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Igrave
@@ -3536,19 +1551,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 323 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Imacron
@@ -3559,7 +1561,13 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 501 772 N 1 0 0 1 280 230 2
+SplineSet
+-40 750 m 257
+ -40 820 l 257
+ 230 820 l 257
+ 230 750 l 257
+ -40 750 l 257
+EndSplineSet
 Refer: 44 73 N 1 0 0 1 -50 0 2
 EndChar
 
@@ -3574,19 +1582,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 296 731 N 1 0 0 1 -52 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+ogonek
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Itilde
@@ -3599,19 +1594,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 314 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: J
@@ -3635,9 +1617,9 @@ SplineSet
  50 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsRight
+Vcom.fontlab.metricsRight\\u000d
 p1
-V=H
+V=H\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" j.sc
@@ -3653,19 +1635,6 @@ LayerCount: 2
 Fore
 Refer: 55 74 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 377 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VJ+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: K
@@ -3696,13 +1665,13 @@ Guideline: "" "" 260 397 195.945 0 0
 Guideline: "" "" 0 350 0 0 0
 Guideline: "" "" 176 293 15.9454 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=10
+V=10\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" k.sc
@@ -3718,15 +1687,6 @@ LayerCount: 2
 Fore
 Refer: 57 75 N 1 0 0 1 0 0 2
 Refer: 513 806 N 1 0 0 1 338 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VK+uni0326
-p3
-s."
 EndChar
 
 StartChar: L
@@ -3747,9 +1707,9 @@ SplineSet
 EndSplineSet
 Refer: 44 73 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" l.sc
@@ -3765,19 +1725,6 @@ LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 343 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VL+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Lcaron
@@ -3944,13 +1891,13 @@ Guideline: "" "" 372 0 90 0 0
 Guideline: "" "" 372 0 90 0 0
 Guideline: "" "" 0 335 0 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=H
+V=H\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" m.sc
@@ -3987,13 +1934,13 @@ Guideline: "" "" 301 0 90 0 0
 Guideline: "" "" 124 680 300.199 0 0
 Guideline: "" "" 98 680 300.199 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=H
+V=H\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" n.sc
@@ -4010,19 +1957,6 @@ LayerCount: 2
 Fore
 Refer: 66 78 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 499 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VN+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ncaron
@@ -4079,15 +2013,6 @@ LayerCount: 2
 Fore
 Refer: 66 78 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 504 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VN+tildecomb
-p3
-s."
 EndChar
 
 StartChar: O
@@ -4116,13 +2041,13 @@ SplineSet
  358 690 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=80
+V=80\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=80
+V=80\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" o.sc
@@ -4175,19 +2100,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 556 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Obreve
@@ -4200,19 +2112,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 563 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ocircumflex
@@ -4225,19 +2124,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 578 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Odieresis
@@ -4250,19 +2136,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 528 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ograve
@@ -4275,19 +2148,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 570 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ohungarumlaut
@@ -4300,20 +2160,7 @@ AnchorPoint: "top" 358 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 506 779 N 1 0 0 1 356 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni030B
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 506 779 N 1 0 0 1 356 220 2
 EndChar
 
 StartChar: Omacron
@@ -4326,19 +2173,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 543 270 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Oslash
@@ -4387,19 +2221,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 561 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: P
@@ -4451,13 +2272,13 @@ Refer: 71 79 N 1 0 0 1 0 0 2
 Guideline: "" "" 542 -59 135 0 0
 Guideline: "" "" 433 23 315 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=O
+V=O\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=O
+V=O\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" q.sc
@@ -4482,13 +2303,13 @@ SplineSet
 EndSplineSet
 Refer: 82 80 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=H
+V=H\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=A
+V=A\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" r.sc
@@ -4505,19 +2326,6 @@ LayerCount: 2
 Fore
 Refer: 84 82 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 458 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VR+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Rcaron
@@ -4531,19 +2339,6 @@ LayerCount: 2
 Fore
 Refer: 84 82 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 90 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VR+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Rcommaaccent
@@ -4557,19 +2352,6 @@ LayerCount: 2
 Fore
 Refer: 84 82 N 1 0 0 1 0 0 2
 Refer: 513 806 N 1 0 0 1 370 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VR+uni0326
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: S
@@ -4601,13 +2383,13 @@ SplineSet
  174 -10 80 67 80 193 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=O
+V=O\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=O
+V=O\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" s.sc
@@ -4725,13 +2507,13 @@ EndSplineSet
 Refer: 44 73 N 1 0 0 1 129 0 2
 Guideline: "" "" 240 0 90 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=A
+V=A\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=A
+V=A\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" t.sc
@@ -4777,15 +2559,6 @@ LayerCount: 2
 Fore
 Refer: 94 84 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 70 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VT+caron
-p3
-s."
 EndChar
 
 StartChar: U
@@ -4812,13 +2585,13 @@ SplineSet
 EndSplineSet
 Guideline: "" "" 280 0 90 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=50
+V=50\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=50
+V=50\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" u.sc
@@ -4834,19 +2607,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 478 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ubreve
@@ -4859,19 +2619,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 485 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ucircumflex
@@ -4884,19 +2631,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 500 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Udieresis
@@ -4909,19 +2643,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 450 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Ugrave
@@ -4934,19 +2655,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 492 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Uhungarumlaut
@@ -4959,20 +2667,7 @@ AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 506 779 N 1 0 0 1 278 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni030B
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 506 779 N 1 0 0 1 278 220 2
 EndChar
 
 StartChar: Umacron
@@ -4985,19 +2680,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 465 270 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: Uogonek
@@ -5044,20 +2726,7 @@ AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 505 778 N 1 0 0 1 279 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni030A
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 505 778 N 1 0 0 1 469 220 2
 EndChar
 
 StartChar: Utilde
@@ -5070,19 +2739,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 483 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: V
@@ -5110,13 +2766,13 @@ EndSplineSet
 Guideline: "" "" 240 0 90 0 0
 Guideline: "" "" 0 335 0 0 0
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=A
+V=A\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=A
+V=A\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" v.sc
@@ -5133,13 +2789,13 @@ Fore
 Refer: 108 86 N 1 0 0 1 0 0 2
 Refer: 108 86 N 1 0 0 1 438 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=A
+V=A\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=A
+V=A\\u000d
 p4
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" w.sc
@@ -5244,23 +2900,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-265 770 m 257
- 315 950 l 257
- 395 950 l 257
- 329 770 l 257
- 265 770 l 257
-40 700 m 257
- 147 700 l 257
- 297 388 l 257
- 447 700 l 257
- 554 700 l 257
- 342 310 l 257
- 342 207 342 103 342 0 c 257
- 252 0 l 257
- 252 310 l 257
- 40 700 l 257
-EndSplineSet
+Refer: 112 89 N 1 0 0 1 0 0 2
+Refer: 126 769 N 1 0 0 1 469 220 2
 EndChar
 
 StartChar: Ycircumflex
@@ -5511,19 +3152,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 448 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: abreve
@@ -5536,19 +3164,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 455 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: acircumflex
@@ -5561,19 +3176,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 470 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: acute
@@ -5593,13 +3195,13 @@ SplineSet
  100 490 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=100
+V=100\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=100
+V=100\\u000d
 p4
 s."
 EndChar
@@ -5625,19 +3227,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 420 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ae
@@ -5695,19 +3284,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 462 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: amacron
@@ -5720,19 +3296,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 435 50 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ampersand
@@ -5785,19 +3348,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 296 731 N 1 0 0 1 136 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+>~ogonek
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: aring
@@ -5810,20 +3360,7 @@ AnchorPoint: "top" 250 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
-Refer: 505 778 N 1 0 0 1 207 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni030A
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 505 778 N 1 0 0 1 397 0 2
 EndChar
 
 StartChar: aringacute
@@ -5836,19 +3373,6 @@ LayerCount: 2
 Fore
 Refer: 133 229 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 448 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Varing+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: asciicircum
@@ -5860,15 +3384,17 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-41 400 m 257
- 161 680 l 257
- 241 680 l 257
- 361 400 l 257
+95 400 m 257
+ 194 639 l 257
+ 208 639 l 257
+ 307 400 l 257
  287 400 l 257
- 201 617 l 257
+ 197 628 l 257
+ 205 628 l 257
  115 400 l 257
- 41 400 l 257
+ 95 400 l 257
 EndSplineSet
+Guideline: "" "" 0 639 0 0 0
 EndChar
 
 StartChar: asciitilde
@@ -5942,30 +3468,35 @@ LayerCount: 2
 Fore
 SplineSet
 371 290 m 256
- 375 196 541 185 567 262 c 258
+ 371 238 424 211 475 211 c 256
+ 516 211 556 228 567 262 c 258
  593 339 l 258
- 625 434 576 453 522 453 c 256
- 433 452 368 361 371 290 c 256
+ 600 360 603 377 603 391 c 256
+ 603 441 564 453 522 453 c 256
+ 443 453 371 371 371 290 c 256
 206 312 m 256
- 210 535 325 624 508 624 c 256
+ 206 535 325 624 508 624 c 256
  711 624 818 535 818 367 c 256
  818 249 735 144 643 144 c 256
- 586 144 568 197 568 224 c 257
- 522 172 354 173 349 288 c 256
- 345 388 426 471 522 473 c 256
- 558 474 621 455 617 421 c 257
+ 595 144 565 172 565 206 c 256
+ 565 212 566 218 568 224 c 257
+ 549 203 511 191 471 191 c 256
+ 411 191 349 219 349 288 c 256
+ 349 387 425 473 522 473 c 256
+ 558 473 601 455 617 421 c 257
  629 462 l 257
  651 462 l 257
  596 283 l 257
- 573 214 599 164 643 164 c 256
- 706 164 796 242 796 366 c 256
+ 590 266 588 237 588 223 c 256
+ 588 180 610 160 643 160 c 256
+ 706 160 796 242 796 366 c 256
  796 496 719 604 508 604 c 256
- 320 604 232 496 228 313 c 256
- 225 153 353 36 508 38 c 256
- 581 39 605 50 663 80 c 257
+ 320 604 228 496 228 313 c 256
+ 228 153 353 38 508 38 c 256
+ 581 38 605 50 663 80 c 257
  663 60 l 257
  607 30 581 18 508 18 c 256
- 330 18 203 142 206 312 c 256
+ 330 18 206 142 206 312 c 256
 EndSplineSet
 EndChar
 
@@ -5979,19 +3510,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 453 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: b
@@ -6083,11 +3601,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-30 700 m 257
- 117 700 l 257
- 528 0 l 257
- 437 0 l 257
- 30 700 l 257
+57 700 m 257
+ 77 700 l 257
+ 484 0 l 257
+ 464 0 l 257
+ 57 700 l 257
 EndSplineSet
 EndChar
 
@@ -6100,11 +3618,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 -80 m 257
- 70 780 l 257
- 150 780 l 257
- 150 -80 l 257
- 70 -80 l 257
+100 -80 m 257
+ 100 780 l 257
+ 120 780 l 257
+ 120 -80 l 257
+ 100 -80 l 257
 EndSplineSet
 EndChar
 
@@ -6175,16 +3693,15 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 -21 m 258
- 70 780 l 257
+70 780 m 257
  290 780 l 257
- 290 720 l 257
- 150 720 l 257
- 150 -21 l 257
- 290 -21 l 257
+ 290 762 l 257
+ 90 762 l 257
+ 90 -63 l 257
+ 290 -63 l 257
  290 -81 l 257
  70 -81 l 257
- 70 -61 70 -41 70 -21 c 258
+ 70 780 l 257
 EndSplineSet
 EndChar
 
@@ -6197,16 +3714,15 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 -21 m 257
- 210 -21 l 257
- 210 720 l 257
- 70 720 l 257
+70 -63 m 257
+ 270 -63 l 257
+ 270 762 l 257
+ 70 762 l 257
  70 780 l 257
  290 780 l 257
- 290 -21 l 258
- 290 -41 290 -61 290 -81 c 257
+ 290 -81 l 257
  70 -81 l 257
- 70 -21 l 257
+ 70 -63 l 257
 EndSplineSet
 EndChar
 
@@ -6220,13 +3736,13 @@ AnchorPoint: "top" 205 520 mark 0
 LayerCount: 2
 Fore
 SplineSet
-50 660 m 257
- 130 660 l 257
- 130 600 170 580 205 580 c 256
- 240 580 280 600 280 660 c 257
- 360 660 l 257
- 360 560 285 520 205 520 c 256
- 125 520 50 560 50 660 c 257
+80 660 m 257
+ 100 660 l 257
+ 100 583 137 540 205 540 c 256
+ 277 540 310 578 310 660 c 257
+ 330 660 l 257
+ 330 565 290 520 205 520 c 256
+ 120 520 80 565 80 660 c 257
 EndSplineSet
 EndChar
 
@@ -6328,19 +3844,6 @@ LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 453 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vc+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: caron
@@ -6407,19 +3910,6 @@ LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 475 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vc+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ccedilla
@@ -6467,19 +3957,6 @@ LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 475 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vc+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: cdotaccent
@@ -6492,19 +3969,6 @@ LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 345 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vc+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: cedilla
@@ -6963,42 +4427,42 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-265 -80 m 257
- 345 -80 l 257
- 345 780 l 257
- 265 780 l 257
- 265 -80 l 257
-552 191 m 256
- 552 293 479 350 383 378 c 258
- 233 421 l 258
- 183 435 161 481 161 527 c 256
- 161 589 209 621 283 621 c 258
- 300 621 l 257
- 300 708 l 257
- 283 708 l 258
- 157 708 71 629 71 516 c 256
- 71 420 123 358 228 328 c 258
- 374 287 l 258
- 417 275 462 240 462 191 c 256
- 462 116 395 80 323 80 c 258
- 310 80 l 257
- 310 -11 l 257
- 323 -11 l 258
- 456 -11 552 60 552 191 c 256
-330 621 m 257
- 343 621 l 258
- 417 621 461 588 461 522 c 257
- 551 522 l 257
- 551 638 459 708 343 708 c 258
- 330 708 l 257
- 330 621 l 257
-297 80 m 257
- 284 80 l 258
- 217 80 150 110 150 194 c 257
- 60 194 l 257
- 60 63 147 -11 284 -11 c 258
- 297 -11 l 257
- 297 80 l 257
+261 -80 m 257
+ 281 -80 l 257
+ 281 780 l 257
+ 261 780 l 257
+ 261 -80 l 257
+500 171 m 256
+ 500 282 418 335 301 351 c 258
+ 243 359 l 258
+ 142 373 81 421 81 536 c 256
+ 81 631 161 688 261 688 c 258
+ 268 688 l 257
+ 268 708 l 257
+ 261 708 l 258
+ 141 708 59 646 59 536 c 256
+ 59 408 119 355 254 337 c 258
+ 292 332 l 257
+ 384 322 479 276 478 171 c 256
+ 477 53 351 9 281 9 c 258
+ 278 9 l 257
+ 278 -11 l 257
+ 281 -11 l 258
+ 369 -11 500 40 500 171 c 256
+278 688 m 257
+ 280 688 l 258
+ 392 688 478 613 477 522 c 257
+ 499 522 l 257
+ 499 638 396 708 280 708 c 258
+ 278 708 l 257
+ 278 688 l 257
+265 9 m 257
+ 266 9 l 257
+ 162 9 70 92 70 194 c 257
+ 48 194 l 257
+ 51 65 156 -11 262 -11 c 258
+ 265 -11 l 257
+ 265 9 l 257
 EndSplineSet
 EndChar
 
@@ -7037,13 +4501,13 @@ SplineSet
  100 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=100
+V=100\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=100
+V=100\\u000d
 p4
 s."
 EndChar
@@ -7111,19 +4575,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 458 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ebreve
@@ -7136,19 +4587,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 465 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ecaron
@@ -7161,19 +4599,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 480 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ecircumflex
@@ -7186,19 +4611,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 480 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: edieresis
@@ -7211,19 +4623,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 430 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: edotaccent
@@ -7236,19 +4635,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 350 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: egrave
@@ -7261,19 +4647,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 472 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: eight
@@ -7285,25 +4658,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-40 200 m 256
- 40 290 89 341 140 370 c 257
- 114 380 50 407 50 527 c 256
- 50 630 136 710 265 710 c 256
- 411 710 480 630 480 527 c 256
- 480 407 423 386 367 370 c 257
- 436 342 493 290 493 200 c 256
- 493 70 415 -10 265 -10 c 256
- 115 -10 40 70 40 200 c 256
-129 205 m 256
- 129 115 175 70 265 70 c 256
- 355 70 404 115 404 205 c 256
- 404 296 352 338 265 339 c 256
- 187 339 129 280 129 205 c 256
-140 520 m 256
- 140 460 175 403 265 403 c 256
- 355 403 390 460 390 520 c 256
- 390 580 355 630 265 630 c 256
- 175 630 140 580 140 520 c 256
+62 200 m 256
+ 63 275 96 332 162 370 c 257
+ 101 394 72 444 72 527 c 256
+ 72 639 148 710 267 710 c 256
+ 394 710 459 648 459 527 c 256
+ 459 433 431 394 346 370 c 257
+ 429 336 472 278 472 200 c 256
+ 472 58 405 -10 267 -10 c 256
+ 129 -10 60 49 62 200 c 256
+84 200 m 256
+ 71 84 130 10 267 10 c 256
+ 410 10 458 111 450 200 c 256
+ 440 310 370 356 267 357 c 256
+ 148 358 97 318 84 200 c 256
+94 528 m 256
+ 95 427 151 375 271 379 c 256
+ 325 381 438 400 436 514 c 256
+ 434 637 383 690 267 690 c 256
+ 168 690 93 622 94 528 c 256
 EndSplineSet
 Substitution2: "Single Substitution lookup 29 subtable" eight.dnom
 Substitution2: "Single Substitution lookup 27 subtable" eight.numr
@@ -7525,19 +4898,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 445 50 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: emdash
@@ -7773,15 +5133,15 @@ SplineSet
  90 135 152 12 270 12 c 256
  388 12 466 126 466 246 c 256
  466 378 370 471 270 471 c 256
- 195 471 142 417 142 415 c 257
+ 213 471 164 448 142 415 c 257
  121 415 l 257
  121 700 l 257
  422 700 l 257
  422 678 l 257
  143 678 l 257
- 142 423 l 257
- 143 423 125 419 126 419 c 257
- 116 427 179 493 270 493 c 256
+ 143 423 l 257
+ 144 423 125 419 126 419 c 257
+ 151 462 212 493 270 493 c 256
  386 493 488 386 488 246 c 256
  488 99 389 -10 270 -10 c 256
  138 -10 68 124 68 148 c 257
@@ -8219,15 +5579,15 @@ SplineSet
  420 134 l 257
  420 90 369 -10 245 -10 c 256
  112 -10 46 125 46 231 c 256
-436 90 m 257
- 436 -7 l 258
- 436 -139 381 -200 261 -200 c 256
- 158 -200 97 -128 87 -76 c 257
+87 -76 m 257
  107 -76 l 257
  118 -126 176 -182 261 -182 c 256
  367 -182 416 -126 416 -7 c 258
  416 90 l 257
  436 90 l 257
+ 436 -7 l 258
+ 436 -139 381 -200 261 -200 c 256
+ 158 -200 97 -128 87 -76 c 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" g.sc
 EndChar
@@ -8272,19 +5632,6 @@ LayerCount: 2
 Fore
 Refer: 220 103 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 446 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vg+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: gcaron
@@ -8309,19 +5656,6 @@ LayerCount: 2
 Fore
 Refer: 220 103 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 461 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vg+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: gcommaaccent
@@ -8376,19 +5710,6 @@ LayerCount: 2
 Fore
 Refer: 220 103 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 331 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vg+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: germandbls
@@ -8586,13 +5907,13 @@ SplineSet
 EndSplineSet
 Refer: 259 108 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=n
+V=n\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=n
+V=n\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" h.sc
@@ -8666,19 +5987,6 @@ LayerCount: 2
 Fore
 Refer: 235 104 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 480 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vh+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: hungarumlaut
@@ -8732,19 +6040,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 200 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" i.sc
 EndChar
 
@@ -8776,19 +6071,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 282 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ibreve
@@ -8802,19 +6084,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 315 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+brevecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: icircumflex
@@ -8828,19 +6097,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 330 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: idieresis
@@ -8854,19 +6110,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 280 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: igrave
@@ -8880,19 +6123,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 373 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ij
@@ -8906,19 +6136,6 @@ LayerCount: 2
 Fore
 Refer: 241 105 N 1 0 0 1 0 0 2
 Refer: 252 106 N 1 0 0 1 220 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vi_j
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: imacron
@@ -8929,7 +6146,13 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 501 772 N 1 0 0 1 325 50 2
+SplineSet
+5 570 m 257
+ 5 640 l 257
+ 275 640 l 257
+ 275 570 l 257
+ 5 570 l 257
+EndSplineSet
 Refer: 179 305 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8944,19 +6167,6 @@ LayerCount: 2
 Fore
 Refer: 241 105 N 1 0 0 1 0 0 2
 Refer: 296 731 N 1 0 0 1 -53 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vi+ogonek
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: itilde
@@ -8969,20 +6179,7 @@ AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 379 771 N 1 0 0 1 313 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 379 771 N 1 0 0 1 307 0 2
 EndChar
 
 StartChar: j
@@ -8996,19 +6193,6 @@ LayerCount: 2
 Fore
 Refer: 495 567 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 200 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0237+uni0307
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" j.sc
 EndChar
 
@@ -9044,19 +6228,6 @@ LayerCount: 2
 Fore
 Refer: 252 106 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 330 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vj+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: k
@@ -9188,13 +6359,13 @@ SplineSet
  90 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=n
+V=n\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=n
+V=n\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" l.sc
@@ -9229,19 +6400,6 @@ LayerCount: 2
 Fore
 Refer: 259 108 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 272 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vl+acutecomb
-p3
-sVpublic.markColor
-p4
-V1,0.6,0.6,1
-p5
-s."
 EndChar
 
 StartChar: lcaron
@@ -9447,13 +6605,13 @@ SplineSet
  90 0 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=n
+V=n\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=n
+V=n\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" m.sc
@@ -9497,11 +6655,11 @@ AnchorPoint: "aboveLC" 185 470 mark 0
 LayerCount: 2
 Fore
 SplineSet
-50 520 m 257
+50 572 m 257
  50 590 l 257
  320 590 l 257
- 320 520 l 257
- 50 520 l 257
+ 320 572 l 257
+ 50 572 l 257
 EndSplineSet
 EndChar
 
@@ -9606,13 +6764,13 @@ SplineSet
  133 417 207 470 284 470 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=90
+V=90\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=90
+V=90\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" n.sc
@@ -9651,19 +6809,6 @@ LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 482 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vn+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: napostrophe
@@ -9710,19 +6855,6 @@ LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 504 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vn+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ncommaaccent
@@ -9966,19 +7098,6 @@ LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 487 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vn+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: numbersign
@@ -10088,19 +7207,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 438 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: obreve
@@ -10113,19 +7219,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 445 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ocircumflex
@@ -10138,19 +7231,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 460 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: odieresis
@@ -10163,19 +7243,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 410 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: oe
@@ -10234,13 +7301,13 @@ SplineSet
  124 -210 100 -185 100 -143 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=100
+V=100\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=100
+V=100\\u000d
 p4
 s."
 EndChar
@@ -10250,14 +7317,14 @@ Encoding: 488 808 297
 GlifName: ogonekcomb
 Width: 0
 VWidth: 0
-AnchorPoint: "bottom" -104 -0 mark 0
+AnchorPoint: "bottom" -104 0 mark 0
 LayerCount: 2
 Fore
 Refer: 296 731 N 1 0 0 1 -280 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.recipe
+Vcom.fontlab.recipe\\u000d
 p1
-Vogonek%
+Vogonek%\\u000d
 p2
 s."
 EndChar
@@ -10272,19 +7339,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 452 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ohungarumlaut
@@ -10298,19 +7352,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 506 779 N 1 0 0 1 238 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni030B
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: omacron
@@ -10323,19 +7364,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 425 50 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: one
@@ -10657,19 +7685,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 443 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: p
@@ -10681,30 +7696,28 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-80 146 m 257
- 78 253 l 257
- 83 229 l 257
- 83 116 192 43 258 43 c 256
- 342 43 445 104 445 232 c 256
- 445 356 382 435 256 435 c 256
- 160 435 88 326 88 252 c 257
- 78 230 l 257
- 78 333 l 257
- 108 367 144 459 255 459 c 256
+78 170 m 257
+ 78 328 l 257
+ 96 404 171 459 255 459 c 256
  416 459 468 340 468 231 c 256
  468 84 346 19 259 19 c 256
- 172 19 80 99 80 146 c 257
-88 -200 m 257
- 64 -200 l 257
+ 172 19 98 80 78 170 c 257
+84 229 m 256
+ 84 124 160 43 258 43 c 256
+ 342 43 445 104 445 232 c 256
+ 445 356 382 435 256 435 c 256
+ 145 435 84 362 84 229 c 256
+64 -200 m 257
  64 459 l 257
  78 459 l 257
- 92 343 l 257
- 88 -200 l 257
+ 84 309 l 257
+ 84 -200 l 257
+ 64 -200 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsRight
+Vcom.fontlab.metricsRight\\u000d
 p1
-V=o
+V=o\\u000d
 p2
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" p.sc
@@ -10933,19 +7946,16 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 200 m 257
- 50 280 l 257
- 185 280 l 257
- 185 415 l 257
- 265 415 l 257
- 265 280 l 257
- 400 280 l 257
- 400 200 l 257
- 265 200 l 257
- 265 65 l 257
- 185 65 l 257
- 185 200 l 257
- 50 200 l 257
+50 249 m 257
+ 50 231 l 257
+ 400 231 l 257
+ 400 249 l 257
+ 50 249 l 257
+215 65 m 257
+ 235 65 l 257
+ 235 415 l 257
+ 215 415 l 257
+ 215 65 l 257
 EndSplineSet
 EndChar
 
@@ -11049,21 +8059,21 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-190 0 m 257
- 190 80 l 257
- 270 80 l 257
- 270 0 l 257
- 190 0 l 257
+220 0 m 257
+ 220 80 l 257
+ 240 80 l 257
+ 240 0 l 257
+ 220 0 l 257
 40 480 m 257
- 41 620 129 710 250 710 c 256
- 396 710 462 630 462 509 c 256
- 462 329 270 315 270 170 c 258
- 270 130 l 257
- 190 130 l 257
- 190 170 l 258
- 190 344 382 399 382 498 c 256
- 382 565 369 630 250 630 c 256
- 166 630 124 561 120 480 c 257
+ 40 620 138 710 259 710 c 256
+ 394 710 462 643 462 533 c 256
+ 462 336 240 315 240 170 c 258
+ 240 130 l 257
+ 220 130 l 257
+ 220 170 l 258
+ 220 318 442 353 442 531 c 256
+ 442 631 381 692 259 692 c 256
+ 151 692 66 607 60 480 c 257
  40 480 l 257
 EndSplineSet
 EndChar
@@ -11490,11 +8500,11 @@ SplineSet
  154 697 189 662 189 619 c 256
  189 576 154 541 111 541 c 256
  68 541 33 576 33 619 c 256
-80 619 m 256
- 80 602 94 588 111 588 c 256
- 128 588 142 602 142 619 c 256
- 142 636 128 650 111 650 c 256
- 94 650 80 636 80 619 c 256
+53 619 m 256
+ 53 586 78 560 111 560 c 256
+ 145 560 170 586 170 619 c 256
+ 170 653 145 679 111 679 c 256
+ 78 679 53 653 53 619 c 256
 EndSplineSet
 EndChar
 
@@ -11716,9 +8726,8 @@ SplineSet
  476 701 l 257
  476 679 l 257
  382 565 236 379 236 0 c 257
- 225 0 l 257
  214 0 l 257
- 215 283 288 486 446 678 c 257
+ 214 283 288 486 446 678 c 257
  50 678 l 257
 EndSplineSet
 Substitution2: "Single Substitution lookup 29 subtable" seven.dnom
@@ -11853,22 +8862,20 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-61 230 m 257
- 64 155 99 10 266 10 c 256
+61 230 m 256
+ 61 155 99 10 266 10 c 256
  360 10 467 76 467 224 c 256
- 467 348 386 433 274 433 c 258
- 271 433 l 257
- 168 434 61 352 61 232 c 257
- 61 231 61 231 61 230 c 257
+ 467 348 383 433 271 433 c 256
+ 168 433 61 350 61 230 c 256
 36 300 m 256
  36 539 86 700 266 700 c 256
  377 700 435 656 467 573 c 257
- 464 573 448 572 445 572 c 257
- 428 603 402 680 266 680 c 256
+ 445 573 l 257
+ 429 613 383 680 266 680 c 256
  162 680 59 626 59 322 c 257
- 60 322 61 322 62 322 c 257
- 94 398 177 454 275 453 c 256
- 393 452 489 372 489 223 c 256
+ 62 322 l 257
+ 94 398 177 453 275 453 c 256
+ 393 453 489 372 489 223 c 256
  489 81 395 -10 266 -10 c 256
  86 -10 36 119 36 300 c 256
 EndSplineSet
@@ -12049,11 +9056,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-30 0 m 257
- 301 700 l 257
- 388 700 l 257
- 121 0 l 257
- 30 0 l 257
+67 0 m 257
+ 334 700 l 257
+ 354 700 l 257
+ 87 0 l 257
+ 67 0 l 257
 EndSplineSet
 Substitution2: "Single Substitution lookup 7 subtable" fraction
 EndChar
@@ -12134,9 +9141,11 @@ SplineSet
  111 609 l 257
  127 609 l 257
  127 179 l 258
- 127 54 133 12 300 12 c 257
+ 127 60 132 12 277 12 c 258
+ 300 12 l 257
  300 -10 l 257
- 118 -10 105 43 105 179 c 258
+ 277 -10 l 258
+ 117 -10 105 49 105 179 c 258
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" t.sc
 EndChar
@@ -12209,15 +9218,6 @@ LayerCount: 2
 Fore
 Refer: 367 116 N 1 0 0 1 0 0 2
 Refer: 333 8217 N 1 0 0 1 331 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vt_quoteright
-p3
-s."
 EndChar
 
 StartChar: three
@@ -12498,17 +9498,19 @@ AnchorPoint: "top" 203 520 mark 0
 LayerCount: 2
 Fore
 SplineSet
-50 540 m 257
- 64 627 100 660 140 660 c 256
- 165 660 187 650 209 639 c 257
- 225 630 246 620 266 620 c 256
- 286 620 301 632 306 660 c 257
- 356 660 l 257
- 342 573 306 540 266 540 c 256
- 241 540 220 549 199 560 c 256
- 182 569 160 580 140 580 c 256
- 120 580 105 568 100 540 c 257
- 50 540 l 257
+65 580 m 257
+ 73 626 98 651 136 651 c 256
+ 157 651 165 647 192 633 c 258
+ 232 612 l 258
+ 249 603 258 600 271 600 c 256
+ 293 600 310 618 321 651 c 257
+ 341 651 l 257
+ 322 600 302 580 271 580 c 256
+ 252 580 246 583 212 600 c 258
+ 184 614 l 258
+ 159 627 148 631 136 631 c 256
+ 110 631 88 611 85 580 c 257
+ 65 580 l 257
 EndSplineSet
 EndChar
 
@@ -12520,19 +9522,7 @@ VWidth: 0
 AnchorPoint: "top" -203 520 mark 0
 LayerCount: 2
 Fore
-SplineSet
--356 540 m 257
- -342 627 -306 660 -266 660 c 256
- -241 660 -219 650 -197 639 c 257
- -181 630 -160 620 -140 620 c 256
- -120 620 -105 632 -100 660 c 257
- -50 660 l 257
- -64 573 -100 540 -140 540 c 256
- -165 540 -186 549 -207 560 c 256
- -224 569 -246 580 -266 580 c 256
- -286 580 -301 568 -306 540 c 257
- -356 540 l 257
-EndSplineSet
+Refer: 378 732 N 1 0 0 1 -400 0 2
 EndChar
 
 StartChar: trademark
@@ -12810,19 +9800,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 437 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ubreve
@@ -12835,19 +9812,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 444 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ucircumflex
@@ -12860,19 +9824,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 500 770 N 1 0 0 1 459 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+uni0302
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: udieresis
@@ -12885,19 +9836,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 409 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ugrave
@@ -12910,19 +9848,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 451 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uhungarumlaut
@@ -12936,19 +9861,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 506 779 N 1 0 0 1 237 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+uni030B
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: umacron
@@ -12961,19 +9873,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 424 50 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: underscore
@@ -13153,15 +10052,6 @@ LayerCount: 2
 Fore
 Refer: 94 84 N 1 0 0 1 0 0 2
 Refer: 513 806 N 1 0 0 1 330 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VT+uni0326
-p3
-s."
 EndChar
 
 StartChar: uni0163
@@ -13174,15 +10064,6 @@ LayerCount: 2
 Fore
 Refer: 367 116 N 1 0 0 1 0 0 2
 Refer: 513 806 N 1 0 0 1 256 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vt+uni0326
-p3
-s."
 EndChar
 
 StartChar: uni01C4
@@ -13330,19 +10211,6 @@ LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
 Refer: 55 74 N 1 0 0 1 560 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VL_J
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01C8
@@ -13357,85 +10225,48 @@ LayerCount: 2
 Fore
 Refer: 59 76 N 1 0 0 1 0 0 2
 Refer: 252 106 N 1 0 0 1 560 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VL_j
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01C9
 Encoding: 574 457 414
 GlifName: uni01C_9
-Width: 450
+Width: 420
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 310 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-300 560 m 257
- 300 640 l 257
- 380 640 l 257
- 380 560 l 257
- 300 560 l 257
-152 -100 m 257
- 217 -100 l 257
- 220 -132 241 -140 256 -140 c 256
- 280 -140 300 -136 300 -80 c 258
- 300 460 l 257
- 380 460 l 257
- 380 -60 l 258
- 380 -181 324 -200 260 -200 c 256
- 204 -200 156 -162 152 -100 c 257
-EndSplineSet
-Refer: 259 108 N 1 0 0 1 -20 0 2
+Refer: 259 108 N 1 0 0 1 0 0 2
+Refer: 252 106 N 1 0 0 1 200 0 2
 EndChar
 
 StartChar: uni01CA
 Encoding: 575 458 415
 GlifName: uni01C_A_
-Width: 886
+Width: 888
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 775 740 basechar 0
+AnchorPoint: "bottom" 301 -60 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 74 N 1 0 0 1 600 0 2
-Refer: 66 78 N 1 0 0 1 -120 0 2
+Refer: 66 78 N 1 0 0 1 0 0 2
+Refer: 55 74 N 1 0 0 1 618 0 2
 EndChar
 
 StartChar: uni01CB
 Encoding: 576 459 416
 GlifName: uni01C_B_
-Width: 830
+Width: 838
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 301 740 basechar 0
+AnchorPoint: "bottom" 301 -60 basechar 0
+AnchorPoint: "aboveLC" 728 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-680 560 m 257
- 680 640 l 257
- 760 640 l 257
- 760 560 l 257
- 680 560 l 257
-532 -100 m 257
- 597 -100 l 257
- 600 -132 621 -140 636 -140 c 256
- 660 -140 680 -136 680 -80 c 258
- 680 460 l 257
- 760 460 l 257
- 760 -60 l 258
- 760 -181 704 -200 640 -200 c 256
- 584 -200 536 -162 532 -100 c 257
-EndSplineSet
-Refer: 66 78 N 1 0 0 1 -120 0 2
+Refer: 66 78 N 1 0 0 1 0 0 2
+Refer: 252 106 N 1 0 0 1 618 0 2
 EndChar
 
 StartChar: uni01CC
@@ -13450,19 +10281,6 @@ LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
 Refer: 252 106 N 1 0 0 1 519 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vn_j
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01CD
@@ -13475,19 +10293,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 70 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01CE
@@ -13500,19 +10305,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 80 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01CF
@@ -13525,19 +10317,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 -59 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D0
@@ -13551,19 +10330,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 -60 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D1
@@ -13576,19 +10342,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 188 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D2
@@ -13601,19 +10354,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 70 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D3
@@ -13626,19 +10366,6 @@ LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 110 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D4
@@ -13651,19 +10378,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 154 711 N 1 0 0 1 69 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+caron
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D5
@@ -13715,19 +10429,6 @@ LayerCount: 2
 Fore
 Refer: 392 252 N 1 0 0 1 0 0 2
 Refer: 501 772 N 1 0 0 1 424 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vudieresis+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D7
@@ -13779,19 +10480,6 @@ LayerCount: 2
 Fore
 Refer: 392 252 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 411 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vudieresis+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01D9
@@ -13994,20 +10682,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 6 196 N 1 0 0 1 0 0 2
-Refer: 501 772 N 1 0 0 1 425 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VAdieresis+uni0304
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 501 772 N 1 0 0 1 425 220 2
 EndChar
 
 StartChar: uni01DF
@@ -14143,20 +10818,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 57 75 N 1 0 0 1 0 0 2
-Refer: 156 780 N 1 0 0 1 468 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VK+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 156 780 N 1 0 0 1 468 220 2
 EndChar
 
 StartChar: uni01E9
@@ -14169,52 +10831,19 @@ LayerCount: 2
 Fore
 Refer: 255 107 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 410 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vk+caroncomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01EA
 Encoding: 601 490 441
 GlifName: uni01E_A_
-Width: 660
+Width: 716
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 358 740 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-50 350 m 256
- 50 560 146 710 328 710 c 256
- 519 710 610 555 610 350 c 256
- 610 141 521 -10 334 -10 c 256
- 141 -10 50 138 50 350 c 256
-140 350 m 256
- 140 200 187 70 328 70 c 256
- 477 70 520 236 520 350 c 256
- 520 503 477 630 328 630 c 256
- 189 630 140 502 140 350 c 256
-441 -124 m 256
- 441 -70 478 -25 512 0 c 257
- 570 0 l 257
- 529 -31 502 -69 502 -108 c 256
- 502 -130 514 -145 531 -151 c 257
- 536 -153 542 -154 548 -154 c 256
- 562 -154 577 -149 588 -141 c 257
- 610 -182 l 257
- 597 -191 l 257
- 578 -202 551 -209 531 -209 c 256
- 481 -209 441 -180 441 -124 c 256
-EndSplineSet
+Refer: 71 79 N 1 0 0 1 0 0 2
+Refer: 297 808 N 1 0 0 1 690 0 2
 EndChar
 
 StartChar: uni01EB
@@ -14223,69 +10852,23 @@ GlifName: uni01E_B_
 Width: 480
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 240 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-35 230 m 256
- 35 368 99 470 240 470 c 256
- 380 470 445 370 445 230 c 256
- 445 96 374 -10 240 -10 c 256
- 88 -10 35 102 35 230 c 256
-115 230 m 256
- 115 109 170 55 240 55 c 256
- 312 55 365 105 365 230 c 256
- 365 357 311 405 240 405 c 256
- 169 405 115 357 115 230 c 256
-276 -124 m 256
- 276 -70 313 -25 347 0 c 257
- 405 0 l 257
- 364 -31 337 -69 337 -108 c 256
- 337 -130 349 -145 366 -151 c 257
- 371 -153 377 -154 383 -154 c 256
- 397 -154 412 -149 423 -141 c 257
- 445 -182 l 257
- 432 -191 l 257
- 413 -202 386 -209 366 -209 c 256
- 316 -209 276 -180 276 -124 c 256
-EndSplineSet
+Refer: 289 111 N 1 0 0 1 0 0 2
+Refer: 296 731 N 1 0 0 1 219 0 2
 EndChar
 
 StartChar: uni01EC
 Encoding: 603 492 443
 GlifName: uni01E_C_
-Width: 660
+Width: 716
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-50 350 m 256
- 50 560 146 710 328 710 c 256
- 519 710 610 555 610 350 c 256
- 610 141 521 -10 334 -10 c 256
- 141 -10 50 138 50 350 c 256
-140 350 m 256
- 140 200 187 70 328 70 c 256
- 477 70 520 236 520 350 c 256
- 520 503 477 630 328 630 c 256
- 189 630 140 502 140 350 c 256
-441 -124 m 256
- 441 -70 478 -25 512 0 c 257
- 570 0 l 257
- 529 -31 502 -69 502 -108 c 256
- 502 -130 514 -145 531 -151 c 257
- 536 -153 542 -154 548 -154 c 256
- 562 -154 577 -149 588 -141 c 257
- 610 -182 l 257
- 597 -191 l 257
- 578 -202 551 -209 531 -209 c 256
- 481 -209 441 -180 441 -124 c 256
-195 785 m 257
- 195 850 l 257
- 465 850 l 257
- 465 785 l 257
- 195 785 l 257
-EndSplineSet
+Refer: 441 490 N 1 0 0 1 0 0 2
+Refer: 501 772 N 1 0 0 1 543 270 2
 EndChar
 
 StartChar: uni01ED
@@ -14296,34 +10879,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-35 230 m 256
- 35 368 99 470 240 470 c 256
- 380 470 445 370 445 230 c 256
- 445 96 374 -10 240 -10 c 256
- 88 -10 35 102 35 230 c 256
-115 230 m 256
- 115 109 170 55 240 55 c 256
- 312 55 365 105 365 230 c 256
- 365 357 311 405 240 405 c 256
- 169 405 115 357 115 230 c 256
-276 -124 m 256
- 276 -70 313 -25 347 0 c 257
- 405 0 l 257
- 364 -31 337 -69 337 -108 c 256
- 337 -130 349 -145 366 -151 c 257
- 371 -153 377 -154 383 -154 c 256
- 397 -154 412 -149 423 -141 c 257
- 445 -182 l 257
- 432 -191 l 257
- 413 -202 386 -209 366 -209 c 256
- 316 -209 276 -180 276 -124 c 256
-105 545 m 257
- 105 610 l 257
- 375 610 l 257
- 375 545 l 257
- 105 545 l 257
-EndSplineSet
+Refer: 442 491 N 1 0 0 1 0 0 2
+Refer: 501 772 N 1 0 0 1 425 50 2
 EndChar
 
 StartChar: uni01F0
@@ -14332,10 +10889,11 @@ GlifName: uni01F_0
 Width: 220
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
-Refer: 154 711 N 1 0 0 1 -60 0 2
 Refer: 495 567 N 1 0 0 1 0 0 2
+Refer: 156 780 N 1 0 0 1 330 0 2
 EndChar
 
 StartChar: uni01F1
@@ -14348,15 +10906,6 @@ LayerCount: 2
 Fore
 Refer: 21 68 N 1 0 0 1 0 0 2
 Refer: 116 90 N 1 0 0 1 630 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VD_Z
-p3
-s."
 EndChar
 
 StartChar: uni01F2
@@ -14369,15 +10918,6 @@ LayerCount: 2
 Fore
 Refer: 21 68 N 1 0 0 1 0 0 2
 Refer: 712 122 N 1 0 0 1 630 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VD_z
-p3
-s."
 EndChar
 
 StartChar: uni01F3
@@ -14390,15 +10930,6 @@ LayerCount: 2
 Fore
 Refer: 168 100 N 1 0 0 1 0 0 2
 Refer: 712 122 N 1 0 0 1 491 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vd_z
-p3
-s."
 EndChar
 
 StartChar: uni01F4
@@ -14411,19 +10942,6 @@ LayerCount: 2
 Fore
 Refer: 36 71 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 556 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VG+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01F5
@@ -14434,14 +10952,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-209 520 m 257
- 259 680 l 257
- 339 680 l 257
- 273 520 l 257
- 209 520 l 257
-EndSplineSet
 Refer: 220 103 N 1 0 0 1 0 0 2
+Refer: 126 769 N 1 0 0 1 439 0 2
 EndChar
 
 StartChar: uni01F8
@@ -14455,19 +10967,6 @@ LayerCount: 2
 Fore
 Refer: 66 78 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 513 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VN+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni01F9
@@ -14480,19 +10979,6 @@ LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 496 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vn+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0200
@@ -14505,20 +10991,7 @@ AnchorPoint: "top" 240 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
-Refer: 507 783 N 1 0 0 1 243 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 507 783 N 1 0 0 1 243 220 2
 EndChar
 
 StartChar: uni0201
@@ -14532,19 +11005,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 507 783 N 1 0 0 1 211 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0202
@@ -14557,19 +11017,6 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 445 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VA+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0203
@@ -14582,19 +11029,6 @@ LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 455 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0204
@@ -14607,20 +11041,7 @@ AnchorPoint: "top" 255 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
-Refer: 507 783 N 1 0 0 1 258 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 507 783 N 1 0 0 1 258 220 2
 EndChar
 
 StartChar: uni0205
@@ -14634,19 +11055,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 507 783 N 1 0 0 1 262 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0206
@@ -14659,19 +11067,6 @@ LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 460 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0207
@@ -14684,19 +11079,6 @@ LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 465 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0208
@@ -14709,20 +11091,7 @@ AnchorPoint: "top" 111 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-Refer: 507 783 N 1 0 0 1 114 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 507 783 N 1 0 0 1 114 220 2
 EndChar
 
 StartChar: uni0209
@@ -14736,19 +11105,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 507 783 N 1 0 0 1 113 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni020A
@@ -14761,19 +11117,6 @@ LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 316 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni020B
@@ -14787,19 +11130,6 @@ LayerCount: 2
 Fore
 Refer: 179 305 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 315 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vdotlessi+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni020C
@@ -14812,20 +11142,7 @@ AnchorPoint: "top" 358 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-Refer: 507 783 N 1 0 0 1 361 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 507 783 N 1 0 0 1 361 220 2
 EndChar
 
 StartChar: uni020D
@@ -14839,19 +11156,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 507 783 N 1 0 0 1 243 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni030F
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni020E
@@ -14864,19 +11168,6 @@ LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 563 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni020F
@@ -14889,19 +11180,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 445 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni0311
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0210
@@ -14988,15 +11266,6 @@ LayerCount: 2
 Fore
 Refer: 84 82 N 1 0 0 1 0 0 2
 Refer: 508 785 N 1 0 0 1 465 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VR+uni0311
-p3
-s."
 EndChar
 
 StartChar: uni0213
@@ -15044,16 +11313,7 @@ AnchorPoint: "top" 280 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 97 85 N 1 0 0 1 0 0 2
-Refer: 507 783 N 1 0 0 1 283 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VU+uni030F
-p3
-s."
+Refer: 507 783 N 1 0 0 1 283 220 2
 EndChar
 
 StartChar: uni0215
@@ -15126,15 +11386,6 @@ LayerCount: 2
 Fore
 Refer: 94 84 N 1 0 0 1 0 0 2
 Refer: 513 806 N 1 0 0 1 330 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VT+uni0326
-p3
-s."
 EndChar
 
 StartChar: uni021B
@@ -15177,26 +11428,13 @@ EndChar
 StartChar: uni021E
 Encoding: 639 542 479
 GlifName: uni021E_
-Width: 602
+Width: 662
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 42 72 N 1 0 0 1 0 0 2
-Refer: 155 -1 N 1 0 0 1 521 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VH+~uni030C.case
-p3
-sVpublic.markColor
-p4
-V1,0.6,0.6,1
-p5
-s."
+Refer: 155 -1 N 1 0 0 1 551 0 2
 EndChar
 
 StartChar: uni021F
@@ -15209,19 +11447,6 @@ LayerCount: 2
 Fore
 Refer: 235 104 N 1 0 0 1 0 0 2
 Refer: 156 780 N 1 0 0 1 480 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vh+uni030C
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0226
@@ -15510,15 +11735,6 @@ LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
 Refer: 503 775 N 1 0 0 1 330 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo+uni0307
-p3
-s."
 EndChar
 
 StartChar: uni0230
@@ -15529,7 +11745,13 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 501 772 N 1 0 0 1 515 380 2
+SplineSet
+195 900 m 257
+ 195 970 l 257
+ 465 970 l 257
+ 465 900 l 257
+ 195 900 l 257
+EndSplineSet
 Refer: 489 558 N 1 0 0 1 0 0 2
 EndChar
 
@@ -15542,6 +11764,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
+105 700 m 257
+ 105 770 l 257
+ 375 770 l 257
+ 375 700 l 257
+ 105 700 l 257
 240 -10 m 257
  117 -10 35 87 35 230 c 256
  35 374 117 470 240 470 c 257
@@ -15562,7 +11789,6 @@ SplineSet
  55 98 129 10 240 10 c 257
  240 -10 l 257
 EndSplineSet
-Refer: 501 772 N 1 0 0 1 425 180 2
 Refer: 178 729 N 1 0 0 1 150 40 2
 EndChar
 
@@ -15750,13 +11976,7 @@ VWidth: 0
 AnchorPoint: "top" -185 470 mark 0
 LayerCount: 2
 Fore
-SplineSet
--320 520 m 257
- -320 590 l 257
- -50 590 l 257
- -50 520 l 257
- -320 520 l 257
-EndSplineSet
+Refer: 271 175 N 1 0 0 1 -370 0 2
 EndChar
 
 StartChar: uni0306
@@ -15767,15 +11987,7 @@ VWidth: 0
 AnchorPoint: "top" -205 520 mark 0
 LayerCount: 2
 Fore
-SplineSet
--360 660 m 257
- -280 660 l 257
- -280 600 -240 580 -205 580 c 256
- -170 580 -130 600 -130 660 c 257
- -50 660 l 257
- -50 560 -125 520 -205 520 c 256
- -285 520 -360 560 -360 660 c 257
-EndSplineSet
+Refer: 148 728 N 1 0 0 1 -410 0 2
 EndChar
 
 StartChar: uni0307
@@ -15818,18 +12030,7 @@ Width: 0
 VWidth: 0
 LayerCount: 2
 Fore
-SplineSet
--77 619 m 256
- -77 662 -42 697 1 697 c 256
- 44 697 79 662 79 619 c 256
- 79 576 44 541 1 541 c 256
- -42 541 -77 576 -77 619 c 256
--30 619 m 256
- -30 602 -16 588 1 588 c 256
- 18 588 32 602 32 619 c 256
- 32 636 18 650 1 650 c 256
- -16 650 -30 636 -30 619 c 256
-EndSplineSet
+Refer: 342 730 N 1 0 0 1 -300 0 2
 EndChar
 
 StartChar: uni030B
@@ -15883,13 +12084,13 @@ AnchorPoint: "top" -205 520 mark 0
 LayerCount: 2
 Fore
 SplineSet
--360 520 m 257
- -360 620 -285 660 -205 660 c 256
- -125 660 -50 620 -50 520 c 257
- -130 520 l 257
- -130 580 -170 600 -205 600 c 256
- -240 600 -280 580 -280 520 c 257
- -360 520 l 257
+-330 520 m 257
+ -330 615 -290 660 -205 660 c 256
+ -120 660 -80 615 -80 520 c 257
+ -100 520 l 257
+ -100 602 -133 640 -205 640 c 256
+ -273 640 -310 597 -310 520 c 257
+ -330 520 l 257
 EndSplineSet
 EndChar
 
@@ -16019,15 +12220,6 @@ LayerCount: 2
 Fore
 Refer: 537 1045 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 467 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0415+gravecomb
-p3
-s."
 EndChar
 
 StartChar: uni0401
@@ -16040,15 +12232,6 @@ LayerCount: 2
 Fore
 Refer: 537 1045 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 425 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0415+uni0308
-p3
-s."
 EndChar
 
 StartChar: uni0402
@@ -16065,39 +12248,18 @@ Fore
 Refer: 94 84 N 1 0 0 1 0 0 2
 Refer: 235 104 N 1 0 0 1 480 0 2
 Refer: 495 567 N 1 0 0 1 999 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VT_h_uni0237
-p3
-s."
 EndChar
 
 StartChar: uni0403
 Encoding: 163 1027 518
 GlifName: uni0403
-Width: 580
+Width: 490
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-223 770 m 257
- 273 950 l 257
- 353 950 l 257
- 287 770 l 257
- 223 770 l 257
-50 0 m 257
- 50 700 l 257
- 460 700 l 257
- 460 620 l 257
- 140 620 l 257
- 140 0 l 257
- 50 0 l 257
-EndSplineSet
+Refer: 534 1043 N 1 0 0 1 0 0 2
+Refer: 126 769 N 1 0 0 1 417 220 2
 EndChar
 
 StartChar: uni0404
@@ -16137,19 +12299,6 @@ AnchorPoint: "top" 319 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 88 83 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VS
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0406
@@ -16162,19 +12311,6 @@ AnchorPoint: "top" 111 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VI
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0407
@@ -16187,19 +12323,6 @@ LayerCount: 2
 Fore
 Refer: 521 1030 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 281 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0406+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0408
@@ -16212,19 +12335,6 @@ AnchorPoint: "top" 157 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 55 74 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VJ
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0409
@@ -16302,12 +12412,6 @@ Width: 100
 VWidth: 0
 Flags: W
 LayerCount: 2
-Fore
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-s."
 EndChar
 
 StartChar: uni040C
@@ -16319,27 +12423,20 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 542 1050 N 1 0 0 1 0 0 2
-Refer: 126 769 N 1 0 0 1 420 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni041A+acutecomb
-p3
-s."
+Refer: 126 769 N 1 0 0 1 420 220 2
 EndChar
 
 StartChar: uni040D
 Encoding: 676 1037 528
 GlifName: uni040D_
-Width: 630
+Width: 672
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveUC" 345 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 540 1048 N 1 0 0 1 0 0 2
+Refer: 229 768 N 1 0 0 1 599 220 2
 EndChar
 
 StartChar: uni040E
@@ -16406,9 +12503,9 @@ LayerCount: 2
 Fore
 Refer: 1 65 N 1 0 0 1 20 0 2
 PickledDataWithLists: "(dp0
-Vpublic.markColor
+Vpublic.markColor\\u000d
 p1
-V0.6,0.997,1,1
+V0.6,0.997,1,1\\u000d
 p2
 s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0430.sc
@@ -16423,23 +12520,13 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
- 460 700 l 257
- 460 620 l 257
- 353 620 247 620 140 620 c 257
- 140 402 l 257
- 265 402 l 258
- 484 402 530 355 530 205 c 256
- 530 61 474 0 265 0 c 258
- 50 0 l 257
-140 80 m 257
- 265 80 l 258
- 414 80 440 131 440 205 c 256
- 440 273 410 322 265 322 c 258
- 140 322 l 257
- 140 80 l 257
+95 680 m 257
+ 460 680 l 257
+ 460 660 l 257
+ 95 660 l 257
+ 95 680 l 257
 EndSplineSet
+Refer: 561 1068 N 1 0 0 1 0 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0431.sc
 EndChar
 
@@ -16452,19 +12539,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 13 66 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VB
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0432.sc
 EndChar
 
@@ -16496,27 +12570,29 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-30 80 m 257
- 120 80 l 257
- 159 130 190 367 190 452 c 258
- 190 700 l 257
- 580 700 l 257
- 580 80 l 257
- 670 80 l 257
+54 20 m 257
+ 104 20 153 53 155 99 c 258
+ 178 680 l 257
+ 200 680 l 257
+ 178 107 l 258
+ 175 37 125 0 54 0 c 257
+ 54 20 l 257
+190 660 m 257
+ 190 680 l 257
+ 561 680 l 257
+ 561 660 l 257
+ 190 660 l 257
+30 -150 m 257
+ 30 20 l 257
+ 670 20 l 257
  670 -150 l 257
- 580 -150 l 257
- 580 0 l 257
- 120 0 l 257
- 120 -150 l 257
+ 648 -150 l 257
+ 648 0 l 257
+ 52 0 l 257
+ 52 -150 l 257
  30 -150 l 257
- 30 80 l 257
-210 80 m 257
- 490 80 l 257
- 490 620 l 257
- 280 620 l 257
- 280 452 l 258
- 280 357 249 130 210 80 c 257
 EndSplineSet
+Refer: 44 73 N 1 0 0 1 451 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0434.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0414.loclBGR
 EndChar
@@ -16560,19 +12636,6 @@ AnchorPoint: "top" 255 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VE
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0435.sc
 EndChar
 
@@ -16585,29 +12648,29 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-30 0 m 257
- 270 350 l 257
- 70 700 l 257
- 180 700 l 257
- 350 397 l 257
- 420 377 l 257
- 420 700 l 257
- 510 700 l 257
- 510 377 l 257
- 580 397 l 257
- 750 700 l 257
- 860 700 l 257
- 660 350 l 257
- 900 0 l 257
- 790 0 l 257
- 580 317 l 257
- 510 297 l 257
- 510 0 l 257
- 420 0 l 257
- 420 297 l 257
- 350 317 l 257
- 140 0 l 257
- 30 0 l 257
+189 0 m 257
+ 403 357 l 257
+ 229 680 l 257
+ 249 680 l 257
+ 419 368 l 257
+ 458 348 l 257
+ 458 680 l 257
+ 478 680 l 257
+ 478 348 l 257
+ 517 368 l 257
+ 687 680 l 257
+ 707 680 l 257
+ 532 357 l 257
+ 747 0 l 257
+ 727 0 l 257
+ 517 346 l 257
+ 478 326 l 257
+ 478 0 l 257
+ 458 0 l 257
+ 458 326 l 257
+ 419 346 l 257
+ 209 0 l 257
+ 189 0 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0436.sc
 EndChar
@@ -16621,26 +12684,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 185 m 257
- 140 185 l 257
- 140 137 198 80 285 80 c 256
- 361 80 440 114 440 205 c 256
- 440 315 359 337 265 337 c 258
- 210 337 l 257
- 210 364 210 390 210 417 c 257
- 265 417 l 258
- 353 417 390 431 390 522 c 256
- 390 586 328 620 260 620 c 256
- 204 620 140 591 140 520 c 257
- 50 520 l 257
- 50 540 53 558 59 575 c 256
- 87 658 176 700 260 700 c 256
- 403 700 480 642 480 522 c 256
- 480 464 445 412 378 384 c 257
- 461 370 530 322 530 205 c 256
- 530 64 422 0 285 0 c 256
- 165 0 78 62 56 143 c 257
- 52 156 50 171 50 185 c 257
+84 185 m 257
+ 106 185 l 257
+ 106 87 198 20 305 20 c 256
+ 422 20 510 82 510 192 c 256
+ 510 287 436 357 302 357 c 258
+ 210 357 l 257
+ 210 377 l 257
+ 302 377 l 258
+ 393 377 460 429 460 512 c 256
+ 460 614 395 670 280 670 c 256
+ 181 670 106 613 106 510 c 257
+ 84 510 l 257
+ 84 622 171 690 280 690 c 256
+ 415 690 480 630 480 512 c 256
+ 480 440 428 381 346 361 c 257
+ 346 370 l 257
+ 465 364 530 294 530 196 c 256
+ 530 68 437 0 305 0 c 256
+ 184 0 84 73 84 185 c 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0437.sc
 EndChar
@@ -16648,40 +12710,64 @@ EndChar
 StartChar: uni0418
 Encoding: 184 1048 540
 GlifName: uni0418
-Width: 630
+Width: 672
 VWidth: 0
 Flags: W
-AnchorPoint: "aboveUC" 315 740 basechar 0
+AnchorPoint: "aboveUC" 345 740 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 210 l 258
- 140 148 138 127 135 120 c 257
- 460 700 l 257
- 580 700 l 257
- 580 0 l 257
- 490 0 l 257
- 490 490 l 257
- 491 514 490 520 495 580 c 257
- 170 0 l 257
- 50 0 l 257
+80 0 m 257
+ 80 680 l 257
+ 102 680 l 257
+ 102 118 l 258
+ 102 67 100 42 98 27 c 257
+ 100 27 l 257
+ 105 39 123 65 144 94 c 258
+ 572 680 l 257
+ 592 680 l 257
+ 592 0 l 257
+ 570 0 l 257
+ 570 557 l 258
+ 570 584 573 623 577 653 c 257
+ 575 653 l 257
+ 566 636 554 616 528 581 c 258
+ 100 0 l 257
+ 80 0 l 257
 EndSplineSet
+PickledDataWithLists: "(dp0
+Vcom.fontlab.metricsLeft\\u000d
+p1
+V=80\\u000d
+p2
+sVcom.fontlab.metricsRight\\u000d
+p3
+V=80\\u000d
+p4
+s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0438.sc
 EndChar
 
 StartChar: uni0419
 Encoding: 185 1049 541
 GlifName: uni0419
-Width: 630
+Width: 672
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 148 728 N 1 0 0 1 110 240 2
+Refer: 148 728 N 1 0 0 1 140 240 2
 Refer: 540 1048 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vcom.fontlab.metricsLeft\\u000d
+p1
+V=uni0418\\u000d
+p2
+sVcom.fontlab.metricsRight\\u000d
+p3
+V=uni0418\\u000d
+p4
+s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0439.sc
 EndChar
 
@@ -16694,19 +12780,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 57 75 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VK
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043A.sc
 EndChar
 
@@ -16719,20 +12792,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 -10 m 257
- 50 35 l 257
- 50 35 l 257
- 50 80 l 257
- 166 80 168 283 168 372 c 258
- 168 700 l 257
- 558 700 l 257
- 558 0 l 257
- 468 0 l 257
- 468 620 l 257
- 258 620 l 257
- 258 372 l 258
- 258 70 153 -10 50 -10 c 257
+4 -10 m 257
+ 4 10 l 257
+ 54 10 103 53 105 99 c 258
+ 128 680 l 257
+ 150 680 l 257
+ 128 107 l 258
+ 125 37 75 -10 4 -10 c 257
+140 660 m 257
+ 140 680 l 257
+ 511 680 l 257
+ 511 660 l 257
+ 140 660 l 257
 EndSplineSet
+Refer: 44 73 N 1 0 0 1 400 0 2
+Guideline: "" "" 108 187 87.6769 0 0
+Guideline: "" "" 150 680 267.731 0 0
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043B.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni041B.loclBGR
 EndChar
@@ -16767,44 +12842,18 @@ AnchorPoint: "top" 372 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 65 77 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VM
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043C.sc
 EndChar
 
 StartChar: uni041D
 Encoding: 189 1053 546
 GlifName: uni041D_
-Width: 602
+Width: 662
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 Refer: 42 72 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VH
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043D.sc
 EndChar
 
@@ -16818,19 +12867,6 @@ AnchorPoint: "top" 358 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VO
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni043E.sc
 EndChar
 
@@ -16844,12 +12880,12 @@ LayerCount: 2
 Fore
 SplineSet
 84 0 m 257
- 84 671 l 257
- 506 671 l 257
+ 84 680 l 257
+ 506 680 l 257
  506 0 l 257
  484 0 l 257
- 484 649 l 257
- 106 649 l 257
+ 484 660 l 257
+ 106 660 l 257
  106 0 l 257
  84 0 l 257
 EndSplineSet
@@ -16865,19 +12901,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 82 80 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VP
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0440.sc
 EndChar
 
@@ -16892,19 +12915,6 @@ AnchorPoint: "bottom" 350 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VC
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0441.sc
 EndChar
 
@@ -16919,19 +12929,6 @@ AnchorPoint: "bottom" 240 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 94 84 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VT
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0442.sc
 EndChar
 
@@ -16944,15 +12941,15 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-117 699 m 257
- 137 700 l 257
+117 679 m 257
+ 137 680 l 257
  377 278 l 257
- 608 700 l 257
- 628 700 l 257
+ 608 680 l 257
+ 628 680 l 257
  251 0 l 257
  231 0 l 257
  364 252 l 257
- 117 699 l 257
+ 117 679 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0443.sc
 EndChar
@@ -16967,23 +12964,31 @@ LayerCount: 2
 Fore
 SplineSet
 162 350 m 256
- 161 201 260 120 406 119 c 257
+ 162 213 244 116 370 116 c 256
+ 382 116 394 117 406 119 c 257
  406 578 l 257
- 260 574 163 509 162 350 c 256
+ 392 580 379 581 366 581 c 256
+ 242 581 162 494 162 350 c 256
 140 349 m 256
- 140 509 243 600 406 600 c 257
- 406 699 l 257
- 426 699 l 257
+ 140 496 228 602 369 602 c 256
+ 381 602 393 601 406 600 c 257
+ 406 680 l 257
+ 426 680 l 257
  426 600 l 257
- 600 599 699 508 697 349 c 256
- 695 201 600 98 426 97 c 257
- 426 0 l 257
- 406 0 l 257
+ 439 601 452 602 465 602 c 256
+ 614 602 697 495 697 349 c 256
+ 697 212 613 95 462 95 c 256
+ 450 95 438 96 426 97 c 257
+ 426 20 l 257
+ 406 20 l 257
  406 97 l 257
- 244 97 140 202 140 349 c 256
+ 394 96 383 95 372 95 c 256
+ 229 95 140 213 140 349 c 256
 426 119 m 257
- 581 119 675 201 675 349 c 256
- 675 507 581 574 426 578 c 257
+ 439 117 452 116 464 116 c 256
+ 596 116 675 213 675 349 c 256
+ 675 493 597 581 467 581 c 256
+ 454 581 440 580 426 578 c 257
  426 119 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0444.sc
@@ -16998,19 +13003,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 111 88 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-VX
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0445.sc
 EndChar
 
@@ -17024,19 +13016,20 @@ LayerCount: 2
 Fore
 SplineSet
 118 0 m 257
- 118 700 l 257
- 140 700 l 257
- 140 20 l 257
- 508 20 l 257
- 508 700 l 257
- 530 700 l 257
- 530 20 l 257
- 552 20 l 257
- 552 -140 l 257
- 530 -140 l 257
- 530 0 l 257
+ 118 20 l 257
+ 520 20 l 257
+ 520 0 l 257
  118 0 l 257
+520 20 m 257
+ 564 20 l 257
+ 564 -140 l 257
+ 542 -140 l 257
+ 542 0 l 257
+ 520 0 l 257
+ 520 20 l 257
 EndSplineSet
+Refer: 44 73 N 1 0 0 1 18 0 2
+Refer: 44 73 N 1 0 0 1 408 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0446.sc
 EndChar
 
@@ -17050,19 +13043,16 @@ LayerCount: 2
 Fore
 SplineSet
 50 500 m 258
- 50 700 l 257
- 140 700 l 257
- 140 500 l 258
- 140 439 144 397 238 397 c 258
- 370 397 l 257
- 370 700 l 257
- 460 700 l 257
- 460 0 l 257
- 370 0 l 257
- 370 317 l 257
+ 50 680 l 257
+ 72 680 l 257
+ 72 500 l 258
+ 72 397 133 337 216 337 c 258
+ 415 337 l 257
+ 415 317 l 257
  208 317 l 258
- 154 317 50 352 50 500 c 258
+ 113 317 50 391 50 500 c 258
 EndSplineSet
+Refer: 44 73 N 1 0 0 1 304 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0447.sc
 EndChar
 
@@ -17075,20 +13065,15 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 70 l 257
- 378 70 l 257
- 378 700 l 257
- 468 700 l 257
- 468 70 l 257
- 706 70 l 257
- 706 700 l 257
- 796 700 l 257
- 796 0 l 257
- 50 0 l 257
+100 0 m 257
+ 100 20 l 257
+ 750 20 l 257
+ 750 0 l 257
+ 100 0 l 257
 EndSplineSet
+Refer: 44 73 N 1 0 0 1 -10 0 2
+Refer: 44 73 N 1 0 0 1 310 0 2
+Refer: 44 73 N 1 0 0 1 640 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0448.sc
 EndChar
 
@@ -17101,23 +13086,33 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 70 l 257
- 378 70 l 257
- 378 700 l 257
- 468 700 l 257
- 468 70 l 257
- 706 70 l 257
- 706 700 l 257
- 796 700 l 257
- 796 70 l 257
- 866 70 l 257
- 866 -140 l 257
- 796 -140 l 257
- 796 0 l 257
- 50 0 l 257
+100 0 m 257
+ 100 20 l 257
+ 750 20 l 257
+ 750 0 l 257
+ 100 0 l 257
+90 0 m 257
+ 90 680 l 257
+ 112 680 l 257
+ 112 0 l 257
+ 90 0 l 257
+410 0 m 257
+ 410 680 l 257
+ 432 680 l 257
+ 432 0 l 257
+ 410 0 l 257
+740 0 m 257
+ 740 680 l 257
+ 762 680 l 257
+ 762 0 l 257
+ 740 0 l 257
+750 20 m 257
+ 794 20 l 257
+ 794 -140 l 257
+ 772 -140 l 257
+ 772 0 l 257
+ 750 0 l 257
+ 750 20 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0449.sc
 EndChar
@@ -17131,22 +13126,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 620 m 257
- 50 700 l 257
- 290 700 l 257
- 290 402 l 257
- 415 402 l 258
- 590 402 673 332 673 206 c 256
- 673 104 652 0 415 0 c 258
- 200 0 l 257
- 200 620 l 257
- 50 620 l 257
-290 80 m 257
- 415 80 l 258
- 564 80 590 131 590 205 c 256
- 590 273 560 322 415 322 c 258
- 290 322 l 257
- 290 80 l 257
+50 660 m 257
+ 50 680 l 257
+ 256 680 l 257
+ 256 372 l 257
+ 415 372 l 258
+ 520 372 642 336 642 206 c 256
+ 642 89 574 0 415 0 c 258
+ 234 0 l 257
+ 234 660 l 257
+ 50 660 l 257
+256 20 m 257
+ 415 20 l 258
+ 578 20 622 131 620 205 c 256
+ 618 288 560 352 415 352 c 258
+ 256 352 l 257
+ 256 20 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044A.sc
 EndChar
@@ -17160,25 +13155,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-608 0 m 257
- 608 700 l 257
- 698 700 l 257
- 698 0 l 257
- 608 0 l 257
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 402 l 257
- 265 402 l 258
- 484 402 530 355 530 205 c 256
- 530 61 474 0 265 0 c 258
- 50 0 l 257
-140 80 m 257
- 265 80 l 258
- 414 80 440 131 440 205 c 256
- 440 273 410 322 265 322 c 258
- 140 322 l 257
- 140 80 l 257
+643 0 m 257
+ 643 680 l 257
+ 663 680 l 257
+ 663 0 l 257
+ 643 0 l 257
+84 0 m 257
+ 84 680 l 257
+ 106 680 l 257
+ 106 372 l 257
+ 265 372 l 258
+ 331 372 496 367 496 205 c 256
+ 496 48 394 0 265 0 c 258
+ 84 0 l 257
+106 20 m 257
+ 265 20 l 258
+ 447 20 478 131 474 205 c 256
+ 469 310 410 352 265 352 c 258
+ 106 352 l 257
+ 106 20 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044B.sc
 EndChar
@@ -17192,20 +13187,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 601 140 501 140 402 c 257
- 265 402 l 258
- 484 402 530 355 530 205 c 256
- 530 61 474 0 265 0 c 258
- 50 0 l 257
-140 80 m 257
- 265 80 l 258
- 414 80 440 131 440 205 c 256
- 440 273 410 322 265 322 c 258
- 140 322 l 257
- 140 80 l 257
+84 0 m 257
+ 84 20 l 257
+ 265 20 l 258
+ 430 20 474 128 474 205 c 256
+ 474 281 426 352 265 352 c 258
+ 91 352 l 257
+ 91 372 l 257
+ 265 372 l 258
+ 330 372 496 355 496 205 c 256
+ 496 70 400 0 265 0 c 258
+ 84 0 l 257
+84 0 m 257
+ 84 680 l 257
+ 106 680 l 257
+ 106 0 l 257
+ 84 0 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044C.sc
 EndChar
@@ -17219,21 +13216,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-45 185 m 257
- 135 185 l 257
- 155 138 195 80 285 80 c 256
- 408 80 455 228 455 317 c 257
- 275 317 l 257
- 275 344 275 370 275 397 c 257
- 455 397 l 257
- 455 506 416 620 285 620 c 256
- 215 620 165 592 135 520 c 257
- 45 520 l 257
- 50 540 57 558 65 575 c 257
- 107 658 189 700 285 700 c 256
- 486 700 545 532 545 356 c 256
- 545 195 482 0 285 0 c 256
- 143 0 75 84 45 185 c 257
+80 185 m 257
+ 117 60 190 0 308 0 c 256
+ 465 0 545 141 545 356 c 256
+ 545 573 464 690 295 690 c 256
+ 184 690 109 626 80 510 c 257
+ 100 510 l 257
+ 133 622 210 670 295 670 c 256
+ 445 670 525 560 525 354 c 256
+ 525 145 443 20 308 20 c 256
+ 215 20 141 65 100 185 c 257
+ 80 185 l 257
+534 367 m 257
+ 275 367 l 257
+ 275 347 l 257
+ 534 347 l 257
+ 534 367 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044D.sc
 EndChar
@@ -17247,23 +13245,26 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-330 350 m 256
- 330 200 377 70 518 70 c 256
- 668 70 710 237 710 350 c 256
- 710 503 667 630 518 630 c 256
- 379 630 330 502 330 350 c 256
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 397 l 257
- 242 397 l 257
- 255 582 350 710 518 710 c 256
- 708 710 800 556 800 350 c 256
- 800 141 711 -10 524 -10 c 256
- 341 -10 250 123 241 317 c 257
- 140 317 l 257
- 140 0 l 257
- 50 0 l 257
+488 690 m 256
+ 657 690 756 553 756 340 c 256
+ 756 127 657 -10 488 -10 c 256
+ 319 -10 240 137 240 340 c 256
+ 240 543 319 690 488 690 c 256
+488 10 m 256
+ 647 10 734 136 734 340 c 256
+ 734 544 647 670 488 670 c 256
+ 329 670 262 534 262 340 c 256
+ 262 146 329 10 488 10 c 256
+110 680 m 257
+ 110 0 l 257
+ 90 0 l 257
+ 90 680 l 257
+ 110 680 l 257
+250 352 m 257
+ 250 332 l 257
+ 99 332 l 257
+ 99 352 l 257
+ 250 352 l 257
 EndSplineSet
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044E.sc
 EndChar
@@ -17277,24 +13278,24 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-140 495 m 256
- 140 414 205 380 295 380 c 258
- 440 380 l 257
- 440 620 l 257
- 295 620 l 258
- 218 620 140 586 140 495 c 256
-50 0 m 257
- 260 300 l 257
- 117 314 50 412 50 495 c 256
- 50 632 155 700 295 700 c 258
- 530 700 l 257
- 530 0 l 257
- 440 0 l 257
- 440 300 l 257
- 360 300 l 257
- 160 0 l 257
- 50 0 l 257
+276 280 m 258
+ 145 280 50 363 50 475 c 256
+ 50 602 134 680 272 680 c 258
+ 486 680 l 257
+ 486 660 l 257
+ 275 660 l 258
+ 151 660 72 588 72 473 c 256
+ 72 374 159 300 275 300 c 258
+ 486 300 l 257
+ 486 280 l 257
+ 276 280 l 258
+58 0 m 257
+ 265 292 l 257
+ 289 292 l 257
+ 90 0 l 257
+ 58 0 l 257
 EndSplineSet
+Refer: 44 73 N 1 0 0 1 375 0 2
 Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni044F.sc
 EndChar
 
@@ -17308,19 +13309,6 @@ AnchorPoint: "top" 250 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 120 97 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Va
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0430.sc
 EndChar
 
@@ -17358,24 +13346,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-154 219 m 256
- 154 120 195 58 280 58 c 256
- 373 58 420 122 420 239 c 256
- 420 319 383 402 284 402 c 256
- 192 402 154 337 154 219 c 256
-70 244 m 258
- 70 389 l 258
- 70 614 195 649 305 670 c 256
- 345 678 384 688 416 700 c 257
- 416 620 l 257
- 396 614 356 606 322 599 c 256
- 243 584 139 557 139 421 c 256
- 139 410 138 394 134 371 c 257
- 166 432 218 470 299 470 c 256
- 429 470 504 374 504 240 c 257
- 504 238 l 257
- 504 108 423 -10 290 -10 c 256
- 176 -10 70 56 70 244 c 258
+90 219 m 256
+ 90 94 168 8 280 8 c 256
+ 401 8 484 102 484 239 c 256
+ 484 376 412 452 284 452 c 256
+ 169 452 90 358 90 219 c 256
+70 258 m 258
+ 70 399 l 258
+ 70 546 124 596 307 651 c 256
+ 350 664 396 679 443 700 c 257
+ 445 700 l 257
+ 445 682 l 257
+ 412 663 360 646 314 633 c 256
+ 135 582 89 517 89 421 c 256
+ 89 407 87 280 81 247 c 257
+ 73 247 l 257
+ 102 403 179 470 299 470 c 256
+ 429 470 504 374 504 240 c 256
+ 504 110 423 -10 290 -10 c 256
+ 148 -10 70 85 70 258 c 258
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0431.sc
 EndChar
@@ -17417,28 +13406,31 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-150 270 m 257
- 261 270 l 258
- 307 270 346 279 346 330 c 256
- 346 367 309 395 261 395 c 258
- 150 395 l 257
- 150 270 l 257
-70 0 m 257
- 70 460 l 257
- 261 460 l 258
- 378 460 426 405 426 334 c 256
- 426 307 413 277 378 249 c 257
- 426 231 446 178 446 139 c 257
- 446 138 l 257
- 446 68 390 0 281 0 c 258
- 70 0 l 257
-150 65 m 257
- 281 65 l 258
- 338 65 366 93 366 138 c 256
- 366 171 336 205 281 205 c 258
- 150 205 l 257
- 150 65 l 257
+80 0 m 257
+ 80 20 l 257
+ 281 20 l 258
+ 401 20 424 84 424 129 c 256
+ 424 162 406 228 281 228 c 258
+ 80 228 l 257
+ 80 248 l 257
+ 304 248 l 258
+ 394 248 446 197 446 130 c 258
+ 446 129 l 258
+ 446 59 390 0 281 0 c 258
+ 80 0 l 257
+332 237 m 257
+ 296 237 l 257
+ 296 248 l 257
+ 299 248 l 258
+ 345 248 404 280 404 330 c 256
+ 404 403 372 440 286 440 c 258
+ 80 440 l 257
+ 80 460 l 257
+ 286 460 l 258
+ 403 460 426 405 426 334 c 256
+ 426 303 397 256 332 237 c 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 -30 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0432.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0432.loclBGR
 EndChar
@@ -17523,9 +13515,10 @@ SplineSet
 70 0 m 257
  70 460 l 257
  387 460 l 257
- 387 392 l 257
- 150 392 l 257
- 150 0 l 257
+ 387 442 l 257
+ 78 442 l 257
+ 90 452 l 257
+ 90 0 l 257
  70 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0433.sc
@@ -17587,27 +13580,30 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-30 68 m 257
- 92 68 l 257
- 117 117 120 166 120 215 c 258
- 120 460 l 257
- 451 460 l 257
- 451 68 l 257
- 511 68 l 257
+30 18 m 257
+ 511 18 l 257
  511 -140 l 257
- 441 -140 l 257
- 431 0 l 257
- 110 0 l 257
- 100 -140 l 257
+ 501 -140 l 257
+ 491 0 l 257
+ 50 0 l 257
+ 40 -140 l 257
  30 -140 l 257
- 30 68 l 257
-173 68 m 257
- 371 68 l 257
- 371 395 l 257
- 200 395 l 257
- 200 268 l 258
- 200 208 198 129 173 68 c 257
+ 30 18 l 257
+50 0 m 257
+ 50 18 l 257
+ 95 18 121 43 127 209 c 258
+ 136 460 l 257
+ 156 460 l 257
+ 148 229 l 258
+ 141 26 102 0 52 0 c 258
+ 50 0 l 257
+146 442 m 257
+ 146 460 l 257
+ 426 460 l 257
+ 426 442 l 257
+ 146 442 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 317 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0434.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0434.loclBGR
 EndChar
@@ -17684,19 +13680,6 @@ AnchorPoint: "top" 260 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 180 101 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Ve
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0435.sc
 EndChar
 
@@ -17735,46 +13718,52 @@ AnchorPoint: "aboveLC" 360 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-30 -10 m 257
- 30 55 l 257
- 44 55 l 257
- 57 59 75 73 80 96 c 257
- 95 157 121 235 180 257 c 257
- 152 288 134 323 122 348 c 256
- 110 373 92 388 70 388 c 258
- 64 388 l 257
- 64 460 l 257
- 95 460 l 258
- 129 460 167 430 193 372 c 256
- 206 343 230 297 256 270 c 257
- 310 270 l 257
- 310 460 l 257
- 390 460 l 257
- 390 270 l 257
- 444 270 l 257
- 470 297 494 343 507 372 c 256
- 533 430 571 460 605 460 c 258
- 636 460 l 257
- 636 388 l 257
- 630 388 l 258
- 608 388 590 373 578 348 c 256
- 566 323 548 288 520 257 c 257
- 579 235 605 157 620 96 c 257
- 625 73 643 59 656 55 c 257
- 670 55 l 257
- 670 -10 l 257
- 651 -10 l 258
- 609 -10 563 11 553 58 c 256
- 542 108 513 205 479 205 c 258
- 390 205 l 257
- 390 0 l 257
- 310 0 l 257
- 310 205 l 257
- 221 205 l 258
- 187 205 158 108 147 58 c 256
- 137 11 91 -10 49 -10 c 258
- 30 -10 l 257
+350 229 m 257
+ 454 229 l 257
+ 529 229 556 197 579 119 c 258
+ 607 23 l 258
+ 613 4 636 -10 660 -10 c 258
+ 667 -10 l 257
+ 667 8 l 257
+ 663 8 l 258
+ 634 8 625 18 614 59 c 258
+ 590 150 l 258
+ 569 229 510 247 455 247 c 257
+ 350 247 l 257
+ 350 229 l 257
+463 240 m 257
+ 548 402 l 257
+ 561 429 582 442 605 442 c 258
+ 620 442 l 257
+ 620 460 l 257
+ 604 460 l 258
+ 568 460 547 439 532 411 c 258
+ 444 240 l 257
+ 463 240 l 257
+350 247 m 257
+ 245 247 l 257
+ 190 247 131 229 110 150 c 258
+ 86 59 l 258
+ 75 18 66 8 37 8 c 258
+ 33 8 l 257
+ 33 -10 l 257
+ 40 -10 l 258
+ 64 -10 87 4 93 23 c 258
+ 121 119 l 258
+ 144 197 171 229 246 229 c 257
+ 350 229 l 257
+ 350 247 l 257
+256 240 m 257
+ 168 411 l 258
+ 153 439 132 460 96 460 c 258
+ 80 460 l 257
+ 80 442 l 257
+ 95 442 l 258
+ 118 442 139 429 152 402 c 257
+ 237 240 l 257
+ 256 240 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 240 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0436.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0436.loclBGR
 EndChar
@@ -17861,24 +13850,25 @@ AnchorPoint: "aboveLC" 260 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 150 m 257
- 136 150 l 257
- 144 86 199 66 253 66 c 256
- 303 66 370 80 370 138 c 256
- 370 188 345 210 278 210 c 258
- 208 210 l 257
- 208 275 l 257
- 277 275 l 258
- 339 275 360 301 360 331 c 256
- 360 371 322 394 253 394 c 256
- 197 394 149 367 140 320 c 257
- 50 320 l 257
- 62 407 150 470 253 470 c 256
- 359 470 440 416 440 338 c 256
- 440 298 423 270 376 250 c 257
- 429 229 451 189 451 140 c 256
- 451 51 368 -10 253 -10 c 256
- 160 -10 65 36 50 150 c 257
+83 150 m 257
+ 103 150 l 257
+ 115 52 189 8 277 8 c 256
+ 378 8 431 64 431 138 c 256
+ 431 200 386 234 315 234 c 258
+ 208 234 l 257
+ 208 252 l 257
+ 314 252 l 258
+ 393 252 420 291 420 331 c 256
+ 420 404 358 452 260 452 c 256
+ 182 452 120 400 105 320 c 257
+ 85 320 l 257
+ 97 410 168 470 260 470 c 256
+ 366 470 440 416 440 338 c 256
+ 440 294 420 259 361 241 c 257
+ 361 248 l 257
+ 425 228 451 193 451 140 c 256
+ 451 51 392 -10 277 -10 c 256
+ 184 -10 98 36 83 150 c 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0437.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0437.loclBGR
@@ -17955,19 +13945,19 @@ AnchorPoint: "aboveLC" 264 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 180 l 257
- 145 115 l 257
- 378 460 l 257
- 458 460 l 257
- 458 0 l 257
- 378 0 l 257
- 378 280 l 257
- 383 345 l 257
- 150 0 l 257
- 70 0 l 257
+80 0 m 257
+ 80 460 l 257
+ 100 460 l 257
+ 100 88 l 257
+ 95 23 l 257
+ 428 460 l 257
+ 448 460 l 257
+ 448 0 l 257
+ 428 0 l 257
+ 428 366 l 257
+ 433 431 l 257
+ 100 0 l 257
+ 80 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0438.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0438.loclBGR
@@ -17983,19 +13973,6 @@ AnchorPoint: "top" 239 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0438.sc
@@ -18029,18 +14006,11 @@ GlifName: uni0439
 Width: 528
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 264 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-125 610 m 257
- 200 610 l 257
- 200 568 235 554 260 554 c 256
- 292 554 320 567 320 610 c 257
- 395 610 l 257
- 395 525 328 490 260 490 c 256
- 198 490 125 525 125 610 c 257
-EndSplineSet
 Refer: 586 1080 N 1 0 0 1 0 0 2
+Refer: 502 774 N 1 0 0 1 469 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0439.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0439.loclBGR
 EndChar
@@ -18112,28 +14082,33 @@ AnchorPoint: "aboveLC" 230 520 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 270 l 257
- 217 270 l 257
- 274 387 l 258
- 298 437 341 460 377 460 c 258
- 408 460 l 257
- 408 398 l 257
- 385 399 359 389 345 364 c 258
- 283 257 l 257
- 317 245 343 225 356 205 c 256
- 376 174 389 106 393 88 c 256
- 400 55 413 50 430 45 c 257
+100 0 m 257
+ 120 0 l 257
+ 120 460 l 257
+ 100 460 l 257
+ 100 0 l 257
+113 229 m 257
+ 217 229 l 257
+ 292 229 319 197 342 119 c 258
+ 370 23 l 258
+ 376 4 399 -10 423 -10 c 258
  430 -10 l 257
- 404 -10 l 258
- 370 -10 336 7 325 59 c 256
- 315 107 315 134 287 168 c 256
- 268 191 236 205 217 205 c 258
- 150 205 l 257
- 150 0 l 257
- 70 0 l 257
+ 430 8 l 257
+ 426 8 l 258
+ 397 8 388 18 377 59 c 258
+ 353 150 l 258
+ 332 229 273 247 218 247 c 257
+ 113 247 l 257
+ 113 229 l 257
+226 240 m 257
+ 311 402 l 257
+ 324 429 345 442 368 442 c 258
+ 383 442 l 257
+ 383 460 l 257
+ 367 460 l 258
+ 331 460 310 439 295 411 c 258
+ 207 240 l 257
+ 226 240 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043A.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni043A.loclBGR
@@ -18202,18 +14177,20 @@ LayerCount: 2
 Fore
 SplineSet
 20 -10 m 257
- 20 55 l 257
- 93 55 106 89 106 290 c 258
+ 20 8 l 257
+ 65 8 91 43 97 209 c 258
  106 460 l 257
- 437 460 l 257
- 437 0 l 257
- 357 0 l 257
- 357 392 l 257
- 186 392 l 257
- 186 310 l 258
- 186 107 164 -10 48 -10 c 258
+ 126 460 l 257
+ 118 229 l 258
+ 111 26 76 -10 26 -10 c 258
  20 -10 l 257
+116 442 m 257
+ 116 460 l 257
+ 396 460 l 257
+ 396 442 l 257
+ 116 442 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 286 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043B.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni043B.loclBGR
 EndChar
@@ -18272,23 +14249,25 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 213 460 l 257
- 251 335 303 209 320 80 c 257
- 327 125 334 144 343 180 c 257
- 441 460 l 257
- 557 460 l 257
- 557 0 l 257
- 477 0 l 257
- 477 300 l 258
- 477 340 477 360 482 390 c 257
- 343 0 l 257
- 273 0 l 257
- 145 390 l 257
- 147 360 150 338 150 300 c 258
- 150 0 l 257
- 70 0 l 257
+80 0 m 257
+ 80 460 l 257
+ 103 460 l 257
+ 265 90 l 258
+ 273 71 288 35 291 20 c 257
+ 289 20 l 257
+ 294 35 307 62 321 90 c 258
+ 500 460 l 257
+ 525 460 l 257
+ 525 0 l 257
+ 505 0 l 257
+ 505 332 l 258
+ 505 372 505 392 510 422 c 257
+ 299 0 l 257
+ 279 0 l 257
+ 95 422 l 257
+ 97 392 100 370 100 332 c 258
+ 100 0 l 257
+ 80 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043C.sc
 EndChar
@@ -18377,19 +14356,6 @@ AnchorPoint: "top" 240 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 289 111 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vo
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043E.sc
 EndChar
 
@@ -18418,7 +14384,7 @@ EndChar
 StartChar: uni043F
 Encoding: 223 1087 604
 GlifName: uni043F_
-Width: 496
+Width: 526
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -18426,20 +14392,20 @@ Fore
 SplineSet
 110 442 m 257
  110 460 l 257
- 385 460 l 257
- 385 442 l 257
+ 415 460 l 257
+ 415 442 l 257
  110 442 l 257
 EndSplineSet
 Refer: 179 305 N 1 0 0 1 0 0 2
-Refer: 179 305 N 1 0 0 1 274 0 2
+Refer: 179 305 N 1 0 0 1 304 0 2
 PickledDataWithLists: "(dp0
-Vcom.fontlab.metricsLeft
+Vcom.fontlab.metricsLeft\\u000d
 p1
-V=uni043D
+V=uni043D\\u000d
 p2
-sVcom.fontlab.metricsRight
+sVcom.fontlab.metricsRight\\u000d
 p3
-V=uni043D
+V=uni043D\\u000d
 p4
 s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni043F.sc
@@ -18456,19 +14422,6 @@ AnchorPoint: "top" 284 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 275 110 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vn
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni043F.sc
@@ -18501,19 +14454,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 313 112 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vp
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0440.sc
 EndChar
 
@@ -18553,19 +14493,6 @@ AnchorPoint: "top" 255 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 151 99 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vc
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0441.sc
 EndChar
 
@@ -18626,19 +14553,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 269 109 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vm
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0442.sc
@@ -18671,19 +14585,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 706 121 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vy
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0443.sc
 EndChar
 
@@ -18717,25 +14618,33 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
+313 -200 m 257
+ 333 -200 l 257
+ 333 700 l 257
+ 313 700 l 257
+ 313 -200 l 257
+348 -10 m 258
+ 473 -10 596 74 596 230 c 256
+ 596 386 473 470 348 470 c 258
+ 328 470 l 257
+ 328 452 l 257
+ 348 452 l 258
+ 474 452 576 365 576 230 c 256
+ 576 92 474 8 348 8 c 258
+ 328 8 l 257
+ 328 -10 l 257
+ 348 -10 l 258
 50 230 m 256
- 50 380 163 470 283 470 c 257
- 283 700 l 257
- 363 700 l 257
- 363 470 l 257
- 483 470 596 380 596 230 c 256
- 596 80 483 -10 363 -10 c 257
- 363 -200 l 257
- 283 -200 l 257
- 283 -10 l 257
- 163 -10 50 80 50 230 c 256
-130 230 m 256
- 130 121 193 60 283 60 c 257
- 283 400 l 257
- 193 400 130 335 130 230 c 256
-363 60 m 257
- 453 60 516 121 516 230 c 256
- 516 335 453 400 363 400 c 257
- 363 60 l 257
+ 50 74 173 -10 298 -10 c 258
+ 318 -10 l 257
+ 318 8 l 257
+ 298 8 l 258
+ 162 8 70 98 70 230 c 256
+ 70 365 172 452 298 452 c 258
+ 318 452 l 257
+ 318 470 l 257
+ 298 470 l 258
+ 173 470 50 386 50 230 c 256
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0444.sc
 EndChar
@@ -18788,19 +14697,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 704 120 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vx
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 AlternateSubs2: "'salt' Stylistic Alternatives lookup 36 subtable" uni0445.alt
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0445.sc
 EndChar
@@ -18865,20 +14761,21 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 68 l 257
- 347 68 l 257
- 347 460 l 257
- 427 458 l 257
- 427 68 l 257
- 497 68 l 257
+111 0 m 257
+ 415 0 l 257
+ 415 18 l 257
+ 111 18 l 257
+ 111 0 l 257
+415 0 m 257
+ 477 0 l 257
+ 487 -140 l 257
  497 -140 l 257
- 437 -140 l 257
- 427 0 l 257
- 70 0 l 257
+ 497 18 l 257
+ 415 18 l 257
+ 415 0 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 0 0 2
+Refer: 179 305 N 1 0 0 1 306 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0446.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0446.loclBGR
 EndChar
@@ -18946,20 +14843,17 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 316 m 258
- 70 460 l 257
- 150 460 l 257
- 150 349 l 258
- 150 270 151 220 225 220 c 256
- 263 220 331 235 347 243 c 257
- 347 460 l 257
- 427 460 l 257
- 427 0 l 257
- 347 0 l 257
- 347 165 l 257
- 313 152 263 140 223 140 c 256
- 92 140 70 231 70 316 c 258
+90 288 m 258
+ 90 217 139 170 234 170 c 256
+ 304 170 363 192 396 210 c 257
+ 388 228 l 257
+ 371 218 304 190 236 190 c 256
+ 149 190 110 230 110 299 c 258
+ 110 460 l 257
+ 90 460 l 257
+ 90 288 l 258
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 279 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0447.sc
 EndChar
 
@@ -18997,20 +14891,15 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 68 l 257
- 337 68 l 257
- 337 460 l 257
- 417 460 l 257
- 417 68 l 257
- 604 68 l 257
- 604 460 l 257
- 684 460 l 257
- 684 0 l 257
- 70 0 l 257
+110 0 m 257
+ 110 18 l 257
+ 644 18 l 257
+ 644 0 l 257
+ 110 0 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 0 0 2
+Refer: 179 305 N 1 0 0 1 266 0 2
+Refer: 179 305 N 1 0 0 1 532 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0448.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0448.loclBGR
 EndChar
@@ -19081,23 +14970,33 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 68 l 257
- 337 68 l 257
- 337 460 l 257
- 417 460 l 257
- 417 68 l 257
- 604 68 l 257
- 604 460 l 257
- 684 460 l 257
- 684 68 l 257
- 754 68 l 257
- 754 -140 l 257
- 694 -140 l 257
- 684 0 l 257
- 70 0 l 257
+110 0 m 257
+ 110 18 l 257
+ 644 18 l 257
+ 644 0 l 257
+ 110 0 l 257
+100 0 m 257
+ 100 460 l 257
+ 120 460 l 257
+ 120 0 l 257
+ 100 0 l 257
+366 0 m 257
+ 366 460 l 257
+ 386 460 l 257
+ 386 0 l 257
+ 366 0 l 257
+632 0 m 257
+ 632 460 l 257
+ 652 460 l 257
+ 652 0 l 257
+ 632 0 l 257
+644 18 m 257
+ 726 18 l 257
+ 726 -140 l 257
+ 716 -140 l 257
+ 706 0 l 257
+ 644 0 l 257
+ 644 18 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni0449.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni0449.loclBGR
@@ -19177,22 +15076,27 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-201 65 m 257
- 304 65 l 258
- 374 65 398 95 398 140 c 256
- 398 191 374 225 304 225 c 258
- 201 225 l 257
- 201 65 l 257
-30 380 m 257
+30 442 m 257
  30 460 l 257
  200 460 l 257
- 200 290 l 257
- 304 290 l 258
- 444 290 478 215 478 140 c 256
- 478 75 444 0 304 0 c 258
- 120 0 l 257
- 120 380 l 257
- 30 380 l 257
+ 200 442 l 257
+ 30 442 l 257
+180 460 m 257
+ 200 460 l 257
+ 200 0 l 257
+ 180 0 l 257
+ 180 460 l 257
+190 18 m 257
+ 324 18 l 258
+ 423 18 478 61 478 140 c 256
+ 478 229 428 272 324 272 c 258
+ 190 272 l 257
+ 190 290 l 257
+ 324 290 l 258
+ 464 290 498 215 498 140 c 256
+ 498 65 464 0 324 0 c 258
+ 190 0 l 257
+ 190 18 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044A.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044A.loclBGR
@@ -19262,14 +15166,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-495 0 m 257
- 495 460 l 257
- 575 460 l 257
- 575 0 l 257
- 495 0 l 257
-EndSplineSet
-Refer: 638 1100 N 1 0 0 1 5 0 2
+Refer: 179 305 N 1 0 0 1 430 0 2
+Refer: 638 1100 N 1 0 0 1 0 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044B.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044B.loclBGR
 EndChar
@@ -19346,20 +15244,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 290 l 257
- 254 290 l 258
- 394 290 428 215 428 140 c 256
- 428 65 394 0 254 0 c 258
- 70 0 l 257
-151 65 m 257
- 254 65 l 258
- 324 65 348 95 348 140 c 256
- 348 191 324 225 254 225 c 258
- 151 225 l 257
- 151 65 l 257
+100 0 m 257
+ 120 0 l 257
+ 120 460 l 257
+ 100 460 l 257
+ 100 0 l 257
+110 0 m 257
+ 244 0 l 258
+ 384 0 418 65 418 140 c 256
+ 418 215 384 290 244 290 c 258
+ 110 290 l 257
+ 110 272 l 257
+ 244 272 l 258
+ 348 272 398 229 398 140 c 256
+ 398 61 343 18 244 18 c 258
+ 110 18 l 257
+ 110 0 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044C.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044C.loclBGR
@@ -19426,20 +15326,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 130 m 257
- 120 130 l 257
- 139 72 178 55 237 55 c 256
- 318 55 357 111 361 210 c 257
- 238 210 l 257
- 238 275 l 257
- 361 275 l 257
- 361 335 313 405 237 405 c 256
- 179 405 142 375 120 320 c 257
- 50 320 l 257
- 81 412 151 470 237 470 c 256
- 372 470 441 362 441 250 c 256
- 441 114 373 -10 237 -10 c 256
- 148 -10 72 41 50 130 c 257
+76 130 m 257
+ 97 45 166 -10 259 -10 c 256
+ 380 -10 441 95 441 250 c 256
+ 441 379 367 470 248 470 c 256
+ 163 470 100 413 76 320 c 257
+ 94 320 l 257
+ 125 410 175 452 248 452 c 256
+ 352 452 421 368 421 243 c 256
+ 421 99 358 8 259 8 c 256
+ 181 8 118 54 94 130 c 257
+ 76 130 l 257
+431 252 m 257
+ 238 252 l 257
+ 238 234 l 257
+ 431 234 l 257
+ 431 252 l 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044D.sc
 EndChar
@@ -19480,24 +15382,23 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-293 230 m 256
- 293 149 328 55 413 55 c 256
- 504 55 543 155 543 230 c 256
- 543 337 492 405 413 405 c 256
- 344 405 293 337 293 230 c 256
-70 0 m 257
- 70 460 l 257
- 150 460 l 257
- 150 270 l 257
- 215 270 l 257
- 228 374 291 470 413 470 c 256
+413 -10 m 256
+ 276 -10 213 108 213 231 c 256
+ 213 353 279 470 413 470 c 256
  556 470 623 350 623 230 c 256
  623 116 550 -10 413 -10 c 256
- 283 -10 227 92 215 190 c 257
- 150 190 l 257
- 150 0 l 257
- 70 0 l 257
+233 230 m 256
+ 233 107 313 8 413 8 c 256
+ 518 8 603 107 603 230 c 256
+ 603 362 525 452 413 452 c 256
+ 311 452 233 356 233 230 c 256
+109 221 m 257
+ 109 239 l 257
+ 223 239 l 257
+ 223 221 l 257
+ 109 221 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 0 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044E.sc
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni044E.loclBGR
 EndChar
@@ -19571,25 +15472,24 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 0 m 257
- 182 196 l 257
- 117 206 61 242 60 324 c 257
- 60 326 l 257
- 60 434 152 460 226 460 c 258
- 407 460 l 257
- 407 0 l 257
- 327 0 l 257
- 327 184 l 257
- 254 184 l 257
- 140 0 l 257
- 50 0 l 257
-140 324 m 256
- 140 258 190 249 241 249 c 258
- 327 249 l 257
- 327 395 l 257
- 241 395 l 258
- 194 395 140 384 140 324 c 256
+243 208 m 258
+ 153 208 90 256 90 324 c 256
+ 90 412 138 460 226 460 c 258
+ 366 460 l 257
+ 366 442 l 257
+ 241 442 l 258
+ 153 442 110 403 110 324 c 256
+ 110 268 170 226 249 226 c 258
+ 366 226 l 257
+ 366 208 l 257
+ 243 208 l 258
+89 0 m 257
+ 203 220 l 257
+ 224 217 l 257
+ 113 0 l 257
+ 89 0 l 257
 EndSplineSet
+Refer: 179 305 N 1 0 0 1 256 0 2
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" uni044F.sc
 EndChar
 
@@ -19633,19 +15533,6 @@ LayerCount: 2
 Fore
 Refer: 578 1077 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 472 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0435+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0451
@@ -19658,43 +15545,19 @@ LayerCount: 2
 Fore
 Refer: 578 1077 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 430 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0435+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0453
 Encoding: 243 1107 650
 GlifName: uni0453
-Width: 397
+Width: 437
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 217 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-45 0 m 257
- 45 460 l 257
- 362 460 l 257
- 362 388 l 257
- 125 388 l 257
- 125 0 l 257
- 45 0 l 257
-190 530 m 257
- 240 710 l 257
- 320 710 l 257
- 254 530 l 257
- 190 530 l 257
-EndSplineSet
+Refer: 572 1075 N 1 0 0 1 0 0 2
+Refer: 126 769 N 1 0 0 1 391 0 2
 EndChar
 
 StartChar: uni0454
@@ -19736,19 +15599,6 @@ AnchorPoint: "bottom" 230 -60 basechar 0
 LayerCount: 2
 Fore
 Refer: 343 115 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vs
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0456
@@ -19761,31 +15611,19 @@ AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 241 105 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vi
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0457
 Encoding: 247 1111 654
 GlifName: uni0457
-Width: 280
+Width: 220
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
-Refer: 175 168 N 1 0 0 1 -29 40 2
 Refer: 179 305 N 1 0 0 1 0 0 2
+Refer: 504 776 N 1 0 0 1 280 0 2
 EndChar
 
 StartChar: uni0458
@@ -19798,19 +15636,6 @@ AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 252 106 N 1 0 0 1 0 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vj
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni0459
@@ -19890,19 +15715,6 @@ LayerCount: 2
 Fore
 Refer: 586 1080 N 1 0 0 1 0 0 2
 Refer: 229 768 N 1 0 0 1 527 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0438+gravecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 Substitution2: "'locl' Localized Forms in Cyrillic lookup 0 subtable" uni045D.loclBGR
 EndChar
 
@@ -19945,30 +15757,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-75 670 m 257
- 150 670 l 257
- 149 614 196 594 230 594 c 256
- 272 594 310 612 310 670 c 257
- 385 670 l 257
- 385 657 383 646 381 635 c 257
- 365 559 297 530 230 530 c 256
- 169 530 96 559 79 635 c 257
- 77 646 75 657 75 670 c 257
-30 459 m 257
- 110 459 l 257
- 239 97 l 257
- 354 459 l 257
- 430 459 l 257
- 258 -50 l 258
- 252 -68 225 -201 150 -201 c 256
- 108 -201 89 -199 58 -191 c 257
- 58 -121 l 257
- 78 -130 94 -136 116 -136 c 258
- 122 -136 l 258
- 163 -136 187 -55 198 -13 c 257
- 30 459 l 257
-EndSplineSet
+Refer: 614 1091 N 1 0 0 1 0 0 2
+Refer: 502 774 N 1 0 0 1 435 0 2
 EndChar
 
 StartChar: uni04C1
@@ -20022,7 +15812,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 148 728 N 1 0 0 1 155 0 2
-Refer: 580 1078 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni04D0
@@ -20035,20 +15824,7 @@ AnchorPoint: "aboveUC" 285 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 531 1040 N 1 0 0 1 0 0 2
-Refer: 502 774 N 1 0 0 1 490 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0410+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 502 774 N 1 0 0 1 490 220 2
 EndChar
 
 StartChar: uni04D1
@@ -20061,19 +15837,6 @@ LayerCount: 2
 Fore
 Refer: 565 1072 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 455 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0430+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni04D2
@@ -20086,20 +15849,7 @@ AnchorPoint: "aboveUC" 285 740 basechar 0
 LayerCount: 2
 Fore
 Refer: 531 1040 N 1 0 0 1 0 0 2
-Refer: 504 776 N 1 0 0 1 455 240 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0410+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 504 776 N 1 0 0 1 455 220 2
 EndChar
 
 StartChar: uni04D3
@@ -20112,19 +15862,6 @@ LayerCount: 2
 Fore
 Refer: 565 1072 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 420 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0430+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni04D6
@@ -20137,19 +15874,6 @@ LayerCount: 2
 Fore
 Refer: 537 1045 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 460 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0415+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni04D7
@@ -20162,19 +15886,6 @@ LayerCount: 2
 Fore
 Refer: 578 1077 N 1 0 0 1 0 0 2
 Refer: 502 774 N 1 0 0 1 465 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni0435+uni0306
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni04D9
@@ -20395,7 +16106,13 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 501 772 N 1 0 0 1 449 50 2
+SplineSet
+129 570 m 257
+ 129 640 l 257
+ 399 640 l 257
+ 399 570 l 257
+ 129 570 l 257
+EndSplineSet
 Refer: 586 1080 N 1 0 0 1 0 0 2
 EndChar
 
@@ -20457,19 +16174,6 @@ LayerCount: 2
 Fore
 Refer: 547 1054 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 528 220 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni041E+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni04E7
@@ -20482,19 +16186,6 @@ LayerCount: 2
 Fore
 Refer: 602 1086 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 410 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vuni043E+uni0308
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: uni04EC
@@ -21062,20 +16753,7 @@ AnchorPoint: "top" 239 520 basechar 0
 LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
-Refer: 505 778 N 1 0 0 1 238 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+uni030A
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
+Refer: 505 778 N 1 0 0 1 428 0 2
 EndChar
 
 StartChar: utilde
@@ -21088,19 +16766,6 @@ LayerCount: 2
 Fore
 Refer: 387 117 N 1 0 0 1 0 0 2
 Refer: 379 771 N 1 0 0 1 442 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vu+tildecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: v
@@ -21288,15 +16953,21 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-60 460 m 257
+58 -190 m 257
+ 58 -171 l 257
+ 79 -180 106 -184 125 -184 c 256
+ 163 -184 189 -160 211 -92 c 258
+ 225 -49 l 257
+ 225 -71 l 257
+ 60 460 l 257
  80 460 l 257
- 235 -27 l 257
+ 239 -38 l 257
+ 232 -39 l 257
  380 460 l 257
  400 460 l 257
- 210 -222 210 -222 58 -190 c 257
- 58 -168 l 257
- 130 -200 187 -191 221 -60 c 257
- 60 460 l 257
+ 253 -41 l 258
+ 215 -170 182 -201 130 -201 c 256
+ 109 -201 83 -197 58 -190 c 257
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals lookup 34 subtable" y.sc
 EndChar
@@ -21333,19 +17004,6 @@ LayerCount: 2
 Fore
 Refer: 706 121 N 1 0 0 1 0 0 2
 Refer: 126 769 N 1 0 0 1 402 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vy+acutecomb
-p3
-sVpublic.markColor
-p4
-V0.6,0.997,1,1
-p5
-s."
 EndChar
 
 StartChar: ycircumflex
@@ -21391,15 +17049,6 @@ LayerCount: 2
 Fore
 Refer: 706 121 N 1 0 0 1 0 0 2
 Refer: 504 776 N 1 0 0 1 400 0 2
-PickledDataWithLists: "(dp0
-Vcom.fontlab.autolayer
-p1
-I01
-sVcom.fontlab.recipe
-p2
-Vy+uni0308
-p3
-s."
 EndChar
 
 StartChar: yen

@@ -5,7 +5,7 @@
   <key>ascender</key>
   <integer>700</integer>
   <key>capHeight</key>
-  <integer>700</integer>
+  <integer>680</integer>
   <key>copyright</key>
   <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
   <key>descender</key>
@@ -53,7 +53,7 @@
   <key>openTypeHheaDescender</key>
   <integer>-250</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>27</integer>
+  <integer>-0</integer>
   <key>openTypeNameDescription</key>
   <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
   <key>openTypeNameDesigner</key>
@@ -74,7 +74,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.016</string>
+  <string>Version 1.020</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -167,8 +167,8 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <array>
     <integer>-10</integer>
     <integer>0</integer>
-    <integer>689</integer>
-    <integer>700</integer>
+    <integer>680</integer>
+    <integer>690</integer>
   </array>
   <key>postscriptFontName</key>
   <string>CommonSans-Regular</string>
@@ -209,7 +209,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>16</integer>
+  <integer>20</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

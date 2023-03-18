@@ -6,4 +6,12 @@
     <component base="breve" xOffset="110" yOffset="240"/>
     <component base="uni0418"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0418</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0418</string>
+  </dict>
+  </lib>
 </glyph>
