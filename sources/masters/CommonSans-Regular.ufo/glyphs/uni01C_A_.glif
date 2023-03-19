@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CA" format="2">
-  <advance width="886"/>
+  <advance width="956"/>
   <unicode hex="01CA"/>
+  <anchor x="851" y="740" name="top"/>
+  <anchor x="329" y="-60" name="bottom"/>
   <outline>
-    <component base="J" xOffset="600"/>
-    <component base="N" xOffset="-50"/>
+    <component base="N"/>
+    <component base="J" xOffset="658"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N_J</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

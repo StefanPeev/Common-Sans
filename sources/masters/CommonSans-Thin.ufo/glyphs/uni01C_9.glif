@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C9" format="2">
-  <advance width="450"/>
+  <advance width="420"/>
   <unicode hex="01C9"/>
+  <anchor x="310" y="520" name="aboveLC"/>
   <outline>
-    <component base="j" xOffset="220"/>
-    <component base="l" xOffset="-20"/>
+    <component base="l"/>
+    <component base="j" xOffset="200"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l_j</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -2,13 +2,19 @@
 <glyph name="sacute" format="2">
   <advance width="452"/>
   <unicode hex="015B"/>
+  <anchor x="230" y="-60" name="bottom"/>
   <outline>
     <component base="s"/>
-    <contour>
-      <point x="178" y="520" type="line"/>
-      <point x="228" y="680" type="line"/>
-      <point x="308" y="680" type="line"/>
-      <point x="242" y="520" type="line"/>
-    </contour>
+    <component base="acutecomb" xOffset="408"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

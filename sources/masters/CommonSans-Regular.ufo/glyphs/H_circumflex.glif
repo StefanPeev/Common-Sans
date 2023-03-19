@@ -4,7 +4,7 @@
   <unicode hex="0124"/>
   <outline>
     <component base="H"/>
-    <component base="uni0302" xOffset="520" yOffset="240"/>
+    <component base="uni0302" xOffset="520" yOffset="220"/>
   </outline>
   <lib>
   <dict>
@@ -12,6 +12,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>H+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

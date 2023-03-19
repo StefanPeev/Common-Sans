@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="300"/>
+  <advance width="296"/>
   <unicode hex="0069"/>
-  <anchor x="150" y="520" name="aboveLC"/>
+  <anchor x="148" y="520" name="aboveLC"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0307" xOffset="290"/>
+    <component base="uni0307" xOffset="288"/>
   </outline>
   <lib>
   <dict>
@@ -13,6 +13,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>dotlessi+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

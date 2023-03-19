@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-  <advance width="582"/>
+  <advance width="641"/>
   <unicode hex="0160"/>
   <outline>
-    <component base="caron" xOffset="120" yOffset="230"/>
-    <component base="S" xOffset="-29"/>
+    <component base="S"/>
+    <component base="caroncomb" xOffset="539" yOffset="220"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

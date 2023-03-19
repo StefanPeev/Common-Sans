@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="2">
-  <advance width="300"/>
+  <advance width="296"/>
   <unicode hex="00EC"/>
-  <anchor x="150" y="520" name="aboveLC"/>
+  <anchor x="148" y="520" name="aboveLC"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="gravecomb" xOffset="395"/>
+    <component base="gravecomb" xOffset="398"/>
   </outline>
   <lib>
   <dict>

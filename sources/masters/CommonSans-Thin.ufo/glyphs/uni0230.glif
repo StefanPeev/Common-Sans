@@ -3,7 +3,45 @@
   <advance width="660"/>
   <unicode hex="0230"/>
   <outline>
-    <component base="uni0304" xOffset="515" yOffset="380"/>
-    <component base="uni022E"/>
+    <contour>
+      <point x="195" y="900" type="line"/>
+      <point x="195" y="970" type="line"/>
+      <point x="465" y="970" type="line"/>
+      <point x="465" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="350" type="curve" smooth="yes"/>
+      <point x="50" y="560"/>
+      <point x="146" y="710"/>
+      <point x="328" y="710" type="curve" smooth="yes"/>
+      <point x="519" y="710"/>
+      <point x="610" y="555"/>
+      <point x="610" y="350" type="curve" smooth="yes"/>
+      <point x="610" y="141"/>
+      <point x="521" y="-10"/>
+      <point x="334" y="-10" type="curve" smooth="yes"/>
+      <point x="141" y="-10"/>
+      <point x="50" y="138"/>
+    </contour>
+    <contour>
+      <point x="140" y="350" type="curve" smooth="yes"/>
+      <point x="140" y="200"/>
+      <point x="187" y="70"/>
+      <point x="328" y="70" type="curve" smooth="yes"/>
+      <point x="477" y="70"/>
+      <point x="520" y="236"/>
+      <point x="520" y="350" type="curve" smooth="yes"/>
+      <point x="520" y="503"/>
+      <point x="477" y="630"/>
+      <point x="328" y="630" type="curve" smooth="yes"/>
+      <point x="189" y="630"/>
+      <point x="140" y="502"/>
+    </contour>
+    <contour>
+      <point x="290" y="760" type="line"/>
+      <point x="290" y="840" type="line"/>
+      <point x="370" y="840" type="line"/>
+      <point x="370" y="760" type="line"/>
+    </contour>
   </outline>
 </glyph>

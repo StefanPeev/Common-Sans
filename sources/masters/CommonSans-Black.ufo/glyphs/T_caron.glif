@@ -5,14 +5,16 @@
   <anchor x="240" y="-60" name="bottom"/>
   <outline>
     <component base="T"/>
-    <component base="caron" xOffset="70" yOffset="220"/>
+    <component base="caroncomb" xOffset="460" yOffset="220"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>T+caron</string>
+  <string>T+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

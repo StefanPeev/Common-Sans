@@ -3,8 +3,17 @@
   <advance width="518"/>
   <unicode hex="0450"/>
   <outline>
+    <component base="uni0435"/>
     <component base="gravecomb" xOffset="472"/>
-    <component base="e"/>
-    <component base="e"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0435+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

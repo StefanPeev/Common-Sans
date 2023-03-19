@@ -4,28 +4,35 @@
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="141" y="-164" type="line"/>
-      <point x="154" y="-167"/>
-      <point x="175" y="-170"/>
-      <point x="195" y="-170" type="curve" smooth="yes"/>
-      <point x="236" y="-170"/>
-      <point x="254" y="-148"/>
-      <point x="254" y="-118" type="curve" smooth="yes"/>
-      <point x="254" y="-82"/>
-      <point x="205" y="-70"/>
-      <point x="175" y="-67" type="curve"/>
+      <point x="137" y="-161" type="line"/>
+      <point x="139" y="-161" type="line"/>
+      <point x="161" y="-183"/>
+      <point x="188" y="-196"/>
+      <point x="212" y="-196" type="curve" smooth="yes"/>
+      <point x="253" y="-196"/>
+      <point x="274" y="-172"/>
+      <point x="274" y="-144" type="curve" smooth="yes"/>
+      <point x="274" y="-105"/>
+      <point x="241" y="-79"/>
+      <point x="180" y="-71" type="curve"/>
+      <point x="175" y="-66" type="line"/>
       <point x="206" y="0" type="line"/>
-      <point x="267" y="0" type="line"/>
-      <point x="244" y="-46" type="line"/>
-      <point x="267" y="-54"/>
-      <point x="311" y="-70"/>
-      <point x="311" y="-123" type="curve" smooth="yes"/>
-      <point x="311" y="-177"/>
-      <point x="266" y="-209"/>
-      <point x="211" y="-209" type="curve" smooth="yes"/>
-      <point x="178" y="-209"/>
-      <point x="155" y="-200"/>
-      <point x="141" y="-193" type="curve"/>
+      <point x="224" y="0" type="line"/>
+      <point x="195" y="-62" type="line"/>
+      <point x="186" y="-52" type="line"/>
+      <point x="254" y="-60"/>
+      <point x="294" y="-92"/>
+      <point x="294" y="-139" type="curve" smooth="yes"/>
+      <point x="294" y="-181"/>
+      <point x="262" y="-214"/>
+      <point x="215" y="-214" type="curve" smooth="yes"/>
+      <point x="185" y="-214"/>
+      <point x="158" y="-203"/>
+      <point x="130" y="-178" type="curve"/>
+      <point x="130" y="-176" type="line"/>
     </contour>
   </outline>
+  <guideline angle="65.1707" x="175" y="-67"/>
+  <guideline angle="244.654" x="213" y="-0"/>
+  <guideline angle="64.9831" x="124" y="-189"/>
 </glyph>

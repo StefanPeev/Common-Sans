@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0403" format="2">
-  <advance width="580"/>
+  <advance width="490"/>
   <unicode hex="0403"/>
   <outline>
-    <contour>
-      <point x="223" y="770" type="line"/>
-      <point x="273" y="950" type="line"/>
-      <point x="353" y="950" type="line"/>
-      <point x="287" y="770" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="700" type="line"/>
-      <point x="460" y="700" type="line"/>
-      <point x="460" y="620" type="line"/>
-      <point x="140" y="620" type="line"/>
-      <point x="140" y="0" type="line"/>
-    </contour>
+    <component base="uni0413"/>
+    <component base="acutecomb" xOffset="402" yOffset="220"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0413+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

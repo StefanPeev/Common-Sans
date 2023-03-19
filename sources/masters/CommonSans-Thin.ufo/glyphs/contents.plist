@@ -328,6 +328,8 @@
   <string>cdotaccent.glif</string>
   <key>cedilla</key>
   <string>cedilla.glif</string>
+  <key>cedillacomb</key>
+  <string>cedillacomb.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
   <key>circumflex</key>
@@ -598,6 +600,8 @@
   <string>oe.glif</string>
   <key>ogonek</key>
   <string>ogonek.glif</string>
+  <key>ogonekcomb</key>
+  <string>ogonekcomb.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
   <key>ohungarumlaut</key>
