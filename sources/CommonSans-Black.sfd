@@ -4,7 +4,7 @@ FullName: Common Sans Black
 FamilyName: Common Sans
 Weight: Black
 Copyright: Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.
-Version: 1.23
+Version: 1.24
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 50
@@ -21,8 +21,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1679216833
-ModificationTime: 1679216833
+CreationTime: 1679250878
+ModificationTime: 1679250878
 PfmFamily: 16
 TTFWeight: 900
 TTFWidth: 5
@@ -484,14 +484,14 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.023" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Black"
+LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.024" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Black"
 Encoding: iso8859-5
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 13
+WinInfo: 38 38 13
 BeginPrivate: 7
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -2389,39 +2389,14 @@ EndChar
 StartChar: Scedilla
 Encoding: 329 350 91
 GlifName: S_cedilla
-Width: 582
+Width: 581
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 289 740 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-51 194 m 257
- 65 194 80 193 95 193 c 258
- 139 193 l 257
- 139 86 246 79 303 79 c 256
- 333 79 440 99 440 205 c 256
- 440 368 69 290 69 527 c 256
- 69 620 140 709 299 709 c 256
- 408 709 489 643 518 573 c 256
- 525 556 530 538 530 521 c 257
- 440 521 l 257
- 421 583 370 619 300 619 c 256
- 220 619 161 591 161 527 c 256
- 161 410 532 448 532 205 c 256
- 532 19 401 -11 304 -11 c 256
- 174 -11 51 76 51 194 c 257
-206 -164 m 257
- 219 -167 240 -170 260 -170 c 256
- 301 -170 319 -148 319 -118 c 256
- 319 -82 270 -70 240 -67 c 257
- 271 0 l 257
- 332 0 l 257
- 309 -46 l 257
- 332 -54 376 -70 376 -123 c 256
- 376 -177 331 -209 276 -209 c 256
- 243 -209 220 -200 206 -193 c 257
- 206 -164 l 257
-EndSplineSet
+Refer: 88 83 N 1 0 0 1 0 0 2
+Refer: 162 807 N 1 0 0 1 429 0 2
 EndChar
 
 StartChar: Scircumflex
@@ -3254,37 +3229,37 @@ EndChar
 StartChar: asterisk
 Encoding: 42 42 137
 GlifName: asterisk
-Width: 550
+Width: 528
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 200 m 257
- 50 280 l 257
- 178 280 l 257
- 88 371 l 257
- 144 427 l 257
- 235 337 l 257
- 235 465 l 257
- 315 465 l 257
- 315 337 l 257
- 406 427 l 257
- 462 371 l 257
- 372 280 l 257
- 500 280 l 257
- 500 200 l 257
- 372 200 l 257
- 462 109 l 257
- 406 53 l 257
- 315 143 l 257
- 315 15 l 257
- 235 15 l 257
- 235 143 l 257
- 144 53 l 257
- 88 109 l 257
- 178 200 l 257
- 50 200 l 257
+270 242 m 257
+ 270 262 l 257
+ 488 342 l 257
+ 488 162 l 257
+ 270 242 l 257
+260.844 248.829 m 257
+ 279.865 255.009 l 257
+ 423.315 72.4003 l 257
+ 252.125 16.7772 l 257
+ 260.844 248.829 l 257
+264.056 260.524 m 257
+ 275.812 244.343 l 257
+ 146.469 51.4846 l 257
+ 40.6676 197.108 l 257
+ 264.056 260.524 l 257
+279.532 248.735 m 257
+ 260.511 254.916 l 257
+ 251.792 486.967 l 257
+ 422.982 431.344 l 257
+ 279.532 248.735 l 257
+275.568 259.912 m 257
+ 263.812 243.732 l 257
+ 40.4239 307.148 l 257
+ 146.225 452.771 l 257
+ 275.568 259.912 l 257
 EndSplineSet
 EndChar
 
@@ -3811,7 +3786,7 @@ SplineSet
 EndSplineSet
 Guideline: "" "" 122 -200 65.556 0 0
 Guideline: "" "" 170 -77 64.9424 0 0
-Guideline: "" "" 272 -0 245.41 0 0
+Guideline: "" "" 272 0 245.41 0 0
 EndChar
 
 StartChar: cedillacomb
@@ -6070,7 +6045,7 @@ Flags: W
 AnchorPoint: "aboveLC" 110 520 basechar 0
 LayerCount: 2
 Fore
-Refer: 253 106 N 1 0 0 1 0 0 2
+Refer: 496 567 N 1 0 0 1 0 0 2
 Refer: 501 770 N 1 0 0 1 330 0 2
 EndChar
 
@@ -8366,36 +8341,12 @@ GlifName: scedilla
 Width: 452
 VWidth: 0
 Flags: W
+AnchorPoint: "top" 210 520 basechar 0
+AnchorPoint: "bottom" 230 -60 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-35 136 m 257
- 74 136 l 257
- 114 136 l 257
- 114 62 192 55 237 55 c 256
- 261 55 335 67 335 130 c 256
- 335 236 55 185 55 340 c 256
- 55 407 105 470 215 470 c 256
- 301 470 365 423 388 373 c 256
- 394 361 397 348 397 336 c 257
- 316 336 l 257
- 304 378 265 405 215 405 c 256
- 170 405 135 385 135 340 c 256
- 135 263 417 288 417 130 c 256
- 417 10 314 -10 237 -10 c 256
- 133 -10 35 52 35 136 c 257
-141 -164 m 257
- 154 -167 175 -170 195 -170 c 256
- 236 -170 254 -148 254 -118 c 256
- 254 -82 205 -70 175 -67 c 257
- 206 0 l 257
- 267 0 l 257
- 244 -46 l 257
- 267 -54 311 -70 311 -123 c 256
- 311 -177 266 -209 211 -209 c 256
- 178 -209 155 -200 141 -193 c 257
- 141 -164 l 257
-EndSplineSet
+Refer: 344 115 N 1 0 0 1 0 0 2
+Refer: 162 807 N 1 0 0 1 364 0 2
 EndChar
 
 StartChar: scircumflex

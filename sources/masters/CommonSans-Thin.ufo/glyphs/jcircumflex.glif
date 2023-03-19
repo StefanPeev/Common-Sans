@@ -4,7 +4,7 @@
   <unicode hex="0135"/>
   <anchor x="110" y="520" name="aboveLC"/>
   <outline>
-    <component base="j"/>
+    <component base="uni0237"/>
     <component base="uni0302" xOffset="330"/>
   </outline>
   <lib>
@@ -12,7 +12,7 @@
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>j+uni0302</string>
+  <string>uni0237+uni0302</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>
