@@ -4,7 +4,7 @@ FullName: Common Sans Regular
 FamilyName: Common Sans
 Weight: Normal
 Copyright: Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.
-Version: 1.24
+Version: 1.25
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 50
@@ -21,8 +21,8 @@ FSType: 260
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1679250859
-ModificationTime: 1679250859
+CreationTime: 1679262575
+ModificationTime: 1679262575
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
@@ -484,7 +484,7 @@ ChainSub2: coverage "frac_bar contextual 0" 0 0 0 1
 EndFPST
 Group: "locl1" "uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D"
 Group: "locl2" "uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR"
-LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.024" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Regular"
+LangName: 1033 "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "" "" "" "" "Version 1.025" "" "CommonSans is a trademark of Stefan Peev, Context Ltd." "Context Ltd" "Stefan Peev" "Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved." "https://localfonts.eu" "https://localfonts.eu" "SIL Open Font License 1.1+AAoA-The Open Font License (OFL) is maintained by SIL International. It attempts to be a compromise between the values of the free software and typeface design communities. It is used for almost all open source font projects, including those by Adobe, Google and Mozilla." "https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt" "" "Common Sans" "Regular"
 Encoding: iso8859-5
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -13339,19 +13339,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-90 640 m 257
- 165 640 l 257
- 164 584 211 564 245 564 c 256
- 287 564 325 582 325 640 c 257
- 400 640 l 257
- 400 627 398 616 396 605 c 257
- 380 529 312 500 245 500 c 256
- 184 500 111 529 94 605 c 257
- 92 616 90 627 90 640 c 257
-EndSplineSet
-Refer: 388 117 N 1 0 0 1 0 0 2
-Refer: 388 117 N 1 0 0 1 0 0 2
+Refer: 588 -1 N 1 0 0 1 0 0 2
+Refer: 503 774 N 1 0 0 1 444 0 2
 EndChar
 
 StartChar: uni0439.sc
@@ -15066,38 +15055,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-310 910 m 257
- 385 910 l 257
- 384 851 432 834 465 834 c 256
- 510 834 545 854 545 910 c 257
- 620 910 l 257
- 620 808 541 770 465 770 c 256
- 395 770 310 808 310 910 c 257
-30 -1 m 257
- 270 349 l 257
- 70 699 l 257
- 180 699 l 257
- 350 396 l 257
- 420 376 l 257
- 420 699 l 257
- 510 699 l 257
- 510 376 l 257
- 580 396 l 257
- 750 699 l 257
- 860 699 l 257
- 660 349 l 257
- 900 -1 l 257
- 790 -1 l 257
- 580 316 l 257
- 510 296 l 257
- 510 -1 l 257
- 420 -1 l 257
- 420 296 l 257
- 350 316 l 257
- 140 -1 l 257
- 30 -1 l 257
-EndSplineSet
+Refer: 539 1046 N 1 0 0 1 0 0 2
+Refer: 503 774 N 1 0 0 1 670 220 2
 EndChar
 
 StartChar: uni04C2
@@ -15106,9 +15065,11 @@ GlifName: uni04C_2
 Width: 700
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 360 520 basechar 0
 LayerCount: 2
 Fore
-Refer: 148 728 N 1 0 0 1 155 0 2
+Refer: 581 1078 N 1 0 0 1 0 0 2
+Refer: 503 774 N 1 0 0 1 555 0 2
 EndChar
 
 StartChar: uni04D0
@@ -15231,55 +15192,21 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-Refer: 176 168 N 1 0 0 1 296 240 2
 Refer: 539 1046 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 675 220 2
 EndChar
 
 StartChar: uni04DD
 Encoding: 745 1245 673
 GlifName: uni04D_D_
-Width: 664
+Width: 700
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 360 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-213 520 m 257
- 213 600 l 257
- 293 600 l 257
- 293 520 l 257
- 213 520 l 257
-370 520 m 257
- 370 600 l 257
- 450 600 l 257
- 450 520 l 257
- 370 520 l 257
-14 0 m 257
- 22 14 29 28 36 43 c 256
- 71 116 101 195 187 236 c 257
- 15 460 l 257
- 114 460 l 257
- 259 270 l 257
- 291 270 l 257
- 291 460 l 257
- 371 460 l 257
- 371 270 l 257
- 402 270 l 257
- 547 460 l 257
- 647 460 l 257
- 475 236 l 257
- 562 193 593 112 627 41 c 256
- 634 27 640 13 648 0 c 257
- 548 0 l 257
- 511 69 502 146 422 190 c 257
- 371 190 l 257
- 371 0 l 257
- 291 0 l 257
- 291 190 l 257
- 239 190 l 257
- 168 149 149 75 114 0 c 257
- 14 0 l 257
-EndSplineSet
+Refer: 581 1078 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 560 0 2
 EndChar
 
 StartChar: uni04DE
@@ -15290,78 +15217,21 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-141 770 m 257
- 141 850 l 257
- 221 850 l 257
- 221 770 l 257
- 141 770 l 257
-298 770 m 257
- 298 850 l 257
- 378 850 l 257
- 378 770 l 257
- 298 770 l 257
-49 185 m 257
- 139 185 l 257
- 139 137 197 80 284 80 c 256
- 360 80 439 114 439 205 c 256
- 439 315 358 337 264 337 c 258
- 209 337 l 257
- 209 364 209 390 209 417 c 257
- 264 417 l 258
- 352 417 389 431 389 522 c 256
- 389 586 327 620 259 620 c 256
- 203 620 139 591 139 520 c 257
- 49 520 l 257
- 49 540 52 558 58 575 c 256
- 86 658 175 700 259 700 c 256
- 402 700 479 642 479 522 c 256
- 479 464 444 412 377 384 c 257
- 460 370 529 322 529 205 c 256
- 529 64 421 0 284 0 c 256
- 164 0 77 62 55 143 c 257
- 51 156 49 171 49 185 c 257
-EndSplineSet
+Refer: 540 1047 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 500 220 2
 EndChar
 
 StartChar: uni04DF
 Encoding: 747 1247 675
 GlifName: uni04D_F_
-Width: 451
+Width: 501
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 260 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-99 530 m 257
- 99 610 l 257
- 179 610 l 257
- 179 530 l 257
- 99 530 l 257
-256 530 m 257
- 256 610 l 257
- 336 610 l 257
- 336 530 l 257
- 256 530 l 257
-44 130 m 257
- 114 130 l 257
- 114 73 175 55 228 55 c 256
- 273 55 334 70 334 133 c 256
- 334 182 302 213 212 213 c 257
- 212 270 l 257
- 282 278 304 298 304 344 c 256
- 304 397 252 405 215 405 c 256
- 175 405 114 397 114 320 c 257
- 44 320 l 257
- 44 333 46 346 49 358 c 257
- 70 429 148 470 217 470 c 256
- 312 470 384 422 384 352 c 256
- 384 312 366 275 327 250 c 257
- 399 239 415 175 415 135 c 256
- 415 49 336 -10 227 -10 c 256
- 128 -10 64 34 48 97 c 257
- 45 107 44 119 44 130 c 257
-EndSplineSet
+Refer: 584 1079 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 461 0 2
 EndChar
 
 StartChar: uni04E2
@@ -15370,29 +15240,11 @@ GlifName: uni04E_2
 Width: 630
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveUC" 315 740 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-180 770 m 257
- 180 835 l 257
- 450 835 l 257
- 450 770 l 257
- 180 770 l 257
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 210 l 258
- 140 148 138 127 135 120 c 257
- 460 700 l 257
- 490 700 l 257
- 580 700 l 257
- 580 0 l 257
- 490 0 l 257
- 490 490 l 257
- 491 514 490 520 495 580 c 257
- 170 0 l 257
- 50 0 l 257
-EndSplineSet
+Refer: 541 1048 N 1 0 0 1 0 0 2
+Refer: 502 772 N 1 0 0 1 500 220 2
 EndChar
 
 StartChar: uni04E3
@@ -15401,16 +15253,11 @@ GlifName: uni04E_3
 Width: 528
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 264 520 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-129 570 m 257
- 129 640 l 257
- 399 640 l 257
- 399 570 l 257
- 129 570 l 257
-EndSplineSet
 Refer: 587 1080 N 1 0 0 1 0 0 2
+Refer: 502 772 N 1 0 0 1 449 0 2
 EndChar
 
 StartChar: uni04E4
@@ -15419,34 +15266,11 @@ GlifName: uni04E_4
 Width: 630
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveUC" 315 740 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-196 770 m 257
- 196 850 l 257
- 276 850 l 257
- 276 770 l 257
- 196 770 l 257
-353 770 m 257
- 353 850 l 257
- 433 850 l 257
- 433 770 l 257
- 353 770 l 257
-49 0 m 257
- 49 700 l 257
- 139 700 l 257
- 139 210 l 258
- 139 148 137 127 134 120 c 257
- 459 700 l 257
- 489 700 l 257
- 579 700 l 257
- 579 0 l 257
- 489 0 l 257
- 489 490 l 257
- 490 514 489 520 494 580 c 257
- 169 0 l 257
- 49 0 l 257
-EndSplineSet
+Refer: 541 1048 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 525 220 2
 EndChar
 
 StartChar: uni04E5
@@ -15455,10 +15279,11 @@ GlifName: uni04E_5
 Width: 528
 VWidth: 0
 Flags: W
+AnchorPoint: "aboveLC" 264 520 basechar 0
 LayerCount: 2
 Fore
-Refer: 176 168 N 1 0 0 1 95 40 2
 Refer: 587 1080 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 474 0 2
 EndChar
 
 StartChar: uni04E6
@@ -15493,70 +15318,20 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-166 770 m 257
- 166 850 l 257
- 246 850 l 257
- 246 770 l 257
- 166 770 l 257
-323 770 m 257
- 323 850 l 257
- 403 850 l 257
- 403 770 l 257
- 323 770 l 257
-44 185 m 257
- 134 185 l 257
- 154 138 194 80 284 80 c 256
- 407 80 454 228 454 317 c 257
- 274 317 l 257
- 274 344 274 370 274 397 c 257
- 454 397 l 257
- 454 506 415 620 284 620 c 256
- 214 620 164 592 134 520 c 257
- 44 520 l 257
- 49 540 56 558 64 575 c 257
- 106 658 188 700 284 700 c 256
- 485 700 544 532 544 356 c 256
- 544 195 481 0 284 0 c 256
- 142 0 74 84 44 185 c 257
-EndSplineSet
+Refer: 563 1069 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 505 220 2
 EndChar
 
 StartChar: uni04ED
 Encoding: 755 1261 683
 GlifName: uni04E_D_
-Width: 451
+Width: 471
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-113 530 m 257
- 113 610 l 257
- 193 610 l 257
- 193 530 l 257
- 113 530 l 257
-270 530 m 257
- 270 610 l 257
- 350 610 l 257
- 350 530 l 257
- 270 530 l 257
-44 130 m 257
- 114 130 l 257
- 133 72 172 55 231 55 c 256
- 299 55 332 112 335 213 c 257
- 212 213 l 257
- 212 270 l 257
- 335 270 l 257
- 335 332 295 405 231 405 c 256
- 189 405 142 397 114 320 c 257
- 44 320 l 257
- 75 412 145 470 231 470 c 256
- 353 470 415 362 415 250 c 256
- 415 114 354 -10 231 -10 c 256
- 141 -10 85 32 57 92 c 257
- 51 104 47 117 44 130 c 257
-EndSplineSet
+Refer: 642 1101 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 446 0 2
 EndChar
 
 StartChar: uni04EE
@@ -15567,22 +15342,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-174 770 m 257
- 174 850 l 257
- 444 850 l 257
- 444 770 l 257
- 174 770 l 257
-30 700 m 257
- 137 700 l 257
- 300 278 l 257
- 521 700 l 257
- 628 700 l 257
- 251 0 l 257
- 140 0 l 257
- 245 200 l 257
- 30 700 l 257
-EndSplineSet
+Refer: 553 1059 N 1 0 0 1 0 0 2
+Refer: 502 772 N 1 0 0 1 514 220 2
 EndChar
 
 StartChar: uni04EF
@@ -15593,26 +15354,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-75 530 m 257
- 75 610 l 257
- 345 610 l 257
- 345 530 l 257
- 75 530 l 257
-30 460 m 257
- 110 460 l 257
- 239 98 l 257
- 354 460 l 257
- 430 460 l 257
- 258 -49 l 258
- 252 -67 225 -200 150 -200 c 256
- 108 -200 89 -198 58 -190 c 257
- 58 -120 l 257
- 78 -129 94 -135 116 -135 c 258
- 122 -135 l 258
- 163 -135 187 -54 198 -12 c 257
- 30 460 l 257
-EndSplineSet
+Refer: 615 1091 N 1 0 0 1 0 0 2
+Refer: 502 772 N 1 0 0 1 415 0 2
 EndChar
 
 StartChar: uni04F0
@@ -15623,27 +15366,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-210 770 m 257
- 210 850 l 257
- 290 850 l 257
- 290 770 l 257
- 210 770 l 257
-367 770 m 257
- 367 850 l 257
- 447 850 l 257
- 447 770 l 257
- 367 770 l 257
-29 700 m 257
- 136 700 l 257
- 299 278 l 257
- 520 700 l 257
- 627 700 l 257
- 250 0 l 257
- 139 0 l 257
- 244 200 l 257
- 29 700 l 257
-EndSplineSet
+Refer: 553 1059 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 539 220 2
 EndChar
 
 StartChar: uni04F1
@@ -15654,31 +15378,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-111 530 m 257
- 111 610 l 257
- 191 610 l 257
- 191 530 l 257
- 111 530 l 257
-268 530 m 257
- 268 610 l 257
- 348 610 l 257
- 348 530 l 257
- 268 530 l 257
-29 460 m 257
- 109 460 l 257
- 238 98 l 257
- 353 460 l 257
- 429 460 l 257
- 257 -49 l 258
- 251 -67 224 -200 149 -200 c 256
- 107 -200 88 -198 57 -190 c 257
- 57 -120 l 257
- 77 -129 93 -135 115 -135 c 258
- 121 -135 l 258
- 162 -135 186 -54 197 -12 c 257
- 29 460 l 257
-EndSplineSet
+Refer: 615 1091 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 440 0 2
 EndChar
 
 StartChar: uni04F2
@@ -15689,27 +15390,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-357 770 m 257
- 407 950 l 257
- 487 950 l 257
- 421 770 l 257
- 357 770 l 257
-237 770 m 257
- 287 950 l 257
- 367 950 l 257
- 301 770 l 257
- 237 770 l 257
-30 700 m 257
- 137 700 l 257
- 300 278 l 257
- 521 700 l 257
- 628 700 l 257
- 251 0 l 257
- 140 0 l 257
- 245 200 l 257
- 30 700 l 257
-EndSplineSet
+Refer: 553 1059 N 1 0 0 1 0 0 2
+Refer: 507 779 N 1 0 0 1 327 220 2
 EndChar
 
 StartChar: uni04F3
@@ -15720,101 +15402,32 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-258 530 m 257
- 308 710 l 257
- 388 710 l 257
- 322 530 l 257
- 258 530 l 257
-138 530 m 257
- 188 710 l 257
- 268 710 l 257
- 202 530 l 257
- 138 530 l 257
-30 460 m 257
- 110 460 l 257
- 239 98 l 257
- 354 460 l 257
- 430 460 l 257
- 241 -100 l 257
- 227 -136 201 -200 150 -200 c 256
- 106 -200 89 -198 58 -190 c 257
- 58 -120 l 257
- 78 -129 94 -135 116 -135 c 258
- 122 -135 l 258
- 163 -135 187 -54 198 -12 c 257
- 30 460 l 257
-EndSplineSet
+Refer: 615 1091 N 1 0 0 1 0 0 2
+Refer: 507 779 N 1 0 0 1 228 0 2
 EndChar
 
 StartChar: uni04F4
 Encoding: 762 1268 690
 GlifName: uni04F_4
-Width: 560
+Width: 510
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-161 770 m 257
- 161 850 l 257
- 241 850 l 257
- 241 770 l 257
- 161 770 l 257
-318 770 m 257
- 318 850 l 257
- 398 850 l 257
- 398 770 l 257
- 318 770 l 257
-49 500 m 258
- 49 700 l 257
- 139 700 l 257
- 139 500 l 258
- 139 439 143 397 237 397 c 258
- 419 397 l 257
- 419 700 l 257
- 509 700 l 257
- 509 0 l 257
- 419 0 l 257
- 419 317 l 257
- 207 317 l 258
- 153 317 49 352 49 500 c 258
-EndSplineSet
+Refer: 557 1063 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 465 220 2
 EndChar
 
 StartChar: uni04F5
 Encoding: 763 1269 691
 GlifName: uni04F_5
-Width: 468
+Width: 497
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-115 530 m 257
- 115 610 l 257
- 195 610 l 257
- 195 530 l 257
- 115 530 l 257
-272 530 m 257
- 272 610 l 257
- 352 610 l 257
- 352 530 l 257
- 272 530 l 257
-44 326 m 258
- 44 460 l 257
- 124 460 l 257
- 124 359 l 258
- 124 274 125 220 189 220 c 256
- 250 220 342 252 342 303 c 256
- 342 355 342 408 342 460 c 257
- 422 460 l 257
- 422 0 l 257
- 342 0 l 257
- 342 205 l 257
- 307 175 261 140 187 140 c 256
- 65 140 44 236 44 326 c 258
-EndSplineSet
+Refer: 625 1095 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 459 0 2
 EndChar
 
 StartChar: uni04F8
@@ -15825,79 +15438,20 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-255 770 m 257
- 255 850 l 257
- 335 850 l 257
- 335 770 l 257
- 255 770 l 257
-412 770 m 257
- 412 850 l 257
- 492 850 l 257
- 492 770 l 257
- 412 770 l 257
-608 0 m 257
- 608 700 l 257
- 698 700 l 257
- 698 0 l 257
- 608 0 l 257
-50 0 m 257
- 50 700 l 257
- 140 700 l 257
- 140 402 l 257
- 265 402 l 258
- 484 402 530 355 530 205 c 256
- 530 61 474 0 265 0 c 258
- 50 0 l 257
-140 80 m 257
- 265 80 l 258
- 414 80 440 131 440 205 c 256
- 440 273 410 322 265 322 c 258
- 140 322 l 257
- 140 80 l 257
-EndSplineSet
+Refer: 561 1067 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 584 220 2
 EndChar
 
 StartChar: uni04F9
 Encoding: 765 1273 693
 GlifName: uni04F_9
-Width: 620
+Width: 645
 VWidth: 0
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-189 530 m 257
- 189 610 l 257
- 269 610 l 257
- 269 530 l 257
- 189 530 l 257
-346 530 m 257
- 346 610 l 257
- 426 610 l 257
- 426 530 l 257
- 346 530 l 257
-495 0 m 257
- 495 460 l 257
- 575 460 l 257
- 575 0 l 257
- 495 0 l 257
-40 190 m 258
- 40 460 l 257
- 120 460 l 257
- 120 310 l 257
- 144 344 197 390 260 390 c 256
- 286 390 309 386 329 379 c 256
- 409 351 441 272 441 190 c 256
- 441 100 380 -10 240 -10 c 256
- 117 -10 40 74 40 190 c 258
-121 187 m 258
- 121 106 166 55 240 55 c 256
- 314 55 361 117 361 190 c 256
- 361 266 315 325 240 325 c 256
- 185 325 121 286 121 190 c 258
- 121 187 l 258
-EndSplineSet
+Refer: 636 1099 N 1 0 0 1 0 0 2
+Refer: 505 776 N 1 0 0 1 533 0 2
 EndChar
 
 StartChar: uni2116

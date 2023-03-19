@@ -1,57 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04DD" format="2">
-  <advance width="664"/>
+  <advance width="700"/>
   <unicode hex="04DD"/>
+  <anchor x="360" y="520" name="aboveLC"/>
   <outline>
-    <contour>
-      <point x="213" y="520" type="line"/>
-      <point x="213" y="600" type="line"/>
-      <point x="293" y="600" type="line"/>
-      <point x="293" y="520" type="line"/>
-    </contour>
-    <contour>
-      <point x="370" y="520" type="line"/>
-      <point x="370" y="600" type="line"/>
-      <point x="450" y="600" type="line"/>
-      <point x="450" y="520" type="line"/>
-    </contour>
-    <contour>
-      <point x="14" y="0" type="line"/>
-      <point x="22" y="14"/>
-      <point x="29" y="28"/>
-      <point x="36" y="43" type="curve" smooth="yes"/>
-      <point x="71" y="116"/>
-      <point x="101" y="195"/>
-      <point x="187" y="236" type="curve"/>
-      <point x="15" y="460" type="line"/>
-      <point x="114" y="460" type="line"/>
-      <point x="259" y="270" type="line"/>
-      <point x="291" y="270" type="line"/>
-      <point x="291" y="460" type="line"/>
-      <point x="371" y="460" type="line"/>
-      <point x="371" y="270" type="line"/>
-      <point x="402" y="270" type="line"/>
-      <point x="547" y="460" type="line"/>
-      <point x="647" y="460" type="line"/>
-      <point x="475" y="236" type="line"/>
-      <point x="562" y="193"/>
-      <point x="593" y="112"/>
-      <point x="627" y="41" type="curve" smooth="yes"/>
-      <point x="634" y="27"/>
-      <point x="640" y="13"/>
-      <point x="648" y="0" type="curve"/>
-      <point x="548" y="0" type="line"/>
-      <point x="511" y="69"/>
-      <point x="502" y="146"/>
-      <point x="422" y="190" type="curve"/>
-      <point x="371" y="190" type="line"/>
-      <point x="371" y="0" type="line"/>
-      <point x="291" y="0" type="line"/>
-      <point x="291" y="190" type="line"/>
-      <point x="239" y="190" type="line"/>
-      <point x="168" y="149"/>
-      <point x="149" y="75"/>
-      <point x="114" y="0" type="curve"/>
-    </contour>
+    <component base="uni0436"/>
+    <component base="uni0308" xOffset="560"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0436+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
