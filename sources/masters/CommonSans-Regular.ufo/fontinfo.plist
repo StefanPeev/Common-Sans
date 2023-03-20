@@ -24,6 +24,14 @@
     <key>y</key>
     <integer>250</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>540</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
@@ -74,7 +82,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.025</string>
+  <string>Version 1.026</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -209,7 +217,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>25</integer>
+  <integer>26</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

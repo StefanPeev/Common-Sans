@@ -10,28 +10,28 @@
       <point x="481" y="242" type="line"/>
     </contour>
     <contour>
-      <point x="260.501" y="250.992" type="line"/>
-      <point x="266.207" y="252.846" type="line"/>
-      <point x="340.23" y="47.6789" type="line"/>
-      <point x="321.209" y="41.4986" type="line"/>
+      <point x="260.507" y="250.975" type="line"/>
+      <point x="266.213" y="252.829" type="line"/>
+      <point x="340.233" y="47.6525" type="line"/>
+      <point x="321.211" y="41.4725" type="line"/>
     </contour>
     <contour>
-      <point x="261.171" y="254.86" type="line"/>
-      <point x="264.697" y="250.006" type="line"/>
-      <point x="92.4462" y="116.206" type="line"/>
-      <point x="80.6904" y="132.386" type="line"/>
+      <point x="261.179" y="254.86" type="line"/>
+      <point x="264.706" y="250.006" type="line"/>
+      <point x="92.4586" y="116.203" type="line"/>
+      <point x="80.7026" y="132.383" type="line"/>
     </contour>
     <contour>
-      <point x="265.875" y="250.898" type="line"/>
-      <point x="260.168" y="252.753" type="line"/>
-      <point x="320.877" y="462.246" type="line"/>
-      <point x="339.898" y="456.066" type="line"/>
+      <point x="265.859" y="250.907" type="line"/>
+      <point x="260.152" y="252.761" type="line"/>
+      <point x="320.857" y="462.263" type="line"/>
+      <point x="339.879" y="456.083" type="line"/>
     </contour>
     <contour>
-      <point x="264.454" y="254.249" type="line"/>
-      <point x="260.927" y="249.395" type="line"/>
-      <point x="80.4467" y="371.869" type="line"/>
-      <point x="92.2024" y="388.049" type="line"/>
+      <point x="264.455" y="254.258" type="line"/>
+      <point x="260.928" y="249.404" type="line"/>
+      <point x="80.4514" y="371.881" type="line"/>
+      <point x="92.2074" y="388.061" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="252"/>

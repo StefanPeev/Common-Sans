@@ -27,10 +27,10 @@
       <point x="240" y="55" type="curve"/>
     </contour>
     <contour>
-      <point x="200" y="560" type="line"/>
-      <point x="200" y="640" type="line"/>
-      <point x="280" y="640" type="line"/>
-      <point x="280" y="560" type="line"/>
+      <point x="200" y="580" type="line"/>
+      <point x="200" y="660" type="line"/>
+      <point x="280" y="660" type="line"/>
+      <point x="280" y="580" type="line"/>
     </contour>
     <contour>
       <point x="240" y="-10" type="line"/>

@@ -2,10 +2,9 @@
 <glyph name="iacute" format="2">
   <advance width="296"/>
   <unicode hex="00ED"/>
-  <anchor x="148" y="520" name="aboveLC"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="acutecomb" xOffset="305"/>
+    <component base="acutecomb" xOffset="349" yOffset="20"/>
   </outline>
   <lib>
   <dict>

@@ -2,10 +2,9 @@
 <glyph name="imacron" format="2">
   <advance width="220"/>
   <unicode hex="012B"/>
-  <anchor x="110" y="520" name="aboveLC"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0304" xOffset="295"/>
+    <component base="uni0304" xOffset="295" yOffset="70"/>
   </outline>
   <lib>
   <dict>
