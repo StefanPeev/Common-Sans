@@ -3,8 +3,17 @@
   <advance width="493"/>
   <unicode hex="04D1"/>
   <outline>
-    <component base="breve" xOffset="45"/>
-    <component base="a"/>
-    <component base="a"/>
+    <component base="uni0430"/>
+    <component base="uni0306" xOffset="455"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0430+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
