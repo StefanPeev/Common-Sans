@@ -5,20 +5,20 @@
   <anchor x="205" y="520" name="_top"/>
   <outline>
     <contour>
-      <point x="50" y="660" type="curve"/>
-      <point x="130" y="660" type="line"/>
-      <point x="130" y="600"/>
-      <point x="170" y="580"/>
-      <point x="205" y="580" type="curve" smooth="yes"/>
-      <point x="240" y="580"/>
-      <point x="280" y="600"/>
-      <point x="280" y="660" type="curve"/>
-      <point x="360" y="660" type="line"/>
-      <point x="360" y="560"/>
-      <point x="285" y="520"/>
+      <point x="80" y="660" type="curve"/>
+      <point x="100" y="660" type="line"/>
+      <point x="100" y="583"/>
+      <point x="137" y="540"/>
+      <point x="205" y="540" type="curve" smooth="yes"/>
+      <point x="277" y="540"/>
+      <point x="310" y="578"/>
+      <point x="310" y="660" type="curve"/>
+      <point x="330" y="660" type="line"/>
+      <point x="330" y="565"/>
+      <point x="290" y="520"/>
       <point x="205" y="520" type="curve" smooth="yes"/>
-      <point x="125" y="520"/>
-      <point x="50" y="560"/>
+      <point x="120" y="520"/>
+      <point x="80" y="565"/>
     </contour>
   </outline>
 </glyph>

@@ -3,8 +3,13 @@
   <advance width="480"/>
   <unicode hex="0231"/>
   <outline>
-    <component base="uni0304" xOffset="425" yOffset="180"/>
     <component base="dotaccent" xOffset="150" yOffset="40"/>
+    <contour>
+      <point x="105" y="700" type="line"/>
+      <point x="105" y="770" type="line"/>
+      <point x="375" y="770" type="line"/>
+      <point x="375" y="700" type="line"/>
+    </contour>
     <contour>
       <point x="240" y="-10" type="line"/>
       <point x="117" y="-10"/>
@@ -22,10 +27,10 @@
       <point x="240" y="55" type="curve"/>
     </contour>
     <contour>
-      <point x="200" y="560" type="line"/>
-      <point x="200" y="640" type="line"/>
-      <point x="280" y="640" type="line"/>
-      <point x="280" y="560" type="line"/>
+      <point x="200" y="580" type="line"/>
+      <point x="200" y="660" type="line"/>
+      <point x="280" y="660" type="line"/>
+      <point x="280" y="580" type="line"/>
     </contour>
     <contour>
       <point x="240" y="-10" type="line"/>

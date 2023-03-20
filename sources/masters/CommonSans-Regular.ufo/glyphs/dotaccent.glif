@@ -2,13 +2,13 @@
 <glyph name="dotaccent" format="2">
   <advance width="180"/>
   <unicode hex="02D9"/>
-  <anchor x="90" y="520" name="_top"/>
+  <anchor x="90" y="540" name="_top"/>
   <outline>
     <contour>
-      <point x="50" y="520" type="line"/>
-      <point x="50" y="600" type="line"/>
-      <point x="130" y="600" type="line"/>
-      <point x="130" y="520" type="line"/>
+      <point x="50" y="540" type="line"/>
+      <point x="50" y="620" type="line"/>
+      <point x="130" y="620" type="line"/>
+      <point x="130" y="540" type="line"/>
     </contour>
   </outline>
 </glyph>

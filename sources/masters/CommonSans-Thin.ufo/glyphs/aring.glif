@@ -2,10 +2,10 @@
 <glyph name="aring" format="2">
   <advance width="416"/>
   <unicode hex="00E5"/>
-  <anchor x="250" y="520" name="top"/>
+  <anchor x="210" y="540" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="207"/>
+    <component base="uni030A" xOffset="397"/>
   </outline>
   <lib>
   <dict>
