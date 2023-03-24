@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.superior" format="2">
-  <advance width="225"/>
+  <advance width="315"/>
+  <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="33" y="783" type="curve"/>
-      <point x="33" y="835" type="line"/>
-      <point x="106" y="835"/>
-      <point x="144" y="855"/>
-      <point x="170" y="881" type="curve"/>
-      <point x="192" y="881" type="line"/>
-      <point x="192" y="414" type="line"/>
-      <point x="124" y="414" type="line"/>
-      <point x="124" y="800" type="line"/>
-      <point x="109" y="795"/>
-      <point x="79" y="783"/>
+      <point x="41" y="473" type="curve"/>
+      <point x="41" y="607" type="line"/>
+      <point x="72" y="616"/>
+      <point x="114" y="652"/>
+      <point x="135" y="680" type="curve"/>
+      <point x="269" y="680" type="line"/>
+      <point x="269" y="354" type="line"/>
+      <point x="109" y="354" type="line"/>
+      <point x="109" y="607" type="line"/>
+      <point x="128" y="522" type="line"/>
+      <point x="105" y="501"/>
+      <point x="72" y="482"/>
     </contour>
   </outline>
 </glyph>

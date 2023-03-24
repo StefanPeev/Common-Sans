@@ -1,45 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="608"/>
+  <advance width="771"/>
   <unicode hex="0149"/>
+  <anchor x="424" y="520" name="top"/>
   <outline>
-    <contour>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="460" type="line"/>
-      <point x="256" y="460" type="line"/>
-      <point x="256" y="370" type="line"/>
-      <point x="297" y="417"/>
-      <point x="367" y="470"/>
-      <point x="437" y="470" type="curve" smooth="yes"/>
-      <point x="558" y="470"/>
-      <point x="563" y="382"/>
-      <point x="563" y="300" type="curve" smooth="yes"/>
-      <point x="563" y="0" type="line"/>
-      <point x="483" y="0" type="line"/>
-      <point x="483" y="270" type="line" smooth="yes"/>
-      <point x="483" y="325"/>
-      <point x="484" y="365"/>
-      <point x="463" y="388" type="curve" smooth="yes"/>
-      <point x="453" y="399"/>
-      <point x="439" y="405"/>
-      <point x="417" y="405" type="curve" smooth="yes"/>
-      <point x="353" y="405"/>
-      <point x="255" y="343"/>
-      <point x="255" y="230" type="curve" smooth="yes"/>
-      <point x="255" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="51" y="390" type="line"/>
-      <point x="73" y="520" type="line"/>
-      <point x="51" y="520" type="line"/>
-      <point x="51" y="547"/>
-      <point x="51" y="573"/>
-      <point x="51" y="600" type="curve"/>
-      <point x="131" y="600" type="line"/>
-      <point x="131" y="520" type="line"/>
-      <point x="113" y="478"/>
-      <point x="99" y="433"/>
-      <point x="85" y="390" type="curve"/>
-    </contour>
+    <component base="quoteright"/>
+    <component base="n" xOffset="180"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>apostrophe_n</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

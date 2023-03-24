@@ -4,16 +4,16 @@
   <unicode hex="021E"/>
   <outline>
     <component base="H"/>
-    <component base="caroncmb.cap" xOffset="550"/>
+    <component base="caroncomb" xOffset="550" yOffset="235"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>H+~uni030C.case</string>
+  <string>H+~uni030C</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

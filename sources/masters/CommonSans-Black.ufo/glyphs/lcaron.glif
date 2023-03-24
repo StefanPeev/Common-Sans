@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="220"/>
+  <advance width="456"/>
   <unicode hex="013E"/>
   <outline>
-    <contour>
-      <point x="170" y="490" type="line"/>
-      <point x="192" y="620" type="line"/>
-      <point x="170" y="620" type="line"/>
-      <point x="170" y="700" type="line"/>
-      <point x="250" y="700" type="line"/>
-      <point x="250" y="620" type="line"/>
-      <point x="204" y="490" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="70" y="700" type="line"/>
-      <point x="150" y="700" type="line"/>
-      <point x="150" y="0" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="quoteright" xOffset="276"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

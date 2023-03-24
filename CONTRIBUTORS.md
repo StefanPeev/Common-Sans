@@ -76,4 +76,34 @@ Names should be added to this file as:
 + E: shopovadona@gmail.com 
 + D: Contributor 
   
-
+  
+### **[Marieta Yankova](https://github.com/MarietaYankova)** 
++ E: marieta.angelova2000@gmail.com 
++ D: Contributor 
+  
+  
+### **[Ina Vezenkova](https://github.com/InaVezenkova1)** 
++ E: i.vezenkova@nha.bg 
++ D: Contributor 
+  
+  
+### **[Antoaneta Karaivanova](https://github.com/karaivanova77)** 
++ E: toni.karaivanova2@gmail.com 
++ D: Contributor 
+  
+  
+### **[Georgi Rajnov](https://github.com/RaynovArt)** 
++ E: Joror442@gmail.com 
++ D: Contributor 
+  
+  
+### **[Galya Gavrailova](https://github.com/SugarMes)** 
++ E: g.gavrailova@abv.bg 
++ D: Contributor 
+  
+  
+### **[Ivana Mechkarova](https://github.com/SugarMes)** 
++ E: iveto496@gmail.com 
++ D: Contributor 
+  
+  

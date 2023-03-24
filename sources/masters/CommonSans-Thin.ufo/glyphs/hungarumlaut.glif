@@ -2,19 +2,9 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="350"/>
   <unicode hex="02DD"/>
-  <anchor x="145" y="520" name="_top"/>
+  <anchor x="173" y="540" name="_top"/>
   <outline>
-    <contour>
-      <point x="170" y="520" type="line"/>
-      <point x="220" y="680" type="line"/>
-      <point x="300" y="680" type="line"/>
-      <point x="234" y="520" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="520" type="line"/>
-      <point x="100" y="680" type="line"/>
-      <point x="180" y="680" type="line"/>
-      <point x="114" y="520" type="line"/>
-    </contour>
+    <component base="acute" xOffset="19"/>
+    <component base="acute" xOffset="99"/>
   </outline>
 </glyph>

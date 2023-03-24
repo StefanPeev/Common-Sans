@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="510"/>
+  <advance width="560"/>
   <unicode hex="013D"/>
+  <anchor x="145" y="740" name="top"/>
   <outline>
-    <contour>
-      <point x="270" y="490" type="line"/>
-      <point x="292" y="620" type="line"/>
-      <point x="270" y="620" type="line"/>
-      <point x="270" y="700" type="line"/>
-      <point x="350" y="700" type="line"/>
-      <point x="350" y="620" type="line"/>
-      <point x="304" y="490" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="700" type="line"/>
-      <point x="140" y="700" type="line"/>
-      <point x="140" y="80" type="line"/>
-      <point x="460" y="80" type="line"/>
-      <point x="460" y="0" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="quoteright" xOffset="217" yOffset="220"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+quoteright</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="610"/>
+  <advance width="561"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="20" y="170" type="line"/>
-      <point x="170" y="425" type="line"/>
-      <point x="170" y="700" type="line"/>
-      <point x="260" y="700" type="line"/>
-      <point x="260" y="579" type="line"/>
-      <point x="319" y="679" type="line"/>
-      <point x="348" y="679"/>
-      <point x="378" y="679"/>
-      <point x="407" y="679" type="curve"/>
-      <point x="260" y="426" type="line"/>
-      <point x="260" y="80" type="line"/>
-      <point x="580" y="80" type="line"/>
-      <point x="580" y="0" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="170" y="271" type="line"/>
-      <point x="111" y="170" type="line"/>
+      <point x="20" y="87" type="line"/>
+      <point x="20" y="267" type="line"/>
+      <point x="370" y="571" type="line"/>
+      <point x="370" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="160" type="line"/>
+      <point x="480" y="160" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="680" type="line"/>
+      <point x="270" y="680" type="line"/>
+      <point x="270" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="429" y="0"/>
+  <guideline angle="220.941" x="370" y="521"/>
+  <guideline angle="40.9407" x="121" y="217"/>
+  <guideline angle="90" x="20" y="0"/>
 </glyph>

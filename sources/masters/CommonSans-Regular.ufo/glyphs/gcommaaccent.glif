@@ -1,66 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent" format="2">
-  <advance width="491"/>
+  <advance width="492"/>
   <unicode hex="0123"/>
   <outline>
-    <contour>
-      <point x="185" y="520" type="line"/>
-      <point x="185" y="600" type="line"/>
-      <point x="231" y="730" type="line"/>
-      <point x="265" y="730" type="line"/>
-      <point x="243" y="600" type="line"/>
-      <point x="265" y="600" type="line"/>
-      <point x="265" y="520" type="line"/>
-    </contour>
-    <contour>
-      <point x="115" y="230" type="curve" smooth="yes"/>
-      <point x="115" y="155"/>
-      <point x="141" y="55"/>
-      <point x="245" y="55" type="curve" smooth="yes"/>
-      <point x="330" y="55"/>
-      <point x="366" y="138"/>
-      <point x="366" y="210" type="curve" smooth="yes"/>
-      <point x="366" y="245" type="line" smooth="yes"/>
-      <point x="366" y="347"/>
-      <point x="310" y="405"/>
-      <point x="245" y="405" type="curve" smooth="yes"/>
-      <point x="156" y="405"/>
-      <point x="115" y="337"/>
-    </contour>
-    <contour>
-      <point x="35" y="230" type="line"/>
-      <point x="35" y="355"/>
-      <point x="96" y="470"/>
-      <point x="225" y="470" type="curve" smooth="yes"/>
-      <point x="283" y="470"/>
-      <point x="343" y="439"/>
-      <point x="366" y="388" type="curve"/>
-      <point x="366" y="459" type="line"/>
-      <point x="446" y="459" type="line"/>
-      <point x="446" y="17" type="line" smooth="yes"/>
-      <point x="446" y="-148"/>
-      <point x="368" y="-200"/>
-      <point x="257" y="-200" type="curve" smooth="yes"/>
-      <point x="131" y="-200"/>
-      <point x="83" y="-119"/>
-      <point x="71" y="-74" type="curve"/>
-      <point x="154" y="-60" type="line"/>
-      <point x="172" y="-107"/>
-      <point x="220" y="-122"/>
-      <point x="254" y="-122" type="curve" smooth="yes"/>
-      <point x="257" y="-122"/>
-      <point x="260" y="-122"/>
-      <point x="263" y="-122" type="curve"/>
-      <point x="320" y="-116"/>
-      <point x="366" y="-85"/>
-      <point x="366" y="17" type="curve" smooth="yes"/>
-      <point x="366" y="79" type="line"/>
-      <point x="338" y="23"/>
-      <point x="285" y="-11"/>
-      <point x="226" y="-11" type="curve" smooth="yes"/>
-      <point x="97" y="-11"/>
-      <point x="36" y="105"/>
-      <point x="36" y="229" type="curve"/>
-    </contour>
+    <component base="g"/>
+    <component base="quoteleft" xOffset="151" yOffset="10"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g+^quoteleft</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

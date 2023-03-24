@@ -2,10 +2,9 @@
 <glyph name="uni0209" format="2">
   <advance width="240"/>
   <unicode hex="0209"/>
-  <anchor x="120" y="540" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni030F" xOffset="123"/>
+    <component base="uni030F" xOffset="319"/>
   </outline>
   <lib>
   <dict>

@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="2">
-  <advance width="510"/>
+  <advance width="520"/>
   <unicode hex="013F"/>
+  <anchor x="105" y="740" name="top"/>
   <outline>
-    <contour>
-      <point x="215" y="315" type="line"/>
-      <point x="215" y="342"/>
-      <point x="215" y="368"/>
-      <point x="215" y="395" type="curve"/>
-      <point x="295" y="395" type="line"/>
-      <point x="295" y="315" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="700" type="line"/>
-      <point x="140" y="700" type="line"/>
-      <point x="140" y="80" type="line"/>
-      <point x="460" y="80" type="line"/>
-      <point x="460" y="0" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="periodcentered" xOffset="170"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+periodcentered</string>
+  </dict>
+  </lib>
 </glyph>

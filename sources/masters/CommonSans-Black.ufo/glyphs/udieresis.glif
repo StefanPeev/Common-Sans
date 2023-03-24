@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="2">
-  <advance width="478"/>
+  <advance width="468"/>
   <unicode hex="00FC"/>
   <outline>
     <component base="u"/>
-    <component base="uni0308" xOffset="489" yOffset="-20"/>
+    <component base="uni0308" xOffset="484"/>
   </outline>
   <lib>
   <dict>
