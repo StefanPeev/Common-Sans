@@ -6,11 +6,6 @@
     <component base="quoteright"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>quoteright</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

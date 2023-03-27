@@ -3,18 +3,15 @@
   <advance width="730"/>
   <unicode hex="042A"/>
   <outline>
-    <component base="uni042C" xOffset="150"/>
     <contour>
       <point x="50" y="520" type="line"/>
       <point x="50" y="680" type="line"/>
       <point x="290" y="680" type="line"/>
       <point x="290" y="520" type="line"/>
     </contour>
+    <component base="uni042C" xOffset="150"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni042C</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

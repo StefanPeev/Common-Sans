@@ -4,7 +4,6 @@
   <unicode hex="0045"/>
   <anchor x="255" y="740" name="top"/>
   <outline>
-    <component base="I"/>
     <contour>
       <point x="110" y="160" type="line"/>
       <point x="460" y="160" type="line"/>
@@ -23,11 +22,9 @@
       <point x="420" y="265" type="line"/>
       <point x="110" y="265" type="line"/>
     </contour>
+    <component base="I"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=H</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

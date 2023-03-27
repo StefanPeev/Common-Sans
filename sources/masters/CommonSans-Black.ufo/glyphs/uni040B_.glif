@@ -3,9 +3,6 @@
   <advance width="100"/>
   <unicode hex="040B"/>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

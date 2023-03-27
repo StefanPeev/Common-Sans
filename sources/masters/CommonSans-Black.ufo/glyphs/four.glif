@@ -2,6 +2,7 @@
 <glyph name="four" format="2">
   <advance width="521"/>
   <unicode hex="0034"/>
+  <guideline x="360" y="620" angle="239.059"/>
   <outline>
     <contour>
       <point x="50" y="173" type="line"/>
@@ -18,5 +19,4 @@
       <point x="520" y="173" type="line"/>
     </contour>
   </outline>
-  <guideline angle="239.059" x="360" y="620"/>
 </glyph>

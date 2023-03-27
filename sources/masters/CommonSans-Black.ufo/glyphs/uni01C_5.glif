@@ -7,13 +7,6 @@
     <component base="zcaron" xOffset="640"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>D_zcaron</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>
