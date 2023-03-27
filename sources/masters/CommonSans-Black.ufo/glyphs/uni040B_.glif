@@ -2,10 +2,4 @@
 <glyph name="uni040B" format="2">
   <advance width="100"/>
   <unicode hex="040B"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

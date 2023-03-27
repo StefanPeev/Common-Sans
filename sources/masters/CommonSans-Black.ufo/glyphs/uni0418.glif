@@ -2,6 +2,7 @@
 <glyph name="uni0418" format="2">
   <advance width="720"/>
   <unicode hex="0418"/>
+  <guideline x="0" y="370" angle="0"/>
   <anchor x="371" y="740" name="aboveUC"/>
   <outline>
     <contour>
@@ -31,13 +32,7 @@
       <point x="250" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="370"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=40</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=40</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -5,20 +5,15 @@
   <anchor x="260" y="740" name="top"/>
   <anchor x="280" y="-60" name="bottom"/>
   <outline>
-    <component base="P"/>
     <contour>
       <point x="238" y="300" type="line"/>
       <point x="340" y="0" type="line"/>
       <point x="530" y="0" type="line"/>
       <point x="412" y="300" type="line"/>
     </contour>
+    <component base="P"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=H</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=A</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

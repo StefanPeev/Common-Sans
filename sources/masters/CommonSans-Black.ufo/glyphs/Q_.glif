@@ -2,8 +2,11 @@
 <glyph name="Q" format="2">
   <advance width="704"/>
   <unicode hex="0051"/>
+  <guideline x="595" y="90" angle="135"/>
+  <guideline x="433" y="41" angle="315"/>
+  <guideline x="662" y="23" angle="135"/>
+  <guideline x="443" y="31" angle="315"/>
   <outline>
-    <component base="O"/>
     <contour>
       <point x="443" y="31" type="line"/>
       <point x="555" y="-81" type="line"/>
@@ -16,17 +19,9 @@
       <point x="536" y="149" type="line"/>
       <point x="479" y="206" type="line"/>
     </contour>
+    <component base="O"/>
   </outline>
-  <guideline angle="135" x="595" y="90"/>
-  <guideline angle="315" x="433" y="41"/>
-  <guideline angle="135" x="662" y="23"/>
-  <guideline angle="315" x="443" y="31"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=O</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>
