@@ -23,11 +23,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=f</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=f</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

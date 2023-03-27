@@ -2,6 +2,8 @@
 <glyph name="V" format="2">
   <advance width="650"/>
   <unicode hex="0056"/>
+  <guideline x="325" y="0" angle="90"/>
+  <guideline x="0" y="335" angle="0"/>
   <outline>
     <contour>
       <point x="10" y="680" type="line"/>
@@ -22,14 +24,7 @@
       <point x="354" y="335" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="325" y="0"/>
-  <guideline angle="0" x="0" y="335"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=A</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=A</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

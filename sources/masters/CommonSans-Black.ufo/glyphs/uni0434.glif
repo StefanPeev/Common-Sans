@@ -3,7 +3,6 @@
   <advance width="561"/>
   <unicode hex="0434"/>
   <outline>
-    <component base="dotlessi" xOffset="270"/>
     <contour>
       <point x="10" y="156" type="line"/>
       <point x="551" y="156" type="line"/>
@@ -33,5 +32,6 @@
       <point x="476" y="460" type="line"/>
       <point x="476" y="304" type="line"/>
     </contour>
+    <component base="dotlessi" xOffset="270"/>
   </outline>
 </glyph>

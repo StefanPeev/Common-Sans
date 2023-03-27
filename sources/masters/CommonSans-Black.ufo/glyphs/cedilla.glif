@@ -2,6 +2,9 @@
 <glyph name="cedilla" format="2">
   <advance width="452"/>
   <unicode hex="00B8"/>
+  <guideline x="122" y="-200" angle="65.556"/>
+  <guideline x="170" y="-77" angle="64.9424"/>
+  <guideline x="272" y="0" angle="245.41"/>
   <outline>
     <contour>
       <point x="158" y="-121" type="line"/>
@@ -32,7 +35,4 @@
       <point x="127" y="-189" type="line"/>
     </contour>
   </outline>
-  <guideline angle="65.556" x="122" y="-200"/>
-  <guideline angle="64.9424" x="170" y="-77"/>
-  <guideline angle="245.41" x="272" y="0"/>
 </glyph>

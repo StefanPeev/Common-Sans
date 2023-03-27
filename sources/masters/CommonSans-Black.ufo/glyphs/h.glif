@@ -3,7 +3,6 @@
   <advance width="604"/>
   <unicode hex="0068"/>
   <outline>
-    <component base="l" xOffset="-10"/>
     <contour>
       <point x="382" y="476" type="curve" smooth="yes"/>
       <point x="483" y="476"/>
@@ -25,11 +24,9 @@
       <point x="250" y="433"/>
       <point x="308" y="476"/>
     </contour>
+    <component base="l" xOffset="-10"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=n</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

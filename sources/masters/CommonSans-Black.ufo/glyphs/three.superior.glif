@@ -2,6 +2,7 @@
 <glyph name="three.superior" format="2">
   <advance width="375"/>
   <unicode hex="00B3"/>
+  <guideline x="0" y="338" angle="0"/>
   <outline>
     <contour>
       <point x="3" y="454" type="curve"/>
@@ -49,5 +50,4 @@
       <point x="15" y="389"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="338"/>
 </glyph>
