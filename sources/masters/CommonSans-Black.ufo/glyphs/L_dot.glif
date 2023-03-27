@@ -8,9 +8,6 @@
     <component base="periodcentered" xOffset="240"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>L+periodcentered</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

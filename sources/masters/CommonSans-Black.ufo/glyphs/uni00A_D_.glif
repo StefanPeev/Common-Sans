@@ -6,15 +6,6 @@
     <component base="hyphen"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=n</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
-  <key>com.fontlab.recipe</key>
-  <string>hyphen</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -2,16 +2,16 @@
 <glyph name="lslash" format="2">
   <advance width="277"/>
   <unicode hex="0142"/>
+  <guideline x="50" y="0" angle="90"/>
+  <guideline x="285" y="0" angle="90"/>
+  <guideline x="-1" y="267" angle="40.9766"/>
   <outline>
-    <component base="l" xOffset="11"/>
     <contour>
       <point x="-1" y="87" type="line"/>
       <point x="-1" y="267" type="line"/>
       <point x="285" y="515" type="line"/>
       <point x="285" y="335" type="line"/>
     </contour>
+    <component base="l" xOffset="11"/>
   </outline>
-  <guideline angle="90" x="50" y="0"/>
-  <guideline angle="90" x="285" y="0"/>
-  <guideline angle="40.9766" x="-1" y="267"/>
 </glyph>

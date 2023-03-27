@@ -3,21 +3,16 @@
   <advance width="516"/>
   <unicode hex="043F"/>
   <outline>
-    <component base="dotlessi" xOffset="-20"/>
-    <component base="dotlessi" xOffset="240"/>
     <contour>
       <point x="88" y="460" type="line"/>
       <point x="368" y="460" type="line"/>
       <point x="368" y="302" type="line"/>
       <point x="88" y="302" type="line"/>
     </contour>
+    <component base="dotlessi" xOffset="-20"/>
+    <component base="dotlessi" xOffset="240"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni043D</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni043D</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>
