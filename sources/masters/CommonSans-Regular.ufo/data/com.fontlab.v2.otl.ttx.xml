@@ -1788,7 +1788,7 @@
         </AlternateSet>
         <AlternateSet glyph="one">
           <Alternate glyph="one.inferior"/>
-          <Alternate glyph="uni00B9"/>
+          <Alternate glyph="one.superior"/>
           <Alternate glyph="one.subscript"/>
           <Alternate glyph="one.numr"/>
           <Alternate glyph="one.dnom"/>
@@ -1813,14 +1813,14 @@
         </AlternateSet>
         <AlternateSet glyph="three">
           <Alternate glyph="three.inferior"/>
-          <Alternate glyph="uni00B3"/>
+          <Alternate glyph="three.superior"/>
           <Alternate glyph="three.subscript"/>
           <Alternate glyph="three.numr"/>
           <Alternate glyph="three.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="two">
           <Alternate glyph="two.inferior"/>
-          <Alternate glyph="uni00B2"/>
+          <Alternate glyph="two.superior"/>
           <Alternate glyph="two.subscript"/>
           <Alternate glyph="two.numr"/>
           <Alternate glyph="two.dnom"/>
@@ -1972,11 +1972,11 @@
         <Substitution in="five" out="five.superior"/>
         <Substitution in="four" out="four.superior"/>
         <Substitution in="nine" out="nine.superior"/>
-        <Substitution in="one" out="uni00B9"/>
+        <Substitution in="one" out="one.superior"/>
         <Substitution in="seven" out="seven.superior"/>
         <Substitution in="six" out="six.superior"/>
-        <Substitution in="three" out="uni00B3"/>
-        <Substitution in="two" out="uni00B2"/>
+        <Substitution in="three" out="three.superior"/>
+        <Substitution in="two" out="two.superior"/>
         <Substitution in="zero" out="zero.superior"/>
       </SingleSubst>
     </Lookup>

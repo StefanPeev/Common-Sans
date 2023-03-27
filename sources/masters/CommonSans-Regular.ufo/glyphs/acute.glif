@@ -2,13 +2,13 @@
 <glyph name="acute" format="2">
   <advance width="276"/>
   <unicode hex="00B4"/>
-  <anchor x="111" y="490" name="_aboveUC"/>
+  <anchor x="111" y="540" name="_aboveUC"/>
   <outline>
     <contour>
-      <point x="60" y="490" type="line"/>
-      <point x="110" y="670" type="line"/>
-      <point x="216" y="670" type="line"/>
-      <point x="150" y="490" type="line"/>
+      <point x="60" y="540" type="line"/>
+      <point x="110" y="720" type="line"/>
+      <point x="216" y="720" type="line"/>
+      <point x="150" y="540" type="line"/>
     </contour>
   </outline>
   <lib>

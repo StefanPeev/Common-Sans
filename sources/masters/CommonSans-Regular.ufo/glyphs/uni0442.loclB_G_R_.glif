@@ -8,6 +8,10 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>com.fontlab.recipe</key>
   <string>m</string>
   <key>public.markColor</key>

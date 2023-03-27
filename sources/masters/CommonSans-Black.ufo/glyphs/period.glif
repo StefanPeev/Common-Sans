@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-  <advance width="180"/>
+  <advance width="240"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="80" type="line"/>
-      <point x="130" y="80" type="line"/>
-      <point x="130" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="160" type="line"/>
+      <point x="200" y="160" type="line"/>
+      <point x="200" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
 </glyph>

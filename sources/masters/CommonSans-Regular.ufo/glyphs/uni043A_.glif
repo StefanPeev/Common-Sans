@@ -47,4 +47,10 @@
       <point x="204" y="244" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

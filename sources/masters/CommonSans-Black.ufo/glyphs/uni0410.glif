@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0410" format="2">
-  <advance width="570"/>
+  <advance width="650"/>
   <unicode hex="0410"/>
-  <anchor x="285" y="740" name="aboveUC"/>
+  <anchor x="325" y="740" name="aboveUC"/>
   <outline>
-    <component base="A" xOffset="-40"/>
+    <component base="A"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -6,22 +6,22 @@
   <outline>
     <component base="I"/>
     <contour>
-      <point x="110" y="150" type="line"/>
-      <point x="460" y="150" type="line"/>
+      <point x="110" y="160" type="line"/>
+      <point x="460" y="160" type="line"/>
       <point x="460" y="0" type="line"/>
       <point x="110" y="0" type="line"/>
     </contour>
     <contour>
       <point x="110" y="680" type="line"/>
       <point x="460" y="680" type="line"/>
-      <point x="460" y="530" type="line"/>
-      <point x="110" y="530" type="line"/>
+      <point x="460" y="520" type="line"/>
+      <point x="110" y="520" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="420" type="line"/>
-      <point x="420" y="420" type="line"/>
-      <point x="420" y="270" type="line"/>
-      <point x="110" y="270" type="line"/>
+      <point x="110" y="425" type="line"/>
+      <point x="420" y="425" type="line"/>
+      <point x="420" y="265" type="line"/>
+      <point x="110" y="265" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -459,9 +459,6 @@
     <string>uni000D</string>
     <string>uni00A0</string>
     <string>uni00AD</string>
-    <string>uni00B2</string>
-    <string>uni00B3</string>
-    <string>uni00B9</string>
     <string>uni0162</string>
     <string>uni0163</string>
     <string>uni01C4</string>
@@ -780,6 +777,7 @@
     <string>zero.superior</string>
     <string>ogonekcomb</string>
     <string>cedillacomb</string>
+    <string>onefraction</string>
   </array>
 </dict>
 </plist>

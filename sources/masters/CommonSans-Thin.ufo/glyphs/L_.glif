@@ -4,12 +4,17 @@
   <unicode hex="004C"/>
   <anchor x="145" y="740" name="top"/>
   <outline>
-    <component base="I"/>
     <contour>
       <point x="111" y="20" type="line"/>
       <point x="451" y="20" type="line"/>
       <point x="451" y="0" type="line"/>
       <point x="111" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="680" type="line"/>
+      <point x="122" y="680" type="line"/>
+      <point x="122" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B" format="2">
-  <advance width="645"/>
+  <advance width="650"/>
   <unicode hex="044B"/>
   <outline>
     <component base="dotlessi" xOffset="420"/>
-    <component base="uni044C"/>
+    <component base="uni044C" xOffset="25"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

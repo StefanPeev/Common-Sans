@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0449" format="2">
-  <advance width="784"/>
+  <advance width="878"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="70" y="158" type="line"/>
-      <point x="684" y="158" type="line"/>
-      <point x="684" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="158" type="line"/>
+      <point x="654" y="158" type="line"/>
+      <point x="654" y="0" type="line"/>
     </contour>
     <contour>
       <point x="42" y="0" type="line"/>
@@ -28,12 +28,20 @@
       <point x="738" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="684" y="158" type="line"/>
-      <point x="868" y="158" type="line"/>
-      <point x="868" y="-140" type="line"/>
-      <point x="728" y="-140" type="line"/>
-      <point x="718" y="0" type="line"/>
-      <point x="684" y="0" type="line"/>
+      <point x="654" y="158" type="line"/>
+      <point x="838" y="158" type="line"/>
+      <point x="838" y="-140" type="line"/>
+      <point x="698" y="-140" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

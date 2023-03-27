@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0448" format="2">
-  <advance width="754"/>
+  <advance width="732"/>
   <unicode hex="0448"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotlessi" xOffset="266"/>
-    <component base="dotlessi" xOffset="532"/>
+    <component base="dotlessi" xOffset="-10"/>
+    <component base="dotlessi" xOffset="256"/>
+    <component base="dotlessi" xOffset="522"/>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="110" y="18" type="line"/>
-      <point x="644" y="18" type="line"/>
-      <point x="644" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="18" type="line"/>
+      <point x="634" y="18" type="line"/>
+      <point x="634" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

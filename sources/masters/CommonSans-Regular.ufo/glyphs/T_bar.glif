@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="2">
-  <advance width="560"/>
+  <advance width="480"/>
   <unicode hex="0166"/>
   <outline>
     <contour>
-      <point x="50" y="620" type="line"/>
-      <point x="50" y="700" type="line"/>
-      <point x="510" y="700" type="line"/>
-      <point x="510" y="620" type="line"/>
-      <point x="330" y="620" type="line"/>
-      <point x="330" y="430" type="line"/>
-      <point x="490" y="430" type="line"/>
-      <point x="490" y="350" type="line"/>
-      <point x="330" y="350" type="line"/>
-      <point x="330" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
-      <point x="240" y="350" type="line"/>
-      <point x="70" y="350" type="line"/>
-      <point x="70" y="430" type="line"/>
-      <point x="240" y="430" type="line"/>
-      <point x="240" y="620" type="line"/>
+      <point x="50" y="310" type="line"/>
+      <point x="50" y="390" type="line"/>
+      <point x="430" y="390" type="line"/>
+      <point x="430" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="600" type="line"/>
+      <point x="10" y="680" type="line"/>
+      <point x="470" y="680" type="line"/>
+      <point x="470" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="680" type="line"/>
+      <point x="285" y="680" type="line"/>
+      <point x="285" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=T</string>
+  </dict>
+  </lib>
 </glyph>

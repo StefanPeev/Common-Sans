@@ -1,28 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A.loclBGR" format="2">
-  <advance width="420"/>
+  <advance width="423"/>
   <outline>
     <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="45" y="700" type="line"/>
-      <point x="125" y="700" type="line"/>
-      <point x="125" y="270" type="line"/>
-      <point x="157" y="270" type="line"/>
-      <point x="300" y="460" type="line"/>
-      <point x="380" y="460" type="line"/>
-      <point x="229" y="256" type="line"/>
-      <point x="304" y="218"/>
-      <point x="338" y="138"/>
-      <point x="373" y="59" type="curve" smooth="yes"/>
-      <point x="382" y="39"/>
-      <point x="390" y="19"/>
-      <point x="400" y="0" type="curve"/>
-      <point x="320" y="0" type="line"/>
-      <point x="279" y="78"/>
-      <point x="255" y="166"/>
-      <point x="167" y="210" type="curve"/>
-      <point x="125" y="210" type="line"/>
-      <point x="125" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="196" type="line"/>
+      <point x="214" y="250" type="line"/>
+      <point x="246" y="250"/>
+      <point x="270" y="228"/>
+      <point x="282" y="201" type="curve" smooth="yes"/>
+      <point x="367" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="295" y="219" type="line" smooth="yes"/>
+      <point x="284" y="245"/>
+      <point x="254" y="269"/>
+      <point x="208" y="269" type="curve"/>
+      <point x="98" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="254" type="line"/>
+      <point x="345" y="460" type="line"/>
+      <point x="321" y="460" type="line"/>
+      <point x="196" y="259" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  </dict>
+  </lib>
 </glyph>

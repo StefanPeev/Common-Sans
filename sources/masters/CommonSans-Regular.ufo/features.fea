@@ -5,6 +5,13 @@
 #/< otclasses
 #< classes
 
+#/> classes
+#/> otclasses
+@locl1 = [uni0414 uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+#/< otclasses
+#/< classes
+
 languagesystem DFLT dflt;
 languagesystem cyrl dflt;
 languagesystem cyrl SRB ;
@@ -68,11 +75,11 @@ feature sups {
   sub five by five.superior;
   sub four by four.superior;
   sub nine by nine.superior;
-  sub one by uni00B9;
+  sub one by one.superior;
   sub seven by seven.superior;
   sub six by six.superior;
-  sub three by uni00B3;
-  sub two by uni00B2;
+  sub three by three.superior;
+  sub two by two.superior;
   sub zero by zero.superior;
 #< feature
 } sups;

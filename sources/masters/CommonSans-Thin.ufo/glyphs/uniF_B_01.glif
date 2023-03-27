@@ -4,30 +4,28 @@
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="50" y="380" type="line"/>
+      <point x="50" y="442" type="line"/>
       <point x="50" y="460" type="line"/>
-      <point x="115" y="460" type="line"/>
-      <point x="115" y="500" type="line" smooth="yes"/>
-      <point x="115" y="642"/>
-      <point x="126" y="692"/>
-      <point x="277" y="700" type="curve"/>
+      <point x="145" y="460" type="line"/>
+      <point x="145" y="597" type="line" smooth="yes"/>
+      <point x="145" y="669"/>
+      <point x="175" y="700"/>
+      <point x="246" y="700" type="curve" smooth="yes"/>
       <point x="311" y="700" type="line"/>
-      <point x="311" y="635" type="line"/>
-      <point x="277" y="635" type="line" smooth="yes"/>
-      <point x="208" y="635"/>
-      <point x="195" y="606"/>
-      <point x="195" y="500" type="curve" smooth="yes"/>
-      <point x="195" y="460" type="line"/>
+      <point x="311" y="682" type="line"/>
+      <point x="235" y="682" type="line" smooth="yes"/>
+      <point x="188" y="682"/>
+      <point x="165" y="651"/>
+      <point x="165" y="587" type="curve" smooth="yes"/>
+      <point x="165" y="460" type="line"/>
       <point x="389" y="460" type="line"/>
       <point x="389" y="0" type="line"/>
-      <point x="309" y="0" type="line"/>
-      <point x="309" y="127"/>
-      <point x="309" y="253"/>
-      <point x="309" y="380" type="curve"/>
-      <point x="195" y="380" type="line"/>
-      <point x="195" y="0" type="line"/>
-      <point x="115" y="0" type="line"/>
-      <point x="115" y="380" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="369" y="442" type="line"/>
+      <point x="165" y="442" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="442" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0438.loclBGR" format="2">
-  <advance width="478"/>
-  <anchor x="239" y="520" name="top"/>
+  <advance width="519"/>
+  <anchor x="250" y="540" name="top"/>
   <outline>
-    <component base="u"/>
+    <component base="u" xOffset="10"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>com.fontlab.recipe</key>
   <string>u</string>
   <key>public.markColor</key>
