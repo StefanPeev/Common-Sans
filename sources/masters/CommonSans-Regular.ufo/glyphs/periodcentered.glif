@@ -3,11 +3,14 @@
   <advance width="180"/>
   <unicode hex="00B7"/>
   <outline>
-    <contour>
-      <point x="50" y="230" type="line"/>
-      <point x="50" y="310" type="line"/>
-      <point x="130" y="310" type="line"/>
-      <point x="130" y="230" type="line"/>
-    </contour>
+    <component base="period" yOffset="230"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045D.loclBGR" format="2">
-  <advance width="468"/>
+  <advance width="571"/>
   <outline>
     <component base="uni0438.loclBGR"/>
-    <component base="gravecomb" xOffset="446"/>
+    <component base="gravecomb" xOffset="499"/>
   </outline>
   <lib>
   <dict>

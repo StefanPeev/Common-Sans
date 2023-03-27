@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="2">
-  <advance width="500"/>
+  <advance width="499"/>
   <unicode hex="016F"/>
-  <anchor x="250" y="540" name="top"/>
+  <anchor x="240" y="540" name="top"/>
   <outline>
     <component base="u"/>
     <component base="uni030A" xOffset="439"/>

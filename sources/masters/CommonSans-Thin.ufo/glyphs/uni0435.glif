@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0435" format="2">
-  <advance width="508"/>
+  <advance width="511"/>
   <unicode hex="0435"/>
-  <anchor x="270" y="520" name="top"/>
+  <anchor x="273" y="520" name="top"/>
   <outline>
     <component base="e"/>
   </outline>

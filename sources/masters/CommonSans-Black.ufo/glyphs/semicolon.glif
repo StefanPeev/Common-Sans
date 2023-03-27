@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-  <advance width="180"/>
+  <advance width="220"/>
   <unicode hex="003B"/>
   <outline>
     <component base="comma"/>
-    <component base="period" yOffset="370"/>
+    <component base="period" xOffset="-10" yOffset="370"/>
   </outline>
+  <guideline angle="90" x="30" y="0"/>
+  <guideline angle="0.190009" x="-0" y="370"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=comma</string>
+  </dict>
+  </lib>
 </glyph>

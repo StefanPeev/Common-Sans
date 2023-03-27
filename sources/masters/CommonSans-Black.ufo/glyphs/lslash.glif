@@ -3,7 +3,7 @@
   <advance width="277"/>
   <unicode hex="0142"/>
   <outline>
-    <component base="l" xOffset="1"/>
+    <component base="l" xOffset="11"/>
     <contour>
       <point x="-1" y="87" type="line"/>
       <point x="-1" y="267" type="line"/>

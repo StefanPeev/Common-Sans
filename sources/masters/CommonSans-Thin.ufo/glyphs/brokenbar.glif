@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-  <advance width="180"/>
+  <advance width="222"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="79" y="-156" type="line"/>
-      <point x="79" y="156" type="line"/>
-      <point x="101" y="156" type="line"/>
-      <point x="101" y="-156" type="line"/>
+      <point x="100" y="-156" type="line"/>
+      <point x="100" y="156" type="line"/>
+      <point x="122" y="156" type="line"/>
+      <point x="122" y="-156" type="line"/>
     </contour>
     <contour>
-      <point x="79" y="289" type="line"/>
-      <point x="79" y="601" type="line"/>
-      <point x="101" y="601" type="line"/>
-      <point x="101" y="289" type="line"/>
+      <point x="100" y="289" type="line"/>
+      <point x="100" y="601" type="line"/>
+      <point x="122" y="601" type="line"/>
+      <point x="122" y="289" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
 </glyph>

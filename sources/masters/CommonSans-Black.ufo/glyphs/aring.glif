@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="2">
-  <advance width="493"/>
+  <advance width="563"/>
   <unicode hex="00E5"/>
-  <anchor x="240" y="540" name="top"/>
+  <anchor x="300" y="540" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="436"/>
+    <component base="uni030A" xOffset="471"/>
   </outline>
   <lib>
   <dict>

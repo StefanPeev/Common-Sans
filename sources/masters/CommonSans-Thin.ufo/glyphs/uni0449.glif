@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0449" format="2">
-  <advance width="784"/>
+  <advance width="806"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="110" y="18" type="line"/>
-      <point x="644" y="18" type="line"/>
-      <point x="644" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="100" y="0" type="line"/>
-      <point x="100" y="460" type="line"/>
-      <point x="120" y="460" type="line"/>
-      <point x="120" y="0" type="line"/>
+      <point x="100" y="18" type="line"/>
+      <point x="634" y="18" type="line"/>
+      <point x="634" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="366" y="0" type="line"/>
-      <point x="366" y="460" type="line"/>
-      <point x="386" y="460" type="line"/>
-      <point x="386" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="460" type="line"/>
+      <point x="110" y="460" type="line"/>
+      <point x="110" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="632" y="0" type="line"/>
-      <point x="632" y="460" type="line"/>
-      <point x="652" y="460" type="line"/>
-      <point x="652" y="0" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="356" y="460" type="line"/>
+      <point x="376" y="460" type="line"/>
+      <point x="376" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="644" y="18" type="line"/>
-      <point x="726" y="18" type="line"/>
-      <point x="726" y="-140" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="460" type="line"/>
+      <point x="642" y="460" type="line"/>
+      <point x="642" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="18" type="line"/>
+      <point x="716" y="18" type="line"/>
       <point x="716" y="-140" type="line"/>
-      <point x="706" y="0" type="line"/>
-      <point x="644" y="0" type="line"/>
+      <point x="706" y="-140" type="line"/>
+      <point x="696" y="0" type="line"/>
+      <point x="634" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

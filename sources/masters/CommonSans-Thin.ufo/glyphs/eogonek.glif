@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="2">
-  <advance width="508"/>
+  <advance width="511"/>
   <unicode hex="0119"/>
-  <anchor x="270" y="520" name="top"/>
+  <anchor x="273" y="520" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="ogonek" xOffset="222"/>
+    <component base="ogonek" xOffset="225"/>
   </outline>
   <lib>
   <dict>

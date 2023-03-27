@@ -4,7 +4,7 @@
   <unicode hex="0436"/>
   <anchor x="360" y="520" name="aboveLC"/>
   <outline>
-    <component base="dotlessi" xOffset="182"/>
+    <component base="dotlessi" xOffset="212"/>
     <contour>
       <point x="365" y="205" type="line"/>
       <point x="447" y="205" type="line"/>

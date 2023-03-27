@@ -3,6 +3,6 @@
   <unicode hex="0326"/>
   <anchor x="-90" y="-60" name="_bottom"/>
   <outline>
-    <component base="comma" xOffset="-175" yOffset="-140"/>
+    <component base="comma" xOffset="-176" yOffset="-140"/>
   </outline>
 </glyph>

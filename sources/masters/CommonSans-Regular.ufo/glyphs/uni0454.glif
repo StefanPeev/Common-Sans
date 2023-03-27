@@ -10,20 +10,20 @@
       <point x="248" y="190" type="line"/>
     </contour>
     <contour>
-      <point x="240" y="-10" type="line"/>
-      <point x="117" y="-10"/>
+      <point x="240" y="-11" type="line"/>
+      <point x="117" y="-11"/>
       <point x="35" y="86"/>
       <point x="35" y="230" type="curve" smooth="yes"/>
       <point x="35" y="363"/>
-      <point x="126" y="470"/>
-      <point x="240" y="470" type="curve"/>
-      <point x="240" y="405" type="line"/>
-      <point x="169" y="405"/>
+      <point x="126" y="471"/>
+      <point x="240" y="471" type="curve"/>
+      <point x="240" y="406" type="line"/>
+      <point x="169" y="406"/>
       <point x="115" y="357"/>
       <point x="115" y="230" type="curve" smooth="yes"/>
       <point x="115" y="109"/>
-      <point x="170" y="55"/>
-      <point x="240" y="55" type="curve"/>
+      <point x="170" y="54"/>
+      <point x="240" y="54" type="curve"/>
     </contour>
     <contour>
       <point x="240" y="55" type="line"/>

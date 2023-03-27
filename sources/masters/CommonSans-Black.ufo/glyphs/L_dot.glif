@@ -5,12 +5,10 @@
   <anchor x="95" y="740" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered" xOffset="145"/>
+    <component base="periodcentered" xOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>L+periodcentered</string>
   </dict>
