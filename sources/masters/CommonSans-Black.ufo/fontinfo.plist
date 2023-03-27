@@ -7,7 +7,7 @@
     <key>styleName</key>
     <string>Black</string>
     <key>styleMapFamilyName</key>
-    <string>Common Sans</string>
+    <string>Common Sans Black</string>
     <key>styleMapStyleName</key>
     <string>bold</string>
     <key>versionMajor</key>
@@ -31,7 +31,7 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
-    <string>2023/03/27 11:53:44</string>
+    <string>2023/03/27 11:48:02</string>
     <key>openTypeHheaAscender</key>
     <integer>950</integer>
     <key>openTypeHheaDescender</key>
@@ -181,30 +181,6 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
     <false/>
     <key>guidelines</key>
     <array>
-      <dict>
-        <key>x</key>
-        <real>500</real>
-        <key>y</key>
-        <real>266</real>
-        <key>angle</key>
-        <real>0</real>
-      </dict>
-      <dict>
-        <key>x</key>
-        <real>500</real>
-        <key>y</key>
-        <real>261</real>
-        <key>angle</key>
-        <real>0</real>
-      </dict>
-      <dict>
-        <key>x</key>
-        <real>157.333</real>
-        <key>y</key>
-        <real>300</real>
-        <key>angle</key>
-        <real>270</real>
-      </dict>
       <dict>
         <key>y</key>
         <real>250</real>

@@ -6,7 +6,4 @@
     <component base="l"/>
     <component base="periodcentered" xOffset="256"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

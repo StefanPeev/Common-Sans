@@ -6,7 +6,4 @@
     <component base="uni0416"/>
     <component base="uni0308" xOffset="715" yOffset="220"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

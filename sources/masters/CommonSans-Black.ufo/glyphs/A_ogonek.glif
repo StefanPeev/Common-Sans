@@ -7,7 +7,4 @@
     <component base="A"/>
     <component base="ogonek" xOffset="389"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

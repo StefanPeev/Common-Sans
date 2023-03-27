@@ -6,7 +6,4 @@
     <component base="dotlessi"/>
     <component base="tildecomb" xOffset="351" yOffset="20"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

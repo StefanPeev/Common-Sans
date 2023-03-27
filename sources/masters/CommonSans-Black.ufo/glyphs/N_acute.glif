@@ -7,7 +7,4 @@
     <component base="N"/>
     <component base="acutecomb" xOffset="610" yOffset="200"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

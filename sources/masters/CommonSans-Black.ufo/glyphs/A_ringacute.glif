@@ -6,7 +6,4 @@
     <component base="Aring"/>
     <component base="acutecomb" xOffset="526" yOffset="200"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

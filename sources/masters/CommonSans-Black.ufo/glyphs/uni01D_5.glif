@@ -6,7 +6,4 @@
     <component base="Udieresis"/>
     <component base="uni0304" xOffset="505" yOffset="220"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

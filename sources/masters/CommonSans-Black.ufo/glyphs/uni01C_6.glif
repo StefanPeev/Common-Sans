@@ -6,7 +6,4 @@
     <component base="d"/>
     <component base="zcaron" xOffset="491"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

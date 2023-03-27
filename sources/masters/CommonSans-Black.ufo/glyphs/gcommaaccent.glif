@@ -6,7 +6,4 @@
     <component base="g"/>
     <component base="quoteleft" xOffset="131" yOffset="10"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

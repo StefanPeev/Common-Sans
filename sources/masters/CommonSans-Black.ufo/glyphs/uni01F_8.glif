@@ -7,7 +7,4 @@
     <component base="N"/>
     <component base="gravecomb" xOffset="621" yOffset="200"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

@@ -6,7 +6,4 @@
     <component base="a"/>
     <component base="tildecomb" xOffset="503" yOffset="20"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

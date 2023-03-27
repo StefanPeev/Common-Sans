@@ -6,7 +6,4 @@
     <component base="adieresis"/>
     <component base="uni0304" xOffset="467"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

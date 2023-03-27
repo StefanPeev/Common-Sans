@@ -7,7 +7,4 @@
     <component base="c"/>
     <component base="cedilla" xOffset="21"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

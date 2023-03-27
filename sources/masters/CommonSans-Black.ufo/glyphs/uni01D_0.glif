@@ -6,7 +6,4 @@
     <component base="dotlessi"/>
     <component base="caron" xOffset="-22" yOffset="20"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

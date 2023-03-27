@@ -6,7 +6,4 @@
     <component base="A"/>
     <component base="caron" xOffset="155" yOffset="220"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

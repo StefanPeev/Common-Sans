@@ -7,7 +7,4 @@
     <component base="I"/>
     <component base="J" xOffset="280"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

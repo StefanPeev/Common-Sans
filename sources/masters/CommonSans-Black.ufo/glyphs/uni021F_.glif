@@ -6,7 +6,4 @@
     <component base="h"/>
     <component base="caroncomb" xOffset="522"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

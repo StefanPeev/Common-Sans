@@ -7,7 +7,4 @@
     <component base="S"/>
     <component base="cedillacomb" xOffset="429"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

@@ -6,7 +6,4 @@
     <component base="dotlessi"/>
     <component base="gravecomb" xOffset="360"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

@@ -6,7 +6,4 @@
     <component base="dotlessi"/>
     <component base="uni0304" xOffset="333" yOffset="70"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

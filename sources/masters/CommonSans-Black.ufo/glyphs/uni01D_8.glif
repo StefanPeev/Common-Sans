@@ -6,7 +6,4 @@
     <component base="udieresis"/>
     <component base="acutecomb" xOffset="443"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>

@@ -6,7 +6,4 @@
     <component base="O"/>
     <component base="gravecomb" xOffset="566" yOffset="200"/>
   </outline>
-  <lib>
-    <dict/>
-  </lib>
 </glyph>
