@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" name="weight" maximum="900" default="400" minimum="100">
+  <axis tag="wght" name="weight" default="400" maximum="900" minimum="100">
    <labelname xml:lang="en">Weight</labelname>
-   <map output="100" input="100"/>
-   <map output="400" input="400"/>
-   <map output="900" input="900"/>
+   <map input="100" output="100"/>
+   <map input="400" output="400"/>
+   <map input="900" output="900"/>
   </axis>
  </axes>
  <sources>
-  <source name="Black" familyname="Common Sans" stylename="Black" filename="masters/CommonSans-Black.ufo">
+  <source name="Black" stylename="Black" filename="masters/CommonSans-Black.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>
   </source>
-  <source name="Regular" familyname="Common Sans" stylename="Regular" filename="masters/CommonSans-Regular.ufo">
+  <source name="Regular" stylename="Regular" filename="masters/CommonSans-Regular.ufo" familyname="Common Sans">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -23,54 +23,54 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source name="Thin" familyname="Common Sans" stylename="Thin" filename="masters/CommonSans-Thin.ufo">
+  <source name="Thin" stylename="Thin" filename="masters/CommonSans-Thin.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance name="Thin" familyname="Common Sans" stylename="Thin" filename="instances/CommonSans-Thin.ufo">
+  <instance name="Thin" stylename="Thin" filename="instances/CommonSans-Thin.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance name="ExtraLight" familyname="Common Sans" stylename="ExtraLight" filename="instances/CommonSans-ExtraLight.ufo">
+  <instance name="ExtraLight" stylename="ExtraLight" filename="instances/CommonSans-ExtraLight.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance name="Light" familyname="Common Sans" stylename="Light" filename="instances/CommonSans-Light.ufo">
+  <instance name="Light" stylename="Light" filename="instances/CommonSans-Light.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance name="Regular" familyname="Common Sans" stylename="Regular" filename="instances/CommonSans-Regular.ufo">
+  <instance name="Regular" stylename="Regular" filename="instances/CommonSans-Regular.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance name="Medium" familyname="Common Sans" stylename="Medium" filename="instances/CommonSans-Medium.ufo">
+  <instance name="Medium" stylename="Medium" filename="instances/CommonSans-Medium.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance name="SemiBold" familyname="Common Sans" stylename="SemiBold" filename="instances/CommonSans-SemiBold.ufo">
+  <instance name="SemiBold" stylename="SemiBold" filename="instances/CommonSans-SemiBold.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance name="Bold" familyname="Common Sans" stylename="Bold" filename="instances/CommonSans-Bold.ufo">
+  <instance name="Bold" stylename="Bold" filename="instances/CommonSans-Bold.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance name="ExtraBold" familyname="Common Sans" stylename="ExtraBold" filename="instances/CommonSans-ExtraBold.ufo">
+  <instance name="ExtraBold" stylename="ExtraBold" filename="instances/CommonSans-ExtraBold.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance name="Black" familyname="Common Sans" stylename="Black" filename="instances/CommonSans-Black.ufo">
+  <instance name="Black" stylename="Black" filename="instances/CommonSans-Black.ufo" familyname="Common Sans">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>

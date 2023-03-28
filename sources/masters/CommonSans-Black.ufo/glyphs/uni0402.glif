@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0402" format="2">
-  <advance width="1345"/>
+  <advance width="1355"/>
   <unicode hex="0402"/>
   <anchor x="240" y="740" name="top"/>
   <anchor x="240" y="-60" name="bottom"/>
-  <anchor x="1217" y="520" name="aboveLC"/>
+  <anchor x="1227" y="520" name="aboveLC"/>
   <outline>
     <component base="T"/>
     <component base="h" xOffset="480"/>
-    <component base="uni0237" xOffset="1084"/>
+    <component base="uni0237" xOffset="1094"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T_h_uni0237</string>
+  </dict>
+  </lib>
 </glyph>

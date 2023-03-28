@@ -4,9 +4,14 @@
   <unicode hex="044B"/>
   <outline>
     <component base="dotlessi" xOffset="470"/>
-    <component base="uni044C" xOffset="-5"/>
+    <component base="uni044C"/>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
   </lib>
 </glyph>

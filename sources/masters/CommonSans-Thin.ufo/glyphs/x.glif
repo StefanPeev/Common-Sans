@@ -4,16 +4,28 @@
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="336" y="460" type="line"/>
-      <point x="356" y="460" type="line"/>
-      <point x="70" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="200" y="245" type="line"/>
+      <point x="206" y="248" type="line"/>
+      <point x="338" y="460" type="line"/>
+      <point x="358" y="460" type="line"/>
+      <point x="216" y="232" type="line"/>
+      <point x="210" y="228" type="line"/>
+      <point x="68" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="346" y="0" type="line"/>
-      <point x="60" y="460" type="line"/>
-      <point x="80" y="460" type="line"/>
-      <point x="366" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="206" y="228" type="line"/>
+      <point x="200" y="231" type="line"/>
+      <point x="58" y="460" type="line"/>
+      <point x="78" y="460" type="line"/>
+      <point x="210" y="248" type="line"/>
+      <point x="216" y="245" type="line"/>
+      <point x="368" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="248"/>
+  <guideline angle="0" x="0" y="228"/>
+  <guideline angle="90" x="202" y="0"/>
+  <guideline angle="90" x="214" y="0"/>
 </glyph>

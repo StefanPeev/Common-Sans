@@ -2,9 +2,6 @@
 <glyph name="N" format="2">
   <advance width="714"/>
   <unicode hex="004E"/>
-  <guideline x="230" y="0" angle="90"/>
-  <guideline x="626" y="0" angle="90"/>
-  <guideline x="409" y="0" angle="90"/>
   <anchor x="409" y="740" name="top"/>
   <anchor x="409" y="-60" name="bottom"/>
   <outline>
@@ -29,7 +26,15 @@
       <point x="230" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="230" y="0"/>
+  <guideline angle="90" x="626" y="0"/>
+  <guideline angle="90" x="409" y="0"/>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
   </lib>
 </glyph>

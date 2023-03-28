@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="327"/>
+  <advance width="407"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="50" y="567" type="curve"/>
+      <point x="50" y="497" type="curve"/>
       <point x="50" y="634" type="line"/>
       <point x="156" y="634"/>
       <point x="210" y="666"/>
       <point x="248" y="700" type="curve"/>
-      <point x="277" y="700" type="line"/>
-      <point x="277" y="0" type="line"/>
+      <point x="367" y="700" type="line"/>
+      <point x="367" y="0" type="line"/>
       <point x="187" y="0" type="line"/>
-      <point x="187" y="530" type="line" smooth="yes"/>
-      <point x="187" y="550"/>
-      <point x="187" y="569"/>
-      <point x="187" y="589" type="curve"/>
-      <point x="164" y="582"/>
-      <point x="119" y="567"/>
+      <point x="187" y="460" type="line" smooth="yes"/>
+      <point x="187" y="480"/>
+      <point x="187" y="499"/>
+      <point x="187" y="519" type="curve"/>
+      <point x="164" y="512"/>
+      <point x="119" y="497"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="2">
-  <advance width="338"/>
+  <advance width="358"/>
   <unicode hex="00A8"/>
-  <anchor x="169" y="500" name="_aboveUC"/>
-  <anchor x="169" y="480" name="_aboveLC"/>
+  <anchor x="179" y="540" name="_aboveUC"/>
+  <anchor x="179" y="540" name="_aboveLC"/>
   <outline>
     <contour>
-      <point x="50" y="520" type="line"/>
-      <point x="50" y="600" type="line"/>
-      <point x="130" y="600" type="line"/>
-      <point x="130" y="520" type="line"/>
+      <point x="60" y="540" type="line"/>
+      <point x="60" y="620" type="line"/>
+      <point x="140" y="620" type="line"/>
+      <point x="140" y="540" type="line"/>
     </contour>
     <contour>
-      <point x="208" y="520" type="line"/>
-      <point x="208" y="600" type="line"/>
-      <point x="288" y="600" type="line"/>
-      <point x="288" y="520" type="line"/>
+      <point x="218" y="540" type="line"/>
+      <point x="218" y="620" type="line"/>
+      <point x="298" y="620" type="line"/>
+      <point x="298" y="540" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
 </glyph>

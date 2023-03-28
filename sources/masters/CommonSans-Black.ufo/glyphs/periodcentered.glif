@@ -6,6 +6,11 @@
     <component base="period" yOffset="230"/>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
   </lib>
 </glyph>

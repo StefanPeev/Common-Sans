@@ -8,6 +8,13 @@
     <component base="uni042C" xOffset="380"/>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni041D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni041D_uni042C</string>
+  </dict>
   </lib>
 </glyph>
