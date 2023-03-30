@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446" format="2">
-  <advance width="527"/>
+  <advance width="500"/>
   <unicode hex="0446"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotlessi" xOffset="306"/>
+    <component base="dotlessi" xOffset="-10"/>
+    <component base="dotlessi" xOffset="296"/>
     <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="415" y="0" type="line"/>
-      <point x="415" y="18" type="line"/>
-      <point x="111" y="18" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="405" y="18" type="line"/>
+      <point x="101" y="18" type="line"/>
     </contour>
     <contour>
-      <point x="415" y="0" type="line"/>
-      <point x="477" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="477" y="-140" type="line"/>
       <point x="487" y="-140" type="line"/>
-      <point x="497" y="-140" type="line"/>
-      <point x="497" y="18" type="line"/>
-      <point x="415" y="18" type="line"/>
+      <point x="487" y="18" type="line"/>
+      <point x="405" y="18" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

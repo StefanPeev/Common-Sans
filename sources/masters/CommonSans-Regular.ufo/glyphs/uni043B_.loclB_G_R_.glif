@@ -3,14 +3,22 @@
   <advance width="437"/>
   <outline>
     <contour>
-      <point x="35" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
       <point x="171" y="460" type="line"/>
       <point x="281" y="460" type="line"/>
-      <point x="402" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
-      <point x="219" y="407" type="line"/>
-      <point x="225" y="407" type="line"/>
-      <point x="115" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="214" y="407" type="line"/>
+      <point x="231" y="407" type="line"/>
+      <point x="101" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=v</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=v</string>
+  </dict>
+  </lib>
 </glyph>

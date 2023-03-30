@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0443" format="2">
-  <advance width="460"/>
+  <advance width="540"/>
   <unicode hex="0443"/>
   <outline>
     <component base="y"/>
@@ -9,6 +9,10 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
   <key>com.fontlab.recipe</key>
   <string>y</string>
   <key>public.markColor</key>

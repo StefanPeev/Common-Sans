@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0434.loclBGR" format="2">
-  <advance width="532"/>
-  <anchor x="241" y="520" name="top"/>
+  <advance width="548"/>
+  <anchor x="256" y="520" name="top"/>
   <outline>
     <component base="g"/>
   </outline>
@@ -9,6 +9,10 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>com.fontlab.recipe</key>
   <string>g</string>
   <key>public.markColor</key>

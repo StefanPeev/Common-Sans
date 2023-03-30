@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0433" format="2">
-  <advance width="437"/>
+  <advance width="417"/>
   <unicode hex="0433"/>
   <anchor x="217" y="520" name="aboveLC"/>
   <outline>
@@ -14,4 +14,12 @@
       <point x="150" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
 </glyph>

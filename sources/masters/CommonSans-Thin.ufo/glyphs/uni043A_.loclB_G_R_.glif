@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A.loclBGR" format="2">
-  <advance width="373"/>
+  <advance width="458"/>
   <outline>
     <component base="k"/>
   </outline>
@@ -11,7 +11,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=uni043B.loclBGR</string>
+  <string>=x</string>
   <key>com.fontlab.recipe</key>
   <string>k</string>
   </dict>

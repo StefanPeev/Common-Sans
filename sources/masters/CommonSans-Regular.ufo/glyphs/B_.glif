@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B" format="2">
-  <advance width="620"/>
+  <advance width="590"/>
   <unicode hex="0042"/>
   <outline>
     <component base="I"/>
@@ -52,7 +52,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=80</string>
+  <string>=O</string>
   </dict>
   </lib>
 </glyph>

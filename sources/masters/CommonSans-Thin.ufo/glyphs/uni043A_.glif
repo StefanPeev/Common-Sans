@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A" format="2">
-  <advance width="355"/>
+  <advance width="458"/>
   <unicode hex="043A"/>
   <outline>
     <contour>
       <point x="90" y="0" type="line"/>
-      <point x="112" y="0" type="line"/>
-      <point x="112" y="460" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="460" type="line"/>
       <point x="90" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="141" y="253" type="line"/>
-      <point x="318" y="0" type="line"/>
-      <point x="340" y="0" type="line"/>
-      <point x="156" y="270" type="line"/>
+      <point x="169" y="256" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="185" y="270" type="line"/>
     </contour>
     <contour>
       <point x="103" y="183" type="line"/>
-      <point x="320" y="460" type="line"/>
-      <point x="298" y="460" type="line"/>
-      <point x="103" y="220" type="line"/>
+      <point x="409" y="460" type="line"/>
+      <point x="379" y="460" type="line"/>
+      <point x="103" y="210" type="line"/>
     </contour>
   </outline>
-  <guideline angle="50.8263" x="144" y="271"/>
-  <guideline angle="51.8681" x="163" y="260"/>
-  <guideline angle="304.946" x="144" y="249"/>
-  <guideline angle="124.221" x="340" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
   <key>com.fontlab.recipe</key>
   <string>k</string>
   </dict>

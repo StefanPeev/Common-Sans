@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043D" format="2">
-  <advance width="518"/>
+  <advance width="526"/>
   <unicode hex="043D"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotlessi" xOffset="296"/>
+    <component base="dotlessi" xOffset="-10"/>
+    <component base="dotlessi" xOffset="316"/>
     <contour>
-      <point x="110" y="231" type="line"/>
-      <point x="110" y="249" type="line"/>
-      <point x="407" y="249" type="line"/>
-      <point x="407" y="231" type="line"/>
+      <point x="100" y="231" type="line"/>
+      <point x="100" y="249" type="line"/>
+      <point x="427" y="249" type="line"/>
+      <point x="427" y="231" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="602"/>
+  <advance width="587"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
@@ -26,6 +26,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
   </dict>
   </lib>
 </glyph>

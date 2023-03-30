@@ -38,9 +38,9 @@
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=10</string>
+  <string>=x</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=10</string>
+  <string>=k</string>
   </dict>
   </lib>
 </glyph>
