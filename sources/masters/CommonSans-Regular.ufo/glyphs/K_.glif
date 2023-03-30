@@ -5,23 +5,20 @@
   <outline>
     <component base="I"/>
     <contour>
-      <point x="146" y="293" type="line"/>
-      <point x="230" y="317" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
-      <point x="310" y="350" type="line"/>
-      <point x="510" y="680" type="line"/>
+      <point x="146" y="166" type="line"/>
+      <point x="146" y="319" type="line"/>
       <point x="400" y="680" type="line"/>
-      <point x="230" y="397" type="line"/>
-      <point x="146" y="373" type="line"/>
+      <point x="510" y="680" type="line"/>
+      <point x="342" y="442" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="274" y="347" type="line"/>
     </contour>
   </outline>
-  <guideline angle="303.523" x="230" y="317"/>
-  <guideline angle="239.006" x="400" y="680"/>
-  <guideline angle="15.9454" x="146" y="293"/>
-  <guideline angle="195.945" x="230" y="397"/>
   <guideline angle="0" x="0" y="350"/>
-  <guideline angle="15.9454" x="146" y="293"/>
+  <guideline angle="295.188" x="352" y="421"/>
+  <guideline angle="115.617" x="440" y="0"/>
+  <guideline angle="54.8697" x="255" y="319"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

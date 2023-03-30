@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0416" format="2">
-  <advance width="930"/>
+  <advance width="910"/>
   <unicode hex="0416"/>
   <outline>
     <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="270" y="350" type="line"/>
-      <point x="70" y="680" type="line"/>
-      <point x="180" y="680" type="line"/>
-      <point x="350" y="397" type="line"/>
-      <point x="420" y="377" type="line"/>
-      <point x="420" y="680" type="line"/>
-      <point x="510" y="680" type="line"/>
-      <point x="510" y="377" type="line"/>
-      <point x="580" y="397" type="line"/>
+      <point x="414" y="166" type="line"/>
+      <point x="286" y="347" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="218" y="442" type="line"/>
+      <point x="50" y="680" type="line"/>
+      <point x="160" y="680" type="line"/>
+      <point x="414" y="319" type="line"/>
+    </contour>
+    <contour>
+      <point x="496" y="166" type="line"/>
+      <point x="496" y="319" type="line"/>
       <point x="750" y="680" type="line"/>
       <point x="860" y="680" type="line"/>
-      <point x="660" y="350" type="line"/>
+      <point x="692" y="442" type="line"/>
       <point x="900" y="0" type="line"/>
       <point x="790" y="0" type="line"/>
-      <point x="580" y="317" type="line"/>
-      <point x="510" y="297" type="line"/>
-      <point x="510" y="0" type="line"/>
-      <point x="420" y="0" type="line"/>
-      <point x="420" y="297" type="line"/>
-      <point x="350" y="317" type="line"/>
-      <point x="140" y="0" type="line"/>
+      <point x="624" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="0" type="line"/>
+      <point x="410" y="680" type="line"/>
+      <point x="500" y="680" type="line"/>
+      <point x="500" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
+  </lib>
 </glyph>

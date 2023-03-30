@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A.loclBGR" format="2">
-  <advance width="460"/>
+  <advance width="462"/>
   <outline>
-    <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="150" y="700" type="line"/>
-      <point x="70" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="137" y="198" type="line"/>
-      <point x="207" y="233" type="line"/>
-      <point x="234" y="233"/>
-      <point x="257" y="210"/>
-      <point x="276" y="164" type="curve" smooth="yes"/>
-      <point x="345" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="333" y="201" type="line" smooth="yes"/>
-      <point x="302" y="268"/>
-      <point x="264" y="294"/>
-      <point x="200" y="294" type="curve"/>
-      <point x="137" y="264" type="line"/>
-    </contour>
-    <contour>
-      <point x="238" y="251" type="line"/>
-      <point x="367" y="460" type="line"/>
-      <point x="287" y="460" type="line"/>
-      <point x="167" y="263" type="line"/>
-    </contour>
+    <component base="k"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.recipe</key>
+  <string>k</string>
   </dict>
   </lib>
 </glyph>

@@ -10,3 +10,9 @@
 
 <img src="https://github.com/StefanPeev/Common-Sans/blob/main/images/CommonSans_05.png" />
 
+<img src="https://github.com/StefanPeev/Common-Sans/blob/main/images/CommonSans_06.png" />
+
+<img src="https://github.com/StefanPeev/Common-Sans/blob/main/images/CommonSans_07.png" />
+
+<img src="https://github.com/StefanPeev/Common-Sans/blob/main/images/CommonSans_08.png" />
+
