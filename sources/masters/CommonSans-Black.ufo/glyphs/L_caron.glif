@@ -8,11 +8,6 @@
     <component base="quoteright" xOffset="250" yOffset="-20"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>L+quoteright</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

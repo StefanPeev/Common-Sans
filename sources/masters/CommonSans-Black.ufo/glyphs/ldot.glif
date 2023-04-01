@@ -6,12 +6,4 @@
     <component base="l"/>
     <component base="periodcentered" xOffset="256"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>l_periodcentered</string>
-  </dict>
-  </lib>
 </glyph>

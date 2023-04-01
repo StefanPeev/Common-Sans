@@ -24,9 +24,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

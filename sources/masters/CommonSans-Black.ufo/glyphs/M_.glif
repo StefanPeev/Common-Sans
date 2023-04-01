@@ -2,6 +2,12 @@
 <glyph name="M" format="2">
   <advance width="890"/>
   <unicode hex="004D"/>
+  <guideline x="445" y="0" angle="90"/>
+  <guideline x="445" y="0" angle="90"/>
+  <guideline x="0" y="335" angle="0"/>
+  <guideline x="494" y="335" angle="67.0625"/>
+  <guideline x="338" y="0" angle="111.51"/>
+  <guideline x="820" y="680" angle="248.344"/>
   <anchor x="445" y="740" name="top"/>
   <outline>
     <contour>
@@ -35,18 +41,7 @@
       <point x="840" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="445" y="0"/>
-  <guideline angle="90" x="445" y="0"/>
-  <guideline angle="0" x="0" y="335"/>
-  <guideline angle="67.0625" x="494" y="335"/>
-  <guideline angle="111.51" x="338" y="0"/>
-  <guideline angle="248.344" x="820" y="680"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=H</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=H</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncmb.cap" format="2">
+  <advance width="0"/>
   <anchor x="-220" y="700" name="_aboveUC"/>
   <outline>
     <contour>

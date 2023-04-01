@@ -2,6 +2,7 @@
 <glyph name="S" format="2">
   <advance width="581"/>
   <unicode hex="0053"/>
+  <guideline x="270" y="0" angle="90"/>
   <anchor x="289" y="740" name="top"/>
   <outline>
     <contour>
@@ -47,13 +48,7 @@
       <point x="30" y="88"/>
     </contour>
   </outline>
-  <guideline angle="90" x="270" y="0"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=O</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

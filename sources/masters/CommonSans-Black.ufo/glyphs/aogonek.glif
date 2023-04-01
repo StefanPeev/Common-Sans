@@ -7,14 +7,4 @@
     <component base="a"/>
     <component base="ogonek" xOffset="267"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>a+>~ogonek</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

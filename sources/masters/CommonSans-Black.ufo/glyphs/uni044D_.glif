@@ -2,6 +2,8 @@
 <glyph name="uni044D" format="2">
   <advance width="494"/>
   <unicode hex="044D"/>
+  <guideline x="0" y="120" angle="0"/>
+  <guideline x="0" y="340" angle="0"/>
   <outline>
     <contour>
       <point x="30" y="159" type="line"/>
@@ -38,14 +40,7 @@
       <point x="376" y="165" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="120"/>
-  <guideline angle="0" x="0" y="340"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=o</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=o</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

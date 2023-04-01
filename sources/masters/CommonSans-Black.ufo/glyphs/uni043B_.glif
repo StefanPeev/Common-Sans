@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043B" format="2">
-  <advance width="538"/>
+  <advance width="548"/>
   <unicode hex="043B"/>
   <outline>
-    <component base="dotlessi" xOffset="262"/>
     <contour>
-      <point x="10" y="0" type="line"/>
-      <point x="10" y="152" type="line"/>
-      <point x="56" y="152"/>
-      <point x="79" y="165"/>
-      <point x="86" y="290" type="curve" smooth="yes"/>
-      <point x="96" y="460" type="line"/>
-      <point x="266" y="460" type="line"/>
-      <point x="256" y="310" type="line" smooth="yes"/>
-      <point x="239" y="61"/>
-      <point x="195" y="0"/>
-      <point x="71" y="0" type="curve" smooth="yes"/>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="152" type="line"/>
+      <point x="66" y="152"/>
+      <point x="89" y="165"/>
+      <point x="96" y="290" type="curve" smooth="yes"/>
+      <point x="106" y="460" type="line"/>
+      <point x="276" y="460" type="line"/>
+      <point x="266" y="310" type="line" smooth="yes"/>
+      <point x="249" y="61"/>
+      <point x="205" y="0"/>
+      <point x="81" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="126" y="304" type="line"/>
-      <point x="126" y="460" type="line"/>
-      <point x="427" y="460" type="line"/>
-      <point x="427" y="304" type="line"/>
+      <point x="136" y="304" type="line"/>
+      <point x="136" y="460" type="line"/>
+      <point x="437" y="460" type="line"/>
+      <point x="437" y="304" type="line"/>
     </contour>
+    <component base="dotlessi" xOffset="272"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=x</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

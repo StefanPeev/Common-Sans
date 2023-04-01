@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="2">
-  <advance width="538"/>
+  <advance width="419"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="311" y="700" type="line"/>
-      <point x="498" y="700" type="line"/>
-      <point x="231" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="301" y="700" type="line"/>
+      <point x="388" y="700" type="line"/>
+      <point x="121" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=40</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=40</string>
-  </dict>
-  </lib>
 </glyph>

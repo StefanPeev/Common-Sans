@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F3" format="2">
-  <advance width="1005"/>
+  <advance width="941"/>
   <unicode hex="01F3"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="555"/>
+    <component base="z" xOffset="491"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>d_z</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>
