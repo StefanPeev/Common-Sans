@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044A" format="2">
-  <advance width="558"/>
+  <advance width="563"/>
   <unicode hex="044A"/>
   <outline>
     <contour>
@@ -37,9 +37,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>=b</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-  <advance width="775"/>
+  <advance width="711"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="quoteright" xOffset="555"/>
+    <component base="quoteright" xOffset="491"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>d_quoteright</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
 </glyph>

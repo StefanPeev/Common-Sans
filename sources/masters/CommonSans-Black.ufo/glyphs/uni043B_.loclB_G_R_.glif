@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043B.loclBGR" format="2">
-  <advance width="529"/>
+  <advance width="437"/>
   <outline>
     <contour>
-      <point x="10" y="0" type="line"/>
-      <point x="146" y="460" type="line"/>
-      <point x="396" y="460" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="337" y="0" type="line"/>
-      <point x="264" y="297" type="line"/>
-      <point x="270" y="297" type="line"/>
-      <point x="190" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="171" y="460" type="line"/>
+      <point x="281" y="460" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="222" y="395" type="line"/>
+      <point x="115" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=v</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=v</string>
-  </dict>
-  </lib>
 </glyph>

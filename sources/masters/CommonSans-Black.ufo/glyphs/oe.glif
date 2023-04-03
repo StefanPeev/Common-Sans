@@ -3,7 +3,6 @@
   <advance width="801"/>
   <unicode hex="0153"/>
   <outline>
-    <component base="e" xOffset="294"/>
     <contour>
       <point x="265" y="-16" type="line"/>
       <point x="125" y="-16"/>
@@ -36,13 +35,9 @@
       <point x="303" y="320"/>
       <point x="265" y="320" type="curve"/>
     </contour>
+    <component base="e" xOffset="294"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=o</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=o</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

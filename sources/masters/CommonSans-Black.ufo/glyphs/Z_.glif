@@ -2,6 +2,8 @@
 <glyph name="Z" format="2">
   <advance width="615"/>
   <unicode hex="005A"/>
+  <guideline x="50" y="80" angle="58.4046"/>
+  <guideline x="266" y="80" angle="58.4046"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
@@ -18,6 +20,4 @@
       <point x="590" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="58.4046" x="50" y="80"/>
-  <guideline angle="58.4046" x="266" y="80"/>
 </glyph>
