@@ -14,11 +14,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=v</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=v</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -2,18 +2,13 @@
 <glyph name="semicolon" format="2">
   <advance width="220"/>
   <unicode hex="003B"/>
+  <guideline x="30" y="0" angle="90"/>
+  <guideline x="0" y="370" angle="0.189999"/>
   <outline>
     <component base="comma"/>
     <component base="period" xOffset="-10" yOffset="370"/>
   </outline>
-  <guideline angle="90" x="30" y="0"/>
-  <guideline angle="0.189999" x="0" y="370"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=comma</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=comma</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

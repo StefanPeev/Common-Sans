@@ -7,11 +7,6 @@
     <component base="uni0308" xOffset="480"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>y+uni0308</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

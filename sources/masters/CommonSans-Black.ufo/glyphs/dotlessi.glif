@@ -2,6 +2,8 @@
 <glyph name="dotlessi" format="2">
   <advance width="296"/>
   <unicode hex="0131"/>
+  <guideline x="0" y="540" angle="0"/>
+  <guideline x="148" y="0" angle="90"/>
   <anchor x="148" y="540" name="top"/>
   <outline>
     <contour>
@@ -11,14 +13,7 @@
       <point x="236" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="540"/>
-  <guideline angle="90" x="148" y="0"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=60</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=60</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

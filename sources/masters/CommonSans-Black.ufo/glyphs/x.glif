@@ -2,6 +2,10 @@
 <glyph name="x" format="2">
   <advance width="536"/>
   <unicode hex="0078"/>
+  <guideline x="0" y="342" angle="0"/>
+  <guideline x="0" y="123" angle="0"/>
+  <guideline x="184" y="0" angle="90"/>
+  <guideline x="353" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
@@ -24,16 +28,7 @@
       <point x="526" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="342"/>
-  <guideline angle="0" x="0" y="123"/>
-  <guideline angle="90" x="184" y="0"/>
-  <guideline angle="90" x="353" y="0"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=10</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=10</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

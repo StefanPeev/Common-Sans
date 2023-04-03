@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0433.loclBGR" format="2">
   <advance width="445"/>
+  <guideline x="258" y="182" angle="200.283"/>
+  <guideline x="186" y="282" angle="18.4349"/>
   <outline>
     <contour>
       <point x="36" y="125" type="curve" smooth="yes"/>
@@ -45,6 +47,4 @@
       <point x="36" y="48"/>
     </contour>
   </outline>
-  <guideline angle="200.283" x="258" y="182"/>
-  <guideline angle="18.4349" x="186" y="282"/>
 </glyph>

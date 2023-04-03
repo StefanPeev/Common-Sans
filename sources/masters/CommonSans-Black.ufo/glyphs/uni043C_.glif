@@ -2,6 +2,8 @@
 <glyph name="uni043C" format="2">
   <advance width="807"/>
   <unicode hex="043C"/>
+  <guideline x="0" y="422" angle="0"/>
+  <guideline x="0" y="90" angle="0"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
@@ -32,14 +34,7 @@
       <point x="220" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="422"/>
-  <guideline angle="0" x="0" y="90"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=n</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

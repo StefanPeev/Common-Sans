@@ -2,6 +2,7 @@
 <glyph name="four" format="2">
   <advance width="561"/>
   <unicode hex="0034"/>
+  <guideline x="320" y="620" angle="239.059"/>
   <outline>
     <contour>
       <point x="40" y="173" type="line"/>
@@ -18,13 +19,7 @@
       <point x="560" y="173" type="line"/>
     </contour>
   </outline>
-  <guideline angle="239.059" x="320" y="620"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=40</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=1</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

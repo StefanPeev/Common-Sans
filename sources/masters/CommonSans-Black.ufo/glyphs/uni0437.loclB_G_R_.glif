@@ -6,11 +6,6 @@
     <component base="uni0437"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>uni0437</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -6,11 +6,6 @@
     <component base="gravecomb" xOffset="499"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>uni0438.loclBGR+gravecomb</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

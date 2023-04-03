@@ -34,13 +34,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni043B.loclBGR</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni043B.loclBGR</string>
-  <key>com.fontlab.recipe</key>
-  <string>uni0436</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

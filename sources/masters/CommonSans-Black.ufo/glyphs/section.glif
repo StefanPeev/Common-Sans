@@ -2,6 +2,8 @@
 <glyph name="section" format="2">
   <advance width="465"/>
   <unicode hex="00A7"/>
+  <guideline x="247" y="176" angle="149.511"/>
+  <guideline x="173" y="354" angle="328.95"/>
   <outline>
     <contour>
       <point x="40" y="376" type="curve" smooth="yes"/>
@@ -77,6 +79,4 @@
       <point x="148" y="417"/>
     </contour>
   </outline>
-  <guideline angle="149.511" x="247" y="176"/>
-  <guideline angle="328.95" x="173" y="354"/>
 </glyph>

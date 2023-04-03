@@ -2,6 +2,8 @@
 <glyph name="dollar" format="2">
   <advance width="582"/>
   <unicode hex="0024"/>
+  <guideline x="228" y="328" angle="344.314"/>
+  <guideline x="383" y="378" angle="164.004"/>
   <outline>
     <contour>
       <point x="265" y="-80" type="line"/>
@@ -68,6 +70,4 @@
       <point x="297" y="-17" type="line"/>
     </contour>
   </outline>
-  <guideline angle="344.314" x="228" y="328"/>
-  <guideline angle="164.004" x="383" y="378"/>
 </glyph>

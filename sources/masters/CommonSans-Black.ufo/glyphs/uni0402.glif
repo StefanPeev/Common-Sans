@@ -11,11 +11,6 @@
     <component base="uni0237" xOffset="1094"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>T_h_uni0237</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

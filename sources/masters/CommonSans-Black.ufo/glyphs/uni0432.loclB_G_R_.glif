@@ -56,11 +56,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=n</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=o</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

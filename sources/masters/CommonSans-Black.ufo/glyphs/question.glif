@@ -2,8 +2,9 @@
 <glyph name="question" format="2">
   <advance width="502"/>
   <unicode hex="003F"/>
+  <guideline x="150" y="0" angle="90"/>
+  <guideline x="310" y="0" angle="90"/>
   <outline>
-    <component base="period" xOffset="110"/>
     <contour>
       <point x="40" y="480" type="line"/>
       <point x="41" y="620"/>
@@ -28,7 +29,6 @@
       <point x="198" y="527"/>
       <point x="193" y="480" type="curve"/>
     </contour>
+    <component base="period" xOffset="110"/>
   </outline>
-  <guideline angle="90" x="150" y="0"/>
-  <guideline angle="90" x="310" y="0"/>
 </glyph>

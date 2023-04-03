@@ -4,21 +4,16 @@
   <unicode hex="0048"/>
   <anchor x="330" y="755" name="top"/>
   <outline>
-    <component base="I"/>
-    <component base="I" xOffset="380"/>
     <contour>
       <point x="501" y="417" type="line"/>
       <point x="501" y="257" type="line"/>
       <point x="109" y="257" type="line"/>
       <point x="109" y="417" type="line"/>
     </contour>
+    <component base="I"/>
+    <component base="I" xOffset="380"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=50</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=50</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

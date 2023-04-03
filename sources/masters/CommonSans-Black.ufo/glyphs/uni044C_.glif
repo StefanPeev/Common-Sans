@@ -31,11 +31,6 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=b</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=b</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -3,20 +3,15 @@
   <advance width="418"/>
   <unicode hex="0167"/>
   <outline>
-    <component base="t"/>
     <contour>
       <point x="30" y="238" type="line"/>
       <point x="30" y="312" type="line"/>
       <point x="250" y="312" type="line"/>
       <point x="250" y="238" type="line"/>
     </contour>
+    <component base="t"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=t</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=t</string>
-  </dict>
+    <dict/>
   </lib>
 </glyph>
