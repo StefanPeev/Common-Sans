@@ -1,0 +1,14 @@
+            - name: Font Bakery CI
+  # You may pin to the exact commit or the version.
+  # uses: f-actions/font-bakery@992d2f652486bf6d0c44feb24b00d7743f7fcd86
+  uses: f-actions/font-bakery@v3.1.0
+  with:
+    # Path to build artifact testing directory
+    path: 
+    # Font Bakery subcommand
+    subcmd: 
+    # Font Bakery command line arguments
+    args: # optional, default is none
+    # Font Bakery version
+    version: # optional, default is latest
+          
