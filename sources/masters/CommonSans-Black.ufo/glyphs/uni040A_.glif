@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040A" format="2">
-  <advance width="960"/>
+  <advance width="940"/>
   <unicode hex="040A"/>
   <anchor x="330" y="755" name="top"/>
   <outline>
@@ -8,6 +8,13 @@
     <component base="uni042C" xOffset="380"/>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni041D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni041D_uni042C</string>
+  </dict>
   </lib>
 </glyph>

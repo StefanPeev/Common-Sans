@@ -3,8 +3,38 @@
   <advance width="630"/>
   <unicode hex="044B"/>
   <outline>
-    <component base="dotlessi" xOffset="420"/>
-    <component base="uni044C"/>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="460" type="line"/>
+      <point x="90" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="234" y="0" type="line" smooth="yes"/>
+      <point x="374" y="0"/>
+      <point x="408" y="65"/>
+      <point x="408" y="140" type="curve" smooth="yes"/>
+      <point x="408" y="215"/>
+      <point x="374" y="290"/>
+      <point x="234" y="290" type="curve" smooth="yes"/>
+      <point x="100" y="290" type="line"/>
+      <point x="100" y="272" type="line"/>
+      <point x="234" y="272" type="line" smooth="yes"/>
+      <point x="338" y="272"/>
+      <point x="388" y="229"/>
+      <point x="388" y="140" type="curve" smooth="yes"/>
+      <point x="388" y="61"/>
+      <point x="333" y="18"/>
+      <point x="234" y="18" type="curve" smooth="yes"/>
+      <point x="100" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="540" y="460" type="line"/>
+      <point x="520" y="460" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

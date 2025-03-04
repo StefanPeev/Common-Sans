@@ -2,9 +2,19 @@
 <glyph name="Tcaron" format="2">
   <advance width="480"/>
   <unicode hex="0164"/>
-  <anchor x="240" y="-60" name="bottom"/>
+  <anchor x="240" y="-40" name="bottom"/>
   <outline>
     <component base="T"/>
-    <component base="caroncomb" xOffset="460" yOffset="220"/>
+    <component base="caroncomb" xOffset="460" yOffset="210"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

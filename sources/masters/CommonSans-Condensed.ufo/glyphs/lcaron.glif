@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="404"/>
+  <unicode hex="013E"/>
+  <anchor x="109" y="-40" name="bottom"/>
+  <outline>
+    <component base="l"/>
+    <component base="quoteright" xOffset="16" yOffset="29"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l_quoteright</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0439" format="2">
-  <advance width="528"/>
+  <advance width="548"/>
   <unicode hex="0439"/>
-  <anchor x="264" y="520" name="aboveLC"/>
   <outline>
     <component base="uni0438"/>
-    <component base="uni0306" xOffset="469"/>
+    <component base="uni0306" xOffset="479"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
   <key>com.fontlab.recipe</key>
   <string>uni0438+uni0306</string>
   <key>public.markColor</key>

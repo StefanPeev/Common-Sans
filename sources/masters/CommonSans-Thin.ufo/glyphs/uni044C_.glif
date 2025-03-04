@@ -33,7 +33,7 @@
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=b</string>
+  <string>=n</string>
   <key>com.fontlab.metricsRight</key>
   <string>=b</string>
   </dict>

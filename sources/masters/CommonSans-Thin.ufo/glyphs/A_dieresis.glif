@@ -2,6 +2,9 @@
 <glyph name="Adieresis" format="2">
   <advance width="480"/>
   <unicode hex="00C4"/>
+  <anchor x="240" y="662" name="t.ring"/>
+  <anchor x="240" y="-40" name="bottom"/>
+  <anchor x="460" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
     <component base="uni0308" xOffset="410" yOffset="200"/>

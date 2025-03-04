@@ -2,19 +2,23 @@
 <glyph name="quoteleft" format="2">
   <advance width="220"/>
   <unicode hex="2018"/>
-  <anchor x="110" y="510" name="_top"/>
   <outline>
     <contour>
-      <point x="180" y="790" type="line"/>
-      <point x="148" y="660" type="line"/>
-      <point x="190" y="660" type="line"/>
-      <point x="190" y="510" type="line"/>
       <point x="30" y="510" type="line"/>
-      <point x="30" y="650" type="line"/>
+      <point x="190" y="510" type="line"/>
+      <point x="190" y="660" type="line"/>
+      <point x="148" y="660" type="line"/>
+      <point x="180" y="790" type="line"/>
       <point x="86" y="790" type="line"/>
+      <point x="30" y="650" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|comma</string>
+  </dict>
   </lib>
 </glyph>

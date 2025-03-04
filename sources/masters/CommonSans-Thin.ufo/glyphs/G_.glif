@@ -2,54 +2,45 @@
 <glyph name="G" format="2">
   <advance width="707"/>
   <unicode hex="0047"/>
-  <anchor x="358" y="740" name="top"/>
+  <anchor x="346" y="740" name="top"/>
+  <anchor x="346" y="-40" name="bottom"/>
   <outline>
     <contour>
-      <point x="595" y="280" type="line"/>
-      <point x="595" y="127" type="line"/>
+      <point x="80" y="340" type="curve" smooth="yes"/>
+      <point x="80" y="121"/>
+      <point x="184" y="-8"/>
+      <point x="358" y="-8" type="curve" smooth="yes"/>
+      <point x="465" y="-8"/>
+      <point x="555" y="42"/>
+      <point x="595" y="122" type="curve"/>
       <point x="597" y="0" type="line"/>
       <point x="617" y="0" type="line"/>
       <point x="617" y="300" type="line"/>
       <point x="388" y="300" type="line"/>
       <point x="388" y="280" type="line"/>
-    </contour>
-    <contour>
-      <point x="595" y="173" type="line"/>
-      <point x="595" y="92"/>
-      <point x="476" y="10"/>
-      <point x="358" y="10" type="curve"/>
-      <point x="358" y="-10" type="line"/>
-      <point x="478" y="-10"/>
-      <point x="576" y="52"/>
-      <point x="607" y="149" type="curve"/>
-    </contour>
-    <contour>
-      <point x="358" y="12" type="line"/>
+      <point x="595" y="280" type="line"/>
+      <point x="595" y="175" type="line" smooth="yes"/>
+      <point x="595" y="94"/>
+      <point x="476" y="12"/>
+      <point x="358" y="12" type="curve" smooth="yes"/>
       <point x="194" y="12"/>
       <point x="102" y="131"/>
       <point x="102" y="340" type="curve" smooth="yes"/>
       <point x="102" y="549"/>
       <point x="194" y="668"/>
-      <point x="358" y="668" type="curve"/>
-      <point x="358" y="688" type="line"/>
+      <point x="358" y="668" type="curve" smooth="yes"/>
+      <point x="484" y="668"/>
+      <point x="574" y="587"/>
+      <point x="605" y="452" type="curve"/>
+      <point x="625" y="452" type="line"/>
+      <point x="593" y="604"/>
+      <point x="496" y="688"/>
+      <point x="358" y="688" type="curve" smooth="yes"/>
       <point x="184" y="688"/>
       <point x="80" y="559"/>
-      <point x="80" y="340" type="curve" smooth="yes"/>
-      <point x="80" y="121"/>
-      <point x="184" y="-8"/>
-      <point x="358" y="-8" type="curve"/>
-    </contour>
-    <contour>
-      <point x="358" y="670" type="line"/>
-      <point x="484" y="670"/>
-      <point x="574" y="589"/>
-      <point x="605" y="454" type="curve"/>
-      <point x="625" y="454" type="line"/>
-      <point x="593" y="606"/>
-      <point x="496" y="690"/>
-      <point x="358" y="690" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="346" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

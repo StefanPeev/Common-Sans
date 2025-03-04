@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="480"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="40" y="262" type="line"/>
+      <point x="440" y="262" type="line"/>
+      <point x="440" y="418" type="line"/>
+      <point x="40" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="319" y="680" type="line"/>
+      <point x="161" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="520" type="line"/>
+      <point x="470" y="520" type="line"/>
+      <point x="470" y="680" type="line"/>
+      <point x="10" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=T</string>
+  </dict>
+  </lib>
+</glyph>

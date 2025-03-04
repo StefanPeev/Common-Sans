@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+  <advance width="538"/>
+  <unicode hex="0048"/>
+  <anchor x="269" y="740" name="top"/>
+  <anchor x="269" y="-40" name="bottom"/>
+  <anchor x="379" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="680" type="line"/>
+      <point x="50" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="277" type="line"/>
+      <point x="415" y="277" type="line"/>
+      <point x="415" y="417" type="line"/>
+      <point x="103" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="488" y="680" type="line"/>
+      <point x="335" y="680" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h_1" x="269" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=50</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=50</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obar" format="2">
+  <advance width="704"/>
+  <unicode hex="019F"/>
+  <anchor x="354" y="740" name="top"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="145" y="282" type="line"/>
+      <point x="550" y="282" type="line"/>
+      <point x="550" y="432" type="line"/>
+      <point x="145" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

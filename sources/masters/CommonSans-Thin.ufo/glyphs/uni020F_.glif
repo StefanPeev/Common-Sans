@@ -2,6 +2,8 @@
 <glyph name="uni020F" format="2">
   <advance width="530"/>
   <unicode hex="020F"/>
+  <anchor x="256" y="-40" name="bottom"/>
+  <anchor x="307" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
     <component base="uni0311" xOffset="470"/>

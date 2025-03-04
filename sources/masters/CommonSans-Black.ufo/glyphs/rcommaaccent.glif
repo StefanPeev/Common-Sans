@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcommaaccent" format="2">
-  <advance width="439"/>
+  <advance width="434"/>
   <unicode hex="0157"/>
+  <anchor x="216" y="530" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="uni0326" xOffset="348"/>
+    <component base="uni0326" xOffset="341"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

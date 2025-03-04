@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0459" format="2">
-  <advance width="753"/>
+  <advance width="768"/>
   <unicode hex="0459"/>
   <outline>
     <component base="uni043B"/>
-    <component base="uni044C" xOffset="257"/>
+    <component base="uni044C" xOffset="282"/>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni044C</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni043B_uni044C</string>
+  </dict>
   </lib>
 </glyph>

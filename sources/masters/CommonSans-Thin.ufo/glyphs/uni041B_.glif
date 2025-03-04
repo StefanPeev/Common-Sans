@@ -3,26 +3,31 @@
   <advance width="608"/>
   <unicode hex="041B"/>
   <outline>
-    <component base="I" xOffset="400"/>
     <contour>
       <point x="4" y="-6" type="line"/>
-      <point x="4" y="14" type="line"/>
-      <point x="6" y="14" type="line" smooth="yes"/>
-      <point x="55" y="14"/>
-      <point x="103" y="56"/>
-      <point x="105" y="99" type="curve" smooth="yes"/>
-      <point x="128" y="680" type="line"/>
-      <point x="150" y="680" type="line"/>
-      <point x="127" y="107" type="line" smooth="yes"/>
-      <point x="124" y="40"/>
+      <point x="7" y="-6" type="line" smooth="yes"/>
       <point x="75" y="-6"/>
-      <point x="7" y="-6" type="curve" smooth="yes"/>
+      <point x="124" y="40"/>
+      <point x="127" y="107" type="curve" smooth="yes"/>
+      <point x="150" y="680" type="line"/>
+      <point x="128" y="680" type="line"/>
+      <point x="105" y="99" type="line" smooth="yes"/>
+      <point x="103" y="56"/>
+      <point x="55" y="14"/>
+      <point x="6" y="14" type="curve" smooth="yes"/>
+      <point x="4" y="14" type="line"/>
     </contour>
     <contour>
       <point x="140" y="660" type="line"/>
-      <point x="140" y="680" type="line"/>
-      <point x="511" y="680" type="line"/>
       <point x="511" y="660" type="line"/>
+      <point x="511" y="680" type="line"/>
+      <point x="140" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="0" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="522" y="680" type="line"/>
+      <point x="500" y="680" type="line"/>
     </contour>
   </outline>
   <guideline angle="87.6769" x="108" y="187"/>

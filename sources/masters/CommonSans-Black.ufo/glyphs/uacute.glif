@@ -2,8 +2,19 @@
 <glyph name="uacute" format="2">
   <advance width="571"/>
   <unicode hex="00FA"/>
+  <anchor x="286" y="-40" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="acutecomb" xOffset="488"/>
+    <component base="acutecomb" xOffset="509"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

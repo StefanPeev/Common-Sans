@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043D" format="2">
-  <advance width="518"/>
+  <advance width="519"/>
   <unicode hex="043D"/>
   <outline>
-    <component base="dotlessi" xOffset="-10"/>
-    <component base="dotlessi" xOffset="288"/>
     <contour>
-      <point x="115" y="205" type="line"/>
-      <point x="115" y="273" type="line"/>
-      <point x="403" y="273" type="line"/>
-      <point x="403" y="205" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="460" type="line"/>
+      <point x="66" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="200" type="line"/>
+      <point x="402" y="200" type="line"/>
+      <point x="402" y="278" type="line"/>
+      <point x="109" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="453" y="460" type="line"/>
+      <point x="362" y="460" type="line"/>
     </contour>
   </outline>
   <lib>

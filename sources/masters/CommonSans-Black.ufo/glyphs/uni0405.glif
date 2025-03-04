@@ -2,8 +2,20 @@
 <glyph name="uni0405" format="2">
   <advance width="581"/>
   <unicode hex="0405"/>
-  <anchor x="289" y="740" name="top"/>
+  <anchor x="281" y="740" name="top"/>
+  <anchor x="281" y="-40" name="bottom"/>
+  <anchor x="279" y="0" name="b.cedilla"/>
   <outline>
     <component base="S"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

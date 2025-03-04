@@ -2,9 +2,11 @@
 <glyph name="cdotaccent" format="2">
   <advance width="526"/>
   <unicode hex="010B"/>
+  <anchor x="265" y="-40" name="bottom"/>
+  <anchor x="257" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
-    <component base="uni0307" xOffset="370" yOffset="-20"/>
+    <component base="uni0307" xOffset="355"/>
   </outline>
   <lib>
   <dict>

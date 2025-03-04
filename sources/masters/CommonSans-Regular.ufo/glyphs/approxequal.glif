@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approxequal" format="2">
+  <advance width="545"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde"/>
+    <component base="asciitilde"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>asciitilde+asciitilde</string>
+  </dict>
+  </lib>
+</glyph>

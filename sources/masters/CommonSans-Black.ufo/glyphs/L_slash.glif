@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="561"/>
+  <advance width="470"/>
   <unicode hex="0141"/>
-  <guideline x="429" y="0" angle="90"/>
-  <guideline x="370" y="521" angle="220.941"/>
-  <guideline x="121" y="217" angle="40.9407"/>
-  <guideline x="20" y="0" angle="90"/>
   <outline>
+    <component base="L"/>
     <contour>
       <point x="20" y="87" type="line"/>
-      <point x="20" y="267" type="line"/>
-      <point x="370" y="571" type="line"/>
       <point x="370" y="391" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="160" type="line"/>
-      <point x="480" y="160" type="line"/>
-      <point x="480" y="0" type="line"/>
-      <point x="230" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="90" y="680" type="line"/>
-      <point x="270" y="680" type="line"/>
-      <point x="270" y="0" type="line"/>
+      <point x="370" y="571" type="line"/>
+      <point x="20" y="267" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="429" y="0"/>
+  <guideline angle="220.941" x="370" y="521"/>
+  <guideline angle="40.9407" x="121" y="217"/>
+  <guideline angle="90" x="20" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L</string>
+  </dict>
+  </lib>
 </glyph>

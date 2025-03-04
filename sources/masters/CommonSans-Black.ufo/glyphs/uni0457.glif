@@ -2,8 +2,19 @@
 <glyph name="uni0457" format="2">
   <advance width="296"/>
   <unicode hex="0457"/>
+  <anchor x="148" y="-40" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0308" xOffset="398"/>
+    <component base="uni0308" xOffset="398" yOffset="10"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

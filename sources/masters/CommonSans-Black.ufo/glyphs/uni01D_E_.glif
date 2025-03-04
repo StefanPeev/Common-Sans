@@ -2,8 +2,21 @@
 <glyph name="uni01DE" format="2">
   <advance width="650"/>
   <unicode hex="01DE"/>
+  <anchor x="326" y="629" name="t.ring"/>
+  <anchor x="325" y="-40" name="bottom"/>
+  <anchor x="564" y="0" name="b.ogonek"/>
   <outline>
-    <component base="Adieresis"/>
-    <component base="uni0304" xOffset="510" yOffset="220"/>
+    <component base="A"/>
+    <component base="uni03080304" xOffset="585" yOffset="200"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03080304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

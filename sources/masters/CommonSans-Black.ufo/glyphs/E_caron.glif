@@ -2,8 +2,20 @@
 <glyph name="Ecaron" format="2">
   <advance width="510"/>
   <unicode hex="011A"/>
+  <anchor x="255" y="-40" name="bottom"/>
+  <anchor x="245" y="0" name="b.cedilla"/>
   <outline>
     <component base="E"/>
-    <component base="caroncomb" xOffset="475" yOffset="220"/>
+    <component base="caroncomb" xOffset="475" yOffset="210"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

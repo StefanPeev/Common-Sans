@@ -3,24 +3,27 @@
   <advance width="480"/>
   <unicode hex="0041"/>
   <anchor x="240" y="740" name="top"/>
+  <anchor x="240" y="662" name="t.ring"/>
+  <anchor x="240" y="-40" name="bottom"/>
+  <anchor x="460" y="0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="103" y="270" type="line"/>
-      <point x="373" y="270" type="line"/>
-      <point x="373" y="250" type="line"/>
       <point x="103" y="250" type="line"/>
+      <point x="373" y="250" type="line"/>
+      <point x="373" y="270" type="line"/>
+      <point x="103" y="270" type="line"/>
     </contour>
     <contour>
-      <point x="32" y="0" type="line"/>
       <point x="10" y="0" type="line"/>
-      <point x="229" y="680" type="line"/>
-      <point x="251" y="680" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="448" y="0" type="line"/>
-      <point x="273" y="547" type="line"/>
-      <point x="237" y="672" type="line"/>
-      <point x="243" y="672" type="line"/>
+      <point x="32" y="0" type="line"/>
       <point x="207" y="547" type="line"/>
+      <point x="243" y="672" type="line"/>
+      <point x="237" y="672" type="line"/>
+      <point x="273" y="547" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="251" y="680" type="line"/>
+      <point x="229" y="680" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="240" y="0"/>

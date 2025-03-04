@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="530"/>
+  <advance width="544"/>
   <unicode hex="0041"/>
-  <anchor x="265" y="740" name="top"/>
+  <anchor x="272" y="740" name="top"/>
+  <anchor x="272" y="639" name="t.ring"/>
+  <anchor x="265" y="-40" name="bottom"/>
+  <anchor x="497" y="0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="130" y="275" type="line"/>
-      <point x="403" y="275" type="line"/>
-      <point x="403" y="195" type="line"/>
-      <point x="130" y="195" type="line"/>
+      <point x="133" y="187" type="line"/>
+      <point x="414" y="187" type="line"/>
+      <point x="414" y="276" type="line"/>
+      <point x="133" y="276" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="line"/>
       <point x="10" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="235" y="407" type="line"/>
+      <point x="303" y="673" type="line"/>
+      <point x="241" y="673" type="line"/>
+      <point x="309" y="407" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="326" y="680" type="line"/>
       <point x="218" y="680" type="line"/>
-      <point x="312" y="680" type="line"/>
-      <point x="520" y="0" type="line"/>
-      <point x="430" y="0" type="line"/>
-      <point x="303" y="415" type="line"/>
-      <point x="237" y="678" type="line"/>
-      <point x="293" y="678" type="line"/>
-      <point x="227" y="415" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="265" y="0"/>
-  <guideline angle="73" x="10" y="0"/>
-  <guideline angle="253" x="294" y="634"/>
-  <guideline angle="107" x="430" y="0"/>
-  <guideline angle="287" x="312" y="680"/>
+  <guideline angle="90" x="272" y="0"/>
+  <guideline angle="73.0156" x="10" y="0"/>
+  <guideline angle="253.018" x="294" y="634"/>
+  <guideline angle="106.982" x="430" y="0"/>
+  <guideline angle="286.984" x="312" y="680"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

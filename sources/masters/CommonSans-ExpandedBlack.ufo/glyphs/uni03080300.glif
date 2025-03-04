@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080300" format="2">
+  <anchor x="-250" y="530" name="_top"/>
+  <outline>
+    <component base="dieresis" xOffset="-510"/>
+    <contour>
+      <point x="-323" y="780" type="line"/>
+      <point x="-203" y="780" type="line"/>
+      <point x="-268" y="960" type="line"/>
+      <point x="-428" y="960" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-250" y="0"/>
+  <guideline angle="0" x="0" y="620"/>
+  <guideline angle="0" x="0" y="780"/>
+</glyph>

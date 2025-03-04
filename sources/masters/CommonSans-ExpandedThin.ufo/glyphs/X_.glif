@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="606"/>
+  <unicode hex="0058"/>
+  <anchor x="303" y="740" name="top"/>
+  <anchor x="303" y="-40" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="50" y="680" type="line"/>
+      <point x="293" y="348" type="line"/>
+      <point x="304" y="336" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="317" y="356" type="line"/>
+      <point x="305" y="369" type="line"/>
+      <point x="77" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="311" y="340" type="line"/>
+      <point x="298" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="365" type="line"/>
+      <point x="313" y="347" type="line"/>
+      <point x="556" y="680" type="line"/>
+      <point x="529" y="680" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="126.046" x="562" y="0"/>
+  <guideline angle="53.8553" x="323" y="361"/>
+  <guideline angle="233.842" x="529" y="680"/>
+  <guideline angle="306.185" x="50" y="680"/>
+  <guideline angle="126.238" x="302" y="373"/>
+  <guideline angle="90" name="h_1" x="303" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

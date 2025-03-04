@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcommaaccent" format="2">
-  <advance width="560"/>
+  <advance width="499"/>
   <unicode hex="013B"/>
-  <anchor x="145" y="740" name="top"/>
+  <anchor x="290" y="740" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="uni0326" xOffset="376"/>
+    <component base="uni0326" xOffset="380"/>
   </outline>
   <lib>
   <dict>

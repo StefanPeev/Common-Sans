@@ -2,6 +2,8 @@
 <glyph name="uni041A" format="2">
   <advance width="496"/>
   <unicode hex="041A"/>
+  <anchor x="274" y="740" name="top"/>
+  <anchor x="284" y="-40" name="bottom"/>
   <outline>
     <component base="K"/>
   </outline>

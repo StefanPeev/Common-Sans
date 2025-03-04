@@ -2,9 +2,10 @@
 <glyph name="Gdotaccent" format="2">
   <advance width="647"/>
   <unicode hex="0120"/>
+  <anchor x="317" y="-40" name="bottom"/>
   <outline>
     <component base="G"/>
-    <component base="uni0307" xOffset="410" yOffset="200"/>
+    <component base="uni0307" xOffset="413" yOffset="210"/>
   </outline>
   <lib>
   <dict>

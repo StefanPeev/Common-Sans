@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotereversed" format="2">
+  <advance width="186"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="48" y="624" type="line"/>
+      <point x="96" y="510" type="line"/>
+      <point x="137" y="510" type="line"/>
+      <point x="114" y="623" type="line"/>
+      <point x="138" y="623" type="line"/>
+      <point x="138" y="711" type="line"/>
+      <point x="48" y="711" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|comma</string>
+  </dict>
+  </lib>
+</glyph>

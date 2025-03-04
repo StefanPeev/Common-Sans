@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="2">
-  <advance width="507"/>
+  <advance width="550"/>
   <unicode hex="011B"/>
+  <anchor x="275" y="-40" name="bottom"/>
+  <anchor x="276" y="0" name="b.ogonek"/>
+  <anchor x="253" y="0" name="b.cedilla"/>
   <outline>
     <component base="e"/>
-    <component base="caroncomb" xOffset="476"/>
+    <component base="caroncomb" xOffset="495"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="2">
+  <advance width="443"/>
+  <unicode hex="0070"/>
+  <anchor x="220" y="-40" name="bottom"/>
+  <anchor x="220" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="-200" type="line"/>
+      <point x="110" y="-200" type="line"/>
+      <point x="110" y="99" type="line"/>
+      <point x="109" y="120" type="line"/>
+      <point x="109" y="309" type="line"/>
+      <point x="106" y="460" type="line"/>
+      <point x="90" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="90" type="line"/>
+      <point x="111" y="90" type="line"/>
+      <point x="132" y="32"/>
+      <point x="172" y="-8"/>
+      <point x="236" y="-8" type="curve" smooth="yes"/>
+      <point x="332" y="-8"/>
+      <point x="383" y="89"/>
+      <point x="383" y="235" type="curve" smooth="yes"/>
+      <point x="383" y="375"/>
+      <point x="331" y="468"/>
+      <point x="236" y="468" type="curve" smooth="yes"/>
+      <point x="183" y="468"/>
+      <point x="134" y="426"/>
+      <point x="112" y="363" type="curve"/>
+      <point x="100" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="215" type="curve" smooth="yes"/>
+      <point x="109" y="245" type="line" smooth="yes"/>
+      <point x="109" y="367"/>
+      <point x="162" y="450"/>
+      <point x="236" y="450" type="curve" smooth="yes"/>
+      <point x="312" y="450"/>
+      <point x="361" y="364"/>
+      <point x="361" y="235" type="curve" smooth="yes"/>
+      <point x="361" y="99"/>
+      <point x="313" y="10"/>
+      <point x="236" y="10" type="curve" smooth="yes"/>
+      <point x="162" y="10"/>
+      <point x="109" y="93"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h_1" x="220" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

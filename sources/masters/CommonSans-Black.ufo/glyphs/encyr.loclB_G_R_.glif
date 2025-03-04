@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="encyr.loclBGR" format="2">
+  <advance width="544"/>
+  <outline>
+    <component base="uni043D"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>encyr</string>
+  </dict>
+  </lib>
+</glyph>

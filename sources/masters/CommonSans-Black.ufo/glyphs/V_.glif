@@ -2,29 +2,36 @@
 <glyph name="V" format="2">
   <advance width="650"/>
   <unicode hex="0056"/>
-  <guideline x="325" y="0" angle="90"/>
-  <guideline x="0" y="335" angle="0"/>
+  <anchor x="325" y="-40" name="bottom"/>
+  <anchor x="325" y="740" name="top"/>
   <outline>
     <contour>
       <point x="10" y="680" type="line"/>
-      <point x="190" y="680" type="line"/>
-      <point x="296" y="335" type="line" smooth="yes"/>
-      <point x="327" y="235"/>
-      <point x="354" y="30"/>
-      <point x="354" y="0" type="curve"/>
       <point x="218" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="354" y="30"/>
+      <point x="327" y="235"/>
+      <point x="296" y="335" type="curve" smooth="yes"/>
+      <point x="190" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="460" y="680" type="line"/>
-      <point x="640" y="680" type="line"/>
+      <point x="296" y="0" type="curve"/>
       <point x="430" y="0" type="line"/>
-      <point x="296" y="0" type="line"/>
-      <point x="296" y="30"/>
+      <point x="640" y="680" type="line"/>
+      <point x="460" y="680" type="line"/>
+      <point x="354" y="335" type="line" smooth="yes"/>
       <point x="323" y="235"/>
-      <point x="354" y="335" type="curve" smooth="yes"/>
+      <point x="296" y="30"/>
     </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="325" y="0"/>
+  <guideline angle="0" x="0" y="335"/>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
   </lib>
 </glyph>

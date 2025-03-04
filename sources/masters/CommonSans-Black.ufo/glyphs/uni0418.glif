@@ -2,37 +2,40 @@
 <glyph name="uni0418" format="2">
   <advance width="720"/>
   <unicode hex="0418"/>
-  <guideline x="0" y="370" angle="0"/>
-  <anchor x="371" y="740" name="aboveUC"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
-      <point x="40" y="680" type="line"/>
-      <point x="220" y="680" type="line"/>
-      <point x="220" y="330" type="line" smooth="yes"/>
-      <point x="220" y="279"/>
-      <point x="216" y="241"/>
-      <point x="210" y="214" type="curve"/>
-      <point x="212" y="214" type="line"/>
-      <point x="222" y="245"/>
-      <point x="236" y="278"/>
-      <point x="252" y="306" type="curve" smooth="yes"/>
-      <point x="470" y="680" type="line"/>
-      <point x="680" y="680" type="line"/>
-      <point x="680" y="0" type="line"/>
-      <point x="500" y="0" type="line"/>
-      <point x="500" y="370" type="line" smooth="yes"/>
-      <point x="500" y="397"/>
-      <point x="505" y="460"/>
-      <point x="510" y="487" type="curve"/>
-      <point x="508" y="487" type="line"/>
-      <point x="495" y="452"/>
-      <point x="483" y="426"/>
-      <point x="465" y="394" type="curve" smooth="yes"/>
       <point x="250" y="0" type="line"/>
+      <point x="465" y="394" type="line" smooth="yes"/>
+      <point x="483" y="426"/>
+      <point x="495" y="452"/>
+      <point x="508" y="487" type="curve"/>
+      <point x="510" y="487" type="line"/>
+      <point x="505" y="460"/>
+      <point x="500" y="397"/>
+      <point x="500" y="370" type="curve" smooth="yes"/>
+      <point x="500" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="680" y="680" type="line"/>
+      <point x="470" y="680" type="line"/>
+      <point x="252" y="306" type="line" smooth="yes"/>
+      <point x="236" y="278"/>
+      <point x="222" y="245"/>
+      <point x="212" y="214" type="curve"/>
+      <point x="210" y="214" type="line"/>
+      <point x="216" y="241"/>
+      <point x="220" y="279"/>
+      <point x="220" y="330" type="curve" smooth="yes"/>
+      <point x="220" y="680" type="line"/>
+      <point x="40" y="680" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
   </lib>
 </glyph>

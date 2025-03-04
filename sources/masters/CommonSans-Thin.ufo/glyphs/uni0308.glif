@@ -3,17 +3,8 @@
   <unicode hex="0308"/>
   <anchor x="-170" y="540" name="_top"/>
   <outline>
-    <contour>
-      <point x="-230" y="540" type="line"/>
-      <point x="-230" y="620" type="line"/>
-      <point x="-210" y="620" type="line"/>
-      <point x="-210" y="540" type="line"/>
-    </contour>
-    <contour>
-      <point x="-130" y="540" type="line"/>
-      <point x="-130" y="620" type="line"/>
-      <point x="-110" y="620" type="line"/>
-      <point x="-110" y="540" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-344"/>
   </outline>
+  <guideline angle="0" x="0" y="540"/>
+  <guideline angle="90" x="-170" y="0"/>
 </glyph>

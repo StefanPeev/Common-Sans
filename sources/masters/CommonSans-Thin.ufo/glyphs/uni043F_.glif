@@ -3,13 +3,23 @@
   <advance width="514"/>
   <unicode hex="043F"/>
   <outline>
-    <component base="dotlessi" xOffset="-10"/>
-    <component base="dotlessi" xOffset="304"/>
     <contour>
       <point x="100" y="442" type="line"/>
-      <point x="100" y="460" type="line"/>
-      <point x="415" y="460" type="line"/>
       <point x="415" y="442" type="line"/>
+      <point x="415" y="460" type="line"/>
+      <point x="100" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="460" type="line"/>
+      <point x="90" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="424" y="460" type="line"/>
+      <point x="404" y="460" type="line"/>
     </contour>
   </outline>
   <lib>

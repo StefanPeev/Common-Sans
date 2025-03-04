@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcircumflex" format="2">
-  <advance width="600"/>
+  <advance width="609"/>
   <unicode hex="0124"/>
+  <anchor x="304" y="-40" name="bottom"/>
+  <anchor x="469" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="uni0302" xOffset="520" yOffset="215"/>
+    <component base="uni0302" xOffset="524" yOffset="210"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+  <advance width="840"/>
+  <unicode hex="004E"/>
+  <anchor x="429" y="740" name="top"/>
+  <anchor x="429" y="-40" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="247" y="320" type="line" smooth="yes"/>
+      <point x="247" y="341"/>
+      <point x="247" y="370"/>
+      <point x="242" y="400" type="curve"/>
+      <point x="260" y="400" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="790" y="0" type="line"/>
+      <point x="790" y="680" type="line"/>
+      <point x="592" y="680" type="line"/>
+      <point x="592" y="360" type="line" smooth="yes"/>
+      <point x="592" y="339"/>
+      <point x="592" y="310"/>
+      <point x="597" y="280" type="curve"/>
+      <point x="580" y="280" type="line"/>
+      <point x="275" y="680" type="line"/>
+      <point x="50" y="680" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="756" y="0"/>
+  <guideline angle="90" x="429" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

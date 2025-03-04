@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="2">
+  <advance width="514"/>
+  <unicode hex="0055"/>
+  <anchor x="258" y="740" name="top"/>
+  <anchor x="258" y="-40" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="45" y="210" type="line" smooth="yes"/>
+      <point x="45" y="82"/>
+      <point x="124" y="-16"/>
+      <point x="257" y="-16" type="curve" smooth="yes"/>
+      <point x="391" y="-16"/>
+      <point x="469" y="82"/>
+      <point x="469" y="210" type="curve" smooth="yes"/>
+      <point x="469" y="680" type="line"/>
+      <point x="316" y="680" type="line"/>
+      <point x="316" y="245" type="line" smooth="yes"/>
+      <point x="316" y="182"/>
+      <point x="303" y="129"/>
+      <point x="257" y="129" type="curve" smooth="yes"/>
+      <point x="211" y="129"/>
+      <point x="199" y="182"/>
+      <point x="199" y="245" type="curve" smooth="yes"/>
+      <point x="199" y="680" type="line"/>
+      <point x="45" y="680" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h_1" x="258" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-5</string>
+  </dict>
+  </lib>
+</glyph>

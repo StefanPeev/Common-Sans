@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="2">
-  <advance width="358"/>
+  <advance width="378"/>
   <unicode hex="00A8"/>
-  <anchor x="179" y="540" name="_aboveUC"/>
-  <anchor x="179" y="540" name="_aboveLC"/>
+  <anchor x="189" y="540" name="_top"/>
   <outline>
     <contour>
-      <point x="60" y="540" type="line"/>
-      <point x="60" y="620" type="line"/>
-      <point x="140" y="620" type="line"/>
-      <point x="140" y="540" type="line"/>
+      <point x="58" y="540" type="line"/>
+      <point x="150" y="540" type="line"/>
+      <point x="150" y="632" type="line"/>
+      <point x="58" y="632" type="line"/>
     </contour>
     <contour>
-      <point x="218" y="540" type="line"/>
-      <point x="218" y="620" type="line"/>
-      <point x="298" y="620" type="line"/>
-      <point x="298" y="540" type="line"/>
+      <point x="228" y="540" type="line"/>
+      <point x="320" y="540" type="line"/>
+      <point x="320" y="632" type="line"/>
+      <point x="228" y="632" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="58" y="0"/>
+  <guideline angle="90" x="150" y="0"/>
+  <guideline angle="90" x="228" y="0"/>
+  <guideline angle="90" x="320" y="0"/>
+  <guideline angle="0" x="0" y="632"/>
+  <guideline angle="0" x="0" y="540"/>
+  <guideline angle="90" x="189" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=60</string>
+  <string>=58</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=60</string>
+  <string>=58</string>
   </dict>
   </lib>
 </glyph>

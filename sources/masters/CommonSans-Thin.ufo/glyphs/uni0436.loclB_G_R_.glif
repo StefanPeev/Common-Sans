@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0436.loclBGR" format="2">
-  <advance width="566"/>
+  <advance width="626"/>
   <outline>
     <contour>
-      <point x="500" y="0" type="line"/>
-      <point x="522" y="0" type="line"/>
-      <point x="338" y="270" type="line"/>
-      <point x="323" y="253" type="line"/>
+      <point x="358" y="250" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="372" y="265" type="line"/>
     </contour>
     <contour>
-      <point x="502" y="460" type="line"/>
-      <point x="480" y="460" type="line"/>
-      <point x="285" y="220" type="line"/>
-      <point x="285" y="183" type="line"/>
+      <point x="315" y="183" type="line"/>
+      <point x="562" y="460" type="line"/>
+      <point x="535" y="460" type="line"/>
+      <point x="315" y="213" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="270" type="line"/>
       <point x="44" y="0" type="line"/>
-      <point x="66" y="0" type="line"/>
-      <point x="243" y="253" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="268" y="250" type="line"/>
+      <point x="254" y="265" type="line"/>
     </contour>
     <contour>
-      <point x="281" y="220" type="line"/>
-      <point x="86" y="460" type="line"/>
       <point x="64" y="460" type="line"/>
-      <point x="281" y="183" type="line"/>
+      <point x="311" y="183" type="line"/>
+      <point x="311" y="213" type="line"/>
+      <point x="91" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="294" y="700" type="line"/>
-      <point x="272" y="700" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="294" y="0" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="323" y="700" type="line"/>
+      <point x="303" y="700" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="250"/>
+  <guideline angle="0" x="0" y="213"/>
+  <guideline angle="51.4775" x="69" y="0"/>
+  <guideline angle="231.6" x="258" y="270"/>
+  <guideline angle="308.523" x="354" y="255"/>
+  <guideline angle="128.4" x="582" y="0"/>
+  <guideline angle="131.691" x="301" y="213"/>
+  <guideline angle="228.309" x="545" y="460"/>
+  <guideline angle="131.691" x="311" y="213"/>
+  <guideline angle="228.309" x="535" y="460"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

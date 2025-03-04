@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0425" format="2">
-  <advance width="564"/>
+  <advance width="574"/>
   <unicode hex="0425"/>
+  <anchor x="288" y="740" name="top"/>
+  <anchor x="288" y="-40" name="bottom"/>
   <outline>
     <component base="X"/>
   </outline>

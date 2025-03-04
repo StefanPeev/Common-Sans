@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0439.loclBGR" format="2">
-  <advance width="528"/>
+  <advance width="534"/>
+  <anchor x="267" y="-40" name="bottom"/>
   <outline>
     <component base="uni0438.loclBGR"/>
-    <component base="uni0306" xOffset="459" yOffset="20"/>
+    <component base="uni0306" xOffset="472"/>
   </outline>
   <lib>
   <dict>

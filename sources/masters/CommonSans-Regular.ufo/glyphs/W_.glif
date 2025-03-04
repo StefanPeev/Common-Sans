@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-  <advance width="950"/>
+  <advance width="968"/>
   <unicode hex="0057"/>
+  <anchor x="485" y="740" name="top"/>
+  <anchor x="485" y="-40" name="bottom"/>
   <outline>
-    <component base="V"/>
-    <component base="V" xOffset="420"/>
+    <contour>
+      <point x="10" y="680" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="30"/>
+      <point x="262" y="188"/>
+      <point x="245" y="243" type="curve" smooth="yes"/>
+      <point x="111" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="0" type="curve"/>
+      <point x="326" y="0" type="line"/>
+      <point x="534" y="680" type="line"/>
+      <point x="434" y="680" type="line"/>
+      <point x="299" y="243" type="line" smooth="yes"/>
+      <point x="283" y="188"/>
+      <point x="248" y="30"/>
+    </contour>
+    <contour>
+      <point x="434" y="680" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="721" y="30"/>
+      <point x="686" y="188"/>
+      <point x="669" y="243" type="curve" smooth="yes"/>
+      <point x="535" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="0" type="curve"/>
+      <point x="750" y="0" type="line"/>
+      <point x="958" y="680" type="line"/>
+      <point x="858" y="680" type="line"/>
+      <point x="723" y="243" type="line" smooth="yes"/>
+      <point x="707" y="188"/>
+      <point x="672" y="30"/>
+    </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="485" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0441" format="2">
-  <advance width="486"/>
+  <advance width="490"/>
   <unicode hex="0441"/>
-  <anchor x="260" y="520" name="top"/>
+  <anchor x="249" y="530" name="top"/>
+  <anchor x="249" y="-40" name="bottom"/>
+  <anchor x="218" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
   </outline>

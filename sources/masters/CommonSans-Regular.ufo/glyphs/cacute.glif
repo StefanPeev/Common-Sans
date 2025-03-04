@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="2">
-  <advance width="486"/>
+  <advance width="490"/>
   <unicode hex="0107"/>
+  <anchor x="249" y="-40" name="bottom"/>
+  <anchor x="218" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
-    <component base="acutecomb" xOffset="448" yOffset="-20"/>
+    <component base="acutecomb" xOffset="461"/>
   </outline>
   <lib>
   <dict>

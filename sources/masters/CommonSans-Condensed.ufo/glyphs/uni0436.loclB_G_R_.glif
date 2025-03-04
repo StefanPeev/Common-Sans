@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436.loclBGR" format="2">
+  <advance width="535"/>
+  <outline>
+    <contour>
+      <point x="311" y="227" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="366" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="96" type="line"/>
+      <point x="506" y="460" type="line"/>
+      <point x="408" y="460" type="line"/>
+      <point x="284" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="224" y="227" type="line"/>
+      <point x="168" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="460" type="line"/>
+      <point x="251" y="96" type="line"/>
+      <point x="251" y="252" type="line"/>
+      <point x="127" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="700" type="line"/>
+      <point x="224" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0436</string>
+  </dict>
+  </lib>
+</glyph>

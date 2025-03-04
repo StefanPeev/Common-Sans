@@ -2,9 +2,11 @@
 <glyph name="Egrave" format="2">
   <advance width="510"/>
   <unicode hex="00C8"/>
+  <anchor x="275" y="-40" name="bottom"/>
+  <anchor x="280" y="0" name="b.cedilla"/>
   <outline>
     <component base="E"/>
-    <component base="gravecomb" xOffset="480" yOffset="200"/>
+    <component base="gravecomb" xOffset="500" yOffset="210"/>
   </outline>
   <lib>
   <dict>

@@ -2,9 +2,19 @@
 <glyph name="ncommaaccent" format="2">
   <advance width="571"/>
   <unicode hex="0146"/>
-  <anchor x="234" y="520" name="top"/>
+  <anchor x="289" y="530" name="top"/>
   <outline>
     <component base="n"/>
     <component base="uni0326" xOffset="414"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

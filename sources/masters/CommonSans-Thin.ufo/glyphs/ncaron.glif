@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron" format="2">
-  <advance width="519"/>
+  <advance width="520"/>
   <unicode hex="0148"/>
+  <anchor x="252" y="-40" name="bottom"/>
   <outline>
     <component base="n"/>
-    <component base="caroncomb" xOffset="504"/>
+    <component base="caroncomb" xOffset="472"/>
   </outline>
   <lib>
   <dict>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-  <advance width="671"/>
+  <advance width="712"/>
   <unicode hex="010F"/>
+  <anchor x="230" y="-40" name="bottom"/>
+  <anchor x="205" y="0" name="b.cedilla"/>
   <outline>
     <component base="d"/>
-    <component base="quoteright" xOffset="491"/>
+    <component base="quoteright" xOffset="137" yOffset="29"/>
   </outline>
   <lib>
   <dict>

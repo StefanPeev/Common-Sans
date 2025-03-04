@@ -2,13 +2,26 @@
 <glyph name="colon" format="2">
   <advance width="240"/>
   <unicode hex="003A"/>
-  <guideline x="30" y="370" angle="0.189999"/>
-  <guideline x="40" y="0" angle="90"/>
   <outline>
-    <component base="period"/>
-    <component base="period" yOffset="370"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="160" type="line"/>
+      <point x="40" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="370" type="line"/>
+      <point x="200" y="370" type="line"/>
+      <point x="200" y="530" type="line"/>
+      <point x="40" y="530" type="line"/>
+    </contour>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
   </lib>
 </glyph>

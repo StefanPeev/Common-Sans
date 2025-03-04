@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="509"/>
+  <unicode hex="0041"/>
+  <anchor x="255" y="740" name="top"/>
+  <anchor x="255" y="640" name="t.ring"/>
+  <anchor x="255" y="-40" name="bottom"/>
+  <anchor x="434" y="0" name="b.ogonek"/>
+  <outline>
+    <contour>
+      <point x="122" y="135" type="line"/>
+      <point x="390" y="135" type="line"/>
+      <point x="390" y="275" type="line"/>
+      <point x="122" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="242" y="348" type="line"/>
+      <point x="301" y="634" type="line"/>
+      <point x="209" y="634" type="line"/>
+      <point x="268" y="348" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="342" y="680" type="line"/>
+      <point x="166" y="680" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="282.9" x="211" y="634"/>
+  <guideline angle="90" x="255" y="0"/>
+  <guideline angle="77.0976" x="18" y="0"/>
+  <guideline angle="257.1" x="299" y="634"/>
+  <guideline angle="282.902" x="334" y="680"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
+</glyph>

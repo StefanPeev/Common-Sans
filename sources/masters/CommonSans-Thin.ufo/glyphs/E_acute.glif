@@ -2,9 +2,11 @@
 <glyph name="Eacute" format="2">
   <advance width="510"/>
   <unicode hex="00C9"/>
+  <anchor x="275" y="-40" name="bottom"/>
+  <anchor x="280" y="0" name="b.cedilla"/>
   <outline>
     <component base="E"/>
-    <component base="acutecomb" xOffset="453" yOffset="200"/>
+    <component base="acutecomb" xOffset="473" yOffset="210"/>
   </outline>
   <lib>
   <dict>

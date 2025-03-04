@@ -2,9 +2,11 @@
 <glyph name="Ocircumflex" format="2">
   <advance width="716"/>
   <unicode hex="00D4"/>
+  <anchor x="358" y="-40" name="bottom"/>
+  <anchor x="358" y="0" name="b.ogonek"/>
   <outline>
     <component base="O"/>
-    <component base="uni0302" xOffset="578" yOffset="200"/>
+    <component base="uni0302" xOffset="578" yOffset="210"/>
   </outline>
   <lib>
   <dict>

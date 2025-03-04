@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="510"/>
+  <advance width="523"/>
   <unicode hex="005A"/>
+  <anchor x="260" y="740" name="top"/>
+  <anchor x="260" y="-40" name="bottom"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
-      <point x="50" y="80" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="476" y="90" type="line"/>
+      <point x="144" y="90" type="line"/>
+      <point x="149" y="70" type="line"/>
+      <point x="475" y="600" type="line"/>
+      <point x="475" y="680" type="line"/>
+      <point x="52" y="680" type="line"/>
+      <point x="52" y="590" type="line"/>
+      <point x="381" y="590" type="line"/>
       <point x="376" y="610" type="line"/>
-      <point x="382" y="600" type="line"/>
-      <point x="50" y="600" type="line"/>
-      <point x="50" y="680" type="line"/>
-      <point x="460" y="680" type="line"/>
-      <point x="460" y="600" type="line"/>
-      <point x="134" y="70" type="line"/>
-      <point x="128" y="80" type="line"/>
-      <point x="460" y="80" type="line"/>
-      <point x="460" y="0" type="line"/>
+      <point x="50" y="80" type="line"/>
     </contour>
   </outline>
   <guideline angle="58.4046" x="50" y="80"/>
+  <guideline angle="90" name="h_1" x="260" y="0"/>
 </glyph>

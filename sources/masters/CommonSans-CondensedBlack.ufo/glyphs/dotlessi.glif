@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="268"/>
+  <unicode hex="0131"/>
+  <anchor x="134" y="540" name="top"/>
+  <anchor x="134" y="-40" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="460" type="line"/>
+      <point x="60" y="460" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="540"/>
+  <guideline angle="90" x="134" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

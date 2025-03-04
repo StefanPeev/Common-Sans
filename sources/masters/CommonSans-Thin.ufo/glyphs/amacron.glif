@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="2">
-  <advance width="416"/>
+  <advance width="497"/>
   <unicode hex="0101"/>
+  <anchor x="242" y="-40" name="bottom"/>
+  <anchor x="242" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
-    <component base="uni0304" xOffset="395" yOffset="70"/>
+    <component base="uni0304" xOffset="507"/>
   </outline>
   <lib>
   <dict>

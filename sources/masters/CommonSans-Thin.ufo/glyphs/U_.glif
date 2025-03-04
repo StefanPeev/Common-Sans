@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
-  <advance width="560"/>
+  <advance width="620"/>
   <unicode hex="0055"/>
-  <anchor x="280" y="740" name="top"/>
+  <anchor x="310" y="740" name="top"/>
+  <anchor x="310" y="-40" name="bottom"/>
   <outline>
     <contour>
-      <point x="50" y="230" type="curve" smooth="yes"/>
-      <point x="50" y="680" type="line"/>
-      <point x="70" y="680" type="line"/>
-      <point x="70" y="250" type="line" smooth="yes"/>
-      <point x="70" y="81"/>
-      <point x="150" y="12"/>
-      <point x="280" y="12" type="curve" smooth="yes"/>
-      <point x="410" y="12"/>
-      <point x="490" y="81"/>
-      <point x="490" y="250" type="curve" smooth="yes"/>
-      <point x="490" y="680" type="line"/>
-      <point x="510" y="680" type="line"/>
-      <point x="510" y="230" type="line" smooth="yes"/>
-      <point x="510" y="71"/>
-      <point x="430" y="-8"/>
-      <point x="280" y="-8" type="curve" smooth="yes"/>
-      <point x="130" y="-8"/>
-      <point x="50" y="71"/>
+      <point x="80" y="230" type="line" smooth="yes"/>
+      <point x="80" y="71"/>
+      <point x="160" y="-8"/>
+      <point x="310" y="-8" type="curve" smooth="yes"/>
+      <point x="460" y="-8"/>
+      <point x="540" y="71"/>
+      <point x="540" y="230" type="curve" smooth="yes"/>
+      <point x="540" y="680" type="line"/>
+      <point x="520" y="680" type="line"/>
+      <point x="520" y="250" type="line" smooth="yes"/>
+      <point x="520" y="81"/>
+      <point x="440" y="12"/>
+      <point x="310" y="12" type="curve" smooth="yes"/>
+      <point x="180" y="12"/>
+      <point x="100" y="81"/>
+      <point x="100" y="250" type="curve" smooth="yes"/>
+      <point x="100" y="680" type="line"/>
+      <point x="80" y="680" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="280" y="0"/>
+  <guideline angle="90" name="h_1" x="310" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=50</string>
+  <string>=H-20</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=50</string>
+  <string>=H-20</string>
   </dict>
   </lib>
 </glyph>

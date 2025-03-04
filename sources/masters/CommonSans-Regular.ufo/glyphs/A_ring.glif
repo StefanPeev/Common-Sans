@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-  <advance width="530"/>
+  <advance width="544"/>
   <unicode hex="00C5"/>
-  <anchor x="265" y="740" name="top"/>
+  <anchor x="272" y="740" name="top"/>
+  <anchor x="265" y="-40" name="bottom"/>
+  <anchor x="497" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni030A" xOffset="454" yOffset="220"/>
+    <component base="uni030A" xOffset="461" yOffset="109"/>
   </outline>
   <lib>
   <dict>

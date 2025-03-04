@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-  <advance width="200"/>
+  <advance width="212"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
       <point x="60" y="-156" type="line"/>
+      <point x="152" y="-156" type="line"/>
+      <point x="152" y="156" type="line"/>
       <point x="60" y="156" type="line"/>
-      <point x="140" y="156" type="line"/>
-      <point x="140" y="-156" type="line"/>
     </contour>
     <contour>
       <point x="60" y="289" type="line"/>
+      <point x="152" y="289" type="line"/>
+      <point x="152" y="601" type="line"/>
       <point x="60" y="601" type="line"/>
-      <point x="140" y="601" type="line"/>
-      <point x="140" y="289" type="line"/>
     </contour>
   </outline>
   <lib>

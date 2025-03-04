@@ -3,10 +3,49 @@
   <advance width="1100"/>
   <unicode hex="0057"/>
   <outline>
-    <component base="V"/>
-    <component base="V" xOffset="450"/>
+    <contour>
+      <point x="10" y="680" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="354" y="30"/>
+      <point x="327" y="235"/>
+      <point x="296" y="335" type="curve" smooth="yes"/>
+      <point x="190" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="0" type="curve"/>
+      <point x="430" y="0" type="line"/>
+      <point x="640" y="680" type="line"/>
+      <point x="460" y="680" type="line"/>
+      <point x="354" y="335" type="line" smooth="yes"/>
+      <point x="323" y="235"/>
+      <point x="296" y="30"/>
+    </contour>
+    <contour>
+      <point x="460" y="680" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="804" y="0" type="line"/>
+      <point x="804" y="30"/>
+      <point x="777" y="235"/>
+      <point x="746" y="335" type="curve" smooth="yes"/>
+      <point x="640" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="746" y="0" type="curve"/>
+      <point x="880" y="0" type="line"/>
+      <point x="1090" y="680" type="line"/>
+      <point x="910" y="680" type="line"/>
+      <point x="804" y="335" type="line" smooth="yes"/>
+      <point x="773" y="235"/>
+      <point x="746" y="30"/>
+    </contour>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
   </lib>
 </glyph>

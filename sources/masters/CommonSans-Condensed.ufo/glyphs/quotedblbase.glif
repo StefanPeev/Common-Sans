@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+  <advance width="306"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="quotesinglbase"/>
+    <component base="quotesinglbase" xOffset="120"/>
+  </outline>
+  <guideline angle="90.0023" x="48" y="0"/>
+  <guideline angle="90" x="168" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=comma</string>
+  <key>com.fontlab.recipe</key>
+  <string>quotesinglbase_quotesinglbase</string>
+  </dict>
+  </lib>
+</glyph>

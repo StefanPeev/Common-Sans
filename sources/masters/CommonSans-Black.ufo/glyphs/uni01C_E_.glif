@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CE" format="2">
-  <advance width="563"/>
+  <advance width="543"/>
   <unicode hex="01CE"/>
+  <anchor x="278" y="-40" name="bottom"/>
+  <anchor x="278" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
-    <component base="caron" xOffset="130" yOffset="20"/>
+    <component base="caron" xOffset="108"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+caron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

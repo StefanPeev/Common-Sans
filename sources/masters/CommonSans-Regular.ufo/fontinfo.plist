@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>700</integer>
+  <integer>800</integer>
   <key>capHeight</key>
   <integer>680</integer>
   <key>copyright</key>
@@ -22,7 +22,27 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
+    <integer>230</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>t_740</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>740</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>v_t_530</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>530</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -30,7 +50,27 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>540</integer>
+    <integer>478</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>v_b_40</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-40</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f</string>
+    <key>x</key>
+    <integer>-130</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -63,7 +103,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
+  <string>Copyright (c) 2015-2024 The Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
   <key>openTypeNameDesigner</key>
   <string>Stefan Peev</string>
   <key>openTypeNameDesignerURL</key>
@@ -82,7 +122,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.061</string>
+  <string>Version 1.128</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -135,7 +175,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
     <integer>8</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>700</integer>
+  <integer>800</integer>
   <key>openTypeOS2TypoDescender</key>
   <integer>-200</integer>
   <key>openTypeOS2TypoLineGap</key>
@@ -173,10 +213,10 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-10</integer>
+    <integer>-20</integer>
     <integer>0</integer>
-    <integer>680</integer>
-    <integer>690</integer>
+    <integer>0</integer>
+    <integer>2</integer>
   </array>
   <key>postscriptFontName</key>
   <string>CommonSans-Regular</string>
@@ -188,22 +228,24 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <false/>
   <key>postscriptStemSnapH</key>
   <array>
+    <integer>90</integer>
     <integer>65</integer>
-    <integer>80</integer>
-    <integer>180</integer>
+    <integer>76</integer>
+    <integer>101</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
+    <integer>101</integer>
     <integer>68</integer>
     <integer>80</integer>
-    <integer>90</integer>
+    <integer>92</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-200</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>Normal</string>
+  <string>Regular</string>
   <key>styleMapFamilyName</key>
   <string>Common Sans</string>
   <key>styleMapStyleName</key>
@@ -217,7 +259,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>61</integer>
+  <integer>128</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

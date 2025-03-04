@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="2">
+  <advance width="705"/>
+  <unicode hex="014A"/>
+  <anchor x="603" y="740" name="top"/>
+  <anchor x="342" y="-60" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="420"/>
+  </outline>
+  <guideline angle="90" x="342" y="0"/>
+  <guideline angle="306.036" x="121" y="680"/>
+  <guideline angle="306.036" x="88" y="680"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N+>J</string>
+  </dict>
+  </lib>
+</glyph>

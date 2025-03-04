@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308030C" format="2">
+  <anchor x="-280" y="540" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-500" y="540" type="line"/>
+      <point x="-320" y="540" type="line"/>
+      <point x="-320" y="720" type="line"/>
+      <point x="-500" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-240" y="540" type="line"/>
+      <point x="-60" y="540" type="line"/>
+      <point x="-60" y="720" type="line"/>
+      <point x="-240" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-390" y="780" type="line"/>
+      <point x="-170" y="780" type="line"/>
+      <point x="-40" y="970" type="line"/>
+      <point x="-230" y="970" type="line"/>
+      <point x="-320" y="853" type="line"/>
+      <point x="-240" y="853" type="line"/>
+      <point x="-330" y="970" type="line"/>
+      <point x="-520" y="970" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-280" y="0"/>
+  <guideline angle="0" x="0" y="540"/>
+  <guideline angle="0" x="0" y="620"/>
+  <guideline angle="0" x="0" y="780"/>
+</glyph>

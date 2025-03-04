@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C6" format="2">
-  <advance width="941"/>
+  <advance width="1012"/>
   <unicode hex="01C6"/>
+  <anchor x="229" y="740" name="top"/>
+  <anchor x="788" y="-40" name="bottom"/>
+  <anchor x="201" y="0" name="b.cedilla"/>
   <outline>
     <component base="d"/>
-    <component base="zcaron" xOffset="491"/>
+    <component base="zcaron" xOffset="562"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d_zcaron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

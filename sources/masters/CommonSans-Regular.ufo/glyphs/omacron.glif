@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="2">
-  <advance width="490"/>
+  <advance width="514"/>
   <unicode hex="014D"/>
+  <anchor x="265" y="-40" name="bottom"/>
+  <anchor x="316" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="uni0304" xOffset="430" yOffset="50"/>
+    <component base="uni0304" xOffset="526"/>
   </outline>
   <lib>
   <dict>

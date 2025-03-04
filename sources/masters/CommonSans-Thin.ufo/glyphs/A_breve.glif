@@ -2,9 +2,12 @@
 <glyph name="Abreve" format="2">
   <advance width="480"/>
   <unicode hex="0102"/>
+  <anchor x="240" y="662" name="t.ring"/>
+  <anchor x="240" y="-40" name="bottom"/>
+  <anchor x="460" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni0306" xOffset="445" yOffset="220"/>
+    <component base="uni0306" xOffset="445" yOffset="210"/>
   </outline>
   <lib>
   <dict>

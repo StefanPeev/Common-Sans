@@ -2,10 +2,11 @@
 <glyph name="Scommaaccent" format="2">
   <advance width="641"/>
   <unicode hex="0218"/>
-  <anchor x="319" y="740" name="top"/>
+  <anchor x="313" y="740" name="top"/>
+  <anchor x="315" y="0" name="b.cedilla"/>
   <outline>
     <component base="S"/>
-    <component base="uni0326" xOffset="417"/>
+    <component base="uni0326" xOffset="403"/>
   </outline>
   <lib>
   <dict>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0230" format="2">
-  <advance width="656"/>
+  <advance width="662"/>
   <unicode hex="0230"/>
+  <anchor x="331" y="-40" name="bottom"/>
+  <anchor x="331" y="0" name="b.ogonek"/>
   <outline>
-    <component base="uni022E"/>
-    <component base="uni0304" xOffset="513" yOffset="220"/>
+    <component base="O"/>
+    <component base="uni03070304" xOffset="512" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>uni022E+uni0304</string>
+  <string>O+uni03070304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -2,9 +2,20 @@
 <glyph name="Scedilla" format="2">
   <advance width="581"/>
   <unicode hex="015E"/>
-  <anchor x="289" y="740" name="top"/>
+  <anchor x="281" y="740" name="top"/>
+  <anchor x="281" y="-40" name="bottom"/>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb" xOffset="429"/>
+    <component base="cedillacomb" xOffset="440"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+cedillacomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

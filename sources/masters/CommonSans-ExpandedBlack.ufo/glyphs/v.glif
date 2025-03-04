@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+  <advance width="690"/>
+  <unicode hex="0076"/>
+  <anchor x="344" y="530" name="top"/>
+  <anchor x="344" y="-40" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="216" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="678" y="460" type="line"/>
+      <point x="465" y="460" type="line"/>
+      <point x="303" y="54" type="line"/>
+      <point x="387" y="54" type="line"/>
+      <point x="225" y="460" type="line"/>
+      <point x="12" y="460" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h_1" x="344" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=12</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=12</string>
+  </dict>
+  </lib>
+</glyph>

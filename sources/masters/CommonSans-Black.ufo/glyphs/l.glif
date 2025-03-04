@@ -2,15 +2,23 @@
 <glyph name="l" format="2">
   <advance width="256"/>
   <unicode hex="006C"/>
+  <anchor x="128" y="-40" name="bottom"/>
+  <anchor x="128" y="740" name="top"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
-      <point x="40" y="700" type="line"/>
-      <point x="216" y="700" type="line"/>
       <point x="216" y="0" type="line"/>
+      <point x="216" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="128" y="0"/>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
   </lib>
 </glyph>

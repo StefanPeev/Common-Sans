@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0402" format="2">
-  <advance width="1239"/>
+  <advance width="666"/>
   <unicode hex="0402"/>
-  <anchor x="240" y="740" name="top"/>
-  <anchor x="240" y="-60" name="bottom"/>
-  <anchor x="1129" y="520" name="aboveLC"/>
   <outline>
-    <component base="T"/>
-    <component base="h" xOffset="480"/>
-    <component base="uni0237" xOffset="1019"/>
+    <component base="uni040B"/>
+    <contour>
+      <point x="332" y="-83" type="line"/>
+      <point x="332" y="-149"/>
+      <point x="385" y="-200"/>
+      <point x="456" y="-200" type="curve" smooth="yes"/>
+      <point x="547" y="-200"/>
+      <point x="600" y="-151"/>
+      <point x="600" y="-52" type="curve" smooth="yes"/>
+      <point x="600" y="50" type="line"/>
+      <point x="508" y="50" type="line"/>
+      <point x="508" y="-64" type="line" smooth="yes"/>
+      <point x="508" y="-110"/>
+      <point x="487" y="-124"/>
+      <point x="462" y="-124" type="curve" smooth="yes"/>
+      <point x="439" y="-124"/>
+      <point x="417" y="-107"/>
+      <point x="417" y="-83" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>com.fontlab.recipe</key>
-  <string>T_h_uni0237</string>
+  <string>uni040B_uni0237</string>
   </dict>
   </lib>
 </glyph>

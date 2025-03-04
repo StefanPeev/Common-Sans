@@ -2,10 +2,10 @@
 <glyph name="Ntilde" format="2">
   <advance width="618"/>
   <unicode hex="00D1"/>
-  <anchor x="301" y="-60" name="bottom"/>
+  <anchor x="301" y="-40" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb" xOffset="504" yOffset="220"/>
+    <component base="tildecomb" xOffset="504" yOffset="210"/>
   </outline>
   <lib>
   <dict>

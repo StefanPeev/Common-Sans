@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308" format="2">
   <unicode hex="0308"/>
-  <anchor x="-210" y="540" name="_top"/>
+  <anchor x="-215" y="530" name="_top"/>
   <outline>
-    <contour>
-      <point x="-340" y="540" type="line"/>
-      <point x="-340" y="630" type="line"/>
-      <point x="-250" y="630" type="line"/>
-      <point x="-250" y="540" type="line"/>
-    </contour>
-    <contour>
-      <point x="-170" y="540" type="line"/>
-      <point x="-170" y="630" type="line"/>
-      <point x="-80" y="630" type="line"/>
-      <point x="-80" y="540" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-404" yOffset="-11"/>
   </outline>
+  <guideline angle="0" x="0" y="530"/>
+  <guideline angle="90" x="-215" y="0"/>
 </glyph>

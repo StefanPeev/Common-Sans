@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043F.loclBGR" format="2">
-  <advance width="519"/>
-  <anchor x="284" y="520" name="top"/>
+  <advance width="520"/>
+  <anchor x="252" y="530" name="top"/>
+  <anchor x="252" y="-40" name="bottom"/>
   <outline>
     <component base="n"/>
   </outline>

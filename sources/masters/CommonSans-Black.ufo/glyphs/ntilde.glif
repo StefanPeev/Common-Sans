@@ -2,8 +2,19 @@
 <glyph name="ntilde" format="2">
   <advance width="571"/>
   <unicode hex="00F1"/>
+  <anchor x="289" y="-40" name="bottom"/>
   <outline>
     <component base="n"/>
-    <component base="tildecomb" xOffset="437"/>
+    <component base="tildecomb" xOffset="492"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

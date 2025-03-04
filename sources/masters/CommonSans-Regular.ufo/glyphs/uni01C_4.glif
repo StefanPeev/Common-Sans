@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="2">
-  <advance width="1100"/>
+  <advance width="1120"/>
   <unicode hex="01C4"/>
+  <anchor x="271" y="740" name="top"/>
+  <anchor x="857" y="-40" name="bottom"/>
+  <anchor x="217" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="Zcaron" xOffset="590"/>
+    <component base="Zcaron" xOffset="597"/>
   </outline>
   <lib>
   <dict>

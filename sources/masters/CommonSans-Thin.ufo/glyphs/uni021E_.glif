@@ -2,9 +2,11 @@
 <glyph name="uni021E" format="2">
   <advance width="662"/>
   <unicode hex="021E"/>
+  <anchor x="331" y="-40" name="bottom"/>
+  <anchor x="545" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="caroncomb" xOffset="551" yOffset="235"/>
+    <component base="caroncomb" xOffset="551" yOffset="210"/>
   </outline>
   <lib>
   <dict>

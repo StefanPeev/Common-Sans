@@ -2,7 +2,9 @@
 <glyph name="uni0405" format="2">
   <advance width="581"/>
   <unicode hex="0405"/>
-  <anchor x="289" y="740" name="top"/>
+  <anchor x="281" y="740" name="top"/>
+  <anchor x="281" y="-40" name="bottom"/>
+  <anchor x="261" y="0" name="b.cedilla"/>
   <outline>
     <component base="S"/>
   </outline>

@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D7" format="2">
-  <advance width="560"/>
+  <advance width="570"/>
   <unicode hex="01D7"/>
+  <anchor x="285" y="-40" name="bottom"/>
   <outline>
-    <component base="Udieresis"/>
-    <component base="acutecomb" xOffset="437" yOffset="220"/>
+    <component base="U"/>
+    <component base="uni03080301" xOffset="500" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Udieresis+acutecomb</string>
+  <string>U+uni03080301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

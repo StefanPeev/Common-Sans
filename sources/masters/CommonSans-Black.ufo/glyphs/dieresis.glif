@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="2">
-  <advance width="338"/>
+  <advance width="520"/>
   <unicode hex="00A8"/>
-  <anchor x="169" y="500" name="_aboveUC"/>
-  <anchor x="169" y="480" name="_aboveLC"/>
   <outline>
     <contour>
-      <point x="50" y="520" type="line"/>
-      <point x="50" y="600" type="line"/>
-      <point x="130" y="600" type="line"/>
-      <point x="130" y="520" type="line"/>
+      <point x="40" y="530" type="line"/>
+      <point x="220" y="530" type="line"/>
+      <point x="220" y="710" type="line"/>
+      <point x="40" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="208" y="520" type="line"/>
-      <point x="208" y="600" type="line"/>
-      <point x="288" y="600" type="line"/>
-      <point x="288" y="520" type="line"/>
+      <point x="300" y="530" type="line"/>
+      <point x="480" y="530" type="line"/>
+      <point x="480" y="710" type="line"/>
+      <point x="300" y="710" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
 </glyph>

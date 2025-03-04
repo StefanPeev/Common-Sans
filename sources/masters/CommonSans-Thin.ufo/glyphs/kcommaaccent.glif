@@ -2,9 +2,10 @@
 <glyph name="kcommaaccent" format="2">
   <advance width="458"/>
   <unicode hex="0137"/>
+  <anchor x="232" y="740" name="top"/>
   <outline>
     <component base="k"/>
-    <component base="uni0326" xOffset="325"/>
+    <component base="uni0326" xOffset="340"/>
   </outline>
   <lib>
   <dict>

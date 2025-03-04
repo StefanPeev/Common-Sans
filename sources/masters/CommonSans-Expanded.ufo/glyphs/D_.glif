@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+  <advance width="691"/>
+  <unicode hex="0044"/>
+  <anchor x="301" y="740" name="top"/>
+  <anchor x="301" y="-40" name="bottom"/>
+  <anchor x="272" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="680" type="line"/>
+      <point x="59" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="302" y="0" type="line" smooth="yes"/>
+      <point x="532" y="0"/>
+      <point x="643" y="139"/>
+      <point x="643" y="340" type="curve" smooth="yes"/>
+      <point x="643" y="538"/>
+      <point x="531" y="680"/>
+      <point x="302" y="680" type="curve" smooth="yes"/>
+      <point x="83" y="680" type="line"/>
+      <point x="83" y="590" type="line"/>
+      <point x="302" y="590" type="line" smooth="yes"/>
+      <point x="486" y="590"/>
+      <point x="544" y="483"/>
+      <point x="544" y="340" type="curve" smooth="yes"/>
+      <point x="544" y="233"/>
+      <point x="483" y="90"/>
+      <point x="302" y="90" type="curve" smooth="yes"/>
+      <point x="83" y="90" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h_1" x="301" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

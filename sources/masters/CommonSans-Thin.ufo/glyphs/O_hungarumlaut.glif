@@ -2,9 +2,11 @@
 <glyph name="Ohungarumlaut" format="2">
   <advance width="716"/>
   <unicode hex="0150"/>
+  <anchor x="358" y="-40" name="bottom"/>
+  <anchor x="358" y="0" name="b.ogonek"/>
   <outline>
     <component base="O"/>
-    <component base="uni030B" xOffset="513" yOffset="200"/>
+    <component base="uni030B" xOffset="513" yOffset="210"/>
   </outline>
   <lib>
   <dict>

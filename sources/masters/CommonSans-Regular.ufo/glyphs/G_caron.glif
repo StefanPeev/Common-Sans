@@ -2,9 +2,10 @@
 <glyph name="Gcaron" format="2">
   <advance width="647"/>
   <unicode hex="01E6"/>
+  <anchor x="317" y="-40" name="bottom"/>
   <outline>
     <component base="G"/>
-    <component base="caroncomb" xOffset="540" yOffset="220"/>
+    <component base="caroncomb" xOffset="537" yOffset="210"/>
   </outline>
   <lib>
   <dict>

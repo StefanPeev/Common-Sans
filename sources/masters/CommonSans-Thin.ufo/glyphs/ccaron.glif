@@ -2,9 +2,11 @@
 <glyph name="ccaron" format="2">
   <advance width="526"/>
   <unicode hex="010D"/>
+  <anchor x="265" y="-40" name="bottom"/>
+  <anchor x="257" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
-    <component base="caroncomb" xOffset="500"/>
+    <component base="caroncomb" xOffset="485"/>
   </outline>
   <lib>
   <dict>

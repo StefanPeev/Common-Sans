@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otilde" format="2">
+  <advance width="466"/>
+  <unicode hex="00F5"/>
+  <anchor x="237" y="-40" name="bottom"/>
+  <anchor x="233" y="0" name="b.ogonek"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="436"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

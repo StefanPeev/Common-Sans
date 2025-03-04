@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0430" format="2">
-  <advance width="492"/>
+  <advance width="511"/>
   <unicode hex="0430"/>
-  <anchor x="230" y="540" name="top"/>
+  <anchor x="254" y="530" name="top"/>
+  <anchor x="254" y="-40" name="bottom"/>
+  <anchor x="254" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
   </outline>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D3" format="2">
-  <advance width="452"/>
+  <advance width="497"/>
   <unicode hex="04D3"/>
+  <anchor x="242" y="-40" name="bottom"/>
+  <anchor x="242" y="530" name="t.ring"/>
   <outline>
     <component base="uni0430"/>
-    <component base="uni0308" xOffset="380"/>
+    <component base="uni0308" xOffset="412" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

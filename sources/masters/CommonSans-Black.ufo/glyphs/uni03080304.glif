@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080304" format="2">
+  <outline>
+    <contour>
+      <point x="-480" y="540" type="line"/>
+      <point x="-300" y="540" type="line"/>
+      <point x="-300" y="720" type="line"/>
+      <point x="-480" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-220" y="540" type="line"/>
+      <point x="-40" y="540" type="line"/>
+      <point x="-40" y="720" type="line"/>
+      <point x="-220" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-480" y="780" type="line"/>
+      <point x="-40" y="780" type="line"/>
+      <point x="-40" y="930" type="line"/>
+      <point x="-480" y="930" type="line"/>
+    </contour>
+  </outline>
+</glyph>

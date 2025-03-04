@@ -2,9 +2,10 @@
 <glyph name="Zcaron" format="2">
   <advance width="510"/>
   <unicode hex="017D"/>
+  <anchor x="220" y="-40" name="bottom"/>
   <outline>
     <component base="Z"/>
-    <component base="caroncomb" xOffset="475" yOffset="220"/>
+    <component base="caroncomb" xOffset="440" yOffset="210"/>
   </outline>
   <lib>
   <dict>

@@ -4,16 +4,36 @@
   <unicode hex="0448"/>
   <outline>
     <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="40" y="158" type="line"/>
-      <point x="654" y="158" type="line"/>
-      <point x="654" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="460" type="line"/>
+      <point x="42" y="460" type="line"/>
     </contour>
-    <component base="dotlessi" xOffset="-18"/>
-    <component base="dotlessi" xOffset="244"/>
-    <component base="dotlessi" xOffset="502"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="654" y="158" type="line"/>
+      <point x="40" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="460" type="line"/>
+      <point x="304" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="562" y="0" type="line"/>
+      <point x="738" y="0" type="line"/>
+      <point x="738" y="460" type="line"/>
+      <point x="562" y="460" type="line"/>
+    </contour>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
   </lib>
 </glyph>

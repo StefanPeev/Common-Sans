@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb" format="2">
+  <unicode hex="0331"/>
+  <anchor x="-265" y="-40" name="_bottom"/>
+  <outline>
+    <component base="uni0304" yOffset="-588"/>
+  </outline>
+  <guideline angle="90" name="h_1" x="-265" y="0"/>
+  <guideline angle="90" x="-400" y="0"/>
+  <guideline angle="0" x="0" y="-58"/>
+</glyph>

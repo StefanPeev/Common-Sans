@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D6" format="2">
-  <advance width="499"/>
+  <advance width="519"/>
   <unicode hex="01D6"/>
+  <anchor x="259" y="-40" name="bottom"/>
   <outline>
-    <component base="udieresis"/>
-    <component base="uni0304" xOffset="435"/>
+    <component base="u"/>
+    <component base="uni03080304" xOffset="434" yOffset="-10"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>udieresis+uni0304</string>
+  <string>u+uni03080304</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

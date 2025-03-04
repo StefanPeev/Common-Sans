@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
-  <advance width="640"/>
+  <advance width="630"/>
   <unicode hex="0055"/>
-  <guideline x="320" y="0" angle="90"/>
-  <anchor x="320" y="740" name="top"/>
+  <anchor x="315" y="740" name="top"/>
+  <anchor x="315" y="-40" name="bottom"/>
   <outline>
     <contour>
-      <point x="50" y="270" type="curve" smooth="yes"/>
-      <point x="50" y="680" type="line"/>
-      <point x="230" y="680" type="line"/>
-      <point x="230" y="310" type="line" smooth="yes"/>
-      <point x="230" y="207"/>
-      <point x="250" y="154"/>
-      <point x="320" y="154" type="curve" smooth="yes"/>
-      <point x="390" y="154"/>
-      <point x="410" y="207"/>
-      <point x="410" y="310" type="curve" smooth="yes"/>
-      <point x="410" y="680" type="line"/>
-      <point x="590" y="680" type="line"/>
-      <point x="590" y="270" type="line" smooth="yes"/>
-      <point x="590" y="82"/>
-      <point x="490" y="-16"/>
-      <point x="320" y="-16" type="curve" smooth="yes"/>
-      <point x="150" y="-16"/>
-      <point x="50" y="82"/>
+      <point x="45" y="270" type="line" smooth="yes"/>
+      <point x="45" y="82"/>
+      <point x="145" y="-16"/>
+      <point x="315" y="-16" type="curve" smooth="yes"/>
+      <point x="485" y="-16"/>
+      <point x="585" y="82"/>
+      <point x="585" y="270" type="curve" smooth="yes"/>
+      <point x="585" y="680" type="line"/>
+      <point x="405" y="680" type="line"/>
+      <point x="405" y="310" type="line" smooth="yes"/>
+      <point x="405" y="207"/>
+      <point x="385" y="154"/>
+      <point x="315" y="154" type="curve" smooth="yes"/>
+      <point x="245" y="154"/>
+      <point x="225" y="207"/>
+      <point x="225" y="310" type="curve" smooth="yes"/>
+      <point x="225" y="680" type="line"/>
+      <point x="45" y="680" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="315" y="0"/>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-5</string>
+  </dict>
   </lib>
 </glyph>

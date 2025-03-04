@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B" format="2">
-  <advance width="650"/>
+  <advance width="661"/>
   <unicode hex="044B"/>
   <outline>
-    <component base="dotlessi" xOffset="420"/>
-    <component base="uni044C"/>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="460" type="line"/>
+      <point x="66" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="257" y="0" type="line" smooth="yes"/>
+      <point x="397" y="0"/>
+      <point x="431" y="69"/>
+      <point x="431" y="144" type="curve" smooth="yes"/>
+      <point x="431" y="219"/>
+      <point x="397" y="296"/>
+      <point x="257" y="296" type="curve" smooth="yes"/>
+      <point x="121" y="296" type="line"/>
+      <point x="121" y="224" type="line"/>
+      <point x="253" y="224" type="line" smooth="yes"/>
+      <point x="317" y="224"/>
+      <point x="339" y="191"/>
+      <point x="339" y="144" type="curve" smooth="yes"/>
+      <point x="339" y="101"/>
+      <point x="317" y="72"/>
+      <point x="253" y="72" type="curve" smooth="yes"/>
+      <point x="121" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="504" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="595" y="460" type="line"/>
+      <point x="504" y="460" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

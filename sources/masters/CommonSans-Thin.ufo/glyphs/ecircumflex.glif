@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="2">
-  <advance width="511"/>
+  <advance width="530"/>
   <unicode hex="00EA"/>
+  <anchor x="265" y="-40" name="bottom"/>
+  <anchor x="270" y="0" name="b.ogonek"/>
+  <anchor x="261" y="0" name="b.cedilla"/>
   <outline>
     <component base="e"/>
-    <component base="uni0302" xOffset="493" yOffset="-20"/>
+    <component base="uni0302" xOffset="485"/>
   </outline>
   <lib>
   <dict>

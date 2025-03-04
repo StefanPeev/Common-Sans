@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex" format="2">
-  <advance width="560"/>
+  <advance width="570"/>
   <unicode hex="00DB"/>
+  <anchor x="285" y="-40" name="bottom"/>
   <outline>
     <component base="U"/>
-    <component base="uni0302" xOffset="500" yOffset="200"/>
+    <component base="uni0302" xOffset="505" yOffset="210"/>
   </outline>
   <lib>
   <dict>

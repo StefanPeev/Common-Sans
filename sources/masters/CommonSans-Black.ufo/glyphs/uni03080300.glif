@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080300" format="2">
+  <anchor x="-249" y="530" name="_top"/>
+  <outline>
+    <component base="dieresis" xOffset="-510"/>
+    <contour>
+      <point x="-303" y="780" type="line"/>
+      <point x="-183" y="780" type="line"/>
+      <point x="-248" y="960" type="line"/>
+      <point x="-408" y="960" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-470" y="0"/>
+  <guideline angle="90" x="-290" y="0"/>
+  <guideline angle="90" x="-210" y="0"/>
+  <guideline angle="90" x="-30" y="0"/>
+  <guideline angle="0" x="0" y="720"/>
+  <guideline angle="90" x="-249" y="0"/>
+  <guideline angle="0" x="0" y="780"/>
+</glyph>

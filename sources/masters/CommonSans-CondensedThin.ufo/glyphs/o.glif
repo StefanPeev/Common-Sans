@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+  <advance width="428"/>
+  <unicode hex="006F"/>
+  <anchor x="214" y="530" name="top"/>
+  <anchor x="205" y="-40" name="bottom"/>
+  <anchor x="256" y="0" name="b.ogonek"/>
+  <outline>
+    <contour>
+      <point x="60" y="230" type="curve" smooth="yes"/>
+      <point x="60" y="85"/>
+      <point x="103" y="-8"/>
+      <point x="214" y="-8" type="curve" smooth="yes"/>
+      <point x="325" y="-8"/>
+      <point x="368" y="84"/>
+      <point x="368" y="230" type="curve" smooth="yes"/>
+      <point x="368" y="375"/>
+      <point x="325" y="468"/>
+      <point x="214" y="468" type="curve" smooth="yes"/>
+      <point x="103" y="468"/>
+      <point x="60" y="376"/>
+    </contour>
+    <contour>
+      <point x="80" y="230" type="curve" smooth="yes"/>
+      <point x="80" y="362"/>
+      <point x="115" y="450"/>
+      <point x="214" y="450" type="curve" smooth="yes"/>
+      <point x="314" y="450"/>
+      <point x="348" y="363"/>
+      <point x="348" y="230" type="curve" smooth="yes"/>
+      <point x="348" y="98"/>
+      <point x="313" y="10"/>
+      <point x="214" y="10" type="curve" smooth="yes"/>
+      <point x="114" y="10"/>
+      <point x="80" y="97"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="214" y="0"/>
+  <guideline angle="0" x="0" y="230"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

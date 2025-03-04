@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+  <advance width="675"/>
+  <unicode hex="0053"/>
+  <anchor x="328" y="740" name="top"/>
+  <anchor x="328" y="-40" name="bottom"/>
+  <anchor x="328" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="48" y="197" type="line"/>
+      <point x="48" y="64"/>
+      <point x="152" y="-11"/>
+      <point x="328" y="-11" type="curve" smooth="yes"/>
+      <point x="499" y="-11"/>
+      <point x="627" y="47"/>
+      <point x="627" y="191" type="curve" smooth="yes"/>
+      <point x="627" y="289"/>
+      <point x="561" y="335"/>
+      <point x="424" y="377" type="curve" smooth="yes"/>
+      <point x="311" y="412" type="line" smooth="yes"/>
+      <point x="212" y="443"/>
+      <point x="172" y="469"/>
+      <point x="172" y="514" type="curve" smooth="yes"/>
+      <point x="172" y="570"/>
+      <point x="214" y="601"/>
+      <point x="336" y="601" type="curve" smooth="yes"/>
+      <point x="441" y="601"/>
+      <point x="524" y="559"/>
+      <point x="524" y="499" type="curve"/>
+      <point x="624" y="499" type="line"/>
+      <point x="624" y="608"/>
+      <point x="518" y="691"/>
+      <point x="347" y="691" type="curve" smooth="yes"/>
+      <point x="157" y="691"/>
+      <point x="71" y="620"/>
+      <point x="71" y="519" type="curve" smooth="yes"/>
+      <point x="71" y="422"/>
+      <point x="128" y="378"/>
+      <point x="276" y="333" type="curve" smooth="yes"/>
+      <point x="391" y="298" type="line" smooth="yes"/>
+      <point x="492" y="267"/>
+      <point x="526" y="238"/>
+      <point x="526" y="191" type="curve" smooth="yes"/>
+      <point x="526" y="123"/>
+      <point x="463" y="79"/>
+      <point x="337" y="79" type="curve" smooth="yes"/>
+      <point x="238" y="79"/>
+      <point x="148" y="112"/>
+      <point x="148" y="197" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h_1" x="328" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

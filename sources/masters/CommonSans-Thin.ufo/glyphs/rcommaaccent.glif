@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcommaaccent" format="2">
-  <advance width="370"/>
+  <advance width="355"/>
   <unicode hex="0157"/>
+  <anchor x="206" y="530" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="uni0326" xOffset="281"/>
+    <component base="uni0326" xOffset="296"/>
   </outline>
   <lib>
   <dict>

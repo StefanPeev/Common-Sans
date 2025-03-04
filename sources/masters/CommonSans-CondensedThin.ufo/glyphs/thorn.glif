@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="2">
+  <advance width="220"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <component base="bar"/>
+    <component base="b" xOffset="-137"/>
+  </outline>
+  <guideline angle="90" x="-25" y="0"/>
+  <guideline angle="90" x="-39" y="0"/>
+  <guideline angle="90" x="-24" y="0"/>
+  <guideline angle="0" x="0" y="330"/>
+  <guideline angle="90" x="108" y="0"/>
+  <guideline angle="0" x="0" y="230"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>bar+b%</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

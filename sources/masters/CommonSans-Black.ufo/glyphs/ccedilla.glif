@@ -2,9 +2,21 @@
 <glyph name="ccedilla" format="2">
   <advance width="495"/>
   <unicode hex="00E7"/>
-  <anchor x="280" y="520" name="top"/>
+  <anchor x="256" y="530" name="top"/>
+  <anchor x="256" y="-40" name="bottom"/>
+  <anchor x="228" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
     <component base="cedilla" xOffset="21"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+cedilla</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

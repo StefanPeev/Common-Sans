@@ -2,9 +2,10 @@
 <glyph name="Wcircumflex" format="2">
   <advance width="918"/>
   <unicode hex="0174"/>
+  <anchor x="459" y="-40" name="bottom"/>
   <outline>
     <component base="W"/>
-    <component base="uni0302" xOffset="679" yOffset="220"/>
+    <component base="uni0302" xOffset="679" yOffset="210"/>
   </outline>
   <lib>
   <dict>

@@ -2,9 +2,11 @@
 <glyph name="Edieresis" format="2">
   <advance width="510"/>
   <unicode hex="00CB"/>
+  <anchor x="275" y="-40" name="bottom"/>
+  <anchor x="280" y="0" name="b.cedilla"/>
   <outline>
     <component base="E"/>
-    <component base="uni0308" xOffset="425" yOffset="200"/>
+    <component base="uni0308" xOffset="445" yOffset="200"/>
   </outline>
   <lib>
   <dict>

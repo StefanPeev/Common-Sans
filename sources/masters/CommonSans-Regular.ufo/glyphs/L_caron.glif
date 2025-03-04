@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-  <advance width="520"/>
+  <advance width="514"/>
   <unicode hex="013D"/>
-  <anchor x="105" y="740" name="top"/>
+  <anchor x="104" y="740" name="top"/>
   <outline>
-    <component base="L"/>
-    <component base="quoteright" xOffset="261" yOffset="-20"/>
+    <component base="L" xOffset="-1"/>
+    <component base="quoteright" xOffset="260" yOffset="-20"/>
   </outline>
   <lib>
   <dict>

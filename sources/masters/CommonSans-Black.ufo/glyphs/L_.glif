@@ -2,22 +2,27 @@
 <glyph name="L" format="2">
   <advance width="470"/>
   <unicode hex="004C"/>
-  <anchor x="95" y="740" name="top"/>
+  <anchor x="260" y="740" name="top"/>
+  <anchor x="260" y="-40" name="bottom"/>
   <outline>
     <contour>
-      <point x="190" y="160" type="line"/>
-      <point x="440" y="160" type="line"/>
-      <point x="440" y="0" type="line"/>
       <point x="190" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="160" type="line"/>
+      <point x="190" y="160" type="line"/>
     </contour>
     <contour>
       <point x="50" y="0" type="line"/>
-      <point x="50" y="680" type="line"/>
-      <point x="230" y="680" type="line"/>
       <point x="230" y="0" type="line"/>
+      <point x="230" y="680" type="line"/>
+      <point x="50" y="680" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="260" y="0"/>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  </dict>
   </lib>
 </glyph>

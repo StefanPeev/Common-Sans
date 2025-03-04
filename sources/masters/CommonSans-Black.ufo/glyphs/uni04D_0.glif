@@ -2,9 +2,21 @@
 <glyph name="uni04D0" format="2">
   <advance width="650"/>
   <unicode hex="04D0"/>
-  <anchor x="325" y="740" name="aboveUC"/>
+  <anchor x="326" y="629" name="t.ring"/>
+  <anchor x="325" y="-40" name="bottom"/>
+  <anchor x="564" y="0" name="b.ogonek"/>
   <outline>
     <component base="uni0410"/>
-    <component base="uni0306" xOffset="530" yOffset="220"/>
+    <component base="uni0306" xOffset="530" yOffset="210"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0410+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

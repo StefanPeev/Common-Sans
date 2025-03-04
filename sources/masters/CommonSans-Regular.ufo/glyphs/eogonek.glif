@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="2">
-  <advance width="498"/>
+  <advance width="511"/>
   <unicode hex="0119"/>
-  <anchor x="250" y="520" name="top"/>
+  <anchor x="258" y="530" name="top"/>
+  <anchor x="258" y="-40" name="bottom"/>
+  <anchor x="239" y="0" name="b.cedilla"/>
   <outline>
     <component base="e"/>
-    <component base="ogonek" xOffset="229"/>
+    <component base="ogonekcomb" xOffset="407"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>e+>~ogonek</string>
+  <string>e+>~ogonekcomb</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

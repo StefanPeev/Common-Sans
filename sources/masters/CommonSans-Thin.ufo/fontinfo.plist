@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>700</integer>
+  <integer>800</integer>
   <key>capHeight</key>
   <integer>680</integer>
   <key>copyright</key>
@@ -22,15 +22,47 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>261</integer>
+    <integer>280</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f</string>
+    <key>x</key>
+    <integer>-130</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   <dict>
     <key>angle</key>
     <integer>0</integer>
+    <key>name</key>
+    <string>t_740</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>478</integer>
+    <integer>740</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>v_b_40</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-40</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>v_t_530</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>530</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -63,7 +95,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
+  <string>Copyright (c) 2015-2024 The Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
   <key>openTypeNameDesigner</key>
   <string>Stefan Peev</string>
   <key>openTypeNameDesignerURL</key>
@@ -82,7 +114,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.061</string>
+  <string>Version 1.128</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -135,7 +167,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
     <integer>8</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>700</integer>
+  <integer>800</integer>
   <key>openTypeOS2TypoDescender</key>
   <integer>-200</integer>
   <key>openTypeOS2TypoLineGap</key>
@@ -173,12 +205,12 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-10</integer>
+    <integer>-20</integer>
     <integer>0</integer>
     <integer>680</integer>
     <integer>690</integer>
-    <integer>680</integer>
-    <integer>690</integer>
+    <integer>460</integer>
+    <integer>468</integer>
   </array>
   <key>postscriptFontName</key>
   <string>CommonSans-Thin</string>
@@ -188,15 +220,32 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <string>Common Sans Thin</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptOtherBlues</key>
+  <array>
+    <integer>-14</integer>
+    <integer>-4</integer>
+    <integer>-200</integer>
+    <integer>-200</integer>
+  </array>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>20</integer>
     <integer>18</integer>
+    <integer>22</integer>
+    <integer>56</integer>
+    <integer>60</integer>
+    <integer>65</integer>
+    <integer>80</integer>
+    <integer>98</integer>
+    <integer>234</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
     <integer>22</integer>
     <integer>20</integer>
+    <integer>65</integer>
+    <integer>68</integer>
+    <integer>80</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-200</integer>
@@ -205,7 +254,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>postscriptWeightName</key>
   <string>Thin</string>
   <key>styleMapFamilyName</key>
-  <string>Common Sans</string>
+  <string>Common Sans Thin</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -217,7 +266,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>61</integer>
+  <integer>128</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

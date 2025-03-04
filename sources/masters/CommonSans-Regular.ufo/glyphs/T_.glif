@@ -3,17 +3,23 @@
   <advance width="480"/>
   <unicode hex="0054"/>
   <anchor x="240" y="740" name="top"/>
-  <anchor x="240" y="-60" name="bottom"/>
+  <anchor x="240" y="-40" name="bottom"/>
   <outline>
-    <component base="I" xOffset="135"/>
     <contour>
-      <point x="10" y="600" type="line"/>
-      <point x="10" y="680" type="line"/>
+      <point x="10" y="590" type="line"/>
+      <point x="470" y="590" type="line"/>
       <point x="470" y="680" type="line"/>
-      <point x="470" y="600" type="line"/>
+      <point x="10" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="680" type="line"/>
+      <point x="190" y="680" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="240" y="0"/>
+  <guideline angle="90" name="h_1" x="240" y="0"/>
+  <guideline angle="0" x="0" y="590"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

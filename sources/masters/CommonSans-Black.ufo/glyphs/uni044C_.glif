@@ -1,36 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044C" format="2">
-  <advance width="496"/>
+  <advance width="486"/>
   <unicode hex="044C"/>
   <outline>
     <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="45" y="460" type="line"/>
-      <point x="221" y="460" type="line"/>
-      <point x="221" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="216" y="460" type="line"/>
+      <point x="40" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="133" y="0" type="line"/>
-      <point x="133" y="126" type="line"/>
-      <point x="250" y="126" type="line" smooth="yes"/>
-      <point x="270" y="126"/>
-      <point x="281" y="144"/>
-      <point x="281" y="170" type="curve" smooth="yes"/>
-      <point x="281" y="192"/>
-      <point x="270" y="215"/>
-      <point x="250" y="215" type="curve" smooth="yes"/>
-      <point x="133" y="215" type="line"/>
-      <point x="133" y="341" type="line"/>
-      <point x="287" y="341" type="line" smooth="yes"/>
-      <point x="427" y="341"/>
-      <point x="461" y="245"/>
-      <point x="461" y="170" type="curve" smooth="yes"/>
-      <point x="461" y="95"/>
-      <point x="427" y="0"/>
-      <point x="287" y="0" type="curve" smooth="yes"/>
+      <point x="128" y="0" type="line"/>
+      <point x="282" y="0" type="line" smooth="yes"/>
+      <point x="422" y="0"/>
+      <point x="456" y="95"/>
+      <point x="456" y="170" type="curve" smooth="yes"/>
+      <point x="456" y="245"/>
+      <point x="422" y="341"/>
+      <point x="282" y="341" type="curve" smooth="yes"/>
+      <point x="128" y="341" type="line"/>
+      <point x="128" y="215" type="line"/>
+      <point x="245" y="215" type="line" smooth="yes"/>
+      <point x="265" y="215"/>
+      <point x="276" y="192"/>
+      <point x="276" y="170" type="curve" smooth="yes"/>
+      <point x="276" y="144"/>
+      <point x="265" y="126"/>
+      <point x="245" y="126" type="curve" smooth="yes"/>
+      <point x="128" y="126" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict/>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=b</string>
+  </dict>
   </lib>
 </glyph>

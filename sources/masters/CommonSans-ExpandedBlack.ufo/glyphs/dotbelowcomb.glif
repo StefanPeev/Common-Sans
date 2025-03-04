@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="-229" y="-40" name="_bottom"/>
+  <outline>
+    <component base="dotaccent" xOffset="-368" yOffset="-760"/>
+  </outline>
+  <guideline angle="0" x="0" y="-40"/>
+  <guideline angle="90" x="-130" y="0"/>
+  <guideline angle="90" x="-328" y="0"/>
+  <guideline angle="0" x="0" y="-220"/>
+  <guideline angle="90" x="-229" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotaccent%</string>
+  </dict>
+  </lib>
+</glyph>

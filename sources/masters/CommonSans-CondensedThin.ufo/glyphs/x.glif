@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+  <advance width="314"/>
+  <unicode hex="0078"/>
+  <anchor x="157" y="-40" name="bottom"/>
+  <anchor x="157" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="156" y="228" type="line"/>
+      <point x="166" y="236" type="line"/>
+      <point x="271" y="460" type="line"/>
+      <point x="249" y="460" type="line"/>
+      <point x="150" y="248" type="line"/>
+      <point x="143" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="460" type="line"/>
+      <point x="148" y="234" type="line"/>
+      <point x="156" y="228" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="171" y="242" type="line"/>
+      <point x="164" y="248" type="line"/>
+      <point x="65" y="460" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="248"/>
+  <guideline angle="0" x="0" y="228"/>
+  <guideline angle="90" name="h_1" x="157" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

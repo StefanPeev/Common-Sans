@@ -3,9 +3,11 @@
   <advance width="480"/>
   <unicode hex="00C5"/>
   <anchor x="240" y="740" name="top"/>
+  <anchor x="240" y="-40" name="bottom"/>
+  <anchor x="460" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni030A" xOffset="429" yOffset="220"/>
+    <component base="uni030A" xOffset="429" yOffset="132"/>
   </outline>
   <lib>
   <dict>

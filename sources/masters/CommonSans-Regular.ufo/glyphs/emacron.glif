@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron" format="2">
-  <advance width="498"/>
+  <advance width="511"/>
   <unicode hex="0113"/>
+  <anchor x="258" y="-40" name="bottom"/>
+  <anchor x="251" y="0" name="b.ogonek"/>
+  <anchor x="239" y="0" name="b.cedilla"/>
   <outline>
     <component base="e"/>
-    <component base="uni0304" xOffset="435" yOffset="50"/>
+    <component base="uni0304" xOffset="527"/>
   </outline>
   <lib>
   <dict>
