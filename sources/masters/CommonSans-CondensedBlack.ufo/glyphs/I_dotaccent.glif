@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="2">
-  <advance width="253"/>
+  <advance width="258"/>
   <unicode hex="0130"/>
-  <anchor x="126" y="-40" name="bottom"/>
+  <anchor x="128" y="-40" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="uni0307" xOffset="266" yOffset="200"/>
+    <component base="uni0307" xOffset="268" yOffset="200"/>
   </outline>
   <lib>
   <dict>

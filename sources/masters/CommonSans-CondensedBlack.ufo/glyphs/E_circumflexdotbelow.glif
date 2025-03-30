@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexdotbelow" format="2">
-  <advance width="401"/>
+  <advance width="406"/>
   <unicode hex="1EC6"/>
-  <anchor x="203" y="0" name="b.cedilla"/>
+  <anchor x="208" y="0" name="b.cedilla"/>
   <outline>
     <component base="Edotbelow"/>
-    <component base="uni0302" xOffset="420" yOffset="210"/>
+    <component base="uni0302" xOffset="425" yOffset="210"/>
   </outline>
   <lib>
   <dict>

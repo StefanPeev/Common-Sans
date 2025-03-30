@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni032D" format="2">
+  <unicode hex="032D"/>
+  <anchor x="-255" y="-40" name="_bottom"/>
+  <outline>
+    <component base="uni0302" xOffset="-35" yOffset="-730"/>
+  </outline>
+  <guideline angle="90" x="-255" y="0"/>
+</glyph>

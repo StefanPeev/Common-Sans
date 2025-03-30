@@ -4,6 +4,7 @@
   <unicode hex="0055"/>
   <anchor x="369" y="740" name="top"/>
   <anchor x="369" y="-40" name="bottom"/>
+  <anchor x="369" y="10" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="45" y="270" type="line" smooth="yes"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Bdot" format="2">
-  <advance width="498"/>
+  <advance width="488"/>
   <unicode hex="1E02"/>
   <anchor x="240" y="-40" name="bottom"/>
   <outline>

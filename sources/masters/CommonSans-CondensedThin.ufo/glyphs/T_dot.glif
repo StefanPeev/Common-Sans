@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tdot" format="2">
-  <advance width="382"/>
+  <advance width="402"/>
   <unicode hex="1E6A"/>
-  <anchor x="190" y="-40" name="bottom"/>
+  <anchor x="200" y="-40" name="bottom"/>
   <outline>
     <component base="T"/>
-    <component base="uni0307" xOffset="280" yOffset="210"/>
+    <component base="uni0307" xOffset="290" yOffset="210"/>
   </outline>
   <lib>
   <dict>

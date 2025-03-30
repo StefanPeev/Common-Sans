@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcircumflexbelow" format="2">
-  <advance width="383"/>
+  <advance width="388"/>
   <unicode hex="1E70"/>
-  <anchor x="192" y="740" name="top"/>
+  <anchor x="194" y="740" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="circumflexbelowcomb" xOffset="492"/>
+    <component base="uni032D" xOffset="494"/>
   </outline>
   <lib>
   <dict>

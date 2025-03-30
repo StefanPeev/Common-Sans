@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>680</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
+  <string>Copyright 2015-2025 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
@@ -95,7 +95,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2015-2024 The Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
+  <string>Copyright 2015-2025 The Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
   <key>openTypeNameDesigner</key>
   <string>Stefan Peev</string>
   <key>openTypeNameDesignerURL</key>
@@ -106,7 +106,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNameLicenseURL</key>
   <string>https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt</string>
   <key>openTypeNameManufacturer</key>
-  <string>Context Ltd</string>
+  <string>Stefan Peev</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://localfonts.eu</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -114,7 +114,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Expanded Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.128</string>
+  <string>Version 1.148</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -266,13 +266,13 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>styleName</key>
   <string>Expanded Thin</string>
   <key>trademark</key>
-  <string>CommonSans is a trademark of Stefan Peev, Context Ltd.</string>
+  <string>CommonSans is a trademark of Stefan Peev</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>128</integer>
+  <integer>148</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

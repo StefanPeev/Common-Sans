@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0427" format="2">
-  <advance width="516"/>
+  <advance width="526"/>
   <unicode hex="0427"/>
   <outline>
     <contour>
@@ -18,10 +18,16 @@
       <point x="50" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="365" y="0" type="line"/>
+      <point x="367" y="0" type="line"/>
       <point x="466" y="0" type="line"/>
       <point x="466" y="680" type="line"/>
-      <point x="365" y="680" type="line"/>
+      <point x="367" y="680" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
 </glyph>

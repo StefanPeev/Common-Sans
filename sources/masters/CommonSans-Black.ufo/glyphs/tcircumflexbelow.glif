@@ -3,9 +3,10 @@
   <advance width="418"/>
   <unicode hex="1E71"/>
   <anchor x="198" y="660" name="top"/>
+  <anchor x="396" y="700" name="t.quoteright"/>
   <outline>
     <component base="t"/>
-    <component base="circumflexbelowcomb" xOffset="540"/>
+    <component base="uni032D" xOffset="540"/>
   </outline>
   <lib>
   <dict>

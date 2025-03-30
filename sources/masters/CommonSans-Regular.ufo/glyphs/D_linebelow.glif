@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dlinebelow" format="2">
-  <advance width="597"/>
+  <advance width="596"/>
   <unicode hex="1E0E"/>
-  <anchor x="271" y="740" name="top"/>
-  <anchor x="217" y="0" name="b.cedilla"/>
+  <anchor x="269" y="740" name="top"/>
+  <anchor x="215" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="macronbelowcomb" xOffset="540"/>
+    <component base="uni0331" xOffset="538"/>
   </outline>
   <lib>
   <dict>

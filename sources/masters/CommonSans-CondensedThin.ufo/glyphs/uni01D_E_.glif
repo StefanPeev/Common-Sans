@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01DE" format="2">
-  <advance width="362"/>
+  <advance width="444"/>
   <unicode hex="01DE"/>
-  <anchor x="181" y="663" name="t.ring"/>
-  <anchor x="181" y="-40" name="bottom"/>
-  <anchor x="346" y="0" name="b.ogonek"/>
+  <anchor x="222" y="663" name="t.ring"/>
+  <anchor x="222" y="-40" name="bottom"/>
+  <anchor x="414" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni03080304" xOffset="356" yOffset="200"/>
+    <component base="uni03080304" xOffset="397" yOffset="200"/>
   </outline>
   <lib>
   <dict>

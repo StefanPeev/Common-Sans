@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
-  <advance width="514"/>
+  <advance width="523"/>
   <unicode hex="0055"/>
-  <anchor x="258" y="740" name="top"/>
-  <anchor x="258" y="-40" name="bottom"/>
+  <anchor x="262" y="740" name="top"/>
+  <anchor x="262" y="-40" name="bottom"/>
+  <anchor x="262" y="10" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="45" y="210" type="line" smooth="yes"/>
-      <point x="45" y="82"/>
-      <point x="124" y="-16"/>
-      <point x="257" y="-16" type="curve" smooth="yes"/>
-      <point x="391" y="-16"/>
-      <point x="469" y="82"/>
-      <point x="469" y="210" type="curve" smooth="yes"/>
-      <point x="469" y="680" type="line"/>
-      <point x="316" y="680" type="line"/>
-      <point x="316" y="245" type="line" smooth="yes"/>
-      <point x="316" y="182"/>
-      <point x="303" y="129"/>
-      <point x="257" y="129" type="curve" smooth="yes"/>
-      <point x="211" y="129"/>
-      <point x="199" y="182"/>
-      <point x="199" y="245" type="curve" smooth="yes"/>
-      <point x="199" y="680" type="line"/>
+      <point x="45" y="75"/>
+      <point x="132" y="-16"/>
+      <point x="261" y="-16" type="curve" smooth="yes"/>
+      <point x="390" y="-16"/>
+      <point x="478" y="75"/>
+      <point x="478" y="210" type="curve" smooth="yes"/>
+      <point x="478" y="680" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="320" y="221" type="line" smooth="yes"/>
+      <point x="320" y="171"/>
+      <point x="307" y="129"/>
+      <point x="261" y="129" type="curve" smooth="yes"/>
+      <point x="215" y="129"/>
+      <point x="203" y="171"/>
+      <point x="203" y="221" type="curve" smooth="yes"/>
+      <point x="203" y="680" type="line"/>
       <point x="45" y="680" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="h_1" x="258" y="0"/>
+  <guideline angle="90" name="h_1" x="262" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

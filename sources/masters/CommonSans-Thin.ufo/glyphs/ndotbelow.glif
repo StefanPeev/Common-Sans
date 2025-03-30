@@ -5,14 +5,14 @@
   <anchor x="252" y="530" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="dotbelowcomb" xOffset="397"/>
+    <component base="uni0323" xOffset="397"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>n+dotbelowcomb</string>
+  <string>n+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

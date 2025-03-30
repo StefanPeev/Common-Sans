@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-  <advance width="517"/>
+  <advance width="531"/>
   <unicode hex="010E"/>
-  <anchor x="251" y="-40" name="bottom"/>
-  <anchor x="197" y="0" name="b.cedilla"/>
+  <anchor x="256" y="-40" name="bottom"/>
+  <anchor x="202" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="caroncomb" xOffset="471" yOffset="210"/>
+    <component base="uni030C" xOffset="476" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>D+caroncomb</string>
+  <string>D+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

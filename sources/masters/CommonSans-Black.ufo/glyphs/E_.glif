@@ -13,10 +13,10 @@
       <point x="50" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="460" y="160" type="line"/>
-      <point x="110" y="160" type="line"/>
+      <point x="110" y="520" type="line"/>
+      <point x="460" y="520" type="line"/>
+      <point x="460" y="680" type="line"/>
+      <point x="110" y="680" type="line"/>
     </contour>
     <contour>
       <point x="110" y="265" type="line"/>
@@ -25,10 +25,10 @@
       <point x="110" y="425" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="520" type="line"/>
-      <point x="460" y="520" type="line"/>
-      <point x="460" y="680" type="line"/>
-      <point x="110" y="680" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="160" type="line"/>
+      <point x="110" y="160" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" name="h_1" x="255" y="0"/>

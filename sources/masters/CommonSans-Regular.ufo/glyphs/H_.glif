@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="609"/>
+  <advance width="608"/>
   <unicode hex="0048"/>
   <anchor x="304" y="740" name="top"/>
   <anchor x="304" y="-40" name="bottom"/>
@@ -13,15 +13,15 @@
       <point x="60" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="283" type="line"/>
-      <point x="492" y="283" type="line"/>
-      <point x="492" y="373" type="line"/>
-      <point x="100" y="373" type="line"/>
+      <point x="100" y="314" type="line"/>
+      <point x="492" y="314" type="line"/>
+      <point x="492" y="404" type="line"/>
+      <point x="100" y="404" type="line"/>
     </contour>
     <contour>
       <point x="448" y="0" type="line"/>
-      <point x="549" y="0" type="line"/>
-      <point x="549" y="680" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="548" y="680" type="line"/>
       <point x="448" y="680" type="line"/>
     </contour>
   </outline>

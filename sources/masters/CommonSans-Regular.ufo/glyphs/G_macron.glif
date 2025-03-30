@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gmacron" format="2">
-  <advance width="647"/>
+  <advance width="646"/>
   <unicode hex="1E20"/>
-  <anchor x="317" y="-40" name="bottom"/>
+  <anchor x="316" y="-40" name="bottom"/>
   <outline>
     <component base="G"/>
-    <component base="uni0304" xOffset="586" yOffset="210"/>
+    <component base="uni0304" xOffset="585" yOffset="210"/>
   </outline>
   <lib>
   <dict>

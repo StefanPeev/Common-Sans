@@ -3,12 +3,7 @@
   <anchor x="-172" y="530" name="_top"/>
   <outline>
     <component base="dieresis" xOffset="-344"/>
-    <contour>
-      <point x="-260" y="760" type="line"/>
-      <point x="-177" y="600" type="line"/>
-      <point x="-162" y="600" type="line"/>
-      <point x="-239" y="760" type="line"/>
-    </contour>
+    <component base="uni0300" xOffset="44" yOffset="70"/>
   </outline>
   <guideline angle="90" x="-230" y="0"/>
   <guideline angle="90" x="-210" y="0"/>

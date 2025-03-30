@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbrevebelow" format="2">
-  <advance width="609"/>
+  <advance width="608"/>
   <unicode hex="1E2A"/>
   <anchor x="304" y="740" name="top"/>
   <anchor x="469" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="brevebelowcomb" xOffset="580"/>
+    <component base="uni032E" xOffset="580"/>
   </outline>
   <lib>
   <dict>

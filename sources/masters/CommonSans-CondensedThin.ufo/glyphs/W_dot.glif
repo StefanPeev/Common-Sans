@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wdot" format="2">
-  <advance width="681"/>
+  <advance width="701"/>
   <unicode hex="1E86"/>
-  <anchor x="341" y="-40" name="bottom"/>
+  <anchor x="351" y="-40" name="bottom"/>
   <outline>
     <component base="W"/>
-    <component base="uni0307" xOffset="431" yOffset="210"/>
+    <component base="uni0307" xOffset="441" yOffset="210"/>
   </outline>
   <lib>
   <dict>

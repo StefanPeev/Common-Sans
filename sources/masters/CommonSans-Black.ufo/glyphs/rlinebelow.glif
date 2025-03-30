@@ -5,7 +5,7 @@
   <anchor x="216" y="530" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="macronbelowcomb" xOffset="511"/>
+    <component base="uni0331" xOffset="511"/>
   </outline>
   <lib>
   <dict>

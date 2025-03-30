@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040B" format="2">
-  <advance width="532"/>
+  <advance width="568"/>
   <unicode hex="040B"/>
   <outline>
     <component base="T"/>
     <contour>
-      <point x="186" y="301" type="line"/>
-      <point x="202" y="301" type="line"/>
-      <point x="202" y="377"/>
-      <point x="257" y="450"/>
-      <point x="324" y="450" type="curve" smooth="yes"/>
-      <point x="391" y="450"/>
-      <point x="422" y="413"/>
-      <point x="422" y="335" type="curve" smooth="yes"/>
-      <point x="422" y="0" type="line"/>
-      <point x="442" y="0" type="line"/>
-      <point x="442" y="335" type="line" smooth="yes"/>
-      <point x="442" y="423"/>
-      <point x="403" y="468"/>
-      <point x="327" y="468" type="curve" smooth="yes"/>
-      <point x="262" y="468"/>
-      <point x="205" y="417"/>
-      <point x="188" y="338" type="curve"/>
-      <point x="206" y="338" type="line"/>
-      <point x="206" y="385" type="line"/>
-      <point x="186" y="385" type="line"/>
+      <point x="196" y="301" type="line"/>
+      <point x="212" y="301" type="line"/>
+      <point x="212" y="377"/>
+      <point x="273" y="450"/>
+      <point x="348" y="450" type="curve" smooth="yes"/>
+      <point x="423" y="450"/>
+      <point x="458" y="413"/>
+      <point x="458" y="335" type="curve" smooth="yes"/>
+      <point x="458" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="478" y="335" type="line" smooth="yes"/>
+      <point x="478" y="423"/>
+      <point x="435" y="468"/>
+      <point x="351" y="468" type="curve" smooth="yes"/>
+      <point x="280" y="468"/>
+      <point x="217" y="417"/>
+      <point x="198" y="338" type="curve"/>
+      <point x="216" y="338" type="line"/>
+      <point x="216" y="385" type="line"/>
+      <point x="196" y="385" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="190" y="0"/>
+  <guideline angle="90" x="478" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

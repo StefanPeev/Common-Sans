@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflexdotbelow" format="2">
-  <advance width="662"/>
+  <advance width="661"/>
   <unicode hex="1ED8"/>
-  <anchor x="331" y="0" name="b.ogonek"/>
+  <anchor x="330" y="0" name="b.ogonek"/>
   <outline>
     <component base="Odotbelow"/>
-    <component base="uni0302" xOffset="553" yOffset="210"/>
+    <component base="uni0302" xOffset="552" yOffset="210"/>
   </outline>
   <lib>
   <dict>

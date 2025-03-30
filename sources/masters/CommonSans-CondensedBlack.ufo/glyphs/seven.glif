@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="2">
-  <advance width="560"/>
+  <advance width="431"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="49" y="540" type="line"/>
-      <point x="510" y="540" type="line"/>
-      <point x="510" y="700" type="line"/>
-      <point x="49" y="700" type="line"/>
+      <point x="10" y="540" type="line"/>
+      <point x="421" y="540" type="line"/>
+      <point x="421" y="680" type="line"/>
+      <point x="10" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="0" type="curve"/>
-      <point x="270" y="0" type="line"/>
-      <point x="270" y="233"/>
-      <point x="365" y="375"/>
-      <point x="510" y="540" type="curve"/>
-      <point x="510" y="563" type="line"/>
-      <point x="330" y="563" type="line"/>
-      <point x="230" y="489"/>
-      <point x="90" y="304"/>
+      <point x="58" y="0" type="curve"/>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="203"/>
+      <point x="276" y="355"/>
+      <point x="421" y="520" type="curve"/>
+      <point x="421" y="563" type="line"/>
+      <point x="281" y="563" type="line"/>
+      <point x="181" y="489"/>
+      <point x="58" y="274"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
 </glyph>

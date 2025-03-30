@@ -3,16 +3,10 @@
   <advance width="626"/>
   <outline>
     <contour>
-      <point x="358" y="250" type="line"/>
-      <point x="557" y="0" type="line"/>
-      <point x="582" y="0" type="line"/>
-      <point x="372" y="265" type="line"/>
-    </contour>
-    <contour>
-      <point x="315" y="183" type="line"/>
-      <point x="562" y="460" type="line"/>
-      <point x="535" y="460" type="line"/>
-      <point x="315" y="213" type="line"/>
+      <point x="64" y="460" type="line"/>
+      <point x="311" y="183" type="line"/>
+      <point x="311" y="213" type="line"/>
+      <point x="91" y="460" type="line"/>
     </contour>
     <contour>
       <point x="44" y="0" type="line"/>
@@ -21,16 +15,22 @@
       <point x="254" y="265" type="line"/>
     </contour>
     <contour>
-      <point x="64" y="460" type="line"/>
-      <point x="311" y="183" type="line"/>
-      <point x="311" y="213" type="line"/>
-      <point x="91" y="460" type="line"/>
-    </contour>
-    <contour>
       <point x="303" y="0" type="line"/>
       <point x="323" y="0" type="line"/>
       <point x="323" y="700" type="line"/>
       <point x="303" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="183" type="line"/>
+      <point x="562" y="460" type="line"/>
+      <point x="535" y="460" type="line"/>
+      <point x="315" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="250" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="372" y="265" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="250"/>

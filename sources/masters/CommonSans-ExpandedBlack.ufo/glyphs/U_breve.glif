@@ -3,6 +3,7 @@
   <advance width="738"/>
   <unicode hex="016C"/>
   <anchor x="369" y="-40" name="bottom"/>
+  <anchor x="369" y="10" name="b.ogonek"/>
   <outline>
     <component base="U"/>
     <component base="uni0306" xOffset="574" yOffset="210"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rmacrondot" format="2">
-  <advance width="580"/>
+  <advance width="560"/>
   <unicode hex="1E5C"/>
   <outline>
     <component base="Rdotbelow"/>

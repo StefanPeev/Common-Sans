@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="383"/>
+  <advance width="388"/>
   <unicode hex="0054"/>
-  <anchor x="192" y="740" name="top"/>
-  <anchor x="192" y="-40" name="bottom"/>
+  <anchor x="194" y="740" name="top"/>
+  <anchor x="194" y="-40" name="bottom"/>
   <outline>
     <contour>
-      <point x="10" y="540" type="line"/>
-      <point x="373" y="540" type="line"/>
-      <point x="373" y="680" type="line"/>
+      <point x="10" y="530" type="line"/>
+      <point x="378" y="530" type="line"/>
+      <point x="378" y="680" type="line"/>
       <point x="10" y="680" type="line"/>
     </contour>
     <contour>
       <point x="115" y="0" type="line"/>
-      <point x="268" y="0" type="line"/>
-      <point x="268" y="680" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="273" y="680" type="line"/>
       <point x="115" y="680" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" name="h_1" x="192" y="0"/>
+  <guideline angle="90" name="h_1" x="194" y="0"/>
   <guideline angle="0" x="0" y="540"/>
+  <guideline angle="90" x="115" y="0"/>
+  <guideline angle="90" x="273" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

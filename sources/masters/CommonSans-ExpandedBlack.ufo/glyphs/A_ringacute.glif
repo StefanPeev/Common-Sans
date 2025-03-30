@@ -6,14 +6,14 @@
   <anchor x="691" y="0" name="b.ogonek"/>
   <outline>
     <component base="Aring"/>
-    <component base="acutecomb" xOffset="615" yOffset="210"/>
+    <component base="uni0301" xOffset="615" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Aring+acutecomb</string>
+  <string>Aring+uni0301</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

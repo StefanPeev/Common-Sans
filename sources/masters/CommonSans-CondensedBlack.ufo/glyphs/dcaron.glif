@@ -2,20 +2,17 @@
 <glyph name="dcaron" format="2">
   <advance width="663"/>
   <unicode hex="010F"/>
+  <anchor x="195" y="740" name="top"/>
   <anchor x="195" y="-40" name="bottom"/>
   <anchor x="142" y="0" name="b.cedilla"/>
   <outline>
     <component base="d"/>
-    <component base="quoteright" xOffset="85" yOffset="-50"/>
+    <component base="quoteright" xOffset="423" yOffset="-90"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>d_quoteright</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -3,19 +3,11 @@
   <advance width="240"/>
   <unicode hex="003A"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="200" y="160" type="line"/>
-      <point x="40" y="160" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="370" type="line"/>
-      <point x="200" y="370" type="line"/>
-      <point x="200" y="530" type="line"/>
-      <point x="40" y="530" type="line"/>
-    </contour>
+    <component base="period"/>
+    <component base="period" yOffset="370"/>
   </outline>
+  <guideline angle="0.208347" x="0" y="370"/>
+  <guideline angle="90" x="10" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

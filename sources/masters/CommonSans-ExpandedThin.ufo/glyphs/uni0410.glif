@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0410" format="2">
-  <advance width="595"/>
+  <advance width="568"/>
   <unicode hex="0410"/>
-  <anchor x="298" y="740" name="top"/>
-  <anchor x="297" y="662" name="t.ring"/>
-  <anchor x="298" y="-40" name="bottom"/>
-  <anchor x="573" y="0" name="b.ogonek"/>
+  <anchor x="281" y="740" name="top"/>
+  <anchor x="280" y="662" name="t.ring"/>
+  <anchor x="281" y="-40" name="bottom"/>
+  <anchor x="556" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
   </outline>

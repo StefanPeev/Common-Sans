@@ -2,17 +2,17 @@
 <glyph name="Nacute" format="2">
   <advance width="667"/>
   <unicode hex="0143"/>
-  <anchor x="330" y="-40" name="bottom"/>
+  <anchor x="329" y="-40" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb" xOffset="542" yOffset="210"/>
+    <component base="uni0301" xOffset="541" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>N+acutecomb</string>
+  <string>N+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0403" format="2">
-  <advance width="586"/>
+  <advance width="574"/>
   <unicode hex="0403"/>
   <outline>
     <component base="uni0413"/>
-    <component base="acutecomb" xOffset="471" yOffset="220"/>
+    <component base="uni0301" xOffset="465" yOffset="220"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>uni0413+acutecomb</string>
+  <string>uni0413+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

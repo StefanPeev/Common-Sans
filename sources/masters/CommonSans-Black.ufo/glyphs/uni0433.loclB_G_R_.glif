@@ -19,7 +19,7 @@
       <point x="216" y="149" type="curve" smooth="yes"/>
       <point x="216" y="158"/>
       <point x="219" y="167"/>
-      <point x="231" y="172" type="curve"/>
+      <point x="231" y="172" type="curve" smooth="yes"/>
       <point x="306" y="200" type="line" smooth="yes"/>
       <point x="365" y="222"/>
       <point x="390" y="276"/>
@@ -45,6 +45,4 @@
       <point x="36" y="192"/>
     </contour>
   </outline>
-  <guideline angle="200.283" x="258" y="182"/>
-  <guideline angle="18.4349" x="186" y="282"/>
 </glyph>

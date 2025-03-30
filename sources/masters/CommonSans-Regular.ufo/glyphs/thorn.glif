@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="2">
-  <advance width="220"/>
+  <advance width="526"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="bar"/>
-    <component base="b" xOffset="-171"/>
+    <component base="p"/>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="19" type="line"/>
+      <point x="148" y="30" type="line"/>
+      <point x="148" y="341" type="line"/>
+      <point x="158" y="372" type="line"/>
+      <point x="158" y="700" type="line"/>
+      <point x="66" y="700" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="90" x="-16" y="0"/>
-  <guideline angle="90" x="-13" y="0"/>
+  <guideline angle="90" x="155" y="0"/>
+  <guideline angle="90" x="158" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=p</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=p</string>
   <key>com.fontlab.recipe</key>
   <string>bar+b%</string>
   <key>public.markColor</key>

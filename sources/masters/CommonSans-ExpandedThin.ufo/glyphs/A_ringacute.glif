@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="2">
-  <advance width="595"/>
+  <advance width="568"/>
   <unicode hex="01FA"/>
-  <anchor x="298" y="-40" name="bottom"/>
-  <anchor x="573" y="0" name="b.ogonek"/>
+  <anchor x="281" y="-40" name="bottom"/>
+  <anchor x="556" y="0" name="b.ogonek"/>
   <outline>
     <component base="Aring"/>
-    <component base="acutecomb" xOffset="496" yOffset="210"/>
+    <component base="uni0301" xOffset="479" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Aring+acutecomb</string>
+  <string>Aring+uni0301</string>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
   </dict>

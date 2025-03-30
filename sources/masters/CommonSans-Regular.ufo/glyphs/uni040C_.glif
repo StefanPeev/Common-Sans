@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040C" format="2">
-  <advance width="579"/>
+  <advance width="578"/>
   <unicode hex="040C"/>
-  <anchor x="288" y="-40" name="bottom"/>
+  <anchor x="287" y="-40" name="bottom"/>
   <outline>
     <component base="uni041A"/>
-    <component base="acutecomb" xOffset="500" yOffset="210"/>
+    <component base="uni0301" xOffset="499" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>uni041A+acutecomb</string>
+  <string>uni041A+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

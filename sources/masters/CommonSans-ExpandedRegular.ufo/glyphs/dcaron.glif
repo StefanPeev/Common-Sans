@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="757"/>
+  <unicode hex="010F"/>
+  <anchor x="287" y="740" name="top"/>
+  <anchor x="287" y="-40" name="bottom"/>
+  <anchor x="270" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="d"/>
+    <component base="quoteright" xOffset="559" yOffset="-11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>d_quoteright</string>
+  </dict>
+  </lib>
+</glyph>

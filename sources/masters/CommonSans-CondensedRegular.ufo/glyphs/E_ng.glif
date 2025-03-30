@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="2">
+  <advance width="546"/>
+  <unicode hex="014A"/>
+  <anchor x="273" y="740" name="top"/>
+  <anchor x="271" y="-60" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <contour>
+      <point x="319" y="-200" type="line"/>
+      <point x="350" y="-200" type="line" smooth="yes"/>
+      <point x="436" y="-200"/>
+      <point x="486" y="-144"/>
+      <point x="486" y="-47" type="curve" smooth="yes"/>
+      <point x="486" y="100" type="line"/>
+      <point x="394" y="100" type="line"/>
+      <point x="394" y="-59" type="line" smooth="yes"/>
+      <point x="394" y="-91"/>
+      <point x="377" y="-110"/>
+      <point x="349" y="-110" type="curve" smooth="yes"/>
+      <point x="319" y="-110" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="271" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N+>J</string>
+  </dict>
+  </lib>
+</glyph>

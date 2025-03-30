@@ -2,10 +2,10 @@
 <glyph name="Nlinebelow" format="2">
   <advance width="667"/>
   <unicode hex="1E48"/>
-  <anchor x="330" y="740" name="top"/>
+  <anchor x="329" y="740" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="macronbelowcomb" xOffset="599"/>
+    <component base="uni0331" xOffset="598"/>
   </outline>
   <lib>
   <dict>

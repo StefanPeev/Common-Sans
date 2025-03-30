@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041A" format="2">
-  <advance width="563"/>
+  <advance width="568"/>
   <unicode hex="041A"/>
-  <anchor x="287" y="-40" name="bottom"/>
-  <anchor x="287" y="740" name="top"/>
+  <anchor x="292" y="-40" name="bottom"/>
+  <anchor x="292" y="740" name="top"/>
   <outline>
     <component base="K"/>
   </outline>

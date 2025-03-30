@@ -3,8 +3,52 @@
   <advance width="528"/>
   <unicode hex="00F0"/>
   <outline>
-    <component base="nine"/>
+    <contour>
+      <point x="174" y="680" type="line"/>
+      <point x="343" y="609"/>
+      <point x="450" y="458"/>
+      <point x="450" y="228" type="curve"/>
+      <point x="470" y="228" type="line"/>
+      <point x="470" y="463"/>
+      <point x="359" y="622"/>
+      <point x="182" y="690" type="curve"/>
+    </contour>
+    <contour>
+      <point x="234" y="548" type="line"/>
+      <point x="420" y="624" type="line"/>
+      <point x="409" y="638" type="line"/>
+      <point x="223" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="223" type="curve" smooth="yes"/>
+      <point x="60" y="88"/>
+      <point x="146" y="-8"/>
+      <point x="265" y="-8" type="curve" smooth="yes"/>
+      <point x="384" y="-8"/>
+      <point x="470" y="87"/>
+      <point x="470" y="223" type="curve" smooth="yes"/>
+      <point x="470" y="358"/>
+      <point x="384" y="448"/>
+      <point x="265" y="448" type="curve" smooth="yes"/>
+      <point x="146" y="448"/>
+      <point x="60" y="359"/>
+    </contour>
+    <contour>
+      <point x="80" y="223" type="curve" smooth="yes"/>
+      <point x="80" y="345"/>
+      <point x="158" y="430"/>
+      <point x="265" y="430" type="curve" smooth="yes"/>
+      <point x="373" y="430"/>
+      <point x="450" y="346"/>
+      <point x="450" y="223" type="curve" smooth="yes"/>
+      <point x="450" y="101"/>
+      <point x="373" y="10"/>
+      <point x="265" y="10" type="curve" smooth="yes"/>
+      <point x="157" y="10"/>
+      <point x="80" y="100"/>
+    </contour>
   </outline>
+  <guideline angle="22.225" x="223" y="544"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

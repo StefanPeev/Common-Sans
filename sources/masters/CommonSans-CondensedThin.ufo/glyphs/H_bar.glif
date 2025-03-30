@@ -6,12 +6,15 @@
   <anchor x="443" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="uni0304" xOffset="545" yOffset="210"/>
+    <contour>
+      <point x="55" y="560" type="line"/>
+      <point x="505" y="560" type="line"/>
+      <point x="505" y="578" type="line"/>
+      <point x="55" y="578" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>H+uni0304</string>
   <key>public.markColor</key>

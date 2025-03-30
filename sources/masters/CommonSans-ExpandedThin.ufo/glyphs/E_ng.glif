@@ -2,11 +2,24 @@
 <glyph name="Eng" format="2">
   <advance width="705"/>
   <unicode hex="014A"/>
-  <anchor x="603" y="740" name="top"/>
+  <anchor x="342" y="740" name="top"/>
   <anchor x="342" y="-60" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="J" xOffset="420"/>
+    <contour>
+      <point x="515" y="-200" type="line"/>
+      <point x="539" y="-200" type="line" smooth="yes"/>
+      <point x="605" y="-200"/>
+      <point x="635" y="-161"/>
+      <point x="635" y="-73" type="curve" smooth="yes"/>
+      <point x="635" y="20" type="line"/>
+      <point x="613" y="20" type="line"/>
+      <point x="613" y="-87" type="line" smooth="yes"/>
+      <point x="613" y="-145"/>
+      <point x="586" y="-180"/>
+      <point x="541" y="-180" type="curve" smooth="yes"/>
+      <point x="515" y="-180" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="342" y="0"/>
   <guideline angle="306.036" x="121" y="680"/>

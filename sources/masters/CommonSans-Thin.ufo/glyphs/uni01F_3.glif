@@ -2,9 +2,10 @@
 <glyph name="uni01F3" format="2">
   <advance width="996"/>
   <unicode hex="01F3"/>
-  <anchor x="772" y="740" name="top"/>
+  <anchor x="772" y="530" name="top"/>
   <anchor x="772" y="-40" name="bottom"/>
   <anchor x="254" y="0" name="b.cedilla"/>
+  <anchor x="546" y="700" name="t.quoteright"/>
   <outline>
     <component base="d"/>
     <component base="z" xOffset="546"/>

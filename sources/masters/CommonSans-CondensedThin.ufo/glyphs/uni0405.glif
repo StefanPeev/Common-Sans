@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0405" format="2">
-  <advance width="512"/>
+  <advance width="472"/>
   <unicode hex="0405"/>
-  <anchor x="249" y="740" name="top"/>
-  <anchor x="249" y="-40" name="bottom"/>
-  <anchor x="261" y="0" name="b.cedilla"/>
+  <anchor x="229" y="740" name="top"/>
+  <anchor x="229" y="-40" name="bottom"/>
+  <anchor x="241" y="0" name="b.cedilla"/>
   <outline>
     <component base="S"/>
   </outline>

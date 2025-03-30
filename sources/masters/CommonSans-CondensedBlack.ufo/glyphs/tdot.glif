@@ -3,6 +3,7 @@
   <advance width="329"/>
   <unicode hex="1E6B"/>
   <anchor x="210" y="-40" name="bottom"/>
+  <anchor x="315" y="700" name="t.quoteright"/>
   <outline>
     <component base="t"/>
     <component base="uni0307" xOffset="299" yOffset="120"/>

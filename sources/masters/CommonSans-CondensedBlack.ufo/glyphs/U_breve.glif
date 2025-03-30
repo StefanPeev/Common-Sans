@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ubreve" format="2">
-  <advance width="514"/>
+  <advance width="523"/>
   <unicode hex="016C"/>
-  <anchor x="258" y="-40" name="bottom"/>
+  <anchor x="262" y="-40" name="bottom"/>
+  <anchor x="262" y="10" name="b.ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="uni0306" xOffset="463" yOffset="210"/>
+    <component base="uni0306" xOffset="467" yOffset="210"/>
   </outline>
   <lib>
   <dict>

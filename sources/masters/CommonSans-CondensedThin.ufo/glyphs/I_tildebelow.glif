@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Itildebelow" format="2">
-  <advance width="222"/>
+  <advance width="242"/>
   <unicode hex="1E2C"/>
-  <anchor x="111" y="740" name="top"/>
+  <anchor x="121" y="740" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="tildebelowcomb" xOffset="379"/>
+    <component base="uni0330" xOffset="389"/>
   </outline>
   <lib>
   <dict>

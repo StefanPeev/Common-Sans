@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflexbelow" format="2">
+  <advance width="611"/>
+  <unicode hex="1E77"/>
+  <anchor x="306" y="530" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni032D" xOffset="573"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni032D</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

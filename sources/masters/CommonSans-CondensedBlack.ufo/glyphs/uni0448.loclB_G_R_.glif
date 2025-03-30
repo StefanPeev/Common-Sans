@@ -47,12 +47,12 @@
       <point x="258" y="460" type="line"/>
     </contour>
     <contour>
+      <point x="476" y="31" type="line"/>
+      <point x="482" y="31" type="line"/>
       <point x="493" y="0" type="line"/>
       <point x="624" y="0" type="line"/>
       <point x="624" y="460" type="line"/>
       <point x="476" y="460" type="line"/>
-      <point x="476" y="31" type="line"/>
-      <point x="482" y="31" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="128"/>

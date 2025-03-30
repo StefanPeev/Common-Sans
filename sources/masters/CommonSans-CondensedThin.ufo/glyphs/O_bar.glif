@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obar" format="2">
-  <advance width="575"/>
+  <advance width="539"/>
   <unicode hex="019F"/>
-  <anchor x="288" y="740" name="top"/>
+  <anchor x="259" y="740" name="top"/>
   <outline>
-    <component base="O"/>
+    <component base="O" xOffset="3"/>
     <contour>
-      <point x="89" y="347" type="line"/>
-      <point x="486" y="347" type="line"/>
-      <point x="486" y="367" type="line"/>
-      <point x="89" y="367" type="line"/>
+      <point x="60" y="347" type="line"/>
+      <point x="457" y="347" type="line"/>
+      <point x="457" y="367" type="line"/>
+      <point x="60" y="367" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,34 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.dnom" format="2">
-  <advance width="439"/>
+  <advance width="444"/>
   <outline>
     <contour>
-      <point x="70" y="4" type="curve" smooth="yes"/>
-      <point x="70" y="-136"/>
-      <point x="99" y="-237"/>
-      <point x="232" y="-237" type="curve" smooth="yes"/>
-      <point x="365" y="-237"/>
-      <point x="393" y="-136"/>
-      <point x="393" y="4" type="curve" smooth="yes"/>
-      <point x="393" y="144"/>
-      <point x="365" y="244"/>
-      <point x="232" y="244" type="curve" smooth="yes"/>
-      <point x="99" y="244"/>
-      <point x="70" y="144"/>
+      <point x="60" y="4" type="curve" smooth="yes"/>
+      <point x="60" y="-136"/>
+      <point x="89" y="-237"/>
+      <point x="222" y="-237" type="curve" smooth="yes"/>
+      <point x="355" y="-237"/>
+      <point x="384" y="-136"/>
+      <point x="384" y="4" type="curve" smooth="yes"/>
+      <point x="384" y="144"/>
+      <point x="355" y="244"/>
+      <point x="222" y="244" type="curve" smooth="yes"/>
+      <point x="89" y="244"/>
+      <point x="60" y="144"/>
     </contour>
     <contour>
-      <point x="138" y="4" type="curve" smooth="yes"/>
-      <point x="138" y="101"/>
-      <point x="138" y="184"/>
-      <point x="232" y="184" type="curve" smooth="yes"/>
-      <point x="326" y="184"/>
-      <point x="325" y="101"/>
-      <point x="325" y="4" type="curve" smooth="yes"/>
-      <point x="325" y="-93"/>
-      <point x="326" y="-177"/>
-      <point x="232" y="-177" type="curve" smooth="yes"/>
-      <point x="138" y="-177"/>
-      <point x="138" y="-93"/>
+      <point x="128" y="4" type="curve" smooth="yes"/>
+      <point x="128" y="101"/>
+      <point x="128" y="184"/>
+      <point x="222" y="184" type="curve" smooth="yes"/>
+      <point x="316" y="184"/>
+      <point x="316" y="101"/>
+      <point x="316" y="4" type="curve" smooth="yes"/>
+      <point x="316" y="-93"/>
+      <point x="316" y="-177"/>
+      <point x="222" y="-177" type="curve" smooth="yes"/>
+      <point x="128" y="-177"/>
+      <point x="128" y="-93"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
 </glyph>

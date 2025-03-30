@@ -1,38 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="595"/>
+  <advance width="568"/>
   <unicode hex="0041"/>
-  <anchor x="298" y="740" name="top"/>
-  <anchor x="297" y="662" name="t.ring"/>
-  <anchor x="298" y="-40" name="bottom"/>
-  <anchor x="573" y="0" name="b.ogonek"/>
+  <anchor x="281" y="740" name="top"/>
+  <anchor x="280" y="662" name="t.ring"/>
+  <anchor x="281" y="-40" name="bottom"/>
+  <anchor x="556" y="0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="124" y="250" type="line"/>
-      <point x="472" y="250" type="line"/>
-      <point x="464" y="270" type="line"/>
-      <point x="132" y="270" type="line"/>
+      <point x="107" y="250" type="line"/>
+      <point x="455" y="250" type="line"/>
+      <point x="447" y="270" type="line"/>
+      <point x="115" y="270" type="line"/>
     </contour>
     <contour>
       <point x="10" y="0" type="line"/>
-      <point x="37" y="0" type="line"/>
-      <point x="255" y="547" type="line"/>
-      <point x="300" y="662" type="line"/>
-      <point x="294" y="662" type="line"/>
-      <point x="339" y="547" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="266" y="600" type="line" smooth="yes"/>
+      <point x="272" y="615"/>
+      <point x="280" y="633"/>
+      <point x="283" y="648" type="curve"/>
+      <point x="280" y="646" type="line"/>
+      <point x="288" y="646" type="line"/>
+      <point x="285" y="648" type="line"/>
+      <point x="288" y="633"/>
+      <point x="296" y="615"/>
+      <point x="302" y="600" type="curve" smooth="yes"/>
+      <point x="534" y="0" type="line"/>
       <point x="558" y="0" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="311" y="680" type="line"/>
-      <point x="284" y="680" type="line"/>
+      <point x="295" y="680" type="line"/>
+      <point x="273" y="680" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="297" y="0"/>
-  <guideline angle="68.0716" x="23" y="0"/>
-  <guideline angle="248.202" x="306" y="672"/>
-  <guideline angle="111.798" x="558" y="0"/>
-  <guideline angle="291.928" x="299" y="680"/>
-  <guideline angle="111.947" x="585" y="0"/>
-  <guideline angle="248.053" x="284" y="680"/>
+  <guideline angle="90" x="280" y="0"/>
+  <guideline angle="68.0716" x="6" y="0"/>
+  <guideline angle="248.202" x="289" y="672"/>
+  <guideline angle="111.798" x="541" y="0"/>
+  <guideline angle="291.928" x="282" y="680"/>
+  <guideline angle="111.947" x="568" y="0"/>
+  <guideline angle="248.053" x="267" y="680"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="2">
-  <advance width="222"/>
+  <advance width="242"/>
   <unicode hex="012A"/>
-  <anchor x="111" y="-40" name="bottom"/>
+  <anchor x="121" y="-40" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="uni0304" xOffset="376" yOffset="210"/>
+    <component base="uni0304" xOffset="386" yOffset="210"/>
   </outline>
   <lib>
   <dict>

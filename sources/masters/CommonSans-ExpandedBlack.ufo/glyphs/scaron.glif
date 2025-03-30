@@ -6,14 +6,14 @@
   <anchor x="278" y="0" name="b.cedilla"/>
   <outline>
     <component base="s"/>
-    <component base="caroncomb" xOffset="493"/>
+    <component base="uni030C" xOffset="493"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>s+caroncomb</string>
+  <string>s+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

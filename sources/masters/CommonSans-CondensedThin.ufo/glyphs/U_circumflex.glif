@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex" format="2">
-  <advance width="523"/>
+  <advance width="550"/>
   <unicode hex="00DB"/>
-  <anchor x="261" y="-40" name="bottom"/>
+  <anchor x="274" y="-40" name="bottom"/>
+  <anchor x="271" y="10" name="b.ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="uni0302" xOffset="481" yOffset="210"/>
+    <component base="uni0302" xOffset="494" yOffset="210"/>
   </outline>
   <lib>
   <dict>

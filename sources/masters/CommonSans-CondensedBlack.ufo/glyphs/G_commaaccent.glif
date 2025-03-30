@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="2">
-  <advance width="514"/>
+  <advance width="523"/>
   <unicode hex="0122"/>
-  <anchor x="258" y="740" name="top"/>
+  <anchor x="267" y="740" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="uni0326" xOffset="383"/>
+    <component base="uni0326" xOffset="392"/>
   </outline>
   <lib>
   <dict>

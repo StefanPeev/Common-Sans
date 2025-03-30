@@ -7,14 +7,14 @@
   <anchor x="564" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="gravecomb" xOffset="527" yOffset="210"/>
+    <component base="uni0300" xOffset="527" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+gravecomb</string>
+  <string>A+uni0300</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

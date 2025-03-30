@@ -3,16 +3,17 @@
   <advance width="262"/>
   <unicode hex="1E6D"/>
   <anchor x="120" y="660" name="top"/>
+  <anchor x="225" y="700" name="t.quoteright"/>
   <outline>
     <component base="t"/>
-    <component base="dotbelowcomb" xOffset="299"/>
+    <component base="uni0323" xOffset="299"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>t+dotbelowcomb</string>
+  <string>t+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

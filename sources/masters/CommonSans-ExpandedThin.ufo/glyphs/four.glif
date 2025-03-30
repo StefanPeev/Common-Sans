@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-  <advance width="521"/>
+  <advance width="717"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="64" y="234" type="line"/>
-      <point x="465" y="234" type="line"/>
-      <point x="465" y="255" type="line"/>
-      <point x="76" y="255" type="line"/>
-      <point x="76" y="238" type="line"/>
-      <point x="400" y="689" type="line"/>
-      <point x="385" y="689" type="line"/>
-      <point x="385" y="0" type="line"/>
-      <point x="405" y="0" type="line"/>
-      <point x="405" y="700" type="line"/>
-      <point x="385" y="700" type="line"/>
-      <point x="64" y="255" type="line"/>
+      <point x="60" y="144" type="line"/>
+      <point x="661" y="144" type="line"/>
+      <point x="661" y="164" type="line"/>
+      <point x="72" y="164" type="line"/>
+      <point x="74" y="150" type="line"/>
+      <point x="598" y="669" type="line"/>
+      <point x="581" y="669" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="603" y="680" type="line"/>
+      <point x="581" y="680" type="line"/>
+      <point x="60" y="165" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=56</string>
+  </dict>
+  </lib>
 </glyph>

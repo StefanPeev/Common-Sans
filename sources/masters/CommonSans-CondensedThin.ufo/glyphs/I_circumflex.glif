@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="222"/>
+  <advance width="242"/>
   <unicode hex="00CE"/>
-  <anchor x="111" y="-40" name="bottom"/>
+  <anchor x="121" y="-40" name="bottom"/>
   <outline>
     <component base="I"/>
-    <component base="uni0302" xOffset="331" yOffset="210"/>
+    <component base="uni0302" xOffset="341" yOffset="210"/>
   </outline>
   <lib>
   <dict>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tdotbelow" format="2">
-  <advance width="382"/>
+  <advance width="402"/>
   <unicode hex="1E6C"/>
-  <anchor x="190" y="740" name="top"/>
+  <anchor x="200" y="740" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="dotbelowcomb" xOffset="335"/>
+    <component base="uni0323" xOffset="345"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>T+dotbelowcomb</string>
+  <string>T+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

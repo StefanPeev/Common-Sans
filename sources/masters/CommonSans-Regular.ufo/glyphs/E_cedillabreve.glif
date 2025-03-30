@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecedillabreve" format="2">
-  <advance width="511"/>
+  <advance width="510"/>
   <unicode hex="1E1C"/>
-  <anchor x="262" y="-40" name="bottom"/>
+  <anchor x="261" y="-40" name="bottom"/>
   <outline>
     <component base="uni0228"/>
-    <component base="uni0306" xOffset="467" yOffset="210"/>
+    <component base="uni0306" xOffset="466" yOffset="210"/>
   </outline>
   <lib>
   <dict>

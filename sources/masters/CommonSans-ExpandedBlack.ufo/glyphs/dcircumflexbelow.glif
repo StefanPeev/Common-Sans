@@ -4,9 +4,10 @@
   <unicode hex="1E13"/>
   <anchor x="301" y="740" name="top"/>
   <anchor x="287" y="0" name="b.cedilla"/>
+  <anchor x="690" y="700" name="t.quoteright"/>
   <outline>
     <component base="d"/>
-    <component base="circumflexbelowcomb" xOffset="601"/>
+    <component base="uni032D" xOffset="601"/>
   </outline>
   <lib>
   <dict>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mdotbelow" format="2">
-  <advance width="787"/>
+  <advance width="786"/>
   <unicode hex="1E42"/>
-  <anchor x="386" y="740" name="top"/>
+  <anchor x="385" y="740" name="top"/>
   <outline>
     <component base="M"/>
-    <component base="dotbelowcomb" xOffset="562"/>
+    <component base="uni0323" xOffset="561"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>M+dotbelowcomb</string>
+  <string>M+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

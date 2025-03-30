@@ -1,33 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two" format="2">
-  <advance width="528"/>
+  <advance width="506"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
       <point x="58" y="0" type="line"/>
-      <point x="514" y="0" type="line"/>
-      <point x="514" y="160" type="line"/>
-      <point x="160" y="160" type="line"/>
-      <point x="211" y="83" type="line"/>
-      <point x="299" y="188"/>
-      <point x="522" y="345"/>
-      <point x="522" y="509" type="curve" smooth="yes"/>
-      <point x="522" y="643"/>
-      <point x="439" y="710"/>
-      <point x="274" y="710" type="curve" smooth="yes"/>
-      <point x="138" y="710"/>
-      <point x="36" y="612"/>
-      <point x="36" y="481" type="curve"/>
-      <point x="216" y="481" type="line"/>
-      <point x="221" y="527"/>
-      <point x="248" y="560"/>
-      <point x="281" y="560" type="curve" smooth="yes"/>
-      <point x="321" y="560"/>
-      <point x="342" y="539"/>
-      <point x="342" y="498" type="curve" smooth="yes"/>
-      <point x="342" y="388"/>
-      <point x="146" y="252"/>
-      <point x="58" y="140" type="curve"/>
+      <point x="468" y="0" type="line"/>
+      <point x="468" y="140" type="line"/>
+      <point x="137" y="140" type="line"/>
+      <point x="188" y="83" type="line"/>
+      <point x="276" y="182"/>
+      <point x="476" y="331"/>
+      <point x="476" y="495" type="curve" smooth="yes"/>
+      <point x="476" y="617"/>
+      <point x="387" y="696"/>
+      <point x="260" y="696" type="curve" smooth="yes"/>
+      <point x="131" y="696"/>
+      <point x="50" y="613"/>
+      <point x="36" y="466" type="curve"/>
+      <point x="193" y="466" type="line"/>
+      <point x="198" y="519"/>
+      <point x="224" y="551"/>
+      <point x="263" y="551" type="curve" smooth="yes"/>
+      <point x="296" y="551"/>
+      <point x="319" y="523"/>
+      <point x="319" y="484" type="curve" smooth="yes"/>
+      <point x="319" y="374"/>
+      <point x="146" y="243"/>
+      <point x="58" y="135" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=36</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
 </glyph>

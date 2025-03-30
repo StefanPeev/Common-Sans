@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rlinebelow" format="2">
-  <advance width="580"/>
+  <advance width="600"/>
   <unicode hex="1E5E"/>
   <anchor x="281" y="740" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="macronbelowcomb" xOffset="546"/>
+    <component base="uni0331" xOffset="546"/>
   </outline>
   <lib>
   <dict>

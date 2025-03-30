@@ -4,13 +4,13 @@
   <unicode hex="01FD"/>
   <outline>
     <component base="ae"/>
-    <component base="acutecomb" xOffset="556"/>
+    <component base="uni0301" xOffset="556"/>
   </outline>
   <guideline angle="0" x="0" y="530"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>ae+acutecomb</string>
+  <string>ae+uni0301</string>
   </dict>
   </lib>
 </glyph>

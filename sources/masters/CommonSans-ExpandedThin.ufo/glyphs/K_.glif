@@ -6,10 +6,10 @@
   <anchor x="281" y="740" name="top"/>
   <outline>
     <contour>
-      <point x="205" y="372" type="line"/>
-      <point x="530" y="0" type="line"/>
-      <point x="558" y="0" type="line"/>
-      <point x="222" y="389" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="680" type="line"/>
+      <point x="100" y="680" type="line"/>
     </contour>
     <contour>
       <point x="120" y="266" type="line"/>
@@ -18,10 +18,10 @@
       <point x="120" y="297" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="122" y="0" type="line"/>
-      <point x="122" y="680" type="line"/>
-      <point x="100" y="680" type="line"/>
+      <point x="205" y="372" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="222" y="389" type="line"/>
     </contour>
   </outline>
   <guideline angle="233.098" x="524" y="680"/>

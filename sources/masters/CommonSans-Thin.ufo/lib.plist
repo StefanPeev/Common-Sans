@@ -182,7 +182,7 @@
     <string>abreve</string>
     <string>acircumflex</string>
     <string>acute</string>
-    <string>acutecomb</string>
+    <string>uni0301</string>
     <string>adieresis</string>
     <string>ae</string>
     <string>agrave</string>
@@ -212,7 +212,7 @@
     <string>cacute</string>
     <string>caron</string>
     <string>caroncmb.cap</string>
-    <string>caroncomb</string>
+    <string>uni030C</string>
     <string>ccaron</string>
     <string>ccedilla</string>
     <string>ccircumflex</string>
@@ -285,7 +285,7 @@
     <string>gdotaccent</string>
     <string>germandbls</string>
     <string>grave</string>
-    <string>gravecomb</string>
+    <string>uni0300</string>
     <string>greater</string>
     <string>guillemotleft</string>
     <string>guillemotright</string>
@@ -434,7 +434,7 @@
     <string>three.superior</string>
     <string>threequarters</string>
     <string>tilde</string>
-    <string>tildecomb</string>
+    <string>uni0303</string>
     <string>trademark</string>
     <string>two</string>
     <string>two.dnom</string>
@@ -774,8 +774,8 @@
     <string>zero.numr</string>
     <string>zero.subscript</string>
     <string>zero.superior</string>
-    <string>ogonekcomb</string>
-    <string>cedillacomb</string>
+    <string>uni0328</string>
+    <string>uni0327</string>
     <string>onefraction</string>
     <string>a.dlig</string>
     <string>micro</string>
@@ -791,20 +791,20 @@
     <string>oslashacute</string>
     <string>AEmacron</string>
     <string>aemacron</string>
-    <string>dotbelowcomb</string>
-    <string>dieresisbelowcomb</string>
-    <string>ringbelowcomb</string>
-    <string>macronbelowcomb</string>
+    <string>uni0323</string>
+    <string>uni0324</string>
+    <string>uni0325</string>
+    <string>uni0331</string>
     <string>caronbelowcomb</string>
-    <string>circumflexbelowcomb</string>
-    <string>brevebelowcomb</string>
+    <string>uni032D</string>
+    <string>uni032E</string>
     <string>breveinvertedbelowcomb</string>
-    <string>tildebelowcomb</string>
+    <string>uni0330</string>
     <string>Delta</string>
     <string>uni0452</string>
     <string>uni045A</string>
     <string>uni045B</string>
-    <string>dzhecyr</string>
+    <string>uni045F</string>
     <string>Yatcyr</string>
     <string>yatcyr</string>
     <string>uni0472</string>
@@ -1032,6 +1032,7 @@
     <string>uni04E9</string>
     <string>uni04EA</string>
     <string>uni04EB</string>
+    <string>uni01C3</string>
   </array>
 </dict>
 </plist>

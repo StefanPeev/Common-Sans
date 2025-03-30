@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildebelowcomb" format="2">
-  <unicode hex="0330"/>
-  <anchor x="-283" y="-40" name="_bottom"/>
-  <outline>
-    <component base="tildecomb" xOffset="-80" yOffset="-690"/>
-  </outline>
-  <guideline angle="90" x="-283" y="0"/>
-</glyph>

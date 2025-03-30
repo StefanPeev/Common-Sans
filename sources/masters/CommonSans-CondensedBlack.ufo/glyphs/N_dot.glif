@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ndot" format="2">
-  <advance width="579"/>
+  <advance width="570"/>
   <unicode hex="1E44"/>
-  <anchor x="328" y="-40" name="bottom"/>
+  <anchor x="290" y="-40" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="uni0307" xOffset="468" yOffset="200"/>
+    <component base="uni0307" xOffset="430" yOffset="200"/>
   </outline>
   <lib>
   <dict>

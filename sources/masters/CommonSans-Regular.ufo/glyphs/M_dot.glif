@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mdot" format="2">
-  <advance width="787"/>
+  <advance width="786"/>
   <unicode hex="1E40"/>
-  <anchor x="386" y="-40" name="bottom"/>
+  <anchor x="385" y="-40" name="bottom"/>
   <outline>
     <component base="M"/>
-    <component base="uni0307" xOffset="482" yOffset="210"/>
+    <component base="uni0307" xOffset="481" yOffset="210"/>
   </outline>
   <lib>
   <dict>

@@ -2,18 +2,6 @@
 <glyph name="one.inferior" format="2">
   <advance width="225"/>
   <outline>
-    <contour>
-      <point x="33" y="-91" type="line"/>
-      <point x="79" y="-91"/>
-      <point x="109" y="-79"/>
-      <point x="124" y="-74" type="curve"/>
-      <point x="124" y="-460" type="line"/>
-      <point x="192" y="-460" type="line"/>
-      <point x="192" y="7" type="line"/>
-      <point x="170" y="7" type="line"/>
-      <point x="144" y="-19"/>
-      <point x="106" y="-39"/>
-      <point x="33" y="-39" type="curve"/>
-    </contour>
+    <component base="one.dnom" yOffset="-230"/>
   </outline>
 </glyph>

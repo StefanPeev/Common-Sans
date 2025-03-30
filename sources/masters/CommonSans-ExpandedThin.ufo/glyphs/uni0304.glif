@@ -3,12 +3,7 @@
   <unicode hex="0304"/>
   <anchor x="-265" y="530" name="_top"/>
   <outline>
-    <contour>
-      <point x="-400" y="530" type="line"/>
-      <point x="-130" y="530" type="line"/>
-      <point x="-130" y="548" type="line"/>
-      <point x="-400" y="548" type="line"/>
-    </contour>
+    <component base="macron" xOffset="-450" yOffset="-42"/>
   </outline>
   <guideline angle="0" x="0" y="530"/>
   <guideline angle="90" x="-400" y="0"/>

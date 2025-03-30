@@ -11,16 +11,14 @@
       <point x="440" y="20" type="line"/>
       <point x="31" y="20" type="line"/>
       <point x="30" y="8" type="line"/>
-      <point x="434" y="666" type="line"/>
+      <point x="434" y="664" type="line"/>
       <point x="434" y="680" type="line"/>
       <point x="20" y="680" type="line"/>
       <point x="20" y="660" type="line"/>
-      <point x="416" y="660" type="line"/>
-      <point x="413" y="670" type="line"/>
-      <point x="9" y="14" type="line"/>
+      <point x="415" y="660" type="line"/>
+      <point x="412" y="670" type="line"/>
+      <point x="9" y="16" type="line"/>
     </contour>
   </outline>
-  <guideline angle="58.4046" x="50" y="80"/>
-  <guideline angle="58.4046" x="74" y="80"/>
   <guideline angle="90" name="h_1" x="220" y="0"/>
 </glyph>

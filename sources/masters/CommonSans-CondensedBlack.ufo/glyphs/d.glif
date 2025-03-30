@@ -5,6 +5,7 @@
   <anchor x="195" y="740" name="top"/>
   <anchor x="195" y="-40" name="bottom"/>
   <anchor x="142" y="0" name="b.cedilla"/>
+  <anchor x="453" y="700" name="t.quoteright"/>
   <outline>
     <contour>
       <point x="30" y="231" type="curve" smooth="yes"/>

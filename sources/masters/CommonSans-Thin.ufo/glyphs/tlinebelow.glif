@@ -3,9 +3,10 @@
   <advance width="262"/>
   <unicode hex="1E6F"/>
   <anchor x="120" y="660" name="top"/>
+  <anchor x="225" y="700" name="t.quoteright"/>
   <outline>
     <component base="t"/>
-    <component base="macronbelowcomb" xOffset="419"/>
+    <component base="uni0331" xOffset="419"/>
   </outline>
   <lib>
   <dict>

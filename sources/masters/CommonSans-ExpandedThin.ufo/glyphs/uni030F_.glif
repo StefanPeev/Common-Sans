@@ -3,17 +3,7 @@
   <unicode hex="030F"/>
   <anchor x="-220" y="530" name="_top"/>
   <outline>
-    <contour>
-      <point x="-341" y="690" type="line"/>
-      <point x="-258" y="530" type="line"/>
-      <point x="-243" y="530" type="line"/>
-      <point x="-320" y="690" type="line"/>
-    </contour>
-    <contour>
-      <point x="-261" y="690" type="line"/>
-      <point x="-178" y="530" type="line"/>
-      <point x="-163" y="530" type="line"/>
-      <point x="-240" y="690" type="line"/>
-    </contour>
+    <component base="uni0300" xOffset="-37"/>
+    <component base="uni0300" xOffset="43"/>
   </outline>
 </glyph>

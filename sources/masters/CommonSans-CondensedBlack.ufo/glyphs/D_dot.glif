@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ddot" format="2">
-  <advance width="517"/>
+  <advance width="531"/>
   <unicode hex="1E0A"/>
-  <anchor x="251" y="-40" name="bottom"/>
-  <anchor x="197" y="0" name="b.cedilla"/>
+  <anchor x="256" y="-40" name="bottom"/>
+  <anchor x="202" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="uni0307" xOffset="391" yOffset="200"/>
+    <component base="uni0307" xOffset="396" yOffset="200"/>
   </outline>
   <lib>
   <dict>

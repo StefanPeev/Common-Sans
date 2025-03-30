@@ -5,14 +5,14 @@
   <anchor x="170" y="-40" name="bottom"/>
   <outline>
     <component base="Z"/>
-    <component base="caroncomb" xOffset="390" yOffset="210"/>
+    <component base="uni030C" xOffset="390" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Z+caroncomb</string>
+  <string>Z+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

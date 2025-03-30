@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcircumflexbelow" format="2">
-  <advance width="523"/>
+  <advance width="503"/>
   <unicode hex="1E12"/>
   <anchor x="241" y="740" name="top"/>
   <anchor x="221" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
-    <component base="circumflexbelowcomb" xOffset="496"/>
+    <component base="uni032D" xOffset="496"/>
   </outline>
   <lib>
   <dict>

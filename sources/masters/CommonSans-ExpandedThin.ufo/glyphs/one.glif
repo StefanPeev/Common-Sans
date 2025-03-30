@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="289"/>
+  <advance width="272"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="70" y="614" type="line"/>
-      <point x="117" y="615"/>
-      <point x="153" y="631"/>
-      <point x="187" y="665" type="curve"/>
-      <point x="187" y="645"/>
-      <point x="187" y="600"/>
-      <point x="187" y="580" type="curve" smooth="yes"/>
-      <point x="187" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="209" y="700" type="line"/>
-      <point x="190" y="700" type="line"/>
-      <point x="155" y="657"/>
-      <point x="115" y="635"/>
-      <point x="70" y="634" type="curve"/>
+      <point x="33" y="594" type="line"/>
+      <point x="85" y="594"/>
+      <point x="124" y="615"/>
+      <point x="162" y="657" type="curve"/>
+      <point x="150" y="653" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="680" type="line"/>
+      <point x="153" y="680" type="line"/>
+      <point x="118" y="637"/>
+      <point x="78" y="614"/>
+      <point x="33" y="614" type="curve"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
-  <string>=80</string>
+  <string>=100</string>
   </dict>
   </lib>
 </glyph>

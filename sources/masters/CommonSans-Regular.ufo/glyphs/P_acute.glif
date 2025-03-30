@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pacute" format="2">
-  <advance width="580"/>
+  <advance width="567"/>
   <unicode hex="1E54"/>
-  <anchor x="279" y="-40" name="bottom"/>
+  <anchor x="278" y="-40" name="bottom"/>
   <outline>
     <component base="P"/>
-    <component base="acutecomb" xOffset="491" yOffset="210"/>
+    <component base="uni0301" xOffset="490" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>P+acutecomb</string>
+  <string>P+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

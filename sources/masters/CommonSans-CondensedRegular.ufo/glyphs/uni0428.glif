@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0428" format="2">
+  <advance width="696"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="608" y="90" type="line"/>
+      <point x="92" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="152" y="680" type="line"/>
+      <point x="60" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="680" type="line"/>
+      <point x="302" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="544" y="0" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="636" y="680" type="line"/>
+      <point x="544" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

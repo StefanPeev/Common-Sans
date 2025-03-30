@@ -7,16 +7,10 @@
   <anchor x="280" y="0" name="b.cedilla"/>
   <outline>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="460" y="20" type="line"/>
-      <point x="110" y="20" type="line"/>
-    </contour>
-    <contour>
-      <point x="110" y="340" type="line"/>
-      <point x="420" y="340" type="line"/>
-      <point x="420" y="360" type="line"/>
-      <point x="110" y="360" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="680" type="line"/>
+      <point x="100" y="680" type="line"/>
     </contour>
     <contour>
       <point x="110" y="660" type="line"/>
@@ -25,10 +19,16 @@
       <point x="110" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="122" y="0" type="line"/>
-      <point x="122" y="680" type="line"/>
-      <point x="100" y="680" type="line"/>
+      <point x="110" y="340" type="line"/>
+      <point x="420" y="340" type="line"/>
+      <point x="420" y="360" type="line"/>
+      <point x="110" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="20" type="line"/>
+      <point x="110" y="20" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="111" y="0"/>

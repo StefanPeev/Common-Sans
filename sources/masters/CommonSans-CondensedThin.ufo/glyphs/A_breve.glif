@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="2">
-  <advance width="362"/>
+  <advance width="444"/>
   <unicode hex="0102"/>
-  <anchor x="181" y="663" name="t.ring"/>
-  <anchor x="181" y="-40" name="bottom"/>
-  <anchor x="346" y="0" name="b.ogonek"/>
+  <anchor x="222" y="663" name="t.ring"/>
+  <anchor x="222" y="-40" name="bottom"/>
+  <anchor x="414" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni0306" xOffset="386" yOffset="210"/>
+    <component base="uni0306" xOffset="427" yOffset="210"/>
   </outline>
   <lib>
   <dict>

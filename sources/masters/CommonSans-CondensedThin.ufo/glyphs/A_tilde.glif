@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="2">
-  <advance width="362"/>
+  <advance width="444"/>
   <unicode hex="00C3"/>
-  <anchor x="181" y="663" name="t.ring"/>
-  <anchor x="181" y="-40" name="bottom"/>
-  <anchor x="346" y="0" name="b.ogonek"/>
+  <anchor x="222" y="663" name="t.ring"/>
+  <anchor x="222" y="-40" name="bottom"/>
+  <anchor x="414" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="384" yOffset="210"/>
+    <component base="uni0303" xOffset="425" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+tildecomb</string>
+  <string>A+uni0303</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

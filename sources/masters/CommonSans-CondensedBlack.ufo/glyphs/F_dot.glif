@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Fdot" format="2">
-  <advance width="401"/>
+  <advance width="406"/>
   <unicode hex="1E1E"/>
-  <anchor x="200" y="-40" name="bottom"/>
+  <anchor x="205" y="-40" name="bottom"/>
   <outline>
     <component base="F"/>
-    <component base="uni0307" xOffset="340" yOffset="200"/>
+    <component base="uni0307" xOffset="345" yOffset="200"/>
   </outline>
   <lib>
   <dict>

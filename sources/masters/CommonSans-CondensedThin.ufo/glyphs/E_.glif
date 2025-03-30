@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="401"/>
+  <advance width="433"/>
   <unicode hex="0045"/>
   <anchor x="230" y="740" name="top"/>
   <anchor x="230" y="-40" name="bottom"/>
@@ -13,10 +13,10 @@
       <point x="100" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="0" type="line"/>
-      <point x="353" y="0" type="line"/>
-      <point x="353" y="20" type="line"/>
-      <point x="113" y="20" type="line"/>
+      <point x="113" y="660" type="line"/>
+      <point x="353" y="660" type="line"/>
+      <point x="353" y="680" type="line"/>
+      <point x="113" y="680" type="line"/>
     </contour>
     <contour>
       <point x="113" y="340" type="line"/>
@@ -25,10 +25,10 @@
       <point x="113" y="360" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="660" type="line"/>
-      <point x="353" y="660" type="line"/>
-      <point x="353" y="680" type="line"/>
-      <point x="113" y="680" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="20" type="line"/>
+      <point x="113" y="20" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" name="h_1" x="230" y="0"/>
@@ -36,6 +36,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-20</string>
   </dict>
   </lib>
 </glyph>

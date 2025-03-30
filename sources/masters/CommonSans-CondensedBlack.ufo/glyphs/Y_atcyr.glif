@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yatcyr" format="2">
-  <advance width="675"/>
+  <advance width="468"/>
   <unicode hex="0462"/>
+  <outline>
+    <component base="uni042C" xOffset="10"/>
+    <contour>
+      <point x="0" y="490" type="line"/>
+      <point x="310" y="490" type="line"/>
+      <point x="310" y="640" type="line"/>
+      <point x="0" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  </dict>
+  </lib>
 </glyph>

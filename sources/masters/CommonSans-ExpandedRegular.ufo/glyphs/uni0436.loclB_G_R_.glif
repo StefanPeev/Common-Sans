@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436.loclBGR" format="2">
+  <advance width="847"/>
+  <outline>
+    <contour>
+      <point x="40" y="460" type="line"/>
+      <point x="402" y="100" type="line"/>
+      <point x="402" y="227" type="line"/>
+      <point x="171" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="326" y="230" type="line"/>
+      <point x="261" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="700" type="line"/>
+      <point x="378" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="100" type="line"/>
+      <point x="809" y="460" type="line"/>
+      <point x="677" y="460" type="line"/>
+      <point x="440" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="227" type="line"/>
+      <point x="711" y="0" type="line"/>
+      <point x="830" y="0" type="line"/>
+      <point x="586" y="295" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="134.715" x="371" y="258"/>
+  <guideline angle="90" x="402" y="0"/>
+  <guideline angle="90" x="440" y="0"/>
+  <guideline angle="315.163" x="40" y="460"/>
+  <guideline angle="44.3526" x="451" y="110"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043B.loclBGR</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0436</string>
+  </dict>
+  </lib>
+</glyph>

@@ -4,13 +4,13 @@
   <unicode hex="01FE"/>
   <outline>
     <component base="Oslash"/>
-    <component base="acutecomb" xOffset="489" yOffset="220"/>
+    <component base="uni0301" xOffset="489" yOffset="220"/>
   </outline>
   <guideline angle="0" x="0" y="750"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>Oslash+acutecomb</string>
+  <string>Oslash+uni0301</string>
   </dict>
   </lib>
 </glyph>

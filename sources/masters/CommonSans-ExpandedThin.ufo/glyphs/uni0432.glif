@@ -50,6 +50,7 @@
       <point x="102" y="460" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-130" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

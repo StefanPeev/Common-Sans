@@ -16,6 +16,7 @@
       <point x="228" y="259" type="line"/>
     </contour>
     <contour>
+      <point x="23" y="460" type="line"/>
       <point x="228" y="213" type="line"/>
       <point x="311" y="123" type="line"/>
       <point x="405" y="0" type="line"/>
@@ -23,7 +24,6 @@
       <point x="419" y="259" type="line"/>
       <point x="339" y="342" type="line"/>
       <point x="253" y="460" type="line"/>
-      <point x="23" y="460" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="342"/>

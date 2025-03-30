@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C7" format="2">
+  <advance width="822"/>
+  <unicode hex="01C7"/>
+  <anchor x="710" y="740" name="top"/>
+  <anchor x="311" y="-40" name="bottom"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="602"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L_J</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

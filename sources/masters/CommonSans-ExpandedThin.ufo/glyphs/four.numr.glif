@@ -2,24 +2,6 @@
 <glyph name="four.numr" format="2">
   <advance width="355"/>
   <outline>
-    <contour>
-      <point x="33" y="344" type="line"/>
-      <point x="246" y="344" type="line"/>
-      <point x="246" y="230" type="line"/>
-      <point x="314" y="230" type="line"/>
-      <point x="314" y="344" type="line"/>
-      <point x="354" y="344" type="line"/>
-      <point x="354" y="405" type="line"/>
-      <point x="314" y="405" type="line"/>
-      <point x="314" y="697" type="line"/>
-      <point x="212" y="697" type="line"/>
-      <point x="33" y="397" type="line"/>
-    </contour>
-    <contour>
-      <point x="93" y="405" type="line"/>
-      <point x="240" y="639" type="line"/>
-      <point x="246" y="639" type="line"/>
-      <point x="246" y="405" type="line"/>
-    </contour>
+    <component base="four.dnom" yOffset="460"/>
   </outline>
 </glyph>

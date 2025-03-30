@@ -4,34 +4,34 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="264" y="254" type="line"/>
-      <point x="92" y="388" type="line"/>
       <point x="80" y="372" type="line"/>
       <point x="261" y="249" type="line"/>
+      <point x="264" y="254" type="line"/>
+      <point x="92" y="388" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="255" type="line"/>
-      <point x="81" y="132" type="line"/>
       <point x="92" y="116" type="line"/>
       <point x="265" y="250" type="line"/>
+      <point x="261" y="255" type="line"/>
+      <point x="81" y="132" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="251" type="line"/>
-      <point x="321" y="41" type="line"/>
       <point x="340" y="48" type="line"/>
       <point x="266" y="253" type="line"/>
+      <point x="261" y="251" type="line"/>
+      <point x="321" y="41" type="line"/>
     </contour>
     <contour>
-      <point x="266" y="251" type="line"/>
-      <point x="340" y="456" type="line"/>
-      <point x="321" y="462" type="line"/>
-      <point x="260" y="253" type="line"/>
-    </contour>
-    <contour>
-      <point x="263" y="249" type="line"/>
-      <point x="481" y="242" type="line"/>
       <point x="481" y="262" type="line"/>
       <point x="263" y="255" type="line"/>
+      <point x="263" y="249" type="line"/>
+      <point x="481" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="462" type="line"/>
+      <point x="260" y="253" type="line"/>
+      <point x="266" y="251" type="line"/>
+      <point x="340" y="456" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="252"/>

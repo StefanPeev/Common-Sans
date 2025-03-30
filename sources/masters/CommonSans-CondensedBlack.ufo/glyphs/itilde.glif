@@ -5,14 +5,14 @@
   <anchor x="134" y="-40" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="tildecomb" xOffset="337" yOffset="10"/>
+    <component base="uni0303" xOffset="337" yOffset="10"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>dotlessi+tildecomb</string>
+  <string>dotlessi+uni0303</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

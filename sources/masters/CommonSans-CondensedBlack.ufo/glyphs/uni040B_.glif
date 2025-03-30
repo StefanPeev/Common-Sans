@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040B" format="2">
-  <advance width="544"/>
+  <advance width="554"/>
   <unicode hex="040B"/>
   <outline>
     <component base="T"/>
@@ -14,13 +14,13 @@
       <point x="356" y="318"/>
       <point x="356" y="284" type="curve" smooth="yes"/>
       <point x="356" y="0" type="line"/>
-      <point x="504" y="0" type="line"/>
-      <point x="504" y="334" type="line" smooth="yes"/>
-      <point x="504" y="427"/>
-      <point x="447" y="476"/>
-      <point x="379" y="476" type="curve" smooth="yes"/>
-      <point x="308" y="476"/>
-      <point x="256" y="433"/>
+      <point x="514" y="0" type="line"/>
+      <point x="514" y="334" type="line" smooth="yes"/>
+      <point x="514" y="427"/>
+      <point x="455" y="476"/>
+      <point x="384" y="476" type="curve" smooth="yes"/>
+      <point x="311" y="476"/>
+      <point x="257" y="433"/>
       <point x="231" y="338" type="curve"/>
       <point x="279" y="338" type="line"/>
       <point x="279" y="427" type="line"/>

@@ -3,15 +3,31 @@
   <advance width="832"/>
   <unicode hex="215F"/>
   <outline>
-    <component base="one.superior" xOffset="10"/>
-    <component base="fraction" xOffset="56"/>
+    <contour>
+      <point x="51" y="473" type="line"/>
+      <point x="82" y="482"/>
+      <point x="115" y="501"/>
+      <point x="138" y="522" type="curve"/>
+      <point x="119" y="607" type="line"/>
+      <point x="119" y="354" type="line"/>
+      <point x="279" y="354" type="line"/>
+      <point x="279" y="680" type="line"/>
+      <point x="145" y="680" type="line"/>
+      <point x="124" y="652"/>
+      <point x="82" y="616"/>
+      <point x="51" y="607" type="curve"/>
+    </contour>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="792" y="680" type="line"/>
+      <point x="582" y="680" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>onequarter</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
   </dict>
   </lib>
 </glyph>

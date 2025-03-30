@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="2">
-  <advance width="526"/>
+  <advance width="512"/>
   <unicode hex="00E7"/>
   <anchor x="265" y="530" name="top"/>
   <anchor x="265" y="-40" name="bottom"/>
   <anchor x="257" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
-    <component base="cedilla" xOffset="51"/>
+    <component base="cedilla" xOffset="44"/>
   </outline>
   <lib>
   <dict>

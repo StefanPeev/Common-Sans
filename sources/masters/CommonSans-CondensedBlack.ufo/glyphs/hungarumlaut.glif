@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="500"/>
+  <advance width="535"/>
   <unicode hex="02DD"/>
-  <anchor x="218" y="530" name="_top"/>
+  <anchor x="226" y="530" name="_top"/>
   <outline>
     <contour>
-      <point x="32" y="530" type="line"/>
-      <point x="152" y="530" type="line"/>
-      <point x="257" y="710" type="line"/>
-      <point x="97" y="710" type="line"/>
+      <point x="40" y="530" type="line"/>
+      <point x="160" y="530" type="line"/>
+      <point x="265" y="710" type="line"/>
+      <point x="105" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="530" type="line"/>
-      <point x="382" y="530" type="line"/>
-      <point x="487" y="710" type="line"/>
-      <point x="327" y="710" type="line"/>
+      <point x="270" y="530" type="line"/>
+      <point x="390" y="530" type="line"/>
+      <point x="495" y="710" type="line"/>
+      <point x="335" y="710" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="530"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=acute</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=acute</string>
+  </dict>
+  </lib>
 </glyph>

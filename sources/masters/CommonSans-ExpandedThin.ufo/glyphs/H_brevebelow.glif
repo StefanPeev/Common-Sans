@@ -6,7 +6,7 @@
   <anchor x="654" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="brevebelowcomb" xOffset="640"/>
+    <component base="uni032E" xOffset="640"/>
   </outline>
   <lib>
   <dict>

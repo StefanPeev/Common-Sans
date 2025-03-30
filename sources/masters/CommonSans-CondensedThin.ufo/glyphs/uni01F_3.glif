@@ -5,6 +5,7 @@
   <anchor x="619" y="530" name="top"/>
   <anchor x="619" y="-40" name="bottom"/>
   <anchor x="192" y="0" name="b.cedilla"/>
+  <anchor x="411" y="700" name="t.quoteright"/>
   <outline>
     <component base="d"/>
     <component base="z" xOffset="441"/>

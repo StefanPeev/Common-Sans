@@ -6,14 +6,14 @@
   <anchor x="281" y="-40" name="bottom"/>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb" xOffset="422"/>
+    <component base="uni0327" xOffset="422"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>S+cedillacomb</string>
+  <string>S+uni0327</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

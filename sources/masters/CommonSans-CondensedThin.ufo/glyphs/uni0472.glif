@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0472" format="2">
-  <advance width="575"/>
+  <advance width="539"/>
   <unicode hex="0472"/>
-  <anchor x="288" y="740" name="top"/>
+  <anchor x="259" y="740" name="top"/>
   <outline>
     <component base="Obar"/>
   </outline>

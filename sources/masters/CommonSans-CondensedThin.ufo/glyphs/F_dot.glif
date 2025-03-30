@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Fdot" format="2">
-  <advance width="401"/>
+  <advance width="423"/>
   <unicode hex="1E1E"/>
   <anchor x="230" y="-40" name="bottom"/>
   <outline>

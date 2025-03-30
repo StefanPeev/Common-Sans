@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="506"/>
+  <advance width="568"/>
   <unicode hex="0143"/>
-  <anchor x="247" y="-40" name="bottom"/>
+  <anchor x="284" y="-40" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb" xOffset="445" yOffset="210"/>
+    <component base="uni0301" xOffset="482" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>N+acutecomb</string>
+  <string>N+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

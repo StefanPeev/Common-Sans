@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhungarumlaut" format="2">
-  <advance width="620"/>
+  <advance width="622"/>
   <unicode hex="0170"/>
-  <anchor x="310" y="-40" name="bottom"/>
+  <anchor x="312" y="-40" name="bottom"/>
+  <anchor x="312" y="10" name="b.ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="uni030B" xOffset="465" yOffset="210"/>
+    <component base="uni030B" xOffset="467" yOffset="210"/>
   </outline>
   <lib>
   <dict>

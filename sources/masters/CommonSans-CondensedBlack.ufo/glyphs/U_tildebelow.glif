@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Utildebelow" format="2">
-  <advance width="514"/>
+  <advance width="523"/>
   <unicode hex="1E74"/>
-  <anchor x="258" y="740" name="top"/>
+  <anchor x="262" y="740" name="top"/>
+  <anchor x="262" y="10" name="b.ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="tildebelowcomb" xOffset="541"/>
+    <component base="uni0330" xOffset="545"/>
   </outline>
   <lib>
   <dict>

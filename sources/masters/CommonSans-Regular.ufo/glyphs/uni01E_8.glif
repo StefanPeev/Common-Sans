@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E8" format="2">
-  <advance width="579"/>
+  <advance width="578"/>
   <unicode hex="01E8"/>
-  <anchor x="288" y="-40" name="bottom"/>
+  <anchor x="287" y="-40" name="bottom"/>
   <outline>
     <component base="K"/>
-    <component base="caroncomb" xOffset="508" yOffset="210"/>
+    <component base="uni030C" xOffset="507" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>K+caroncomb</string>
+  <string>K+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

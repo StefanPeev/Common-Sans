@@ -2,7 +2,7 @@
 <glyph name="napostrophe" format="2">
   <advance width="690"/>
   <unicode hex="0149"/>
-  <anchor x="110" y="790" name="_top"/>
+  <anchor x="30" y="790" name="_t.quoteright"/>
   <anchor x="457" y="530" name="top"/>
   <anchor x="457" y="-40" name="bottom"/>
   <outline>

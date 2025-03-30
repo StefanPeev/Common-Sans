@@ -5,21 +5,21 @@
   <outline>
     <contour>
       <point x="66" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="157" y="460" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="460" type="line"/>
       <point x="66" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="109" y="200" type="line"/>
-      <point x="402" y="200" type="line"/>
-      <point x="402" y="278" type="line"/>
-      <point x="109" y="278" type="line"/>
+      <point x="108" y="201" type="line"/>
+      <point x="401" y="201" type="line"/>
+      <point x="401" y="277" type="line"/>
+      <point x="108" y="277" type="line"/>
     </contour>
     <contour>
-      <point x="362" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
       <point x="453" y="0" type="line"/>
       <point x="453" y="460" type="line"/>
-      <point x="362" y="460" type="line"/>
+      <point x="361" y="460" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -5,14 +5,14 @@
   <anchor x="445" y="-40" name="bottom"/>
   <outline>
     <component base="M"/>
-    <component base="acutecomb" xOffset="668" yOffset="210"/>
+    <component base="uni0301" xOffset="668" yOffset="210"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>M+acutecomb</string>
+  <string>M+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

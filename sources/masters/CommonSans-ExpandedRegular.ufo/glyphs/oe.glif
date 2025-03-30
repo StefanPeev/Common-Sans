@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="2">
+  <advance width="1012"/>
+  <unicode hex="0153"/>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="420"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=e</string>
+  </dict>
+  </lib>
+</glyph>
