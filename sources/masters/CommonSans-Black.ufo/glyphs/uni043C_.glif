@@ -46,6 +46,21 @@
       <point x="40" y="460" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="400" y="0"/>
+  <guideline angle="0" x="0" y="290"/>
+  <guideline angle="0" x="0" y="113"/>
+  <guideline angle="0" x="0" y="187"/>
+  <guideline angle="0" x="0" y="213"/>
+  <guideline angle="284.744" x="216" y="270"/>
+  <guideline angle="75.2564" x="569" y="213"/>
+  <guideline angle="90" x="216" y="0"/>
+  <guideline angle="90" x="584" y="0"/>
+  <guideline angle="0" x="0" y="252"/>
+  <guideline angle="0" x="0" y="295"/>
+  <guideline angle="0" x="0" y="133"/>
+  <guideline angle="0" x="0" y="163"/>
+  <guideline angle="258.69" x="405" y="133"/>
+  <guideline angle="101.31" x="399" y="113"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

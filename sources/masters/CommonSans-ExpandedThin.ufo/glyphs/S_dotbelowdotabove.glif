@@ -2,7 +2,7 @@
 <glyph name="Sdotbelowdotabove" format="2">
   <advance width="713"/>
   <unicode hex="1E68"/>
-  <anchor x="356" y="-0" name="b.cedilla"/>
+  <anchor x="356" y="0" name="b.cedilla"/>
   <outline>
     <component base="Sdotbelow"/>
     <component base="uni0307" xOffset="427" yOffset="210"/>

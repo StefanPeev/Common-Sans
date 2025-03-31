@@ -1,48 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0436.loclBGR" format="2">
-  <advance width="626"/>
+  <advance width="678"/>
   <outline>
     <contour>
-      <point x="64" y="460" type="line"/>
-      <point x="311" y="183" type="line"/>
-      <point x="311" y="213" type="line"/>
-      <point x="91" y="460" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="349" y="700" type="line"/>
+      <point x="329" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="241" type="line"/>
+      <point x="427" y="241" type="line"/>
+      <point x="615" y="460" type="line"/>
+      <point x="588" y="460" type="line"/>
+      <point x="409" y="248" type="line"/>
+      <point x="437" y="259" type="line"/>
+      <point x="349" y="259" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="241" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="432" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="241" type="line"/>
+      <point x="329" y="241" type="line"/>
+      <point x="329" y="259" type="line"/>
+      <point x="241" y="259" type="line"/>
+      <point x="269" y="248" type="line"/>
+      <point x="90" y="460" type="line"/>
+      <point x="63" y="460" type="line"/>
     </contour>
     <contour>
       <point x="44" y="0" type="line"/>
       <point x="69" y="0" type="line"/>
-      <point x="268" y="250" type="line"/>
-      <point x="254" y="265" type="line"/>
-    </contour>
-    <contour>
-      <point x="303" y="0" type="line"/>
-      <point x="323" y="0" type="line"/>
-      <point x="323" y="700" type="line"/>
-      <point x="303" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="315" y="183" type="line"/>
-      <point x="562" y="460" type="line"/>
-      <point x="535" y="460" type="line"/>
-      <point x="315" y="213" type="line"/>
-    </contour>
-    <contour>
-      <point x="358" y="250" type="line"/>
-      <point x="557" y="0" type="line"/>
-      <point x="582" y="0" type="line"/>
-      <point x="372" y="265" type="line"/>
+      <point x="261" y="241" type="line"/>
+      <point x="246" y="255" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="250"/>
   <guideline angle="0" x="0" y="213"/>
-  <guideline angle="51.4775" x="69" y="0"/>
-  <guideline angle="231.6" x="258" y="270"/>
-  <guideline angle="308.523" x="354" y="255"/>
-  <guideline angle="128.4" x="582" y="0"/>
-  <guideline angle="131.691" x="301" y="213"/>
-  <guideline angle="228.309" x="545" y="460"/>
-  <guideline angle="131.691" x="311" y="213"/>
-  <guideline angle="228.309" x="535" y="460"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

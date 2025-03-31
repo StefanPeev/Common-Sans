@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A.loclBGR" format="2">
-  <advance width="388"/>
-  <anchor x="230" y="-40" name="bottom"/>
+  <advance width="378"/>
+  <anchor x="212" y="-40" name="bottom"/>
   <anchor x="212" y="740" name="top"/>
   <outline>
-    <component base="k"/>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="230" type="line"/>
+      <point x="156" y="230" type="line"/>
+      <point x="312" y="460" type="line"/>
+      <point x="287" y="460" type="line"/>
+      <point x="137" y="238" type="line"/>
+      <point x="162" y="250" type="line"/>
+      <point x="110" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="234" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="164" y="250" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="0" x="0" y="250"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>

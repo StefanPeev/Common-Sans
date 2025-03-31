@@ -1,49 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0436" format="2">
-  <advance width="564"/>
+  <advance width="556"/>
   <unicode hex="0436"/>
   <outline>
     <contour>
-      <point x="45" y="460" type="line"/>
-      <point x="288" y="172" type="line"/>
-      <point x="288" y="203" type="line"/>
-      <point x="71" y="460" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="460" type="line"/>
+      <point x="268" y="460" type="line"/>
     </contour>
     <contour>
+      <point x="288" y="230" type="line"/>
+      <point x="334" y="230" type="line"/>
+      <point x="490" y="460" type="line"/>
+      <point x="465" y="460" type="line"/>
+      <point x="315" y="238" type="line"/>
+      <point x="340" y="250" type="line"/>
+      <point x="288" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="234" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="342" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="230" type="line"/>
+      <point x="268" y="250" type="line"/>
+      <point x="216" y="250" type="line"/>
+      <point x="241" y="238" type="line"/>
+      <point x="91" y="460" type="line"/>
+      <point x="66" y="460" type="line"/>
+      <point x="222" y="230" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="234" type="line"/>
+      <point x="214" y="250" type="line"/>
       <point x="30" y="0" type="line"/>
       <point x="54" y="0" type="line"/>
-      <point x="229" y="259" type="line"/>
-      <point x="216" y="275" type="line"/>
-    </contour>
-    <contour>
-      <point x="272" y="0" type="line"/>
-      <point x="292" y="0" type="line"/>
-      <point x="292" y="460" type="line"/>
-      <point x="272" y="460" type="line"/>
-    </contour>
-    <contour>
-      <point x="276" y="172" type="line"/>
-      <point x="519" y="460" type="line"/>
-      <point x="493" y="460" type="line"/>
-      <point x="276" y="203" type="line"/>
-    </contour>
-    <contour>
-      <point x="335" y="258" type="line"/>
-      <point x="510" y="0" type="line"/>
-      <point x="534" y="0" type="line"/>
-      <point x="348" y="274" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="0"/>
   <guideline angle="0" x="0" y="277"/>
-  <guideline angle="235.977" x="217" y="277"/>
-  <guideline angle="55.9499" x="54" y="0"/>
-  <guideline angle="304.203" x="336" y="256"/>
-  <guideline angle="124.165" x="534" y="0"/>
-  <guideline angle="229.824" x="505" y="460"/>
-  <guideline angle="130.176" x="276" y="203"/>
-  <guideline angle="49.844" x="276" y="172"/>
-  <guideline angle="229.824" x="493" y="460"/>
   <guideline angle="0" x="0" y="203"/>
   <lib>
   <dict>

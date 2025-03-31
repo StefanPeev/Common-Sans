@@ -4,12 +4,30 @@
   <anchor x="240" y="-40" name="bottom"/>
   <anchor x="255" y="740" name="top"/>
   <outline>
-    <component base="k"/>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="700" type="line"/>
+      <point x="66" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="210" type="line"/>
+      <point x="237" y="210" type="line"/>
+      <point x="432" y="460" type="line"/>
+      <point x="317" y="460" type="line"/>
+      <point x="182" y="288" type="line"/>
+      <point x="215" y="300" type="line"/>
+      <point x="158" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="227" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="243" y="306" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A" format="2">
-  <advance width="459"/>
+  <advance width="463"/>
   <unicode hex="043A"/>
   <outline>
     <contour>
@@ -10,20 +10,21 @@
       <point x="66" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="145" y="119" type="line"/>
-      <point x="422" y="460" type="line"/>
-      <point x="307" y="460" type="line"/>
-      <point x="145" y="255" type="line"/>
+      <point x="158" y="210" type="line"/>
+      <point x="237" y="210" type="line"/>
+      <point x="432" y="460" type="line"/>
+      <point x="317" y="460" type="line"/>
+      <point x="182" y="288" type="line"/>
+      <point x="215" y="300" type="line"/>
+      <point x="158" y="300" type="line"/>
     </contour>
     <contour>
       <point x="179" y="227" type="line"/>
       <point x="330" y="0" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="239" y="306" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="243" y="306" type="line"/>
     </contour>
   </outline>
-  <guideline angle="303.632" x="179" y="227"/>
-  <guideline angle="123.299" x="440" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
