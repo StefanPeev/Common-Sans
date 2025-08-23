@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0449" format="2">
-  <advance width="828"/>
+  <advance width="796"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="654" y="0" type="line"/>
-      <point x="654" y="158" type="line"/>
-      <point x="40" y="158" type="line"/>
-    </contour>
-    <contour>
-      <point x="654" y="0" type="line"/>
-      <point x="688" y="0" type="line"/>
-      <point x="698" y="-140" type="line"/>
-      <point x="838" y="-140" type="line"/>
-      <point x="838" y="158" type="line"/>
-      <point x="654" y="158" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="666" y="-140" type="line"/>
+      <point x="816" y="-140" type="line"/>
+      <point x="816" y="158" type="line"/>
+      <point x="736" y="158" type="line"/>
     </contour>
     <contour>
       <point x="40" y="0" type="line"/>
@@ -24,16 +18,22 @@
       <point x="40" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="301" y="0" type="line"/>
-      <point x="477" y="0" type="line"/>
-      <point x="477" y="460" type="line"/>
-      <point x="301" y="460" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="652" y="0" type="line"/>
+      <point x="652" y="158" type="line"/>
+      <point x="128" y="158" type="line"/>
     </contour>
     <contour>
-      <point x="562" y="0" type="line"/>
-      <point x="738" y="0" type="line"/>
-      <point x="738" y="460" type="line"/>
-      <point x="562" y="460" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="478" y="460" type="line"/>
+      <point x="302" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="0" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="736" y="460" type="line"/>
+      <point x="560" y="460" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n-50</string>
+  <string>=uni0446</string>
   </dict>
   </lib>
 </glyph>

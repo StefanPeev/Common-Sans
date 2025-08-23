@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0301" format="2">
   <unicode hex="0301"/>
-  <anchor x="-223" y="530" name="_top"/>
+  <anchor x="-45" y="540" name="_top"/>
   <outline>
-    <component base="acute" xOffset="-330" yOffset="10"/>
+    <component base="acute" xOffset="-153"/>
   </outline>
-  <guideline angle="0" x="0" y="530"/>
 </glyph>

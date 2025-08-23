@@ -2,6 +2,9 @@
 <glyph name="s" format="2">
   <advance width="452"/>
   <unicode hex="0073"/>
+  <anchor x="220" y="530" name="top"/>
+  <anchor x="220" y="-40" name="bottom"/>
+  <anchor x="228" y="0" name="b.cedilla"/>
   <outline>
     <contour>
       <point x="45" y="144" type="line"/>
@@ -38,4 +41,5 @@
       <point x="201" y="144" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" name="h_1" x="220" y="0"/>
 </glyph>

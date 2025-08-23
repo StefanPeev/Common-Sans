@@ -3,7 +3,7 @@
   <unicode hex="0331"/>
   <anchor x="-295" y="-40" name="_bottom"/>
   <outline>
-    <component base="macron" xOffset="-480" yOffset="-660"/>
+    <component base="macron" xOffset="-500" yOffset="-660"/>
   </outline>
   <guideline angle="90" name="h_1" x="-295" y="0"/>
   <guideline angle="90" x="-460" y="0"/>

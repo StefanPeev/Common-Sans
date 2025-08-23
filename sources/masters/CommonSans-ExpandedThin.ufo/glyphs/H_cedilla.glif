@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hcedilla" format="2">
-  <advance width="771"/>
+  <advance width="794"/>
   <unicode hex="1E28"/>
-  <anchor x="385" y="740" name="top"/>
+  <anchor x="397" y="740" name="top"/>
   <anchor x="385" y="-40" name="bottom"/>
   <outline>
     <component base="H"/>

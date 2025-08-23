@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040F" format="2">
-  <advance width="590"/>
+  <advance width="640"/>
   <unicode hex="040F"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
-      <point x="540" y="0" type="line"/>
-      <point x="540" y="680" type="line"/>
-      <point x="360" y="680" type="line"/>
-      <point x="360" y="160" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="590" y="680" type="line"/>
+      <point x="410" y="680" type="line"/>
+      <point x="410" y="160" type="line"/>
       <point x="230" y="160" type="line"/>
       <point x="230" y="680" type="line"/>
       <point x="50" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="205" y="-200" type="line"/>
-      <point x="385" y="-200" type="line"/>
-      <point x="385" y="15" type="line"/>
-      <point x="205" y="15" type="line"/>
+      <point x="241" y="-140" type="line"/>
+      <point x="399" y="-140" type="line"/>
+      <point x="399" y="15" type="line"/>
+      <point x="241" y="15" type="line"/>
     </contour>
   </outline>
   <lib>

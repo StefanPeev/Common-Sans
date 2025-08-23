@@ -4,7 +4,7 @@
   <anchor x="306" y="-40" name="bottom"/>
   <outline>
     <component base="uni0438.loclBGR"/>
-    <component base="uni0300" xOffset="508"/>
+    <component base="uni0300" xOffset="256" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

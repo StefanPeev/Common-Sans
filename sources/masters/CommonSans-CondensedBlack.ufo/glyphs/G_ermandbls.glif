@@ -2,4 +2,10 @@
 <glyph name="Germandbls" format="2">
   <advance width="709"/>
   <unicode hex="1E9E"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

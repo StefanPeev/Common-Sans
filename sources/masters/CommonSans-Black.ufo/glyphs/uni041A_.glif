@@ -5,12 +5,32 @@
   <anchor x="333" y="-40" name="bottom"/>
   <anchor x="333" y="740" name="top"/>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="680" type="line"/>
+      <point x="50" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="263" type="line"/>
+      <point x="372" y="263" type="line"/>
+      <point x="665" y="680" type="line" name="n05"/>
+      <point x="455" y="680" type="line"/>
+      <point x="271" y="411" type="line"/>
+      <point x="307" y="423" type="line"/>
+      <point x="230" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="279" type="line"/>
+      <point x="476" y="0" type="line" name="n02"/>
+      <point x="700" y="0" type="line"/>
+      <point x="428" y="432" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="0" x="0" y="473"/>
+  <guideline angle="0" x="0" y="214"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>K</string>
   <key>public.markColor</key>

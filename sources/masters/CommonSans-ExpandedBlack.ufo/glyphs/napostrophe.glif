@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="886"/>
+  <advance width="870"/>
   <unicode hex="0149"/>
   <anchor x="30" y="790" name="_t.quoteright"/>
-  <anchor x="563" y="530" name="top"/>
-  <anchor x="563" y="-40" name="bottom"/>
+  <anchor x="555" y="530" name="top"/>
+  <anchor x="555" y="-40" name="bottom"/>
   <outline>
     <component base="quoteright"/>
     <component base="n" xOffset="220"/>

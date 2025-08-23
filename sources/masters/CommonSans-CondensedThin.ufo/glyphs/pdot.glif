@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pdot" format="2">
-  <advance width="443"/>
+  <advance width="459"/>
   <unicode hex="1E57"/>
   <anchor x="220" y="-40" name="bottom"/>
   <outline>
     <component base="p"/>
-    <component base="uni0307" xOffset="310"/>
+    <component base="uni0307" xOffset="220" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

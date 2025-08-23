@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="2">
-  <advance width="698"/>
+  <advance width="718"/>
   <unicode hex="00C6"/>
+  <anchor x="398" y="740" name="top"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
       <point x="34" y="0" type="line"/>
-      <point x="322" y="690" type="line"/>
-      <point x="306" y="680" type="line"/>
-      <point x="336" y="680" type="line"/>
-      <point x="336" y="0" type="line"/>
-      <point x="648" y="0" type="line"/>
-      <point x="648" y="20" type="line"/>
-      <point x="358" y="20" type="line"/>
-      <point x="358" y="347" type="line"/>
-      <point x="608" y="347" type="line"/>
-      <point x="608" y="367" type="line"/>
-      <point x="358" y="367" type="line"/>
-      <point x="358" y="680" type="line"/>
-      <point x="648" y="680" type="line"/>
-      <point x="648" y="700" type="line"/>
-      <point x="301" y="700" type="line"/>
+      <point x="342" y="670" type="line"/>
+      <point x="326" y="660" type="line"/>
+      <point x="356" y="660" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="668" y="20" type="line"/>
+      <point x="378" y="20" type="line"/>
+      <point x="378" y="347" type="line"/>
+      <point x="628" y="347" type="line"/>
+      <point x="628" y="367" type="line"/>
+      <point x="378" y="367" type="line"/>
+      <point x="378" y="660" type="line"/>
+      <point x="668" y="660" type="line"/>
+      <point x="668" y="680" type="line"/>
+      <point x="322" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="136" y="250" type="line"/>
-      <point x="347" y="250" type="line"/>
-      <point x="347" y="270" type="line"/>
-      <point x="142" y="270" type="line"/>
+      <point x="139" y="250" type="line"/>
+      <point x="367" y="250" type="line"/>
+      <point x="367" y="270" type="line"/>
+      <point x="145" y="270" type="line"/>
     </contour>
   </outline>
-  <guideline angle="73.7256" x="48" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

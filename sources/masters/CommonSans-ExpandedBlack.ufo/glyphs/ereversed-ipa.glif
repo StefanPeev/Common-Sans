@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ereversed-ipa" format="2">
-  <advance width="666"/>
+  <advance width="650"/>
   <unicode hex="0258"/>
   <outline>
-    <component base="e" xScale="-1" xOffset="666"/>
+    <component base="e" xScale="-1" xOffset="650"/>
   </outline>
   <lib>
   <dict>

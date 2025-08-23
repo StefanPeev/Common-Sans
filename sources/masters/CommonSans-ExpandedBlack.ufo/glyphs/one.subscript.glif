@@ -2,6 +2,6 @@
 <glyph name="one.subscript" format="2">
   <advance width="225"/>
   <outline>
-    <component base="one.dnom" yOffset="-92"/>
+    <component base="one.dnom" xOffset="147" yOffset="-92"/>
   </outline>
 </glyph>

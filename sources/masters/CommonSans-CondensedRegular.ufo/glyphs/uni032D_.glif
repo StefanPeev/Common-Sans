@@ -3,7 +3,16 @@
   <unicode hex="032D"/>
   <anchor x="-267" y="-40" name="_bottom"/>
   <outline>
-    <component base="uni0302" xOffset="-47" yOffset="-738"/>
+    <contour>
+      <point x="-404" y="-208" type="line"/>
+      <point x="-353" y="-208" type="line"/>
+      <point x="-245" y="-87" type="line"/>
+      <point x="-289" y="-87" type="line"/>
+      <point x="-181" y="-208" type="line"/>
+      <point x="-130" y="-208" type="line"/>
+      <point x="-228" y="-40" type="line"/>
+      <point x="-306" y="-40" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-267" y="0"/>
 </glyph>

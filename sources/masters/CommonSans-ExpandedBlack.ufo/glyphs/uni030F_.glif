@@ -3,7 +3,7 @@
   <unicode hex="030F"/>
   <anchor x="-251" y="530" name="_top"/>
   <outline>
-    <component base="uni0300" xOffset="-170"/>
-    <component base="uni0300" xOffset="50"/>
+    <component base="uni0300" xOffset="-419"/>
+    <component base="uni0300" xOffset="-199"/>
   </outline>
 </glyph>

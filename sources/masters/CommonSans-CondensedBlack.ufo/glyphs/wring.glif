@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wring" format="2">
-  <advance width="696"/>
+  <advance width="694"/>
   <unicode hex="1E98"/>
-  <anchor x="350" y="-40" name="bottom"/>
-  <anchor x="350" y="530" name="top"/>
+  <anchor x="246" y="-40" name="bottom"/>
+  <anchor x="246" y="530" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="uni030A" xOffset="537"/>
+    <component base="uni030A" xOffset="347"/>
   </outline>
   <lib>
   <dict>

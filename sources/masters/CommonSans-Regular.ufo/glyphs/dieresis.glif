@@ -2,28 +2,27 @@
 <glyph name="dieresis" format="2">
   <advance width="378"/>
   <unicode hex="00A8"/>
-  <anchor x="189" y="540" name="_top"/>
   <outline>
     <contour>
-      <point x="58" y="540" type="line"/>
-      <point x="150" y="540" type="line"/>
-      <point x="150" y="632" type="line"/>
-      <point x="58" y="632" type="line"/>
+      <point x="58" y="560" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="150" y="652" type="line"/>
+      <point x="58" y="652" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="540" type="line"/>
-      <point x="320" y="540" type="line"/>
-      <point x="320" y="632" type="line"/>
-      <point x="228" y="632" type="line"/>
+      <point x="228" y="560" type="line"/>
+      <point x="320" y="560" type="line"/>
+      <point x="320" y="652" type="line"/>
+      <point x="228" y="652" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="58" y="0"/>
   <guideline angle="90" x="150" y="0"/>
   <guideline angle="90" x="228" y="0"/>
   <guideline angle="90" x="320" y="0"/>
-  <guideline angle="0" x="0" y="632"/>
-  <guideline angle="0" x="0" y="540"/>
+  <guideline angle="0" x="0" y="560"/>
   <guideline angle="90" x="189" y="0"/>
+  <guideline angle="0" x="0" y="652"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

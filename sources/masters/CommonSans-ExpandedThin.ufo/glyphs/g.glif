@@ -61,7 +61,9 @@
       <point x="540" y="460" type="line"/>
       <point x="532" y="343" type="line"/>
       <point x="532" y="138" type="line"/>
-      <point x="530" y="118" type="line"/>
+      <point x="531" y="131"/>
+      <point x="530" y="125"/>
+      <point x="530" y="118" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <guideline angle="90" name="h_1" x="312" y="0"/>

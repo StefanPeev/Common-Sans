@@ -14,12 +14,13 @@
       <point x="60" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="204" y="-200" type="line"/>
-      <point x="296" y="-200" type="line"/>
-      <point x="296" y="45" type="line"/>
-      <point x="204" y="45" type="line"/>
+      <point x="205" y="-140" type="line"/>
+      <point x="297" y="-140" type="line"/>
+      <point x="297" y="45" type="line"/>
+      <point x="205" y="45" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="251" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

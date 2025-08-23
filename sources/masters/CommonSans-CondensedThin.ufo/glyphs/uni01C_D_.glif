@@ -2,12 +2,13 @@
 <glyph name="uni01CD" format="2">
   <advance width="444"/>
   <unicode hex="01CD"/>
+  <anchor x="222" y="740" name="top"/>
   <anchor x="222" y="663" name="t.ring"/>
   <anchor x="222" y="-40" name="bottom"/>
   <anchor x="414" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="caron" xOffset="52" yOffset="210"/>
+    <component base="caron" xOffset="52" yOffset="220"/>
   </outline>
   <lib>
   <dict>

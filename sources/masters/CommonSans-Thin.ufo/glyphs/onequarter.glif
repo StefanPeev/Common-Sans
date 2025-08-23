@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
-  <advance width="742"/>
+  <advance width="579"/>
   <unicode hex="00BC"/>
   <outline>
-    <contour>
-      <point x="55" y="571" type="line"/>
-      <point x="103" y="588"/>
-      <point x="154" y="626"/>
-      <point x="191" y="669" type="curve"/>
-      <point x="174" y="669" type="line"/>
-      <point x="174" y="354" type="line"/>
-      <point x="194" y="354" type="line"/>
-      <point x="194" y="680" type="line"/>
-      <point x="177" y="680" type="line"/>
-      <point x="149" y="644"/>
-      <point x="87" y="602"/>
-      <point x="55" y="589" type="curve"/>
-    </contour>
-    <contour>
-      <point x="130" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="639" y="680" type="line"/>
-      <point x="615" y="680" type="line"/>
-    </contour>
-    <contour>
-      <point x="428" y="81" type="line"/>
-      <point x="662" y="81" type="line"/>
-      <point x="662" y="99" type="line"/>
-      <point x="434" y="99" type="line"/>
-      <point x="440" y="87" type="line"/>
-      <point x="608" y="313" type="line"/>
-      <point x="596" y="321" type="line"/>
-      <point x="596" y="0" type="line"/>
-      <point x="616" y="0" type="line"/>
-      <point x="616" y="326" type="line"/>
-      <point x="594" y="326" type="line"/>
-      <point x="428" y="103" type="line"/>
-    </contour>
+    <component base="one.numr"/>
+    <component base="fraction"/>
+    <component base="four.dnom" xOffset="280"/>
   </outline>
-  <guideline angle="230.042" x="619" y="312"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=four.dnom</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni215F+four.dnom@370,0</string>
+  </dict>
+  </lib>
 </glyph>

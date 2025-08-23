@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302" format="2">
   <unicode hex="0302"/>
-  <anchor x="-220" y="530" name="_top"/>
+  <anchor x="-0" y="530" name="_top"/>
   <outline>
-    <contour>
-      <point x="-345" y="530" type="line"/>
-      <point x="-330" y="530" type="line"/>
-      <point x="-213" y="677" type="line"/>
-      <point x="-227" y="677" type="line"/>
-      <point x="-110" y="530" type="line"/>
-      <point x="-95" y="530" type="line"/>
-      <point x="-209" y="690" type="line"/>
-      <point x="-230" y="690" type="line"/>
-    </contour>
+    <component base="circumflex" xOffset="-170"/>
   </outline>
   <guideline angle="0" x="0" y="530"/>
 </glyph>

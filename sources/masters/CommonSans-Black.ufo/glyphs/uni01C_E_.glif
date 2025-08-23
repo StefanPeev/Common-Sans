@@ -2,11 +2,12 @@
 <glyph name="uni01CE" format="2">
   <advance width="543"/>
   <unicode hex="01CE"/>
+  <anchor x="278" y="530" name="top"/>
   <anchor x="278" y="-40" name="bottom"/>
   <anchor x="278" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
-    <component base="caron" xOffset="108"/>
+    <component base="caron" xOffset="102"/>
   </outline>
   <lib>
   <dict>

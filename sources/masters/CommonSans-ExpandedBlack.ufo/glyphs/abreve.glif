@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreve" format="2">
-  <advance width="639"/>
+  <advance width="623"/>
   <unicode hex="0103"/>
-  <anchor x="337" y="-40" name="bottom"/>
-  <anchor x="337" y="530" name="t.ring"/>
+  <anchor x="329" y="-40" name="bottom"/>
+  <anchor x="329" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
-    <component base="uni0306" xOffset="542"/>
+    <component base="uni0306" xOffset="534"/>
   </outline>
   <lib>
   <dict>

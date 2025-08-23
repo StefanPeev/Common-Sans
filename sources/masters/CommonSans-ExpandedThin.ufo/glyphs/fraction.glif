@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="2">
-  <advance width="549"/>
+  <advance width="589"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="44" y="0" type="line"/>
-      <point x="529" y="680" type="line"/>
-      <point x="505" y="680" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="549" y="680" type="line"/>
+      <point x="525" y="680" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
 </glyph>

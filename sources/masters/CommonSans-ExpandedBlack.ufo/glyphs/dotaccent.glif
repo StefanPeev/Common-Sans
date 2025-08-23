@@ -4,10 +4,10 @@
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="40" y="540" type="line"/>
-      <point x="238" y="540" type="line"/>
-      <point x="238" y="720" type="line"/>
-      <point x="40" y="720" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="238" y="560" type="line"/>
+      <point x="238" y="740" type="line"/>
+      <point x="40" y="740" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="680"/>

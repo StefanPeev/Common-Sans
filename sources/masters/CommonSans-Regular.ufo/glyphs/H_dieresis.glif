@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hdieresis" format="2">
-  <advance width="608"/>
+  <advance width="610"/>
   <unicode hex="1E26"/>
-  <anchor x="304" y="-40" name="bottom"/>
+  <anchor x="305" y="-40" name="bottom"/>
   <anchor x="469" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="uni0308" xOffset="519" yOffset="210"/>
+    <component base="uni0308" xOffset="305" yOffset="200"/>
   </outline>
   <lib>
   <dict>

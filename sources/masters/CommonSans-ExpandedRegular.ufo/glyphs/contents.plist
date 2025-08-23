@@ -966,8 +966,6 @@
   <string>one.subscript.glif</string>
   <key>one.superior</key>
   <string>one.superior.glif</string>
-  <key>onefraction</key>
-  <string>onefraction.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -1850,6 +1848,8 @@
   <string>uni04F_9.glif</string>
   <key>uni2116</key>
   <string>uni2116.glif</string>
+  <key>uni215F</key>
+  <string>uni215F_.glif</string>
   <key>uniFB01</key>
   <string>uniF_B_01.glif</string>
   <key>uniFB02</key>

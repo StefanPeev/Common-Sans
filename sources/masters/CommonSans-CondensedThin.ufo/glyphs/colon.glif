@@ -4,8 +4,9 @@
   <unicode hex="003A"/>
   <outline>
     <component base="period"/>
-    <component base="period" yOffset="370"/>
+    <component base="period" yOffset="380"/>
   </outline>
+  <guideline angle="0" x="0" y="80"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

@@ -2,6 +2,6 @@
 <glyph name="one.inferior" format="2">
   <advance width="225"/>
   <outline>
-    <component base="one.dnom" yOffset="-230"/>
+    <component base="one.dnom" xOffset="147" yOffset="-230"/>
   </outline>
 </glyph>

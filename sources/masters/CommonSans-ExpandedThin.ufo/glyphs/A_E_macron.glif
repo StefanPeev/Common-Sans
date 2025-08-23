@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEmacron" format="2">
-  <advance width="712"/>
+  <advance width="872"/>
   <unicode hex="01E2"/>
   <outline>
     <component base="AE"/>
-    <component base="uni0304" xOffset="621" yOffset="220"/>
+    <component base="uni0304" xOffset="480" yOffset="200"/>
   </outline>
   <lib>
   <dict>

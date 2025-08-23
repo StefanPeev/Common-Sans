@@ -3,7 +3,7 @@
   <anchor x="-250" y="530" name="_top"/>
   <outline>
     <component base="dieresis" xOffset="-494"/>
-    <component base="uni0300" xOffset="-47" yOffset="250"/>
+    <component base="uni0300" xOffset="-296" yOffset="250"/>
   </outline>
   <guideline angle="90" x="-470" y="0"/>
   <guideline angle="90" x="-290" y="0"/>

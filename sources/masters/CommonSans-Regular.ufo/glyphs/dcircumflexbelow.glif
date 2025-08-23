@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcircumflexbelow" format="2">
-  <advance width="526"/>
+  <advance width="537"/>
   <unicode hex="1E13"/>
-  <anchor x="230" y="740" name="top"/>
-  <anchor x="205" y="0" name="b.cedilla"/>
-  <anchor x="526" y="700" name="t.quoteright"/>
+  <anchor x="241" y="740" name="top"/>
+  <anchor x="216" y="-0" name="b.cedilla"/>
+  <anchor x="537" y="700" name="t.quoteright"/>
   <outline>
     <component base="d"/>
-    <component base="uni032D" xOffset="497"/>
+    <component base="uni032D" xOffset="508"/>
   </outline>
   <lib>
   <dict>

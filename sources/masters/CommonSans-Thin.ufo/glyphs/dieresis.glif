@@ -2,28 +2,28 @@
 <glyph name="dieresis" format="2">
   <advance width="348"/>
   <unicode hex="00A8"/>
-  <anchor x="174" y="540" name="_top"/>
   <outline>
     <contour>
-      <point x="80" y="540" type="line"/>
-      <point x="110" y="540" type="line"/>
-      <point x="110" y="570" type="line"/>
-      <point x="80" y="570" type="line"/>
+      <point x="80" y="560" type="line"/>
+      <point x="110" y="560" type="line"/>
+      <point x="110" y="590" type="line"/>
+      <point x="80" y="590" type="line"/>
     </contour>
     <contour>
-      <point x="238" y="540" type="line"/>
-      <point x="268" y="540" type="line"/>
-      <point x="268" y="570" type="line"/>
-      <point x="238" y="570" type="line"/>
+      <point x="238" y="560" type="line"/>
+      <point x="268" y="560" type="line"/>
+      <point x="268" y="590" type="line"/>
+      <point x="238" y="590" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="84" y="0"/>
-  <guideline angle="90" x="106" y="0"/>
-  <guideline angle="90" x="242" y="0"/>
-  <guideline angle="90" x="264" y="0"/>
+  <guideline angle="90" x="80" y="0"/>
+  <guideline angle="90" x="110" y="0"/>
+  <guideline angle="90" x="238" y="0"/>
+  <guideline angle="90" x="268" y="0"/>
   <guideline angle="0" x="0" y="540"/>
-  <guideline angle="0" x="0" y="562"/>
   <guideline angle="90" x="174" y="0"/>
+  <guideline angle="0" x="0" y="560"/>
+  <guideline angle="0" x="0" y="590"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

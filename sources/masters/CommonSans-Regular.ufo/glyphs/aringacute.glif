@@ -5,7 +5,7 @@
   <anchor x="254" y="-40" name="bottom"/>
   <outline>
     <component base="aring"/>
-    <component base="uni0301" xOffset="466"/>
+    <component base="uni0301" xOffset="304" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

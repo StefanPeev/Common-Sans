@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="2">
-  <advance width="495"/>
+  <advance width="515"/>
   <unicode hex="010D"/>
   <anchor x="256" y="-40" name="bottom"/>
   <anchor x="228" y="0" name="b.cedilla"/>
   <outline>
     <component base="c"/>
-    <component base="uni030C" xOffset="476"/>
+    <component base="uni030C" xOffset="256"/>
   </outline>
   <lib>
   <dict>

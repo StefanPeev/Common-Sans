@@ -7,7 +7,7 @@
   <anchor x="607" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni030A" xOffset="514" yOffset="109"/>
+    <component base="uni030A" xOffset="325" yOffset="109"/>
   </outline>
   <lib>
   <dict>

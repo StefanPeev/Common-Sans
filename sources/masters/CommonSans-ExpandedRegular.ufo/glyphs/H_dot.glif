@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hdot" format="2">
-  <advance width="707"/>
+  <advance width="710"/>
   <unicode hex="1E22"/>
-  <anchor x="353" y="-40" name="bottom"/>
+  <anchor x="355" y="-40" name="bottom"/>
   <anchor x="563" y="0" name="b.cedilla"/>
   <outline>
     <component base="H"/>
-    <component base="uni0307" xOffset="449" yOffset="210"/>
+    <component base="uni0307" xOffset="355" yOffset="200"/>
   </outline>
   <lib>
   <dict>

@@ -6,7 +6,7 @@
   <anchor x="297" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
-    <component base="uni0300" xOffset="522"/>
+    <component base="uni0300" xOffset="255" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

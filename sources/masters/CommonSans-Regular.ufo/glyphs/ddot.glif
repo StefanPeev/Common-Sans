@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddot" format="2">
-  <advance width="526"/>
+  <advance width="537"/>
   <unicode hex="1E0B"/>
-  <anchor x="230" y="-40" name="bottom"/>
-  <anchor x="205" y="0" name="b.cedilla"/>
-  <anchor x="526" y="700" name="t.quoteright"/>
+  <anchor x="241" y="-40" name="bottom"/>
+  <anchor x="216" y="-0" name="b.cedilla"/>
+  <anchor x="537" y="700" name="t.quoteright"/>
   <outline>
     <component base="d"/>
-    <component base="uni0307" xOffset="326" yOffset="210"/>
+    <component base="uni0307" xOffset="241" yOffset="200"/>
   </outline>
   <lib>
   <dict>

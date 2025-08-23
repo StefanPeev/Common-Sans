@@ -6,6 +6,9 @@
   <outline>
     <component base="dieresis"/>
   </outline>
+  <guideline angle="90" x="110" y="0"/>
+  <guideline angle="90" x="238" y="0"/>
+  <guideline angle="90" x="176" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

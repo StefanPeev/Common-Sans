@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aeacute" format="2">
-  <advance width="757"/>
+  <advance width="824"/>
   <unicode hex="01FD"/>
   <outline>
     <component base="ae"/>
-    <component base="uni0301" xOffset="542"/>
+    <component base="uni0301" xOffset="460" yOffset="-10"/>
   </outline>
-  <guideline angle="0" x="0" y="530"/>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>ae+uni0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

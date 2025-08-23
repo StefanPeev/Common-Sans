@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0426" format="2">
-  <advance width="638"/>
+  <advance width="612"/>
   <unicode hex="0426"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>
-      <point x="159" y="0" type="line"/>
-      <point x="159" y="680" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="680" type="line"/>
       <point x="60" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="426" y="0" type="line"/>
-      <point x="525" y="0" type="line"/>
-      <point x="525" y="680" type="line"/>
-      <point x="426" y="680" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="680" type="line"/>
+      <point x="442" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="474" y="0" type="line"/>
-      <point x="474" y="81" type="line"/>
-      <point x="60" y="81" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="90" type="line"/>
+      <point x="110" y="90" type="line"/>
     </contour>
     <contour>
-      <point x="474" y="0" type="line"/>
-      <point x="520" y="0" type="line"/>
-      <point x="520" y="-140" type="line"/>
-      <point x="600" y="-140" type="line"/>
-      <point x="600" y="81" type="line"/>
-      <point x="474" y="81" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="-140" type="line"/>
+      <point x="642" y="-140" type="line"/>
+      <point x="642" y="90" type="line"/>
+      <point x="542" y="90" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-90</string>
   </dict>
   </lib>
 </glyph>

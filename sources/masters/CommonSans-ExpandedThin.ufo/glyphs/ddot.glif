@@ -7,7 +7,7 @@
   <anchor x="640" y="700" name="t.quoteright"/>
   <outline>
     <component base="d"/>
-    <component base="uni0307" xOffset="396" yOffset="210"/>
+    <component base="uni0307" xOffset="306" yOffset="200"/>
   </outline>
   <lib>
   <dict>

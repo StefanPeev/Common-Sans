@@ -25,19 +25,19 @@
       <point x="342" y="250" type="line"/>
     </contour>
     <contour>
+      <point x="222" y="230" type="line"/>
       <point x="268" y="230" type="line"/>
       <point x="268" y="250" type="line"/>
       <point x="216" y="250" type="line"/>
       <point x="241" y="238" type="line"/>
       <point x="91" y="460" type="line"/>
       <point x="66" y="460" type="line"/>
-      <point x="222" y="230" type="line"/>
     </contour>
     <contour>
-      <point x="227" y="234" type="line"/>
-      <point x="214" y="250" type="line"/>
       <point x="30" y="0" type="line"/>
       <point x="54" y="0" type="line"/>
+      <point x="227" y="234" type="line"/>
+      <point x="214" y="250" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="0"/>

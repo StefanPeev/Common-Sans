@@ -4,7 +4,7 @@
   <unicode hex="01FF"/>
   <outline>
     <component base="oslash"/>
-    <component base="uni0301" xOffset="404"/>
+    <component base="uni0301" xOffset="240"/>
   </outline>
   <guideline angle="0" x="0" y="530"/>
   <lib>

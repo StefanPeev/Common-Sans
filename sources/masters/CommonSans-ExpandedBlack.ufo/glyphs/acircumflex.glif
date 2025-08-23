@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflex" format="2">
-  <advance width="639"/>
+  <advance width="623"/>
   <unicode hex="00E2"/>
-  <anchor x="337" y="-40" name="bottom"/>
-  <anchor x="337" y="530" name="t.ring"/>
+  <anchor x="329" y="-40" name="bottom"/>
+  <anchor x="329" y="530" name="t.ring"/>
   <outline>
     <component base="a"/>
-    <component base="uni0302" xOffset="557"/>
+    <component base="uni0302" xOffset="329"/>
   </outline>
   <lib>
   <dict>

@@ -2,11 +2,12 @@
 <glyph name="uni01D3" format="2">
   <advance width="732"/>
   <unicode hex="01D3"/>
+  <anchor x="366" y="740" name="top"/>
   <anchor x="366" y="-40" name="bottom"/>
   <anchor x="366" y="10" name="b.ogonek"/>
   <outline>
     <component base="U"/>
-    <component base="caron" xOffset="196" yOffset="210"/>
+    <component base="caron" xOffset="196" yOffset="220"/>
   </outline>
   <lib>
   <dict>

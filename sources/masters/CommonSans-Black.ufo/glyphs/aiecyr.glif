@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiecyr" format="2">
-  <advance width="757"/>
+  <advance width="847"/>
   <unicode hex="04D5"/>
+  <anchor x="424" y="530" name="top"/>
   <outline>
     <component base="ae"/>
   </outline>

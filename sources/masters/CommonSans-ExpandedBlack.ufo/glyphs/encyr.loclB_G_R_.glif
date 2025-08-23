@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="encyr.loclBGR" format="2">
-  <advance width="620"/>
+  <advance width="624"/>
   <outline>
     <component base="uni043D"/>
   </outline>

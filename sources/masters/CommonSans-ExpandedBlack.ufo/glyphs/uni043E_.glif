@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043E" format="2">
-  <advance width="668"/>
+  <advance width="650"/>
   <unicode hex="043E"/>
-  <anchor x="345" y="530" name="top"/>
-  <anchor x="334" y="-40" name="bottom"/>
-  <anchor x="397" y="0" name="b.ogonek"/>
+  <anchor x="336" y="530" name="top"/>
+  <anchor x="325" y="-40" name="bottom"/>
+  <anchor x="388" y="-0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
   </outline>

@@ -27,7 +27,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
+  <string>=|n</string>
   </dict>
   </lib>
 </glyph>

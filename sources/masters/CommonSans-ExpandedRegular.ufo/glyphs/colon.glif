@@ -6,6 +6,7 @@
     <component base="period"/>
     <component base="period" yOffset="370"/>
   </outline>
+  <guideline angle="0" x="0" y="90"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

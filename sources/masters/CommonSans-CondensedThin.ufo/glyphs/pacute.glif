@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pacute" format="2">
-  <advance width="443"/>
+  <advance width="459"/>
   <unicode hex="1E55"/>
   <anchor x="220" y="-40" name="bottom"/>
   <outline>
     <component base="p"/>
-    <component base="uni0301" xOffset="418"/>
+    <component base="uni0301" xOffset="261" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

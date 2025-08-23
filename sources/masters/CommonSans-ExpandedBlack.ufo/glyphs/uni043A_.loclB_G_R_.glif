@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043A.loclBGR" format="2">
-  <advance width="702"/>
-  <anchor x="331" y="-40" name="bottom"/>
-  <anchor x="375" y="740" name="top"/>
+  <advance width="694"/>
+  <anchor x="323" y="-40" name="bottom"/>
+  <anchor x="367" y="740" name="top"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="238" y="700" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="700" type="line"/>
       <point x="40" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="238" y="199" type="line"/>
-      <point x="371" y="199" type="line"/>
-      <point x="656" y="460" type="line"/>
-      <point x="379" y="460" type="line"/>
-      <point x="253" y="347" type="line"/>
-      <point x="279" y="357" type="line"/>
-      <point x="238" y="357" type="line"/>
+      <point x="230" y="199" type="line"/>
+      <point x="363" y="199" type="line"/>
+      <point x="648" y="460" type="line"/>
+      <point x="371" y="460" type="line"/>
+      <point x="245" y="347" type="line"/>
+      <point x="271" y="357" type="line"/>
+      <point x="230" y="357" type="line"/>
     </contour>
     <contour>
-      <point x="251" y="217" type="line"/>
-      <point x="435" y="0" type="line"/>
-      <point x="692" y="0" type="line"/>
-      <point x="402" y="348" type="line"/>
+      <point x="243" y="217" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="684" y="0" type="line"/>
+      <point x="394" y="348" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="357"/>

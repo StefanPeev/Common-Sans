@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="2">
-  <advance width="443"/>
+  <advance width="459"/>
   <unicode hex="00FE"/>
   <outline>
     <component base="p"/>
@@ -26,8 +26,6 @@
   <string>=p</string>
   <key>com.fontlab.recipe</key>
   <string>bar+b%</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

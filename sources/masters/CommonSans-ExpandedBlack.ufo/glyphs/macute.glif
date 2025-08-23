@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macute" format="2">
-  <advance width="972"/>
+  <advance width="950"/>
   <unicode hex="1E3F"/>
-  <anchor x="486" y="-40" name="bottom"/>
+  <anchor x="478" y="-40" name="bottom"/>
   <outline>
     <component base="m"/>
-    <component base="uni0301" xOffset="709"/>
+    <component base="uni0301" xOffset="524" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis name="weight" minimum="100" default="100" maximum="900" tag="wght">
+  <axis maximum="900" minimum="100" tag="wght" default="100" name="weight">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
-  <axis name="width" minimum="75" default="75" maximum="125" tag="wdth">
+  <axis maximum="125" minimum="75" tag="wdth" default="75" name="width">
    <labelname xml:lang="en">Width</labelname>
    <map output="75" input="75"/>
    <map output="100" input="100"/>
@@ -12,25 +12,25 @@
   </axis>
  </axes>
  <sources>
-  <source familyname="Common Sans" name="Black" filename="masters/CommonSans-Black.ufo" stylename="Black">
+  <source familyname="Common Sans" stylename="Black" filename="masters/CommonSans-Black.ufo" name="Black">
    <location>
     <dimension xvalue="900" name="weight"/>
     <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Condensed Black" filename="masters/CommonSans-CondensedBlack.ufo" stylename="Condensed Black">
+  <source familyname="Common Sans" stylename="Condensed Black" filename="masters/CommonSans-CondensedBlack.ufo" name="Condensed Black">
    <location>
     <dimension xvalue="900" name="weight"/>
     <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Condensed Regular" filename="masters/CommonSans-CondensedRegular.ufo" stylename="Condensed Regular">
+  <source familyname="Common Sans" stylename="Condensed Regular" filename="masters/CommonSans-CondensedRegular.ufo" name="Condensed Regular">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Condensed Thin" filename="masters/CommonSans-CondensedThin.ufo" stylename="Condensed Thin">
+  <source familyname="Common Sans" stylename="Condensed Thin" filename="masters/CommonSans-CondensedThin.ufo" name="Condensed Thin">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -40,31 +40,31 @@
     <dimension xvalue="75" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Expanded Black" filename="masters/CommonSans-ExpandedBlack.ufo" stylename="Expanded Black">
+  <source familyname="Common Sans" stylename="Expanded Black" filename="masters/CommonSans-ExpandedBlack.ufo" name="Expanded Black">
    <location>
     <dimension xvalue="900" name="weight"/>
     <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Expanded Regular" filename="masters/CommonSans-ExpandedRegular.ufo" stylename="Expanded Regular">
+  <source familyname="Common Sans" stylename="Expanded Regular" filename="masters/CommonSans-ExpandedRegular.ufo" name="Expanded Regular">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Expanded Thin" filename="masters/CommonSans-ExpandedThin.ufo" stylename="Expanded Thin">
+  <source familyname="Common Sans" stylename="Expanded Thin" filename="masters/CommonSans-ExpandedThin.ufo" name="Expanded Thin">
    <location>
     <dimension xvalue="100" name="weight"/>
     <dimension xvalue="125" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Regular" filename="masters/CommonSans-Regular.ufo" stylename="Regular">
+  <source familyname="Common Sans" stylename="Regular" filename="masters/CommonSans-Regular.ufo" name="Regular">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source familyname="Common Sans" name="Thin" filename="masters/CommonSans-Thin.ufo" stylename="Thin">
+  <source familyname="Common Sans" stylename="Thin" filename="masters/CommonSans-Thin.ufo" name="Thin">
    <location>
     <dimension xvalue="100" name="weight"/>
     <dimension xvalue="100" name="width"/>
@@ -72,163 +72,163 @@
   </source>
  </sources>
  <instances>
-  <instance familyname="Common Sans" name="CondensedThin" filename="instances/CommonSans-CondensedThin.ufo" stylename="Condensed Thin">
+  <instance familyname="Common Sans" stylename="Condensed Thin" filename="instances/CommonSans-CondensedThin.ufo" name="CondensedThin">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Thin" filename="instances/CommonSans-Thin.ufo" stylename="Thin">
+  <instance familyname="Common Sans" stylename="Thin" filename="instances/CommonSans-Thin.ufo" name="Thin">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedThin" filename="instances/CommonSans-ExpandedThin.ufo" stylename="Expanded Thin">
+  <instance familyname="Common Sans" stylename="Expanded Thin" filename="instances/CommonSans-ExpandedThin.ufo" name="ExpandedThin">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedExtraLight" filename="instances/CommonSans-CondensedExtraLight.ufo" stylename="Condensed ExtraLight">
+  <instance familyname="Common Sans" stylename="Condensed ExtraLight" filename="instances/CommonSans-CondensedExtraLight.ufo" name="CondensedExtraLight">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExtraLight" filename="instances/CommonSans-ExtraLight.ufo" stylename="ExtraLight">
+  <instance familyname="Common Sans" stylename="ExtraLight" filename="instances/CommonSans-ExtraLight.ufo" name="ExtraLight">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedExtraLight" filename="instances/CommonSans-ExpandedExtraLight.ufo" stylename="Expanded ExtraLight">
+  <instance familyname="Common Sans" stylename="Expanded ExtraLight" filename="instances/CommonSans-ExpandedExtraLight.ufo" name="ExpandedExtraLight">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedLight" filename="instances/CommonSans-CondensedLight.ufo" stylename="Condensed Light">
+  <instance familyname="Common Sans" stylename="Condensed Light" filename="instances/CommonSans-CondensedLight.ufo" name="CondensedLight">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Light" filename="instances/CommonSans-Light.ufo" stylename="Light">
+  <instance familyname="Common Sans" stylename="Light" filename="instances/CommonSans-Light.ufo" name="Light">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedLight" filename="instances/CommonSans-ExpandedLight.ufo" stylename="Expanded Light">
+  <instance familyname="Common Sans" stylename="Expanded Light" filename="instances/CommonSans-ExpandedLight.ufo" name="ExpandedLight">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Condensed" filename="instances/CommonSans-Condensed.ufo" stylename="Condensed">
+  <instance familyname="Common Sans" stylename="Condensed" filename="instances/CommonSans-Condensed.ufo" name="Condensed">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Regular" filename="instances/CommonSans-Regular.ufo" stylename="Regular">
+  <instance familyname="Common Sans" stylename="Regular" filename="instances/CommonSans-Regular.ufo" name="Regular">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Expanded" filename="instances/CommonSans-Expanded.ufo" stylename="Expanded">
+  <instance familyname="Common Sans" stylename="Expanded" filename="instances/CommonSans-Expanded.ufo" name="Expanded">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedMedium" filename="instances/CommonSans-CondensedMedium.ufo" stylename="Condensed Medium">
+  <instance familyname="Common Sans" stylename="Condensed Medium" filename="instances/CommonSans-CondensedMedium.ufo" name="CondensedMedium">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Medium" filename="instances/CommonSans-Medium.ufo" stylename="Medium">
+  <instance familyname="Common Sans" stylename="Medium" filename="instances/CommonSans-Medium.ufo" name="Medium">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedMedium" filename="instances/CommonSans-ExpandedMedium.ufo" stylename="Expanded Medium">
+  <instance familyname="Common Sans" stylename="Expanded Medium" filename="instances/CommonSans-ExpandedMedium.ufo" name="ExpandedMedium">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedSemiBold" filename="instances/CommonSans-CondensedSemiBold.ufo" stylename="Condensed SemiBold">
+  <instance familyname="Common Sans" stylename="Condensed SemiBold" filename="instances/CommonSans-CondensedSemiBold.ufo" name="CondensedSemiBold">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="SemiBold" filename="instances/CommonSans-SemiBold.ufo" stylename="SemiBold">
+  <instance familyname="Common Sans" stylename="SemiBold" filename="instances/CommonSans-SemiBold.ufo" name="SemiBold">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedSemiBold" filename="instances/CommonSans-ExpandedSemiBold.ufo" stylename="Expanded SemiBold">
+  <instance familyname="Common Sans" stylename="Expanded SemiBold" filename="instances/CommonSans-ExpandedSemiBold.ufo" name="ExpandedSemiBold">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedBold" filename="instances/CommonSans-CondensedBold.ufo" stylename="Condensed Bold">
+  <instance familyname="Common Sans" stylename="Condensed Bold" filename="instances/CommonSans-CondensedBold.ufo" name="CondensedBold">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Bold" filename="instances/CommonSans-Bold.ufo" stylename="Bold">
+  <instance familyname="Common Sans" stylename="Bold" filename="instances/CommonSans-Bold.ufo" name="Bold">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedBold" filename="instances/CommonSans-ExpandedBold.ufo" stylename="Expanded Bold">
+  <instance familyname="Common Sans" stylename="Expanded Bold" filename="instances/CommonSans-ExpandedBold.ufo" name="ExpandedBold">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedExtraBold" filename="instances/CommonSans-CondensedExtraBold.ufo" stylename="Condensed ExtraBold">
+  <instance familyname="Common Sans" stylename="Condensed ExtraBold" filename="instances/CommonSans-CondensedExtraBold.ufo" name="CondensedExtraBold">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExtraBold" filename="instances/CommonSans-ExtraBold.ufo" stylename="ExtraBold">
+  <instance familyname="Common Sans" stylename="ExtraBold" filename="instances/CommonSans-ExtraBold.ufo" name="ExtraBold">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedExtraBold" filename="instances/CommonSans-ExpandedExtraBold.ufo" stylename="Expanded ExtraBold">
+  <instance familyname="Common Sans" stylename="Expanded ExtraBold" filename="instances/CommonSans-ExpandedExtraBold.ufo" name="ExpandedExtraBold">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="CondensedBlack" filename="instances/CommonSans-CondensedBlack.ufo" stylename="Condensed Black">
+  <instance familyname="Common Sans" stylename="Condensed Black" filename="instances/CommonSans-CondensedBlack.ufo" name="CondensedBlack">
    <location>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="900" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="Black" filename="instances/CommonSans-Black.ufo" stylename="Black">
+  <instance familyname="Common Sans" stylename="Black" filename="instances/CommonSans-Black.ufo" name="Black">
    <location>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="900" name="weight"/>
    </location>
   </instance>
-  <instance familyname="Common Sans" name="ExpandedBlack" filename="instances/CommonSans-ExpandedBlack.ufo" stylename="Expanded Black">
+  <instance familyname="Common Sans" stylename="Expanded Black" filename="instances/CommonSans-ExpandedBlack.ufo" name="ExpandedBlack">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="900" name="weight"/>

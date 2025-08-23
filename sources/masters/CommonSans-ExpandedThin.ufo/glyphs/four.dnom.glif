@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.dnom" format="2">
-  <advance width="355"/>
+  <advance width="339"/>
   <outline>
     <contour>
-      <point x="33" y="-116" type="line"/>
-      <point x="246" y="-116" type="line"/>
-      <point x="246" y="-230" type="line"/>
-      <point x="314" y="-230" type="line"/>
-      <point x="314" y="-116" type="line"/>
-      <point x="354" y="-116" type="line"/>
-      <point x="354" y="-55" type="line"/>
-      <point x="314" y="-55" type="line"/>
-      <point x="314" y="237" type="line"/>
-      <point x="212" y="237" type="line"/>
-      <point x="33" y="-63" type="line"/>
-    </contour>
-    <contour>
-      <point x="93" y="-55" type="line"/>
-      <point x="240" y="179" type="line"/>
-      <point x="246" y="179" type="line"/>
-      <point x="246" y="-55" type="line"/>
+      <point x="82" y="96" type="line"/>
+      <point x="234" y="316" type="line"/>
+      <point x="223" y="320" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="340" type="line"/>
+      <point x="229" y="340" type="line"/>
+      <point x="60" y="96" type="line"/>
+      <point x="60" y="84" type="line"/>
+      <point x="283" y="84" type="line"/>
+      <point x="283" y="104" type="line"/>
+      <point x="71" y="104" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=four</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=four</string>
+  </dict>
+  </lib>
 </glyph>

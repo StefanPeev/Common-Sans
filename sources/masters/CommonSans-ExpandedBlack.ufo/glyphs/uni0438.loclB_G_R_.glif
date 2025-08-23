@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0438.loclBGR" format="2">
-  <advance width="662"/>
-  <anchor x="331" y="530" name="top"/>
-  <anchor x="331" y="-40" name="bottom"/>
+  <advance width="646"/>
+  <anchor x="323" y="530" name="top"/>
+  <anchor x="323" y="-40" name="bottom"/>
   <outline>
     <component base="u"/>
   </outline>

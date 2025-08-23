@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043D" format="2">
-  <advance width="620"/>
+  <advance width="624"/>
   <unicode hex="043D"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="238" y="460" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="460" type="line"/>
       <point x="40" y="460" type="line"/>
     </contour>
     <contour>
-      <point x="117" y="160" type="line"/>
-      <point x="514" y="160" type="line"/>
-      <point x="514" y="318" type="line"/>
-      <point x="117" y="318" type="line"/>
+      <point x="109" y="160" type="line"/>
+      <point x="526" y="160" type="line"/>
+      <point x="526" y="318" type="line"/>
+      <point x="109" y="318" type="line"/>
     </contour>
     <contour>
-      <point x="382" y="0" type="line"/>
-      <point x="580" y="0" type="line"/>
-      <point x="580" y="460" type="line"/>
-      <point x="382" y="460" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="584" y="0" type="line"/>
+      <point x="584" y="460" type="line"/>
+      <point x="394" y="460" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
+  <string>=|n</string>
   </dict>
   </lib>
 </glyph>

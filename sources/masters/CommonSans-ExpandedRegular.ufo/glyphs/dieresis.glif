@@ -2,19 +2,18 @@
 <glyph name="dieresis" format="2">
   <advance width="378"/>
   <unicode hex="00A8"/>
-  <anchor x="189" y="540" name="_top"/>
   <outline>
     <contour>
-      <point x="58" y="531" type="line"/>
-      <point x="150" y="531" type="line"/>
-      <point x="150" y="623" type="line"/>
-      <point x="58" y="623" type="line"/>
+      <point x="58" y="560" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="150" y="652" type="line"/>
+      <point x="58" y="652" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="531" type="line"/>
-      <point x="320" y="531" type="line"/>
-      <point x="320" y="623" type="line"/>
-      <point x="228" y="623" type="line"/>
+      <point x="228" y="560" type="line"/>
+      <point x="320" y="560" type="line"/>
+      <point x="320" y="652" type="line"/>
+      <point x="228" y="652" type="line"/>
     </contour>
   </outline>
   <lib>
