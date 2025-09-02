@@ -31,6 +31,7 @@
   </outline>
   <guideline angle="87.3281" x="156" y="310"/>
   <guideline angle="267.306" x="79" y="460"/>
+  <guideline angle="266.955" x="148" y="147"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>

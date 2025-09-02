@@ -2,11 +2,11 @@
 <glyph name="otilde" format="2">
   <advance width="650"/>
   <unicode hex="00F5"/>
-  <anchor x="325" y="-40" name="bottom"/>
-  <anchor x="388" y="-0" name="b.ogonek"/>
+  <anchor x="325" y="-50" name="bottom"/>
+  <anchor x="388" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="uni0303" xOffset="336" yOffset="-10"/>
+    <component base="uni0303" xOffset="326"/>
   </outline>
   <lib>
   <dict>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308030C" format="2">
+  <anchor x="-249" y="540" name="_top"/>
   <outline>
     <contour>
       <point x="-470" y="540" type="line"/>
@@ -24,4 +25,12 @@
       <point x="-419" y="970" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-470" y="0"/>
+  <guideline angle="90" x="-290" y="0"/>
+  <guideline angle="90" x="-210" y="0"/>
+  <guideline angle="90" x="-30" y="0"/>
+  <guideline angle="0" x="0" y="720"/>
+  <guideline angle="0" x="0" y="540"/>
+  <guideline angle="90" x="-249" y="0"/>
+  <guideline angle="0" x="0" y="780"/>
 </glyph>

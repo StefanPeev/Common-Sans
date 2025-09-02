@@ -5,13 +5,13 @@
   <anchor x="240" y="-40" name="bottom"/>
   <anchor x="185" y="660" name="top"/>
   <outline>
-    <component base="t"/>
-    <component base="quoteright" xOffset="257" yOffset="-11"/>
+    <component base="t" xOffset="21"/>
+    <component base="uni2019" xOffset="257" yOffset="-11"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>t_quoteright</string>
+  <string>t_uni2019</string>
   </dict>
   </lib>
 </glyph>

@@ -4,8 +4,8 @@
   <unicode hex="0065"/>
   <anchor x="322" y="530" name="top"/>
   <anchor x="322" y="-40" name="bottom"/>
-  <anchor x="322" y="-0" name="b.ogonek"/>
-  <anchor x="297" y="-0" name="b.cedilla"/>
+  <anchor x="322" y="0" name="b.ogonek"/>
+  <anchor x="297" y="0" name="b.cedilla"/>
   <outline>
     <contour>
       <point x="30" y="229" type="curve" smooth="yes"/>

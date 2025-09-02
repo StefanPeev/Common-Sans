@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C8" format="2">
-  <advance width="644"/>
+  <advance width="611"/>
   <unicode hex="01C8"/>
   <anchor x="260" y="740" name="top"/>
   <anchor x="260" y="-40" name="bottom"/>
   <outline>
     <component base="L"/>
-    <component base="j" xOffset="434"/>
+    <component base="j" xOffset="401"/>
   </outline>
   <lib>
   <dict>

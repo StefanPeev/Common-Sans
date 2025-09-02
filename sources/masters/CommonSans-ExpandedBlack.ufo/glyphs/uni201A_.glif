@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201A" format="2">
+  <advance width="220"/>
+  <unicode hex="201A"/>
+  <outline>
+    <component base="uni2019" yOffset="-640"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=comma</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201D" format="2">
+  <advance width="223"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="uni2019"/>
+    <component base="uni2019" xOffset="70"/>
+  </outline>
+  <guideline angle="90" x="73" y="0"/>
+  <guideline angle="90" x="143" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=comma</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni2019_uni2019</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="422"/>
+  <advance width="537"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="112" y="206" type="line"/>
-      <point x="157" y="220" type="line"/>
-      <point x="302" y="0" type="line"/>
-      <point x="402" y="0" type="line"/>
-      <point x="222" y="276" type="line"/>
-      <point x="222" y="257" type="line"/>
-      <point x="382" y="460" type="line"/>
-      <point x="282" y="460" type="line"/>
-      <point x="157" y="300" type="line"/>
-      <point x="112" y="286" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="460" type="line"/>
+      <point x="66" y="444" type="line"/>
     </contour>
     <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="125" y="460" type="line"/>
-      <point x="45" y="440" type="line"/>
+      <point x="118" y="93" type="line"/>
+      <point x="492" y="460" type="line"/>
+      <point x="366" y="460" type="line"/>
+      <point x="118" y="211" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="227" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="276" y="296" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  </dict>
+  </lib>
 </glyph>

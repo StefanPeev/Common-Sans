@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scommaaccent" format="2">
-  <advance width="541"/>
+  <advance width="535"/>
   <unicode hex="0219"/>
-  <anchor x="269" y="530" name="top"/>
-  <anchor x="268" y="0" name="b.cedilla"/>
+  <anchor x="265" y="530" name="top"/>
+  <anchor x="264" y="-0" name="b.cedilla"/>
   <outline>
     <component base="s"/>
-    <component base="uni0326" xOffset="363"/>
+    <component base="uni0326" xOffset="359"/>
   </outline>
   <lib>
   <dict>

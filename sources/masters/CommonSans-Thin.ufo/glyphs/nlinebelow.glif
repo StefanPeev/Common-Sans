@@ -2,10 +2,10 @@
 <glyph name="nlinebelow" format="2">
   <advance width="520"/>
   <unicode hex="1E49"/>
-  <anchor x="252" y="530" name="top"/>
+  <anchor x="252" y="540" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="uni0331" xOffset="517"/>
+    <component base="uni0331" xOffset="517" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="306"/>
+  <advance width="375"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="40" y="720" type="line"/>
-      <point x="146" y="540" type="line"/>
-      <point x="266" y="540" type="line"/>
-      <point x="201" y="720" type="line"/>
+      <point x="30" y="720" type="line"/>
+      <point x="155" y="540" type="line"/>
+      <point x="345" y="540" type="line"/>
+      <point x="280" y="720" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="700"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=40</string>
+  <string>=30</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=40</string>
+  <string>=30</string>
   </dict>
   </lib>
 </glyph>

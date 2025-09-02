@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="298"/>
+  <advance width="218"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="100" y="540" type="line"/>
-      <point x="115" y="540" type="line"/>
-      <point x="198" y="700" type="line"/>
-      <point x="177" y="700" type="line"/>
+      <point x="60" y="540" type="line"/>
+      <point x="75" y="540" type="line"/>
+      <point x="158" y="700" type="line"/>
+      <point x="137" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>=100</string>
+  <string>=|grave</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=100</string>
+  <string>=|grave</string>
   </dict>
   </lib>
 </glyph>

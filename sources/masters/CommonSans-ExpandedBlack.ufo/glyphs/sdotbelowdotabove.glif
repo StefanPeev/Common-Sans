@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sdotbelowdotabove" format="2">
-  <advance width="541"/>
+  <advance width="538"/>
   <unicode hex="1E69"/>
-  <anchor x="278" y="0" name="b.cedilla"/>
+  <anchor x="264" y="-0" name="b.cedilla"/>
   <outline>
     <component base="sdotbelow"/>
-    <component base="uni0307" xOffset="273" yOffset="-10"/>
+    <component base="uni0307" xOffset="259" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

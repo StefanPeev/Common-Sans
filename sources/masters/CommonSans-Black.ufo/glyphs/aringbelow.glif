@@ -2,11 +2,12 @@
 <glyph name="aringbelow" format="2">
   <advance width="543"/>
   <unicode hex="1E01"/>
-  <anchor x="278" y="530" name="top"/>
-  <anchor x="278" y="530" name="t.ring"/>
+  <anchor x="278" y="540" name="top"/>
+  <anchor x="278" y="540" name="t.ring"/>
+  <anchor x="503" y="-0" name="b.ogonek"/>
   <outline>
     <component base="a"/>
-    <component base="uni0325" xOffset="558"/>
+    <component base="uni0325" xOffset="558" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

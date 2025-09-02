@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201F" format="2">
+  <advance width="223"/>
+  <unicode hex="201F"/>
+  <outline>
+    <component base="uni201B"/>
+    <component base="uni201B" xOffset="70"/>
+  </outline>
+  <guideline angle="90" x="60" y="0"/>
+  <guideline angle="90" x="130" y="0"/>
+  <guideline angle="0" x="0" y="700"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|comma</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni201B_uni201B</string>
+  </dict>
+  </lib>
+</glyph>

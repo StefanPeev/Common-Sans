@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0323" format="2">
   <unicode hex="0323"/>
-  <anchor x="-176" y="-40" name="_bottom"/>
+  <anchor x="0" y="-50" name="_bottom"/>
   <outline>
-    <component base="dotaccent" xOffset="-272" yOffset="-672"/>
+    <component base="dotaccent" xOffset="-98" yOffset="-702"/>
   </outline>
-  <guideline angle="0" x="0" y="-40"/>
-  <guideline angle="90" x="-130" y="0"/>
-  <guideline angle="90" x="-222" y="0"/>
-  <guideline angle="0" x="0" y="-132"/>
-  <guideline angle="90" x="-176" y="0"/>
+  <guideline angle="0" x="0" y="-50"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>dotaccent%</string>
+  <string>=dotaccent@0,-500</string>
   </dict>
   </lib>
 </glyph>

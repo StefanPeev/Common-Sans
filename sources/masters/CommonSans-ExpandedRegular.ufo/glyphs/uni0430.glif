@@ -2,9 +2,10 @@
 <glyph name="uni0430" format="2">
   <advance width="569"/>
   <unicode hex="0430"/>
-  <anchor x="285" y="530" name="top"/>
-  <anchor x="285" y="-40" name="bottom"/>
-  <anchor x="285" y="530" name="t.ring"/>
+  <anchor x="285" y="540" name="top"/>
+  <anchor x="285" y="-50" name="bottom"/>
+  <anchor x="285" y="540" name="t.ring"/>
+  <anchor x="503" y="-0" name="b.ogonek"/>
   <outline>
     <component base="a"/>
   </outline>

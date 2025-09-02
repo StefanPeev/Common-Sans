@@ -15,13 +15,13 @@
       <point x="-107" y="562" type="line"/>
     </contour>
     <contour>
-      <point x="-310" y="600" type="line"/>
-      <point x="-40" y="600" type="line"/>
-      <point x="-40" y="618" type="line"/>
-      <point x="-310" y="618" type="line"/>
+      <point x="-310" y="620" type="line"/>
+      <point x="-40" y="620" type="line"/>
+      <point x="-40" y="638" type="line"/>
+      <point x="-310" y="638" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="600"/>
+  <guideline angle="0" x="0" y="620"/>
   <guideline angle="90" x="-175" y="0"/>
   <guideline angle="90" x="-265" y="0"/>
   <guideline angle="90" x="-85" y="0"/>

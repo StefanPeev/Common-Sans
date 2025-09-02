@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0324" format="2">
-  <advance width="520"/>
   <unicode hex="0324"/>
+  <anchor x="0" y="-50" name="_bottom"/>
   <outline>
-    <component base="dieresis"/>
+    <component base="dieresis" xOffset="-244" yOffset="-758"/>
   </outline>
-  <guideline angle="90" x="110" y="0"/>
-  <guideline angle="90" x="238" y="0"/>
-  <guideline angle="90" x="176" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

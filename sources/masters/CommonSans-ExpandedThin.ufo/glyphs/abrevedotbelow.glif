@@ -2,10 +2,11 @@
 <glyph name="abrevedotbelow" format="2">
   <advance width="603"/>
   <unicode hex="1EB7"/>
-  <anchor x="297" y="530" name="t.ring"/>
+  <anchor x="297" y="540" name="t.ring"/>
+  <anchor x="513" y="-0" name="b.ogonek"/>
   <outline>
     <component base="adotbelow"/>
-    <component base="uni0306" xOffset="502"/>
+    <component base="uni0306" xOffset="297"/>
   </outline>
   <lib>
   <dict>

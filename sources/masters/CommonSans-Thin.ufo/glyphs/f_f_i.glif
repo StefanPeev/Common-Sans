@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_i" format="2">
+  <advance width="718"/>
+  <unicode hex="FB03"/>
+  <outline>
+    <contour>
+      <point x="598" y="0" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="618" y="460" type="line"/>
+      <point x="598" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="605" type="line" smooth="yes"/>
+      <point x="130" y="658"/>
+      <point x="152" y="682"/>
+      <point x="200" y="682" type="curve" smooth="yes"/>
+      <point x="458" y="682" type="line"/>
+      <point x="458" y="700" type="line"/>
+      <point x="197" y="700" type="line" smooth="yes"/>
+      <point x="143" y="700"/>
+      <point x="110" y="667"/>
+      <point x="110" y="611" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="35" y="442" type="line"/>
+      <point x="606" y="442" type="line"/>
+      <point x="606" y="460" type="line"/>
+      <point x="35" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="374" y="605" type="line" smooth="yes"/>
+      <point x="374" y="658"/>
+      <point x="396" y="682"/>
+      <point x="444" y="682" type="curve" smooth="yes"/>
+      <point x="524" y="682" type="line"/>
+      <point x="524" y="700" type="line"/>
+      <point x="441" y="700" type="line" smooth="yes"/>
+      <point x="387" y="700"/>
+      <point x="354" y="667"/>
+      <point x="354" y="611" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=dotlessi</string>
+  <key>com.fontlab.recipe</key>
+  <string>f_f_i</string>
+  </dict>
+  </lib>
+</glyph>

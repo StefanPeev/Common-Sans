@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kacute" format="2">
-  <advance width="536"/>
+  <advance width="537"/>
   <unicode hex="1E31"/>
-  <anchor x="270" y="-40" name="bottom"/>
+  <anchor x="271" y="-50" name="bottom"/>
   <outline>
     <component base="k"/>
-    <component base="uni0301" xOffset="328" yOffset="200"/>
+    <component base="uni0301" xOffset="329" yOffset="200"/>
   </outline>
   <lib>
   <dict>

@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="2">
-  <advance width="340"/>
+  <advance width="520"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="0" y="530" type="line"/>
-      <point x="120" y="530" type="line"/>
-      <point x="210" y="647" type="line"/>
-      <point x="130" y="647" type="line"/>
-      <point x="220" y="530" type="line"/>
-      <point x="340" y="530" type="line"/>
-      <point x="240" y="720" type="line"/>
-      <point x="100" y="720" type="line"/>
+      <point x="30" y="540" type="line"/>
+      <point x="220" y="540" type="line"/>
+      <point x="330" y="647" type="line"/>
+      <point x="190" y="647" type="line"/>
+      <point x="300" y="540" type="line"/>
+      <point x="490" y="540" type="line"/>
+      <point x="330" y="720" type="line"/>
+      <point x="190" y="720" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="170" y="0"/>
-  <guideline angle="0" x="0" y="530"/>
+  <guideline angle="90" x="260" y="0"/>
+  <guideline angle="0" x="0" y="540"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="ocircumflex" format="2">
   <advance width="466"/>
   <unicode hex="00F4"/>
-  <anchor x="237" y="-40" name="bottom"/>
+  <anchor x="237" y="-50" name="bottom"/>
   <anchor x="233" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>

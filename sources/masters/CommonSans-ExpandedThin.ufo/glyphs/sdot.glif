@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sdot" format="2">
-  <advance width="541"/>
+  <advance width="487"/>
   <unicode hex="1E61"/>
-  <anchor x="261" y="-40" name="bottom"/>
-  <anchor x="278" y="0" name="b.cedilla"/>
+  <anchor x="240" y="-40" name="bottom"/>
+  <anchor x="257" y="-0" name="b.cedilla"/>
   <outline>
     <component base="s"/>
-    <component base="uni0307" xOffset="261" yOffset="-10"/>
+    <component base="uni0307" xOffset="240" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kdotbelow" format="2">
-  <advance width="536"/>
+  <advance width="537"/>
   <unicode hex="1E33"/>
-  <anchor x="279" y="740" name="top"/>
+  <anchor x="280" y="740" name="top"/>
   <outline>
     <component base="k"/>
-    <component base="uni0323" xOffset="446"/>
+    <component base="uni0323" xOffset="271"/>
   </outline>
   <lib>
   <dict>

@@ -2,10 +2,10 @@
 <glyph name="ndotbelow" format="2">
   <advance width="440"/>
   <unicode hex="1E47"/>
-  <anchor x="222" y="530" name="top"/>
+  <anchor x="222" y="540" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="uni0323" xOffset="367"/>
+    <component base="uni0323" xOffset="222"/>
   </outline>
   <lib>
   <dict>

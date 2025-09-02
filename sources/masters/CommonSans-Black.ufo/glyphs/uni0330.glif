@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0330" format="2">
   <unicode hex="0330"/>
+  <anchor x="-283" y="-40" name="_bottom"/>
   <outline>
   </outline>
+  <guideline angle="90" x="-283" y="0"/>
+  <guideline angle="90" x="-436" y="0"/>
+  <guideline angle="0" x="0" y="-160"/>
 </glyph>

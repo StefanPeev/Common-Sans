@@ -4,10 +4,10 @@
   <unicode hex="0119"/>
   <anchor x="322" y="530" name="top"/>
   <anchor x="322" y="-40" name="bottom"/>
-  <anchor x="297" y="-0" name="b.cedilla"/>
+  <anchor x="297" y="0" name="b.cedilla"/>
   <outline>
     <component base="e"/>
-    <component base="uni0328" xOffset="517"/>
+    <component base="uni0328" xOffset="212"/>
   </outline>
   <lib>
   <dict>

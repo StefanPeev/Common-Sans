@@ -6,7 +6,7 @@
     <component base="ring" xOffset="-319" yOffset="-726"/>
   </outline>
   <guideline angle="0" x="0" y="530"/>
-  <guideline angle="0" x="0" y="-40"/>
+  <guideline angle="0" x="0" y="-50"/>
   <guideline angle="90" x="-130" y="0"/>
   <guideline angle="90" x="-286" y="0"/>
   <guideline angle="0" x="0" y="-196"/>

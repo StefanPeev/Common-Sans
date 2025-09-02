@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB01" format="2">
-  <advance width="439"/>
+  <advance width="504"/>
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="115" y="0" type="line"/>
-      <point x="195" y="0" type="line"/>
-      <point x="195" y="380" type="line"/>
-      <point x="309" y="380" type="line"/>
-      <point x="309" y="0" type="line"/>
-      <point x="389" y="0" type="line"/>
-      <point x="389" y="460" type="line"/>
-      <point x="195" y="460" type="line"/>
-      <point x="195" y="500" type="line" smooth="yes"/>
-      <point x="195" y="606"/>
-      <point x="208" y="635"/>
-      <point x="277" y="635" type="curve" smooth="yes"/>
-      <point x="311" y="635" type="line"/>
-      <point x="311" y="700" type="line"/>
-      <point x="277" y="700" type="line" smooth="yes"/>
-      <point x="126" y="700"/>
-      <point x="115" y="642"/>
-      <point x="115" y="500" type="curve" smooth="yes"/>
-      <point x="115" y="460" type="line"/>
-      <point x="50" y="460" type="line"/>
-      <point x="50" y="380" type="line"/>
-      <point x="115" y="380" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="552" type="line" smooth="yes"/>
+      <point x="172" y="594"/>
+      <point x="193" y="620"/>
+      <point x="224" y="620" type="curve" smooth="yes"/>
+      <point x="298" y="620" type="line"/>
+      <point x="298" y="700" type="line"/>
+      <point x="224" y="700" type="line" smooth="yes"/>
+      <point x="130" y="700"/>
+      <point x="80" y="651"/>
+      <point x="80" y="560" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="5" y="460" type="line"/>
+      <point x="5" y="380" type="line"/>
+      <point x="334" y="380" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="426" y="460" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=dotlessi</string>
+  </dict>
+  </lib>
 </glyph>

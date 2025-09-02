@@ -32,6 +32,7 @@
       <point x="149" y="663"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="530"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

@@ -3,19 +3,18 @@
   <advance width="430"/>
   <unicode hex="0104"/>
   <anchor x="215" y="740" name="top"/>
-  <anchor x="210" y="639" name="t.ring"/>
-  <anchor x="210" y="-40" name="bottom"/>
-  <anchor x="384" y="0" name="b.ogonek"/>
+  <anchor x="215" y="639" name="t.ring"/>
+  <anchor x="215" y="-50" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="ogonek" xOffset="188"/>
+    <component base="uni0328" xOffset="376"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+>ogonek</string>
+  <string>A+uni0328</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

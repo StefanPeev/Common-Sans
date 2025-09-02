@@ -3,7 +3,7 @@
   <advance width="546"/>
   <unicode hex="0062"/>
   <anchor x="280" y="740" name="top"/>
-  <anchor x="280" y="-40" name="bottom"/>
+  <anchor x="280" y="-50" name="bottom"/>
   <outline>
     <contour>
       <point x="90" y="0" type="line"/>
@@ -54,7 +54,7 @@
   <guideline angle="90" x="446" y="0"/>
   <guideline angle="0" x="0" y="230"/>
   <guideline angle="0" name="v_t_530" x="0" y="530"/>
-  <guideline angle="0" name="v_b_40" x="0" y="-40"/>
+  <guideline angle="0" name="v_b_40" x="0" y="-50"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

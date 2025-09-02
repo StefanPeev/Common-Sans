@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcommaaccent" format="2">
-  <advance width="559"/>
+  <advance width="518"/>
   <unicode hex="013B"/>
   <anchor x="310" y="740" name="top"/>
   <outline>

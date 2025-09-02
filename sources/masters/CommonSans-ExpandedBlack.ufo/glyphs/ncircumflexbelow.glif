@@ -2,10 +2,10 @@
 <glyph name="ncircumflexbelow" format="2">
   <advance width="650"/>
   <unicode hex="1E4B"/>
-  <anchor x="335" y="530" name="top"/>
+  <anchor x="335" y="540" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="uni032D" xOffset="635"/>
+    <component base="uni032D" xOffset="635" yOffset="-10"/>
   </outline>
   <lib>
   <dict>

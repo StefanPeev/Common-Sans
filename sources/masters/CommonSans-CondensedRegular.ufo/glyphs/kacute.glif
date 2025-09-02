@@ -2,7 +2,7 @@
 <glyph name="kacute" format="2">
   <advance width="385"/>
   <unicode hex="1E31"/>
-  <anchor x="217" y="-40" name="bottom"/>
+  <anchor x="217" y="-50" name="bottom"/>
   <outline>
     <component base="k"/>
     <component base="uni0301" xOffset="271" yOffset="200"/>

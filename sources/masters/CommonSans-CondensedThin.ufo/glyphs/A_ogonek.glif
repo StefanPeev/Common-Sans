@@ -4,18 +4,17 @@
   <unicode hex="0104"/>
   <anchor x="222" y="740" name="top"/>
   <anchor x="222" y="663" name="t.ring"/>
-  <anchor x="222" y="-40" name="bottom"/>
-  <anchor x="414" y="0" name="b.ogonek"/>
+  <anchor x="222" y="-50" name="bottom"/>
   <outline>
     <component base="A"/>
-    <component base="ogonek" xOffset="198"/>
+    <component base="uni0328" xOffset="401"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+>ogonek</string>
+  <string>A+uni0328</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

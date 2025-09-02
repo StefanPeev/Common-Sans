@@ -384,12 +384,12 @@
     <string>question</string>
     <string>questiondown</string>
     <string>quotedbl</string>
-    <string>quotedblbase</string>
-    <string>quotedblleft</string>
-    <string>quotedblright</string>
-    <string>quoteleft</string>
-    <string>quoteright</string>
-    <string>quotesinglbase</string>
+    <string>uni201E</string>
+    <string>uni201C</string>
+    <string>uni201D</string>
+    <string>uni2018</string>
+    <string>uni2019</string>
+    <string>uni201A</string>
     <string>quotesingle</string>
     <string>r</string>
     <string>r.sc</string>
@@ -1023,8 +1023,8 @@
     <string>uni03080304</string>
     <string>uni03080303</string>
     <string>uni03080301</string>
-    <string>quotereversed</string>
-    <string>quotedblreversed</string>
+    <string>uni201B</string>
+    <string>uni201F</string>
     <string>Obar</string>
     <string>ereversed-ipa</string>
     <string>obarred</string>
@@ -1033,6 +1033,16 @@
     <string>uni04EA</string>
     <string>uni04EB</string>
     <string>uni01C3</string>
+    <string>f_f</string>
+    <string>f_f_i</string>
+    <string>f_f_l</string>
+    <string>longs_t</string>
+    <string>s_t</string>
+    <string>uni02C9</string>
+    <string>acutemod</string>
+    <string>gravemod</string>
+    <string>uni02BB</string>
+    <string>uni02BD</string>
   </array>
 </dict>
 </plist>

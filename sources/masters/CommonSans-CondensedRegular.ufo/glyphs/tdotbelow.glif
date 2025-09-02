@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tdotbelow" format="2">
-  <advance width="272"/>
+  <advance width="250"/>
   <unicode hex="1E6D"/>
   <anchor x="125" y="660" name="top"/>
   <anchor x="235" y="700" name="t.quoteright"/>
   <outline>
     <component base="t"/>
-    <component base="uni0323" xOffset="356"/>
+    <component base="uni0323" xOffset="180" yOffset="10"/>
   </outline>
   <lib>
   <dict>

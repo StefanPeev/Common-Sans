@@ -7,12 +7,12 @@
   <anchor x="205" y="0" name="b.cedilla"/>
   <outline>
     <component base="d"/>
-    <component base="quoteright" xOffset="478" yOffset="-11"/>
+    <component base="uni2019" xOffset="478" yOffset="-11"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>d_quoteright</string>
+  <string>d_uni2019</string>
   </dict>
   </lib>
 </glyph>

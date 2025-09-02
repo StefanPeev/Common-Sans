@@ -2,9 +2,10 @@
 <glyph name="a" format="2">
   <advance width="543"/>
   <unicode hex="0061"/>
-  <anchor x="278" y="530" name="top"/>
-  <anchor x="278" y="-40" name="bottom"/>
-  <anchor x="278" y="530" name="t.ring"/>
+  <anchor x="278" y="540" name="top"/>
+  <anchor x="278" y="-50" name="bottom"/>
+  <anchor x="278" y="540" name="t.ring"/>
+  <anchor x="503" y="-0" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="55" y="300" type="curve"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bdotbelow" format="2">
-  <advance width="635"/>
+  <advance width="652"/>
   <unicode hex="1E05"/>
   <anchor x="339" y="740" name="top"/>
   <outline>
     <component base="b"/>
-    <component base="uni0323" xOffset="568"/>
+    <component base="uni0323" xOffset="339"/>
   </outline>
   <lib>
   <dict>

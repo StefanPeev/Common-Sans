@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2018" format="2">
+  <advance width="153"/>
+  <unicode hex="2018"/>
+  <anchor x="70" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="60" y="520" type="line"/>
+      <point x="80" y="520" type="line"/>
+      <point x="80" y="600" type="line"/>
+      <point x="74" y="600" type="line"/>
+      <point x="93" y="700" type="line"/>
+      <point x="83" y="700" type="line"/>
+      <point x="60" y="600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|comma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|comma</string>
+  </dict>
+  </lib>
+</glyph>

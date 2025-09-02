@@ -24,6 +24,16 @@ lookup loclBGR {
     sub @locl1 by @locl2;
 } loclBGR;
 
+
+
+
+
+
+
+
+
+
+
 feature aalt {
 # Access All Alternates
 
@@ -42,6 +52,52 @@ feature aalt {
   feature cv01;
 #< feature
 } aalt;
+feature liga {
+# Standard Ligatures
+
+#> feature
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f by f_f;
+  sub f i by uniFB01;
+  sub f l by uniFB02;
+  sub longs t by longs_t;
+#< feature
+} liga;
+
+
+
+
+
+
+
+
+
+
+
+feature dlig {
+# Discretionary Ligatures
+
+#> feature
+ script latn;
+    sub a by a.dlig;
+    sub s t by s_t;
+ script cyrl;
+ language BGR  exclude_dflt;
+    sub uni0430 by a.dlig;
+#< feature
+} dlig;
+
+
+
+
+
+
+
+
+
+
+
 feature locl {
  script cyrl;
  language BGR  exclude_dflt;
@@ -64,6 +120,16 @@ feature sinf {
 #< feature
 } sinf;
 
+
+
+
+
+
+
+
+
+
+
 feature sups {
 # Superscript
 
@@ -80,6 +146,16 @@ feature sups {
   sub zero by zero.superior;
 #< feature
 } sups;
+
+
+
+
+
+
+
+
+
+
 
 feature subs {
 # Subscript
@@ -98,6 +174,16 @@ feature subs {
 #< feature
 } subs;
 
+
+
+
+
+
+
+
+
+
+
 feature numr {
 # Numerator
 
@@ -115,6 +201,16 @@ feature numr {
 #< feature
 } numr;
 
+
+
+
+
+
+
+
+
+
+
 feature dnom {
 # Denominator
 
@@ -131,6 +227,16 @@ feature dnom {
   sub zero by zero.dnom;
 #< feature
 } dnom;
+
+
+
+
+
+
+
+
+
+
 
 feature frac {
 # Fractions
@@ -216,6 +322,16 @@ lookup frac_dnom {
 #< feature
 } frac;
 
+
+
+
+
+
+
+
+
+
+
 feature ordn {
 # Ordinals
 
@@ -225,6 +341,16 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
+
+
+
+
+
+
+
+
+
+
 
 feature smcp {
 # Small Caps
@@ -291,6 +417,16 @@ feature smcp {
 #< feature
 } smcp;
 
+
+
+
+
+
+
+
+
+
+
 feature c2sc {
 # Capitals to Small Caps
 
@@ -356,6 +492,16 @@ feature c2sc {
 #< feature
 } c2sc;
 
+
+
+
+
+
+
+
+
+
+
 feature salt {
 # Stylistic Alternates
 
@@ -363,6 +509,16 @@ feature salt {
   sub uni0445 from [uni0445.alt];
 #< feature
 } salt;
+
+
+
+
+
+
+
+
+
+
 
 feature hist {
 # Historical Forms
@@ -372,17 +528,15 @@ feature hist {
 #< feature
 } hist;
 
-feature dlig {
-# Discretionary Ligatures
 
-#> feature
- script latn;
-    sub a by a.dlig;
- script cyrl;
- language BGR  exclude_dflt;
-    sub uni0430 by a.dlig;
-#< feature
-} dlig;
+
+
+
+
+
+
+
+
 
 feature ss01 {
 # Stylistic Set 01–20
@@ -398,6 +552,16 @@ feature ss01 {
 #< feature
 } ss01;
 
+
+
+
+
+
+
+
+
+
+
 feature cv01 {
 # Character Variant 01—99
 
@@ -405,4 +569,14 @@ feature cv01 {
   sub uni0430 by a.dlig;
 #< feature
 } cv01;
+
+
+
+
+
+
+
+
+
+
 

@@ -3,6 +3,6 @@
   <unicode hex="0300"/>
   <anchor x="53" y="540" name="_top"/>
   <outline>
-    <component base="grave" xOffset="-113"/>
+    <component base="grave" xOffset="-133"/>
   </outline>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="obreve" format="2">
   <advance width="428"/>
   <unicode hex="014F"/>
-  <anchor x="205" y="-40" name="bottom"/>
+  <anchor x="205" y="-50" name="bottom"/>
   <anchor x="256" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="uni0306" xOffset="419"/>
+    <component base="uni0306" xOffset="214"/>
   </outline>
   <lib>
   <dict>

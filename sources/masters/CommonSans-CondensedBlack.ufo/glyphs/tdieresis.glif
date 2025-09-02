@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tdieresis" format="2">
-  <advance width="329"/>
+  <advance width="303"/>
   <unicode hex="1E97"/>
   <anchor x="210" y="-40" name="bottom"/>
   <anchor x="315" y="700" name="t.quoteright"/>

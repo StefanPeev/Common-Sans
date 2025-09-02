@@ -2,10 +2,10 @@
 <glyph name="udieresisbelow" format="2">
   <advance width="519"/>
   <unicode hex="1E73"/>
-  <anchor x="259" y="-40" name="bottom"/>
+  <anchor x="259" y="530" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="uni0324" xOffset="259" yOffset="-10"/>
+    <component base="uni0324" xOffset="259" yOffset="10"/>
   </outline>
   <lib>
   <dict>

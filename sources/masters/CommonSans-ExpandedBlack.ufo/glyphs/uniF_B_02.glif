@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB02" format="2">
-  <advance width="501"/>
+  <advance width="674"/>
   <unicode hex="FB02"/>
   <outline>
     <contour>
-      <point x="146" y="1" type="line"/>
-      <point x="226" y="1" type="line"/>
-      <point x="226" y="381" type="line"/>
-      <point x="300" y="381" type="line"/>
-      <point x="300" y="461" type="line"/>
-      <point x="226" y="461" type="line"/>
-      <point x="226" y="501" type="line" smooth="yes"/>
-      <point x="226" y="607"/>
-      <point x="239" y="636"/>
-      <point x="308" y="636" type="curve" smooth="yes"/>
-      <point x="351" y="636" type="line"/>
-      <point x="351" y="0" type="line"/>
-      <point x="431" y="0" type="line"/>
-      <point x="431" y="700" type="line"/>
-      <point x="308" y="700" type="line" smooth="yes"/>
-      <point x="157" y="700"/>
-      <point x="146" y="643"/>
-      <point x="146" y="501" type="curve" smooth="yes"/>
-      <point x="146" y="461" type="line"/>
-      <point x="81" y="461" type="line"/>
-      <point x="81" y="381" type="line"/>
-      <point x="146" y="381" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="509" type="line" smooth="yes"/>
+      <point x="290" y="543"/>
+      <point x="312" y="560"/>
+      <point x="334" y="560" type="curve" smooth="yes"/>
+      <point x="535" y="560" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="240" y="700" type="line" smooth="yes"/>
+      <point x="156" y="700"/>
+      <point x="100" y="640"/>
+      <point x="100" y="551" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="444" y="0" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="634" y="700" type="line"/>
+      <point x="444" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="321" type="line"/>
+      <point x="395" y="321" type="line"/>
+      <point x="395" y="461" type="line"/>
+      <point x="6" y="461" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=f</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=l</string>
+  </dict>
+  </lib>
 </glyph>

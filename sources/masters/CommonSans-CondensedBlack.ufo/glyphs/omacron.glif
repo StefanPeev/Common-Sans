@@ -2,11 +2,11 @@
 <glyph name="omacron" format="2">
   <advance width="466"/>
   <unicode hex="014D"/>
-  <anchor x="237" y="-40" name="bottom"/>
+  <anchor x="237" y="-50" name="bottom"/>
   <anchor x="233" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="uni0304" xOffset="233" yOffset="-10"/>
+    <component base="uni0304" xOffset="233"/>
   </outline>
   <lib>
   <dict>

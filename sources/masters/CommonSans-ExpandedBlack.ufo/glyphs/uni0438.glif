@@ -35,7 +35,7 @@
       <point x="40" y="460" type="line"/>
     </contour>
   </outline>
-  <guideline angle="50.4206" x="231" y="-0"/>
+  <guideline angle="50.4206" x="231" y="0"/>
   <guideline angle="230.27" x="424" y="460"/>
   <guideline angle="0" x="0" y="210"/>
   <guideline angle="0" x="0" y="251"/>

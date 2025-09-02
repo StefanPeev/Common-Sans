@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcircumflexbelow" format="2">
-  <advance width="264"/>
+  <advance width="230"/>
   <unicode hex="1E71"/>
   <anchor x="91" y="660" name="top"/>
   <anchor x="225" y="700" name="t.quoteright"/>

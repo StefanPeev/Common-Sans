@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="422"/>
+  <advance width="458"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="56" y="232" type="line"/>
-      <point x="105" y="247" type="line"/>
-      <point x="268" y="0" type="line"/>
-      <point x="293" y="0" type="line"/>
-      <point x="115" y="270" type="line"/>
-      <point x="115" y="252" type="line"/>
-      <point x="282" y="460" type="line"/>
-      <point x="252" y="460" type="line"/>
-      <point x="101" y="268" type="line"/>
-      <point x="56" y="254" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="460" type="line"/>
+      <point x="90" y="450" type="line"/>
     </contour>
     <contour>
-      <point x="45" y="0" type="line"/>
-      <point x="65" y="0" type="line"/>
-      <point x="65" y="460" type="line"/>
-      <point x="45" y="450" type="line"/>
+      <point x="103" y="183" type="line"/>
+      <point x="409" y="460" type="line"/>
+      <point x="379" y="460" type="line"/>
+      <point x="103" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="256" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="185" y="270" type="line"/>
     </contour>
   </outline>
-  <guideline angle="303.389" x="148" y="220"/>
-  <guideline angle="303.389" x="123" y="220"/>
-  <guideline angle="51.7556" x="119" y="257"/>
-  <guideline angle="232.001" x="252" y="460"/>
-  <guideline angle="197.281" x="101" y="268"/>
-  <guideline angle="17.2815" x="56" y="232"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  </dict>
+  </lib>
 </glyph>

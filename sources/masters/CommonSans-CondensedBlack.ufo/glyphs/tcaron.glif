@@ -6,12 +6,12 @@
   <anchor x="159" y="660" name="top"/>
   <outline>
     <component base="t"/>
-    <component base="quoteright" xOffset="285" yOffset="-90"/>
+    <component base="uni2019" xOffset="285" yOffset="-90"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
-  <string>t_quoteright</string>
+  <string>t_uni2019</string>
   </dict>
   </lib>
 </glyph>

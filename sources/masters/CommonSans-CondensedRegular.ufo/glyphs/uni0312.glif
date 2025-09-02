@@ -2,14 +2,12 @@
 <glyph name="uni0312" format="2">
   <unicode hex="0312"/>
   <outline>
-    <contour>
-      <point x="-220" y="510" type="line"/>
-      <point x="-130" y="510" type="line"/>
-      <point x="-130" y="598" type="line"/>
-      <point x="-154" y="598" type="line"/>
-      <point x="-131" y="711" type="line"/>
-      <point x="-172" y="711" type="line"/>
-      <point x="-220" y="597" type="line"/>
-    </contour>
+    <component base="uni02BB" xOffset="-93"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni02BB</string>
+  </dict>
+  </lib>
 </glyph>

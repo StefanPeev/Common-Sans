@@ -2,9 +2,9 @@
 <glyph name="Atilde" format="2">
   <advance width="650"/>
   <unicode hex="00C3"/>
-  <anchor x="326" y="629" name="t.ring"/>
-  <anchor x="325" y="-40" name="bottom"/>
-  <anchor x="564" y="0" name="b.ogonek"/>
+  <anchor x="325" y="629" name="t.ring"/>
+  <anchor x="325" y="-50" name="bottom"/>
+  <anchor x="640" y="-0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
     <component base="uni0303" xOffset="325" yOffset="200"/>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="536"/>
+  <advance width="537"/>
   <unicode hex="006B"/>
-  <anchor x="270" y="-40" name="bottom"/>
-  <anchor x="279" y="740" name="top"/>
+  <anchor x="271" y="-50" name="bottom"/>
+  <anchor x="280" y="740" name="top"/>
   <outline>
     <contour>
       <point x="66" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="157" y="700" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="700" type="line"/>
       <point x="66" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="117" y="93" type="line"/>
-      <point x="491" y="460" type="line"/>
-      <point x="365" y="460" type="line"/>
-      <point x="117" y="211" type="line"/>
+      <point x="118" y="93" type="line"/>
+      <point x="492" y="460" type="line"/>
+      <point x="366" y="460" type="line"/>
+      <point x="118" y="211" type="line"/>
     </contour>
     <contour>
-      <point x="206" y="227" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="275" y="296" type="line"/>
+      <point x="207" y="227" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="276" y="296" type="line"/>
     </contour>
   </outline>
-  <guideline angle="45.6794" x="255" y="300"/>
-  <guideline angle="309.04" x="278" y="279"/>
-  <guideline angle="129.38" x="380" y="0"/>
-  <guideline angle="90" name="h_1" x="279" y="0"/>
+  <guideline angle="45.6794" x="256" y="300"/>
+  <guideline angle="309.04" x="279" y="279"/>
+  <guideline angle="129.38" x="381" y="-0"/>
+  <guideline angle="90" name="h_1" x="280" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

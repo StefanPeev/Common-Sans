@@ -2,10 +2,11 @@
 <glyph name="aringacute" format="2">
   <advance width="569"/>
   <unicode hex="01FB"/>
-  <anchor x="285" y="-40" name="bottom"/>
+  <anchor x="285" y="-50" name="bottom"/>
+  <anchor x="503" y="-0" name="b.ogonek"/>
   <outline>
     <component base="aring"/>
-    <component base="uni0301" xOffset="334" yOffset="-10"/>
+    <component base="uni0301" xOffset="334"/>
   </outline>
   <lib>
   <dict>

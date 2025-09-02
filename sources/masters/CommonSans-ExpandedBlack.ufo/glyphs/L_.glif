@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="549"/>
+  <advance width="521"/>
   <unicode hex="004C"/>
   <anchor x="289" y="740" name="top"/>
   <anchor x="289" y="-40" name="bottom"/>
@@ -23,6 +23,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
   </dict>
   </lib>
 </glyph>

@@ -2,12 +2,12 @@
 <glyph name="Adotbelow" format="2">
   <advance width="568"/>
   <unicode hex="1EA0"/>
-  <anchor x="281" y="740" name="top"/>
-  <anchor x="280" y="662" name="t.ring"/>
-  <anchor x="556" y="0" name="b.ogonek"/>
+  <anchor x="284" y="740" name="top"/>
+  <anchor x="284" y="662" name="t.ring"/>
+  <anchor x="558" y="-0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="uni0323" xOffset="426"/>
+    <component base="uni0323" xOffset="284"/>
   </outline>
   <lib>
   <dict>

@@ -2,8 +2,8 @@
 <glyph name="Aringacute" format="2">
   <advance width="444"/>
   <unicode hex="01FA"/>
-  <anchor x="222" y="-40" name="bottom"/>
-  <anchor x="414" y="0" name="b.ogonek"/>
+  <anchor x="222" y="-50" name="bottom"/>
+  <anchor x="424" y="-0" name="b.ogonek"/>
   <outline>
     <component base="Aring"/>
     <component base="uni0301" xOffset="263" yOffset="200"/>

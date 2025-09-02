@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="807"/>
+  <advance width="725"/>
   <unicode hex="0149"/>
   <anchor x="48" y="711" name="_t.quoteright"/>
-  <anchor x="498" y="530" name="top"/>
-  <anchor x="498" y="-40" name="bottom"/>
+  <anchor x="386" y="530" name="top"/>
+  <anchor x="386" y="-40" name="bottom"/>
   <outline>
-    <component base="quoteright"/>
-    <component base="n" xOffset="186"/>
+    <component base="uni2019"/>
+    <component base="n" xOffset="104"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni2019</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>com.fontlab.recipe</key>
-  <string>apostrophe_n</string>
+  <string>=uni2019+n@160,0</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

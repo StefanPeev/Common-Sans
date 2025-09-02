@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longsdot" format="2">
-  <advance width="440"/>
+  <advance width="410"/>
   <unicode hex="1E9B"/>
   <outline>
     <component base="longs"/>
-    <component base="uni0307" xOffset="254" yOffset="200"/>
+    <component base="uni0307" xOffset="217" yOffset="200"/>
   </outline>
   <lib>
   <dict>

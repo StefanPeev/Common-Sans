@@ -3,10 +3,10 @@
   <advance width="666"/>
   <unicode hex="1E25"/>
   <anchor x="339" y="740" name="top"/>
-  <anchor x="509" y="-0" name="b.cedilla"/>
+  <anchor x="509" y="0" name="b.cedilla"/>
   <outline>
     <component base="h"/>
-    <component base="uni0323" xOffset="568"/>
+    <component base="uni0323" xOffset="339" yOffset="10"/>
   </outline>
   <lib>
   <dict>

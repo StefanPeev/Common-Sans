@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="535"/>
+  <advance width="515"/>
   <unicode hex="02DD"/>
-  <anchor x="226" y="530" name="_top"/>
   <outline>
     <contour>
-      <point x="40" y="530" type="line"/>
-      <point x="160" y="530" type="line"/>
-      <point x="265" y="710" type="line"/>
-      <point x="105" y="710" type="line"/>
+      <point x="30" y="540" type="line"/>
+      <point x="150" y="540" type="line"/>
+      <point x="255" y="720" type="line"/>
+      <point x="95" y="720" type="line"/>
     </contour>
     <contour>
-      <point x="270" y="530" type="line"/>
-      <point x="390" y="530" type="line"/>
-      <point x="495" y="710" type="line"/>
-      <point x="335" y="710" type="line"/>
+      <point x="260" y="540" type="line"/>
+      <point x="380" y="540" type="line"/>
+      <point x="485" y="720" type="line"/>
+      <point x="325" y="720" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="530"/>
+  <guideline angle="0" x="0" y="540"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

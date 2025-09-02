@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="2">
-  <advance width="310"/>
+  <advance width="270"/>
   <unicode hex="012F"/>
-  <anchor x="155" y="-40" name="bottom"/>
+  <anchor x="135" y="-40" name="bottom"/>
   <outline>
     <component base="i"/>
-    <component base="ogonek" xOffset="10"/>
+    <component base="ogonek" xOffset="-36"/>
   </outline>
   <lib>
   <dict>

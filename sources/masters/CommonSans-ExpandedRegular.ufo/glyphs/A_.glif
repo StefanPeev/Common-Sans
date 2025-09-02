@@ -3,15 +3,15 @@
   <advance width="650"/>
   <unicode hex="0041"/>
   <anchor x="326" y="740" name="top"/>
-  <anchor x="325" y="639" name="t.ring"/>
-  <anchor x="317" y="-40" name="bottom"/>
-  <anchor x="607" y="0" name="b.ogonek"/>
+  <anchor x="326" y="639" name="t.ring"/>
+  <anchor x="326" y="-50" name="bottom"/>
+  <anchor x="640" y="-0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="165" y="187" type="line"/>
-      <point x="489" y="187" type="line"/>
-      <point x="489" y="276" type="line"/>
-      <point x="165" y="276" type="line"/>
+      <point x="145" y="187" type="line"/>
+      <point x="509" y="187" type="line"/>
+      <point x="509" y="276" type="line"/>
+      <point x="145" y="276" type="line"/>
     </contour>
     <contour>
       <point x="10" y="0" type="line"/>
@@ -32,11 +32,7 @@
       <point x="270" y="680" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="325" y="0"/>
-  <guideline angle="69.1036" x="-2" y="0"/>
-  <guideline angle="249.107" x="353" y="634"/>
-  <guideline angle="110.893" x="523" y="0"/>
-  <guideline angle="290.896" x="376" y="680"/>
+  <guideline angle="90" x="326" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

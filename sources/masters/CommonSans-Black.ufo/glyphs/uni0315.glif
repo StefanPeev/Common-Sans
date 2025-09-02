@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0315" format="2">
-  <advance width="180"/>
   <unicode hex="0315"/>
   <outline>
-    <contour>
-      <point x="50" y="490" type="line"/>
-      <point x="84" y="490" type="line"/>
-      <point x="130" y="620" type="line"/>
-      <point x="130" y="700" type="line"/>
-      <point x="50" y="700" type="line"/>
-      <point x="50" y="620" type="line"/>
-      <point x="72" y="620" type="line"/>
-    </contour>
+    <component base="uni02BC"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni02BC</string>
+  </dict>
+  </lib>
 </glyph>
