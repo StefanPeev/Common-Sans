@@ -1,4 +1,4 @@
-![Sample Image](/images/CommonSans_01.jpg)
+![Sample Image](/images/CommonSans_Banners_01.jpg)
 
 # Common-Sans
 **Common-Sans** is a neo-grotesque sans serif font family influenced by Swiss Style in typography.
