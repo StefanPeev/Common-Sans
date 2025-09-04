@@ -3,7 +3,7 @@
   <advance width="783"/>
   <unicode hex="1EB6"/>
   <anchor x="392" y="617" name="t.ring"/>
-  <anchor x="773" y="-0" name="b.ogonek"/>
+  <anchor x="773" y="0" name="b.ogonek"/>
   <outline>
     <component base="Adotbelow"/>
     <component base="uni0306" xOffset="392" yOffset="200"/>

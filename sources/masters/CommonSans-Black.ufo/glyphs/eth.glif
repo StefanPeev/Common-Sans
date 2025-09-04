@@ -48,11 +48,6 @@
       <point x="210" y="173"/>
     </contour>
   </outline>
-  <guideline angle="230.807" x="185" y="693"/>
-  <guideline angle="202.738" x="399" y="651"/>
-  <guideline angle="22.7379" x="196" y="484"/>
-  <guideline angle="128.367" x="437" y="603"/>
-  <guideline angle="308.367" x="113" y="550"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

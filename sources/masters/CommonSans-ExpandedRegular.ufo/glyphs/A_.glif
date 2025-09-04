@@ -5,7 +5,7 @@
   <anchor x="326" y="740" name="top"/>
   <anchor x="326" y="639" name="t.ring"/>
   <anchor x="326" y="-50" name="bottom"/>
-  <anchor x="640" y="-0" name="b.ogonek"/>
+  <anchor x="640" y="0" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="145" y="187" type="line"/>

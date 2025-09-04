@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0434.loclBGR" format="2">
   <advance width="547"/>
-  <anchor x="267" y="530" name="top"/>
+  <anchor x="267" y="540" name="top"/>
   <outline>
     <component base="g"/>
   </outline>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o.sc" format="2">
   <advance width="475"/>
-  <anchor x="238" y="520" name="top"/>
   <outline>
     <contour>
       <point x="33" y="230" type="curve" smooth="yes"/>

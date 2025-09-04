@@ -26,7 +26,7 @@
   </outline>
   <guideline angle="45.6794" x="256" y="300"/>
   <guideline angle="309.04" x="279" y="279"/>
-  <guideline angle="129.38" x="381" y="-0"/>
+  <guideline angle="129.38" x="381" y="0"/>
   <guideline angle="90" name="h_1" x="280" y="0"/>
   <lib>
   <dict>

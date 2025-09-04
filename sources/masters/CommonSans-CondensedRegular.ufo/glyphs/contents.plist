@@ -532,8 +532,6 @@
   <string>bracketright.glif</string>
   <key>breve</key>
   <string>breve.glif</string>
-  <key>breveinvertedbelowcomb</key>
-  <string>breveinvertedbelowcomb.glif</string>
   <key>brokenbar</key>
   <string>brokenbar.glif</string>
   <key>bullet</key>
@@ -546,8 +544,6 @@
   <string>cacute.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
-  <key>caronbelowcomb</key>
-  <string>caronbelowcomb.glif</string>
   <key>caroncmb.cap</key>
   <string>caroncmb.cap.glif</string>
   <key>ccaron</key>
@@ -1464,10 +1460,14 @@
   <string>uni0328.glif</string>
   <key>uni0329</key>
   <string>uni0329.glif</string>
+  <key>uni032C</key>
+  <string>uni032C_.glif</string>
   <key>uni032D</key>
   <string>uni032D_.glif</string>
   <key>uni032E</key>
   <string>uni032E_.glif</string>
+  <key>uni032F</key>
+  <string>uni032F_.glif</string>
   <key>uni0330</key>
   <string>uni0330.glif</string>
   <key>uni0331</key>

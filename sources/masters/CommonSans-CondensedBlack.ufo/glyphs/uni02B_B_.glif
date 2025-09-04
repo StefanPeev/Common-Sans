@@ -2,7 +2,7 @@
 <glyph name="uni02BB" format="2">
   <advance width="220"/>
   <unicode hex="02BB"/>
-  <anchor x="110" y="510" name="_top"/>
+  <anchor x="120" y="510" name="_top"/>
   <outline>
     <component base="uni2018"/>
   </outline>

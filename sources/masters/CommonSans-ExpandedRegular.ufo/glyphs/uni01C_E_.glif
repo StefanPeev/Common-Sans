@@ -5,7 +5,7 @@
   <anchor x="285" y="540" name="top"/>
   <anchor x="285" y="-50" name="bottom"/>
   <anchor x="285" y="540" name="t.ring"/>
-  <anchor x="503" y="-0" name="b.ogonek"/>
+  <anchor x="503" y="0" name="b.ogonek"/>
   <outline>
     <component base="a"/>
     <component base="caron" xOffset="64"/>
