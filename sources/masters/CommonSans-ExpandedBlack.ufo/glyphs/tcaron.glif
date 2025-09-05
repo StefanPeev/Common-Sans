@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-  <advance width="641"/>
+  <advance width="524"/>
   <unicode hex="0165"/>
-  <anchor x="291" y="-40" name="bottom"/>
-  <anchor x="238" y="660" name="top"/>
+  <anchor x="264" y="-40" name="bottom"/>
+  <anchor x="211" y="660" name="top"/>
   <outline>
-    <component base="t" xOffset="27"/>
-    <component base="uni2019" xOffset="412" yOffset="-90"/>
+    <component base="t"/>
+    <component base="uni2019" xOffset="385" yOffset="-90"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=t-80</string>
   <key>com.fontlab.recipe</key>
   <string>t_uni2019</string>
   </dict>

@@ -8,14 +8,14 @@
     <contour>
       <point x="40" y="0" type="line"/>
       <point x="410" y="0" type="line"/>
-      <point x="410" y="76" type="line"/>
-      <point x="144" y="76" type="line"/>
+      <point x="410" y="80" type="line"/>
+      <point x="144" y="80" type="line"/>
       <point x="149" y="56" type="line"/>
       <point x="410" y="388" type="line"/>
       <point x="410" y="460" type="line"/>
       <point x="40" y="460" type="line"/>
-      <point x="40" y="384" type="line"/>
-      <point x="316" y="384" type="line"/>
+      <point x="40" y="380" type="line"/>
+      <point x="316" y="380" type="line"/>
       <point x="312" y="404" type="line"/>
       <point x="40" y="72" type="line"/>
     </contour>

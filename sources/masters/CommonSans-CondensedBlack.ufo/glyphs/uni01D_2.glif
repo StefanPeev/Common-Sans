@@ -2,19 +2,18 @@
 <glyph name="uni01D2" format="2">
   <advance width="466"/>
   <unicode hex="01D2"/>
-  <anchor x="233" y="540" name="top"/>
   <anchor x="237" y="-50" name="bottom"/>
   <anchor x="233" y="0" name="b.ogonek"/>
   <outline>
     <component base="o"/>
-    <component base="caron" xOffset="33"/>
+    <component base="uni030C" xOffset="233"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>o+caron</string>
+  <string>o+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

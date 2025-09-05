@@ -2,20 +2,19 @@
 <glyph name="uni01CD" format="2">
   <advance width="650"/>
   <unicode hex="01CD"/>
-  <anchor x="325" y="740" name="top"/>
   <anchor x="325" y="629" name="t.ring"/>
   <anchor x="325" y="-50" name="bottom"/>
-  <anchor x="640" y="0" name="b.ogonek"/>
+  <anchor x="625" y="0" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <component base="caron" xOffset="105" yOffset="220"/>
+    <component base="uni030C" xOffset="325" yOffset="200"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+caron</string>
+  <string>A+uni030C</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

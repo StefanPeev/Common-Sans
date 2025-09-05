@@ -4,9 +4,10 @@
   <unicode hex="0172"/>
   <anchor x="315" y="740" name="top"/>
   <anchor x="315" y="-40" name="bottom"/>
+  <anchor x="315" y="740" name="t.ring"/>
   <outline>
     <component base="U"/>
-    <component base="uni0328" xOffset="210" yOffset="10"/>
+    <component base="uni0328" xOffset="189" yOffset="10"/>
   </outline>
   <lib>
   <dict>

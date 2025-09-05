@@ -2,7 +2,8 @@
 <glyph name="ucircumflexbelow" format="2">
   <advance width="519"/>
   <unicode hex="1E77"/>
-  <anchor x="259" y="530" name="top"/>
+  <anchor x="259" y="540" name="top"/>
+  <anchor x="259" y="540" name="t.ring"/>
   <outline>
     <component base="u"/>
     <component base="uni032D" xOffset="514"/>

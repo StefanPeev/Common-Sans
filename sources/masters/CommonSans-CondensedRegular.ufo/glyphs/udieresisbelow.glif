@@ -2,7 +2,8 @@
 <glyph name="udieresisbelow" format="2">
   <advance width="442"/>
   <unicode hex="1E73"/>
-  <anchor x="221" y="530" name="top"/>
+  <anchor x="221" y="540" name="top"/>
+  <anchor x="221" y="540" name="t.ring"/>
   <outline>
     <component base="u"/>
     <component base="uni0324" xOffset="221" yOffset="10"/>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0331" format="2">
   <unicode hex="0331"/>
-  <anchor x="-295" y="-40" name="_bottom"/>
+  <anchor x="0" y="-50" name="_bottom"/>
   <outline>
-    <component base="macron" xOffset="-480" yOffset="-660"/>
+    <component base="macron" xOffset="-205" yOffset="-760"/>
   </outline>
-  <guideline angle="90" name="h_1" x="-295" y="0"/>
   <guideline angle="90" x="-460" y="0"/>
   <guideline angle="0" x="0" y="-190"/>
 </glyph>

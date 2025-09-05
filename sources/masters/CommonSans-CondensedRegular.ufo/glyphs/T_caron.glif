@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="2">
-  <advance width="383"/>
+  <advance width="388"/>
   <unicode hex="0164"/>
-  <anchor x="191" y="-40" name="bottom"/>
+  <anchor x="192" y="-50" name="bottom"/>
   <outline>
     <component base="T"/>
-    <component base="uni030C" xOffset="191" yOffset="200"/>
+    <component base="uni030C" xOffset="192" yOffset="200"/>
   </outline>
   <lib>
   <dict>

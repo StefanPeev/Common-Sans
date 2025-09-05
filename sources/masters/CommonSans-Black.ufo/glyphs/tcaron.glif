@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-  <advance width="593"/>
+  <advance width="498"/>
   <unicode hex="0165"/>
   <anchor x="240" y="-40" name="bottom"/>
   <anchor x="198" y="660" name="top"/>
@@ -10,6 +10,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=t-100</string>
   <key>com.fontlab.recipe</key>
   <string>t_uni2019</string>
   </dict>

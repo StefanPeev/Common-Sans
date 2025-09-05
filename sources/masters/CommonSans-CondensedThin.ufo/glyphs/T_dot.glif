@@ -2,7 +2,7 @@
 <glyph name="Tdot" format="2">
   <advance width="402"/>
   <unicode hex="1E6A"/>
-  <anchor x="200" y="-40" name="bottom"/>
+  <anchor x="200" y="-50" name="bottom"/>
   <outline>
     <component base="T"/>
     <component base="uni0307" xOffset="200" yOffset="200"/>

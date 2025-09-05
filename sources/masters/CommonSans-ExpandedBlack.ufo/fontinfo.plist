@@ -114,7 +114,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Expanded Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.177</string>
+  <string>Version 1.184</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -258,7 +258,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>177</integer>
+  <integer>184</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

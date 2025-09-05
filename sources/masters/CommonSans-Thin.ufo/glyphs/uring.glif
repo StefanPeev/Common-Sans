@@ -2,11 +2,11 @@
 <glyph name="uring" format="2">
   <advance width="519"/>
   <unicode hex="016F"/>
-  <anchor x="259" y="530" name="top"/>
+  <anchor x="259" y="540" name="top"/>
   <anchor x="259" y="-40" name="bottom"/>
   <outline>
     <component base="u"/>
-    <component base="uni030A" xOffset="260"/>
+    <component base="uni030A" xOffset="259"/>
   </outline>
   <lib>
   <dict>

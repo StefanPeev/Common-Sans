@@ -2,8 +2,9 @@
 <glyph name="u" format="2">
   <advance width="534"/>
   <unicode hex="0075"/>
-  <anchor x="267" y="530" name="top"/>
+  <anchor x="267" y="540" name="top"/>
   <anchor x="267" y="-40" name="bottom"/>
+  <anchor x="267" y="540" name="t.ring"/>
   <outline>
     <contour>
       <point x="66" y="165" type="line" smooth="yes"/>

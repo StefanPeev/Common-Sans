@@ -2,9 +2,10 @@
 <glyph name="uni045D.loclBGR" format="2">
   <advance width="646"/>
   <anchor x="323" y="-40" name="bottom"/>
+  <anchor x="323" y="540" name="t.ring"/>
   <outline>
     <component base="uni0438.loclBGR"/>
-    <component base="uni0300" xOffset="276" yOffset="-10"/>
+    <component base="uni0300" xOffset="276"/>
   </outline>
   <lib>
   <dict>

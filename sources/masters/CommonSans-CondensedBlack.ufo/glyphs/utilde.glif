@@ -3,9 +3,10 @@
   <advance width="464"/>
   <unicode hex="0169"/>
   <anchor x="232" y="-40" name="bottom"/>
+  <anchor x="232" y="540" name="t.ring"/>
   <outline>
     <component base="u"/>
-    <component base="uni0303" xOffset="232" yOffset="-10"/>
+    <component base="uni0303" xOffset="232"/>
   </outline>
   <lib>
   <dict>

@@ -844,6 +844,8 @@
   <string>klinebelow.glif</string>
   <key>l</key>
   <string>l.glif</string>
+  <key>l.cv01</key>
+  <string>l.cv01.glif</string>
   <key>l.sc</key>
   <string>l.sc.glif</string>
   <key>lacute</key>

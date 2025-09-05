@@ -2,7 +2,8 @@
 <glyph name="utildebelow" format="2">
   <advance width="464"/>
   <unicode hex="1E75"/>
-  <anchor x="232" y="530" name="top"/>
+  <anchor x="232" y="540" name="top"/>
+  <anchor x="232" y="540" name="t.ring"/>
   <outline>
     <component base="u"/>
   </outline>

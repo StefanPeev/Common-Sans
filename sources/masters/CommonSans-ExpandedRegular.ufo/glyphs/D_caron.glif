@@ -2,7 +2,7 @@
 <glyph name="Dcaron" format="2">
   <advance width="694"/>
   <unicode hex="010E"/>
-  <anchor x="302" y="-40" name="bottom"/>
+  <anchor x="302" y="-50" name="bottom"/>
   <anchor x="273" y="0" name="b.cedilla"/>
   <outline>
     <component base="D"/>
