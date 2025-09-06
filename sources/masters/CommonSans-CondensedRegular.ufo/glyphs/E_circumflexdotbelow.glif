@@ -3,6 +3,7 @@
   <advance width="401"/>
   <unicode hex="1EC6"/>
   <anchor x="203" y="0" name="b.cedilla"/>
+  <anchor x="363" y="-0" name="b.ogonek"/>
   <outline>
     <component base="Edotbelow"/>
     <component base="uni0302" xOffset="203" yOffset="200"/>

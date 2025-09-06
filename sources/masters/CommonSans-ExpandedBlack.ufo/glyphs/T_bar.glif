@@ -5,14 +5,16 @@
   <outline>
     <component base="T"/>
     <contour>
-      <point x="10" y="262" type="line"/>
-      <point x="558" y="262" type="line"/>
-      <point x="558" y="418" type="line"/>
-      <point x="10" y="418" type="line"/>
+      <point x="50" y="262" type="line"/>
+      <point x="518" y="262" type="line"/>
+      <point x="518" y="402" type="line"/>
+      <point x="50" y="402" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="10" y="0"/>
   <guideline angle="90" x="558" y="0"/>
+  <guideline angle="90" x="235" y="0"/>
+  <guideline angle="90" x="335" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

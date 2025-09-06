@@ -4,6 +4,7 @@
   <unicode hex="0112"/>
   <anchor x="292" y="-40" name="bottom"/>
   <anchor x="292" y="0" name="b.cedilla"/>
+  <anchor x="522" y="-0" name="b.ogonek"/>
   <outline>
     <component base="E"/>
     <component base="uni0304" xOffset="292" yOffset="200"/>
