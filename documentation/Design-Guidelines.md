@@ -19,3 +19,12 @@ The vertical stems in Cyrillic small letters: вгджийклмнпртфцчш
 
 ![The Latin capital letter O](https://github.com/StefanPeev/Common-Sans/blob/main/images/CommonSans_DesignGuide_02.jpg)
 
+## The horizontal strokes in font family Common Sans
+
+The horizontal strokes in Latin capital letters: ABEFGHLPRTZƏƟÐĦŦ
+
+The vertical stems in Latin small letters: eſftŧzđħǝ
+
+![The horizontal strokes in font family Common Sans](https://github.com/StefanPeev/Common-Sans/blob/main/images/CommonSans_DesignGuide_03.jpg)
+  
+  
