@@ -2,15 +2,25 @@
 <glyph name="ereversed-ipa" format="2">
   <advance width="412"/>
   <unicode hex="0258"/>
+  <anchor x="207" y="530" name="top"/>
+  <anchor x="207" y="-40" name="bottom"/>
+  <anchor x="146" y="0" name="b.ogonek"/>
+  <anchor x="227" y="0" name="b.cedilla"/>
   <outline>
     <component base="e" xScale="-1" xOffset="412"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=|e</string>
   <key>com.fontlab.metricsRight</key>
   <string>=o</string>
+  <key>com.fontlab.recipe</key>
+  <string>=e@~,</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

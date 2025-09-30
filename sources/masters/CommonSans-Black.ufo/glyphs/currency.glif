@@ -56,4 +56,16 @@
       <point x="426" y="222" type="line"/>
     </contour>
   </outline>
+  <guideline angle="314.326" x="59" y="599"/>
+  <guideline angle="135.335" x="85" y="394"/>
+  <guideline angle="45" x="353" y="511"/>
+  <guideline angle="225.339" x="496" y="476"/>
+  <guideline angle="315.971" x="436" y="564"/>
+  <guideline angle="45" x="-1" y="509"/>
+  <guideline angle="225.481" x="494" y="128"/>
+  <guideline angle="135" x="59" y="68"/>
+  <guideline angle="225.49" x="143" y="483"/>
+  <guideline angle="134.519" x="412" y="421"/>
+  <guideline angle="44.5103" x="354" y="151"/>
+  <guideline angle="314.51" x="79" y="206"/>
 </glyph>

@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="2">
-  <advance width="280"/>
+  <advance width="514"/>
   <unicode hex="2265"/>
   <outline>
-    <component base="greater" xOffset="-123" yOffset="220"/>
-    <component base="minus" xOffset="-71"/>
+    <component base="lessequal" xScale="-1" xOffset="514"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=greater</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=greater</string>
   <key>com.fontlab.recipe</key>
-  <string>space+^greater+minus%</string>
+  <string>=lessequal@~,</string>
   </dict>
   </lib>
 </glyph>

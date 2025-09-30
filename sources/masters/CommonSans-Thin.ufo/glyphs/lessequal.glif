@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="2">
-  <advance width="280"/>
+  <advance width="514"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="less" xOffset="-123" yOffset="220"/>
-    <component base="minus" xOffset="-71"/>
+    <component base="less"/>
+    <component base="minus" xOffset="10" yOffset="-261"/>
   </outline>
+  <guideline angle="90" x="60" y="0"/>
+  <guideline angle="0" x="0" y="297"/>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>space+^less+minus%</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=less</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=less</string>
   </dict>
   </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="ae" format="2">
   <advance width="634"/>
   <unicode hex="00E6"/>
-  <anchor x="317" y="530" name="top"/>
+  <anchor x="317" y="540" name="top"/>
   <outline>
     <contour>
       <point x="262" y="240" type="curve" smooth="yes"/>

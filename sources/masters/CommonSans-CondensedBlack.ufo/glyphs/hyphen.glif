@@ -10,12 +10,13 @@
       <point x="40" y="323" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="239"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=n</string>
+  <string>=|n</string>
   </dict>
   </lib>
 </glyph>

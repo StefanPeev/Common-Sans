@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.numr" format="2">
-  <advance width="444"/>
+  <advance width="420"/>
   <outline>
-    <component base="zero.dnom" yOffset="460"/>
+    <component base="zero.dnom" yOffset="340"/>
   </outline>
+  <guideline angle="0" x="0" y="690"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

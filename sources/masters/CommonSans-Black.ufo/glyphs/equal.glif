@@ -4,16 +4,24 @@
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="30" y="130" type="line"/>
-      <point x="420" y="130" type="line"/>
-      <point x="420" y="270" type="line"/>
-      <point x="30" y="270" type="line"/>
+      <point x="30" y="120" type="line"/>
+      <point x="420" y="120" type="line"/>
+      <point x="420" y="260" type="line"/>
+      <point x="30" y="260" type="line"/>
     </contour>
     <contour>
-      <point x="30" y="345" type="line"/>
-      <point x="420" y="345" type="line"/>
-      <point x="420" y="485" type="line"/>
-      <point x="30" y="485" type="line"/>
+      <point x="30" y="335" type="line"/>
+      <point x="420" y="335" type="line"/>
+      <point x="420" y="475" type="line"/>
+      <point x="30" y="475" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w.sc" format="2">
-  <advance width="696"/>
+  <advance width="754"/>
   <outline>
     <contour>
-      <point x="169" y="0" type="line"/>
-      <point x="246" y="0" type="line"/>
-      <point x="348" y="350" type="line"/>
-      <point x="449" y="0" type="line"/>
-      <point x="527" y="0" type="line"/>
-      <point x="664" y="460" type="line"/>
-      <point x="584" y="460" type="line"/>
-      <point x="489" y="110" type="line"/>
-      <point x="393" y="460" type="line"/>
-      <point x="303" y="460" type="line"/>
-      <point x="208" y="110" type="line"/>
-      <point x="113" y="460" type="line"/>
-      <point x="33" y="460" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="740" y="506" type="line"/>
+      <point x="644" y="506" type="line"/>
+      <point x="524.032" y="85.5343" type="line"/>
+      <point x="545.929" y="85.5238" type="line"/>
+      <point x="425" y="506" type="line"/>
+      <point x="329" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="425" y="506" type="line"/>
+      <point x="329" y="506" type="line"/>
+      <point x="209.032" y="85.5343" type="line"/>
+      <point x="230.929" y="85.5238" type="line"/>
+      <point x="110" y="506" type="line"/>
+      <point x="14" y="506" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=v.sc</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=v.sc</string>
+  </dict>
+  </lib>
 </glyph>

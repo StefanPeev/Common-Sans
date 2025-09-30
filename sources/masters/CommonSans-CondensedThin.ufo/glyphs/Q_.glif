@@ -8,9 +8,9 @@
   <outline>
     <contour>
       <point x="283" y="62" type="line"/>
-      <point x="323" y="7" type="line"/>
-      <point x="341" y="18" type="line"/>
       <point x="300" y="75" type="line"/>
+      <point x="341" y="18" type="line"/>
+      <point x="323" y="7" type="line"/>
     </contour>
     <contour>
       <point x="325" y="5" type="line"/>

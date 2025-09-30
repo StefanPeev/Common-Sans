@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.numr" format="2">
-  <advance width="367"/>
+  <advance width="416"/>
   <outline>
-    <component base="nine.dnom" yOffset="460"/>
+    <component base="nine.dnom" yOffset="340"/>
   </outline>
+  <guideline angle="0" x="0" y="690"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>nine.dnom</string>
+  </dict>
+  </lib>
 </glyph>

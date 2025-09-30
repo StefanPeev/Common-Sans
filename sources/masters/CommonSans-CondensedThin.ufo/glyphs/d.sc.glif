@@ -1,28 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d.sc" format="2">
-  <advance width="475"/>
+  <advance width="400"/>
   <outline>
     <contour>
-      <point x="33" y="0" type="line"/>
-      <point x="236" y="0" type="line" smooth="yes"/>
-      <point x="376" y="0"/>
-      <point x="443" y="96"/>
-      <point x="443" y="230" type="curve" smooth="yes"/>
-      <point x="443" y="362"/>
-      <point x="375" y="460"/>
-      <point x="236" y="460" type="curve" smooth="yes"/>
-      <point x="33" y="460" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="195.077" y="0" type="line" smooth="yes"/>
+      <point x="282.031" y="0"/>
+      <point x="340" y="106.019"/>
+      <point x="340" y="265.048" type="curve" smooth="yes"/>
+      <point x="340" y="409.619"/>
+      <point x="282.031" y="506"/>
+      <point x="195.077" y="506" type="curve" smooth="yes"/>
+      <point x="100" y="506" type="line"/>
+      <point x="100" y="488" type="line"/>
+      <point x="189.551" y="488" type="line" smooth="yes"/>
+      <point x="267.821" y="488"/>
+      <point x="320" y="398.837"/>
+      <point x="320" y="265.092" type="curve" smooth="yes"/>
+      <point x="320" y="116.837"/>
+      <point x="267.821" y="18"/>
+      <point x="189.551" y="18" type="curve" smooth="yes"/>
+      <point x="100" y="18" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="65" type="line"/>
-      <point x="113" y="395" type="line"/>
-      <point x="196" y="395" type="line" smooth="yes"/>
-      <point x="327" y="395"/>
-      <point x="363" y="343"/>
-      <point x="363" y="230" type="curve" smooth="yes"/>
-      <point x="363" y="150"/>
-      <point x="326" y="65"/>
-      <point x="237" y="65" type="curve" smooth="yes"/>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="-0.0067" type="line"/>
+      <point x="110" y="506.016" type="line"/>
+      <point x="90" y="506" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=h.sc</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o.sc</string>
+  </dict>
+  </lib>
 </glyph>

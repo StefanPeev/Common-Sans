@@ -2,11 +2,12 @@
 <glyph name="uni0418" format="2">
   <advance width="740"/>
   <unicode hex="0418"/>
+  <anchor x="370" y="740" name="top"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
       <point x="240" y="0" type="line"/>
-      <point x="485" y="364" type="line" smooth="yes"/>
+      <point x="485" y="364" type="line"/>
       <point x="495" y="378"/>
       <point x="507" y="398"/>
       <point x="518" y="432" type="curve"/>
@@ -30,6 +31,7 @@
       <point x="50" y="680" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="370" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

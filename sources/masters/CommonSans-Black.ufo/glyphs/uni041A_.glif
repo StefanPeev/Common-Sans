@@ -2,6 +2,8 @@
 <glyph name="uni041A" format="2">
   <advance width="710"/>
   <unicode hex="041A"/>
+  <anchor x="333" y="-40" name="bottom"/>
+  <anchor x="333" y="740" name="top"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>
@@ -25,6 +27,8 @@
       <point x="428" y="432" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="473"/>
+  <guideline angle="0" x="0" y="214"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

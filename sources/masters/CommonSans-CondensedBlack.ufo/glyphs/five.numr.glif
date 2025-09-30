@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five.numr" format="2">
-  <advance width="366"/>
+  <advance width="451"/>
   <outline>
-    <component base="five.dnom" yOffset="460"/>
+    <component base="five.dnom" yOffset="340"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=five</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=five</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c" format="2">
-  <advance width="581"/>
+  <advance width="580"/>
   <unicode hex="0063"/>
-  <anchor x="295" y="530" name="top"/>
-  <anchor x="295" y="-40" name="bottom"/>
-  <anchor x="274" y="0" name="b.cedilla"/>
+  <anchor x="294" y="530" name="top"/>
+  <anchor x="294" y="-40" name="bottom"/>
+  <anchor x="273" y="0" name="b.cedilla"/>
   <outline>
     <contour>
       <point x="40" y="230" type="curve" smooth="yes"/>
       <point x="40" y="86"/>
-      <point x="143" y="-12"/>
-      <point x="295" y="-12" type="curve" smooth="yes"/>
-      <point x="418" y="-12"/>
-      <point x="500" y="53"/>
-      <point x="541" y="153" type="curve"/>
-      <point x="446" y="153" type="line"/>
-      <point x="424" y="105"/>
-      <point x="370" y="64"/>
-      <point x="295" y="64" type="curve" smooth="yes"/>
-      <point x="197" y="64"/>
-      <point x="133" y="130"/>
-      <point x="133" y="230" type="curve" smooth="yes"/>
-      <point x="133" y="326"/>
-      <point x="202" y="396"/>
-      <point x="295" y="396" type="curve" smooth="yes"/>
-      <point x="368" y="396"/>
-      <point x="426" y="361"/>
-      <point x="444" y="317" type="curve"/>
-      <point x="540" y="317" type="line"/>
-      <point x="506" y="415"/>
-      <point x="424" y="472"/>
-      <point x="295" y="472" type="curve" smooth="yes"/>
-      <point x="144" y="472"/>
+      <point x="142" y="-12"/>
+      <point x="294" y="-12" type="curve" smooth="yes"/>
+      <point x="417" y="-12"/>
+      <point x="499" y="53"/>
+      <point x="540" y="153" type="curve"/>
+      <point x="445" y="153" type="line"/>
+      <point x="423" y="105"/>
+      <point x="369" y="64"/>
+      <point x="294" y="64" type="curve" smooth="yes"/>
+      <point x="196" y="64"/>
+      <point x="132" y="130"/>
+      <point x="132" y="230" type="curve" smooth="yes"/>
+      <point x="132" y="326"/>
+      <point x="201" y="396"/>
+      <point x="294" y="396" type="curve" smooth="yes"/>
+      <point x="367" y="396"/>
+      <point x="425" y="361"/>
+      <point x="443" y="317" type="curve"/>
+      <point x="539" y="317" type="line"/>
+      <point x="505" y="415"/>
+      <point x="423" y="472"/>
+      <point x="294" y="472" type="curve" smooth="yes"/>
+      <point x="143" y="472"/>
       <point x="40" y="374"/>
     </contour>
   </outline>
-  <guideline angle="90" name="h_1" x="295" y="0"/>
+  <guideline angle="90" name="h_1" x="294" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

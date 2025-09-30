@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2080" format="2">
+  <advance width="424"/>
+  <unicode hex="2080"/>
+  <outline>
+    <component base="zero.dnom" yOffset="-230"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=zero.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=zero.dnom</string>
+  </dict>
+  </lib>
+</glyph>

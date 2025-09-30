@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046B" format="2">
+  <advance width="858"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="341" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="244" type="line"/>
+      <point x="341" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="176" type="line"/>
+      <point x="608" y="176" type="line"/>
+      <point x="747" y="290" type="line"/>
+      <point x="747" y="460" type="line"/>
+      <point x="505" y="460" type="line"/>
+      <point x="505" y="302" type="line"/>
+      <point x="420" y="233" type="line"/>
+      <point x="445" y="244" type="line"/>
+      <point x="517" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="490" y="167" type="line"/>
+      <point x="542" y="127"/>
+      <point x="601" y="72"/>
+      <point x="628" y="0" type="curve"/>
+      <point x="848" y="0" type="line"/>
+      <point x="798" y="95"/>
+      <point x="764" y="160"/>
+      <point x="645" y="237" type="curve"/>
+    </contour>
+    <contour>
+      <point x="250" y="176" type="line"/>
+      <point x="341" y="176" type="line"/>
+      <point x="341" y="244" type="line"/>
+      <point x="413" y="244" type="line"/>
+      <point x="438" y="233" type="line"/>
+      <point x="355" y="302" type="line"/>
+      <point x="355" y="460" type="line"/>
+      <point x="107" y="460" type="line"/>
+      <point x="107" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="curve"/>
+      <point x="230" y="0" type="line"/>
+      <point x="257" y="72"/>
+      <point x="314" y="127"/>
+      <point x="368" y="167" type="curve"/>
+      <point x="213" y="237" type="line"/>
+      <point x="101" y="160"/>
+      <point x="60" y="95"/>
+    </contour>
+    <contour>
+      <point x="166" y="302" type="line"/>
+      <point x="700" y="302" type="line"/>
+      <point x="700" y="460" type="line"/>
+      <point x="166" y="460" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="253"/>
+  <guideline angle="0" x="0" y="204"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0436</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0436</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni0436</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pdot" format="2">
-  <advance width="714"/>
+  <advance width="696"/>
   <unicode hex="1E56"/>
   <anchor x="325" y="-40" name="bottom"/>
   <outline>

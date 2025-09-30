@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j.sc" format="2">
-  <advance width="208"/>
+  <advance width="262"/>
   <outline>
     <contour>
-      <point x="33" y="0" type="line"/>
-      <point x="94" y="0" type="line" smooth="yes"/>
-      <point x="166" y="0"/>
-      <point x="177" y="37"/>
-      <point x="177" y="91" type="curve" smooth="yes"/>
-      <point x="177" y="460" type="line"/>
-      <point x="97" y="460" type="line"/>
-      <point x="97" y="108" type="line" smooth="yes"/>
-      <point x="97" y="84"/>
-      <point x="84" y="65"/>
-      <point x="69" y="65" type="curve" smooth="yes"/>
-      <point x="33" y="65" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="86.6259" y="0" type="line" smooth="yes"/>
+      <point x="152.25" y="0"/>
+      <point x="196" y="46.5128"/>
+      <point x="196" y="116.282" type="curve" smooth="yes"/>
+      <point x="196" y="506" type="line"/>
+      <point x="104" y="506" type="line"/>
+      <point x="104" y="125.114" type="line" smooth="yes"/>
+      <point x="104" y="98.0456"/>
+      <point x="85.9544" y="80"/>
+      <point x="58.8861" y="80" type="curve" smooth="yes"/>
+      <point x="20" y="80" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|l.sc</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
 </glyph>

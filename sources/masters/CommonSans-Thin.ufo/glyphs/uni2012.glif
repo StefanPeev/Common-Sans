@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2012" format="2">
+  <advance width="728"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="90" y="234" type="line"/>
+      <point x="638" y="234" type="line"/>
+      <point x="638" y="252" type="line"/>
+      <point x="90" y="252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=hyphen</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=hyphen</string>
+  <key>com.fontlab.recipe</key>
+  <string>minus</string>
+  </dict>
+  </lib>
+</glyph>

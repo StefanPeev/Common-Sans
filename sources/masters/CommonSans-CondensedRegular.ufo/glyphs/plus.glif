@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-  <advance width="450"/>
+  <advance width="486"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="48" y="195" type="line"/>
-      <point x="402" y="195" type="line"/>
-      <point x="402" y="285" type="line"/>
-      <point x="48" y="285" type="line"/>
+      <point x="66" y="195" type="line"/>
+      <point x="420" y="195" type="line"/>
+      <point x="420" y="285" type="line"/>
+      <point x="66" y="285" type="line"/>
     </contour>
     <contour>
-      <point x="180" y="63" type="line"/>
-      <point x="270" y="63" type="line"/>
-      <point x="270" y="417" type="line"/>
-      <point x="180" y="417" type="line"/>
+      <point x="198" y="63" type="line"/>
+      <point x="288" y="63" type="line"/>
+      <point x="288" y="417" type="line"/>
+      <point x="198" y="417" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=hyphen</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=hyphen</string>
+  </dict>
+  </lib>
 </glyph>

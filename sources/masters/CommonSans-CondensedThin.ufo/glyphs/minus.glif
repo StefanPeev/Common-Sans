@@ -10,4 +10,13 @@
       <point x="50" y="246" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="276"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=equal</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=equal</string>
+  </dict>
+  </lib>
 </glyph>

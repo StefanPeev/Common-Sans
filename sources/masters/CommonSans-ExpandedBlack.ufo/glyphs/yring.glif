@@ -2,11 +2,11 @@
 <glyph name="yring" format="2">
   <advance width="651"/>
   <unicode hex="1E99"/>
-  <anchor x="328" y="530" name="top"/>
-  <anchor x="549" y="-40" name="bottom"/>
+  <anchor x="328" y="540" name="top"/>
+  <anchor x="549" y="-50" name="bottom"/>
   <outline>
     <component base="y"/>
-    <component base="uni030A" xOffset="326"/>
+    <component base="uni030A" xOffset="325.5"/>
   </outline>
   <lib>
   <dict>

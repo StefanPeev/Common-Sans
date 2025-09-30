@@ -1,57 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0454" format="2">
-  <advance width="526"/>
+  <advance width="512"/>
   <unicode hex="0454"/>
+  <anchor x="273" y="-80" name="top"/>
   <outline>
-    <contour>
-      <point x="60" y="230" type="curve" smooth="yes"/>
-      <point x="60" y="85"/>
-      <point x="139" y="-8"/>
-      <point x="265" y="-8" type="curve"/>
-      <point x="265" y="10" type="line"/>
-      <point x="151" y="10"/>
-      <point x="80" y="97"/>
-      <point x="80" y="230" type="curve" smooth="yes"/>
-      <point x="80" y="362"/>
-      <point x="152" y="450"/>
-      <point x="265" y="450" type="curve"/>
-      <point x="265" y="468" type="line"/>
-      <point x="139" y="468"/>
-      <point x="60" y="376"/>
-    </contour>
-    <contour>
-      <point x="75" y="210" type="line"/>
-      <point x="273" y="210" type="line"/>
-      <point x="273" y="228" type="line"/>
-      <point x="75" y="228" type="line"/>
-    </contour>
-    <contour>
-      <point x="265" y="-10" type="line"/>
-      <point x="393" y="-10"/>
-      <point x="446" y="79"/>
-      <point x="466" y="150" type="curve"/>
-      <point x="446" y="150" type="line"/>
-      <point x="416" y="57"/>
-      <point x="353" y="8"/>
-      <point x="265" y="8" type="curve"/>
-    </contour>
-    <contour>
-      <point x="265" y="452" type="line"/>
-      <point x="358" y="452"/>
-      <point x="423" y="404"/>
-      <point x="445" y="320" type="curve"/>
-      <point x="465" y="320" type="line"/>
-      <point x="443" y="405"/>
-      <point x="384" y="470"/>
-      <point x="265" y="470" type="curve"/>
-    </contour>
+    <component base="uni044D" xScale="-1" yScale="-1" xOffset="512" yOffset="460"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=o</string>
   <key>com.fontlab.metricsRight</key>
   <string>=e</string>
+  <key>com.fontlab.recipe</key>
+  <string>=uni044D@~,~</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

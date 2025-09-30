@@ -1,31 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-  <advance width="495"/>
+  <advance width="485"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="232" y="46" type="line"/>
-      <point x="238" y="-150" type="line"/>
-      <point x="258" y="-150" type="line"/>
-      <point x="264" y="46" type="line"/>
-      <point x="258" y="240" type="line"/>
-      <point x="264" y="431" type="line"/>
-      <point x="258" y="628" type="line"/>
-      <point x="238" y="628" type="line"/>
-      <point x="232" y="431" type="line"/>
-      <point x="238" y="240" type="line"/>
+      <point x="232" y="360" type="line"/>
+      <point x="235.137" y="240.011" type="line"/>
+      <point x="248.863" y="240.011" type="line"/>
+      <point x="252" y="360" type="line"/>
+      <point x="252" y="410" type="line"/>
+      <point x="248.863" y="622" type="line"/>
+      <point x="235.137" y="622" type="line"/>
+      <point x="232" y="410" type="line"/>
     </contour>
     <contour>
-      <point x="35" y="35" type="line"/>
-      <point x="460" y="35" type="line"/>
-      <point x="460" y="57" type="line"/>
-      <point x="35" y="57" type="line"/>
+      <point x="30" y="422" type="line"/>
+      <point x="30" y="400" type="line"/>
+      <point x="100.463" y="400.306" type="line"/>
+      <point x="242.5" y="404" type="line"/>
+      <point x="384.821" y="400.256" type="line"/>
+      <point x="455" y="400" type="line"/>
+      <point x="455" y="422" type="line"/>
+      <point x="384.821" y="421.744" type="line"/>
+      <point x="242.5" y="418" type="line"/>
+      <point x="100.463" y="421.694" type="line"/>
     </contour>
     <contour>
-      <point x="35" y="420" type="line"/>
-      <point x="459" y="420" type="line"/>
-      <point x="459" y="442" type="line"/>
-      <point x="35" y="442" type="line"/>
+      <point x="235.137" y="240" type="line"/>
+      <point x="232" y="120.011" type="line"/>
+      <point x="232" y="70.0113" type="line"/>
+      <point x="235.137" y="-141.989" type="line"/>
+      <point x="248.863" y="-141.989" type="line"/>
+      <point x="252" y="70.0113" type="line"/>
+      <point x="252" y="120.011" type="line"/>
+      <point x="248.863" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="80.0113" type="line"/>
+      <point x="30" y="58.0113" type="line"/>
+      <point x="100.463" y="58.3168" type="line"/>
+      <point x="242.5" y="62.0113" type="line"/>
+      <point x="384.821" y="58.2671" type="line"/>
+      <point x="455" y="58.0113" type="line"/>
+      <point x="455" y="80.0113" type="line"/>
+      <point x="384.821" y="79.7555" type="line"/>
+      <point x="242.5" y="76.0113" type="line"/>
+      <point x="100.463" y="79.7058" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="240"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=dagger</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=dagger</string>
+  </dict>
+  </lib>
 </glyph>

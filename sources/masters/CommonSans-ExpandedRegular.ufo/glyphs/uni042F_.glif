@@ -2,26 +2,27 @@
 <glyph name="uni042F" format="2">
   <advance width="701"/>
   <unicode hex="042F"/>
+  <anchor x="386" y="740" name="top"/>
   <outline>
     <contour>
       <point x="62" y="474" type="curve" smooth="yes"/>
-      <point x="62" y="385"/>
-      <point x="145" y="276"/>
-      <point x="314" y="276" type="curve" smooth="yes"/>
-      <point x="541" y="276" type="line"/>
-      <point x="541" y="366" type="line"/>
-      <point x="355" y="366" type="line" smooth="yes"/>
-      <point x="245" y="366"/>
-      <point x="162" y="398"/>
+      <point x="62" y="363"/>
+      <point x="133" y="276"/>
+      <point x="254" y="276" type="curve" smooth="yes"/>
+      <point x="578" y="276" type="line"/>
+      <point x="578" y="366" type="line"/>
+      <point x="295" y="366" type="line" smooth="yes"/>
+      <point x="202" y="366"/>
+      <point x="162" y="405"/>
       <point x="162" y="474" type="curve" smooth="yes"/>
-      <point x="162" y="559"/>
-      <point x="282" y="590"/>
-      <point x="396" y="590" type="curve" smooth="yes"/>
-      <point x="635" y="590" type="line"/>
-      <point x="635" y="680" type="line"/>
-      <point x="355" y="680" type="line" smooth="yes"/>
-      <point x="187" y="680"/>
-      <point x="62" y="612"/>
+      <point x="162" y="545"/>
+      <point x="202" y="590"/>
+      <point x="295" y="590" type="curve" smooth="yes"/>
+      <point x="578" y="590" type="line"/>
+      <point x="578" y="680" type="line"/>
+      <point x="295" y="680" type="line" smooth="yes"/>
+      <point x="133" y="680"/>
+      <point x="62" y="602"/>
     </contour>
     <contour>
       <point x="59" y="0" type="line"/>

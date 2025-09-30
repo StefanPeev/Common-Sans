@@ -3,7 +3,34 @@
   <unicode hex="0325"/>
   <anchor x="-217" y="-40" name="_bottom"/>
   <outline>
-    <component base="ring" xOffset="-336" yOffset="-744"/>
+    <contour>
+      <point x="-304" y="-127" type="curve" smooth="yes"/>
+      <point x="-304" y="-175"/>
+      <point x="-265" y="-214"/>
+      <point x="-217" y="-214" type="curve" smooth="yes"/>
+      <point x="-169" y="-214"/>
+      <point x="-130" y="-175"/>
+      <point x="-130" y="-127" type="curve" smooth="yes"/>
+      <point x="-130" y="-79"/>
+      <point x="-169" y="-40"/>
+      <point x="-217" y="-40" type="curve" smooth="yes"/>
+      <point x="-265" y="-40"/>
+      <point x="-304" y="-79"/>
+    </contour>
+    <contour>
+      <point x="-248" y="-127" type="curve" smooth="yes"/>
+      <point x="-248" y="-110"/>
+      <point x="-234" y="-96"/>
+      <point x="-217" y="-96" type="curve" smooth="yes"/>
+      <point x="-200" y="-96"/>
+      <point x="-186" y="-110"/>
+      <point x="-186" y="-127" type="curve" smooth="yes"/>
+      <point x="-186" y="-144"/>
+      <point x="-200" y="-158"/>
+      <point x="-217" y="-158" type="curve" smooth="yes"/>
+      <point x="-234" y="-158"/>
+      <point x="-248" y="-144"/>
+    </contour>
   </outline>
   <guideline angle="0" x="0" y="530"/>
   <guideline angle="0" x="0" y="-40"/>

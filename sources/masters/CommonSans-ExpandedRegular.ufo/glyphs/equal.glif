@@ -16,4 +16,12 @@
       <point x="48" y="366" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=48</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=48</string>
+  </dict>
+  </lib>
 </glyph>

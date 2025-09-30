@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a.dlig" format="2">
   <advance width="566"/>
+  <anchor x="285" y="530" name="top"/>
   <outline>
     <contour>
       <point x="228" y="-16" type="curve" smooth="yes"/>
@@ -43,6 +44,12 @@
       <point x="354" y="97" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="503" y="0"/>
+  <guideline angle="90" x="285" y="0"/>
+  <guideline angle="0" x="0" y="314"/>
+  <guideline angle="0" x="0" y="470"/>
+  <guideline angle="335.884" x="65" y="413"/>
+  <guideline angle="260.272" x="227" y="335"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

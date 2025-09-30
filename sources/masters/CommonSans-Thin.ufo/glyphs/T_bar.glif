@@ -3,7 +3,18 @@
   <advance width="480"/>
   <unicode hex="0166"/>
   <outline>
-    <component base="T"/>
+    <contour>
+      <point x="10" y="660" type="line"/>
+      <point x="470" y="660" type="line"/>
+      <point x="470" y="680" type="line"/>
+      <point x="10" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="680" type="line"/>
+      <point x="229" y="680" type="line"/>
+    </contour>
     <contour>
       <point x="40" y="340" type="line"/>
       <point x="440" y="340" type="line"/>

@@ -1,48 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.dnom" format="2">
-  <advance width="367"/>
+  <advance width="358"/>
   <outline>
-    <contour>
-      <point x="89" y="83" type="curve" smooth="yes"/>
-      <point x="89" y="137"/>
-      <point x="118" y="184"/>
-      <point x="182" y="184" type="curve" smooth="yes"/>
-      <point x="234" y="184"/>
-      <point x="267" y="147"/>
-      <point x="267" y="88" type="curve" smooth="yes"/>
-      <point x="267" y="20"/>
-      <point x="217" y="-12"/>
-      <point x="174" y="-12" type="curve" smooth="yes"/>
-      <point x="140" y="-12"/>
-      <point x="89" y="6"/>
-    </contour>
-    <contour>
-      <point x="40" y="-142" type="line"/>
-      <point x="56" y="-203"/>
-      <point x="103" y="-237"/>
-      <point x="167" y="-237" type="curve" smooth="yes"/>
-      <point x="284" y="-237"/>
-      <point x="341" y="-128"/>
-      <point x="341" y="49" type="curve" smooth="yes"/>
-      <point x="341" y="176"/>
-      <point x="284" y="244"/>
-      <point x="179" y="244" type="curve" smooth="yes"/>
-      <point x="88" y="244"/>
-      <point x="24" y="183"/>
-      <point x="24" y="87" type="curve" smooth="yes"/>
-      <point x="24" y="-5"/>
-      <point x="80" y="-68"/>
-      <point x="162" y="-68" type="curve" smooth="yes"/>
-      <point x="221" y="-68"/>
-      <point x="271" y="-38"/>
-      <point x="295" y="13" type="curve"/>
-      <point x="276" y="13" type="line"/>
-      <point x="276" y="-103"/>
-      <point x="237" y="-185"/>
-      <point x="167" y="-185" type="curve" smooth="yes"/>
-      <point x="135" y="-185"/>
-      <point x="109" y="-168"/>
-      <point x="105" y="-142" type="curve"/>
-    </contour>
+    <component base="six.dnom" xScale="-1" yScale="-1" xOffset="366" yOffset="340"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=six.dnom@~,~</string>
+  </dict>
+  </lib>
 </glyph>

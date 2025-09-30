@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044A" format="2">
-  <advance width="420"/>
+  <advance width="419"/>
   <unicode hex="044A"/>
+  <anchor x="206" y="540" name="top"/>
   <outline>
     <contour>
-      <point x="22" y="371" type="line"/>
-      <point x="166" y="371" type="line"/>
+      <point x="12" y="388" type="line"/>
+      <point x="166" y="388" type="line"/>
       <point x="166" y="460" type="line"/>
-      <point x="22" y="460" type="line"/>
+      <point x="12" y="460" type="line"/>
     </contour>
     <contour>
       <point x="89" y="0" type="line"/>
@@ -17,22 +18,22 @@
     </contour>
     <contour>
       <point x="130" y="0" type="line"/>
-      <point x="241" y="0" type="line" smooth="yes"/>
-      <point x="353" y="0"/>
-      <point x="380" y="69"/>
-      <point x="380" y="144" type="curve" smooth="yes"/>
-      <point x="380" y="219"/>
-      <point x="353" y="296"/>
-      <point x="241" y="296" type="curve" smooth="yes"/>
+      <point x="233" y="0" type="line" smooth="yes"/>
+      <point x="325" y="0"/>
+      <point x="379" y="48"/>
+      <point x="379" y="144" type="curve" smooth="yes"/>
+      <point x="379" y="243"/>
+      <point x="323" y="296"/>
+      <point x="233" y="296" type="curve" smooth="yes"/>
       <point x="130" y="296" type="line"/>
       <point x="130" y="224" type="line"/>
-      <point x="238" y="224" type="line" smooth="yes"/>
-      <point x="280" y="224"/>
-      <point x="294" y="191"/>
-      <point x="294" y="144" type="curve" smooth="yes"/>
-      <point x="294" y="101"/>
-      <point x="280" y="72"/>
-      <point x="238" y="72" type="curve" smooth="yes"/>
+      <point x="227" y="224" type="line" smooth="yes"/>
+      <point x="267" y="224"/>
+      <point x="293" y="192"/>
+      <point x="293" y="146" type="curve" smooth="yes"/>
+      <point x="293" y="101"/>
+      <point x="267" y="72"/>
+      <point x="227" y="72" type="curve" smooth="yes"/>
       <point x="130" y="72" type="line"/>
     </contour>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044C.loclBGR" format="2">
-  <advance width="377"/>
+  <advance width="402"/>
   <outline>
     <contour>
       <point x="90" y="164" type="line" smooth="yes"/>
@@ -40,6 +40,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
   </dict>
   </lib>
 </glyph>

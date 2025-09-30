@@ -2,10 +2,10 @@
 <glyph name="yacute" format="2">
   <advance width="359"/>
   <unicode hex="00FD"/>
-  <anchor x="271" y="-40" name="bottom"/>
+  <anchor x="271" y="-50" name="bottom"/>
   <outline>
     <component base="y"/>
-    <component base="uni0301" xOffset="220" yOffset="-10"/>
+    <component base="uni0301" xOffset="220"/>
   </outline>
   <lib>
   <dict>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043F.cv02" format="2">
+  <advance width="440"/>
+  <anchor x="222" y="540" name="top"/>
+  <anchor x="222" y="-50" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="330" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="450.163" type="line"/>
+      <point x="330" y="450.163" type="line"/>
+    </contour>
+    <contour>
+      <point x="89.6366" y="0.0895" type="line"/>
+      <point x="110.208" y="0" type="line"/>
+      <point x="110" y="450.163" type="line"/>
+      <point x="90" y="450.163" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="442.083" type="line"/>
+      <point x="390.137" y="442.181" type="line"/>
+      <point x="390" y="460.003" type="line"/>
+      <point x="50" y="459.932" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

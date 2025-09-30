@@ -2,10 +2,10 @@
 <glyph name="ytilde" format="2">
   <advance width="442"/>
   <unicode hex="1EF9"/>
-  <anchor x="356" y="-40" name="bottom"/>
+  <anchor x="356" y="-50" name="bottom"/>
   <outline>
     <component base="y"/>
-    <component base="uni0303" xOffset="223" yOffset="-10"/>
+    <component base="uni0303" xOffset="223"/>
   </outline>
   <lib>
   <dict>

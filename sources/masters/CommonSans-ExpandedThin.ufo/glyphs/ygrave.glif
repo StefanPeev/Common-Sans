@@ -2,10 +2,10 @@
 <glyph name="ygrave" format="2">
   <advance width="576"/>
   <unicode hex="1EF3"/>
-  <anchor x="490" y="-40" name="bottom"/>
+  <anchor x="490" y="-50" name="bottom"/>
   <outline>
     <component base="y"/>
-    <component base="uni0300" xOffset="246" yOffset="-10"/>
+    <component base="uni0300" xOffset="246"/>
   </outline>
   <lib>
   <dict>

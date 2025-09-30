@@ -8,12 +8,6 @@
   <anchor x="420" y="0" name="b.ogonek"/>
   <outline>
     <contour>
-      <point x="102" y="187" type="line"/>
-      <point x="330" y="187" type="line"/>
-      <point x="330" y="277" type="line"/>
-      <point x="102" y="277" type="line"/>
-    </contour>
-    <contour>
       <point x="10" y="0" type="line"/>
       <point x="103" y="0" type="line"/>
       <point x="203" y="437" type="line" smooth="yes"/>
@@ -30,6 +24,12 @@
       <point x="420" y="0" type="line"/>
       <point x="264" y="680" type="line"/>
       <point x="166" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="187" type="line"/>
+      <point x="330" y="187" type="line"/>
+      <point x="330" y="277" type="line"/>
+      <point x="102" y="277" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="215" y="0"/>

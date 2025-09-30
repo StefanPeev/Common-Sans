@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="495"/>
+  <advance width="463"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="218" y="-150" type="line"/>
-      <point x="277" y="-150" type="line"/>
-      <point x="287" y="240" type="line"/>
-      <point x="287" y="376" type="line"/>
-      <point x="277" y="622" type="line"/>
-      <point x="218" y="622" type="line"/>
-      <point x="208" y="376" type="line"/>
-      <point x="208" y="240" type="line"/>
+      <point x="197.146" y="-150" type="line"/>
+      <point x="265.854" y="-150" type="line"/>
+      <point x="277.5" y="240" type="line"/>
+      <point x="277.5" y="412" type="line"/>
+      <point x="265.854" y="622" type="line"/>
+      <point x="197.146" y="622" type="line"/>
+      <point x="185.5" y="412" type="line"/>
+      <point x="185.5" y="240" type="line"/>
     </contour>
     <contour>
-      <point x="35" y="376" type="line"/>
-      <point x="460" y="376" type="line"/>
-      <point x="460" y="446" type="line"/>
-      <point x="35" y="446" type="line"/>
+      <point x="19" y="371" type="line"/>
+      <point x="69.4629" y="370.764" type="line"/>
+      <point x="231.5" y="376" type="line"/>
+      <point x="393.821" y="370.639" type="line"/>
+      <point x="444" y="371" type="line"/>
+      <point x="444" y="451" type="line"/>
+      <point x="393.821" y="451.361" type="line"/>
+      <point x="231.5" y="446" type="line"/>
+      <point x="69.4629" y="451.236" type="line"/>
+      <point x="19" y="451" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=X</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=X</string>
+  </dict>
+  </lib>
 </glyph>

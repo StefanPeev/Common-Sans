@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043B.cv02" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="19.7344" y="0" type="line"/>
+      <point x="112.357" y="0" type="line"/>
+      <point x="276" y="460" type="line"/>
+      <point x="184" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="460" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="276" y="460" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="230" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
+  </dict>
+  </lib>
+</glyph>

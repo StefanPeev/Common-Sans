@@ -14,22 +14,25 @@ Bulgarian Cyrillic
       <Script>
         <DefaultLangSys>
           <ReqFeatureIndex value="65535"/>
-          <!-- FeatureCount=15 -->
+          <!-- FeatureCount=18 -->
           <FeatureIndex index="0" value="0"/>
           <FeatureIndex index="1" value="14"/>
           <FeatureIndex index="2" value="28"/>
-          <FeatureIndex index="3" value="44"/>
-          <FeatureIndex index="4" value="58"/>
-          <FeatureIndex index="5" value="77"/>
+          <FeatureIndex index="3" value="50"/>
+          <FeatureIndex index="4" value="68"/>
+          <FeatureIndex index="5" value="78"/>
           <FeatureIndex index="6" value="89"/>
-          <FeatureIndex index="7" value="112"/>
-          <FeatureIndex index="8" value="124"/>
-          <FeatureIndex index="9" value="129"/>
-          <FeatureIndex index="10" value="153"/>
-          <FeatureIndex index="11" value="164"/>
+          <FeatureIndex index="7" value="104"/>
+          <FeatureIndex index="8" value="120"/>
+          <FeatureIndex index="9" value="132"/>
+          <FeatureIndex index="10" value="143"/>
+          <FeatureIndex index="11" value="162"/>
           <FeatureIndex index="12" value="178"/>
-          <FeatureIndex index="13" value="195"/>
-          <FeatureIndex index="14" value="199"/>
+          <FeatureIndex index="13" value="185"/>
+          <FeatureIndex index="14" value="200"/>
+          <FeatureIndex index="15" value="220"/>
+          <FeatureIndex index="16" value="228"/>
+          <FeatureIndex index="17" value="249"/>
         </DefaultLangSys>
         <!-- LangSysCount=0 -->
       </Script>
@@ -39,112 +42,126 @@ Bulgarian Cyrillic
       <Script>
         <DefaultLangSys>
           <ReqFeatureIndex value="65535"/>
-          <!-- FeatureCount=15 -->
-          <FeatureIndex index="0" value="2"/>
-          <FeatureIndex index="1" value="18"/>
-          <FeatureIndex index="2" value="37"/>
-          <FeatureIndex index="3" value="48"/>
-          <FeatureIndex index="4" value="69"/>
-          <FeatureIndex index="5" value="72"/>
-          <FeatureIndex index="6" value="86"/>
-          <FeatureIndex index="7" value="108"/>
-          <FeatureIndex index="8" value="116"/>
-          <FeatureIndex index="9" value="133"/>
-          <FeatureIndex index="10" value="155"/>
-          <FeatureIndex index="11" value="165"/>
+          <!-- FeatureCount=18 -->
+          <FeatureIndex index="0" value="12"/>
+          <FeatureIndex index="1" value="17"/>
+          <FeatureIndex index="2" value="33"/>
+          <FeatureIndex index="3" value="53"/>
+          <FeatureIndex index="4" value="67"/>
+          <FeatureIndex index="5" value="74"/>
+          <FeatureIndex index="6" value="90"/>
+          <FeatureIndex index="7" value="100"/>
+          <FeatureIndex index="8" value="123"/>
+          <FeatureIndex index="9" value="137"/>
+          <FeatureIndex index="10" value="146"/>
+          <FeatureIndex index="11" value="158"/>
           <FeatureIndex index="12" value="173"/>
-          <FeatureIndex index="13" value="197"/>
-          <FeatureIndex index="14" value="211"/>
+          <FeatureIndex index="13" value="190"/>
+          <FeatureIndex index="14" value="202"/>
+          <FeatureIndex index="15" value="219"/>
+          <FeatureIndex index="16" value="235"/>
+          <FeatureIndex index="17" value="251"/>
         </DefaultLangSys>
         <!-- LangSysCount=4 -->
         <LangSysRecord index="0">
           <LangSysTag value="BGR "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=17 -->
-            <FeatureIndex index="0" value="6"/>
-            <FeatureIndex index="1" value="23"/>
-            <FeatureIndex index="2" value="40"/>
-            <FeatureIndex index="3" value="42"/>
-            <FeatureIndex index="4" value="50"/>
-            <FeatureIndex index="5" value="63"/>
+            <!-- FeatureCount=19 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="20"/>
+            <FeatureIndex index="2" value="30"/>
+            <FeatureIndex index="3" value="54"/>
+            <FeatureIndex index="4" value="59"/>
+            <FeatureIndex index="5" value="81"/>
             <FeatureIndex index="6" value="84"/>
-            <FeatureIndex index="7" value="95"/>
-            <FeatureIndex index="8" value="100"/>
-            <FeatureIndex index="9" value="104"/>
-            <FeatureIndex index="10" value="125"/>
-            <FeatureIndex index="11" value="131"/>
-            <FeatureIndex index="12" value="150"/>
-            <FeatureIndex index="13" value="169"/>
-            <FeatureIndex index="14" value="182"/>
-            <FeatureIndex index="15" value="192"/>
-            <FeatureIndex index="16" value="207"/>
+            <FeatureIndex index="7" value="99"/>
+            <FeatureIndex index="8" value="114"/>
+            <FeatureIndex index="9" value="126"/>
+            <FeatureIndex index="10" value="133"/>
+            <FeatureIndex index="11" value="149"/>
+            <FeatureIndex index="12" value="156"/>
+            <FeatureIndex index="13" value="175"/>
+            <FeatureIndex index="14" value="186"/>
+            <FeatureIndex index="15" value="198"/>
+            <FeatureIndex index="16" value="211"/>
+            <FeatureIndex index="17" value="237"/>
+            <FeatureIndex index="18" value="241"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="1">
           <LangSysTag value="RUS "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="1"/>
-            <FeatureIndex index="1" value="19"/>
-            <FeatureIndex index="2" value="41"/>
-            <FeatureIndex index="3" value="53"/>
-            <FeatureIndex index="4" value="70"/>
-            <FeatureIndex index="5" value="79"/>
-            <FeatureIndex index="6" value="88"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="3"/>
+            <FeatureIndex index="1" value="21"/>
+            <FeatureIndex index="2" value="40"/>
+            <FeatureIndex index="3" value="49"/>
+            <FeatureIndex index="4" value="63"/>
+            <FeatureIndex index="5" value="71"/>
+            <FeatureIndex index="6" value="93"/>
             <FeatureIndex index="7" value="106"/>
-            <FeatureIndex index="8" value="126"/>
-            <FeatureIndex index="9" value="139"/>
-            <FeatureIndex index="10" value="151"/>
-            <FeatureIndex index="11" value="168"/>
-            <FeatureIndex index="12" value="181"/>
-            <FeatureIndex index="13" value="193"/>
-            <FeatureIndex index="14" value="210"/>
+            <FeatureIndex index="8" value="112"/>
+            <FeatureIndex index="9" value="134"/>
+            <FeatureIndex index="10" value="153"/>
+            <FeatureIndex index="11" value="166"/>
+            <FeatureIndex index="12" value="172"/>
+            <FeatureIndex index="13" value="183"/>
+            <FeatureIndex index="14" value="208"/>
+            <FeatureIndex index="15" value="222"/>
+            <FeatureIndex index="16" value="231"/>
+            <FeatureIndex index="17" value="245"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="2">
           <LangSysTag value="SRB "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="12"/>
-            <FeatureIndex index="1" value="26"/>
-            <FeatureIndex index="2" value="31"/>
-            <FeatureIndex index="3" value="47"/>
-            <FeatureIndex index="4" value="65"/>
-            <FeatureIndex index="5" value="82"/>
-            <FeatureIndex index="6" value="98"/>
-            <FeatureIndex index="7" value="101"/>
-            <FeatureIndex index="8" value="127"/>
-            <FeatureIndex index="9" value="137"/>
-            <FeatureIndex index="10" value="148"/>
-            <FeatureIndex index="11" value="157"/>
-            <FeatureIndex index="12" value="180"/>
-            <FeatureIndex index="13" value="187"/>
-            <FeatureIndex index="14" value="201"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="5"/>
+            <FeatureIndex index="1" value="18"/>
+            <FeatureIndex index="2" value="36"/>
+            <FeatureIndex index="3" value="43"/>
+            <FeatureIndex index="4" value="60"/>
+            <FeatureIndex index="5" value="73"/>
+            <FeatureIndex index="6" value="92"/>
+            <FeatureIndex index="7" value="108"/>
+            <FeatureIndex index="8" value="118"/>
+            <FeatureIndex index="9" value="135"/>
+            <FeatureIndex index="10" value="152"/>
+            <FeatureIndex index="11" value="165"/>
+            <FeatureIndex index="12" value="169"/>
+            <FeatureIndex index="13" value="194"/>
+            <FeatureIndex index="14" value="205"/>
+            <FeatureIndex index="15" value="218"/>
+            <FeatureIndex index="16" value="226"/>
+            <FeatureIndex index="17" value="250"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="3">
           <LangSysTag value="UKR "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="10"/>
-            <FeatureIndex index="1" value="20"/>
-            <FeatureIndex index="2" value="34"/>
-            <FeatureIndex index="3" value="54"/>
-            <FeatureIndex index="4" value="59"/>
-            <FeatureIndex index="5" value="83"/>
-            <FeatureIndex index="6" value="90"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="7"/>
+            <FeatureIndex index="1" value="23"/>
+            <FeatureIndex index="2" value="29"/>
+            <FeatureIndex index="3" value="45"/>
+            <FeatureIndex index="4" value="58"/>
+            <FeatureIndex index="5" value="75"/>
+            <FeatureIndex index="6" value="96"/>
             <FeatureIndex index="7" value="110"/>
-            <FeatureIndex index="8" value="115"/>
-            <FeatureIndex index="9" value="135"/>
-            <FeatureIndex index="10" value="144"/>
-            <FeatureIndex index="11" value="167"/>
-            <FeatureIndex index="12" value="179"/>
-            <FeatureIndex index="13" value="194"/>
-            <FeatureIndex index="14" value="208"/>
+            <FeatureIndex index="8" value="121"/>
+            <FeatureIndex index="9" value="136"/>
+            <FeatureIndex index="10" value="145"/>
+            <FeatureIndex index="11" value="164"/>
+            <FeatureIndex index="12" value="181"/>
+            <FeatureIndex index="13" value="195"/>
+            <FeatureIndex index="14" value="204"/>
+            <FeatureIndex index="15" value="215"/>
+            <FeatureIndex index="16" value="230"/>
+            <FeatureIndex index="17" value="242"/>
           </LangSys>
         </LangSysRecord>
       </Script>
@@ -154,184 +171,207 @@ Bulgarian Cyrillic
       <Script>
         <DefaultLangSys>
           <ReqFeatureIndex value="65535"/>
-          <!-- FeatureCount=16 -->
-          <FeatureIndex index="0" value="3"/>
-          <FeatureIndex index="1" value="21"/>
-          <FeatureIndex index="2" value="29"/>
-          <FeatureIndex index="3" value="43"/>
-          <FeatureIndex index="4" value="57"/>
-          <FeatureIndex index="5" value="71"/>
-          <FeatureIndex index="6" value="85"/>
-          <FeatureIndex index="7" value="99"/>
-          <FeatureIndex index="8" value="114"/>
-          <FeatureIndex index="9" value="128"/>
-          <FeatureIndex index="10" value="142"/>
-          <FeatureIndex index="11" value="156"/>
-          <FeatureIndex index="12" value="170"/>
-          <FeatureIndex index="13" value="184"/>
-          <FeatureIndex index="14" value="198"/>
-          <FeatureIndex index="15" value="212"/>
+          <!-- FeatureCount=18 -->
+          <FeatureIndex index="0" value="10"/>
+          <FeatureIndex index="1" value="16"/>
+          <FeatureIndex index="2" value="41"/>
+          <FeatureIndex index="3" value="55"/>
+          <FeatureIndex index="4" value="69"/>
+          <FeatureIndex index="5" value="83"/>
+          <FeatureIndex index="6" value="97"/>
+          <FeatureIndex index="7" value="111"/>
+          <FeatureIndex index="8" value="125"/>
+          <FeatureIndex index="9" value="140"/>
+          <FeatureIndex index="10" value="154"/>
+          <FeatureIndex index="11" value="168"/>
+          <FeatureIndex index="12" value="182"/>
+          <FeatureIndex index="13" value="196"/>
+          <FeatureIndex index="14" value="210"/>
+          <FeatureIndex index="15" value="217"/>
+          <FeatureIndex index="16" value="238"/>
+          <FeatureIndex index="17" value="252"/>
         </DefaultLangSys>
         <!-- LangSysCount=7 -->
         <LangSysRecord index="0">
           <LangSysTag value="AZE "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="7"/>
-            <FeatureIndex index="1" value="22"/>
-            <FeatureIndex index="2" value="38"/>
-            <FeatureIndex index="3" value="46"/>
-            <FeatureIndex index="4" value="60"/>
-            <FeatureIndex index="5" value="76"/>
-            <FeatureIndex index="6" value="87"/>
-            <FeatureIndex index="7" value="102"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="9"/>
+            <FeatureIndex index="1" value="15"/>
+            <FeatureIndex index="2" value="39"/>
+            <FeatureIndex index="3" value="51"/>
+            <FeatureIndex index="4" value="64"/>
+            <FeatureIndex index="5" value="77"/>
+            <FeatureIndex index="6" value="95"/>
+            <FeatureIndex index="7" value="109"/>
             <FeatureIndex index="8" value="117"/>
             <FeatureIndex index="9" value="138"/>
-            <FeatureIndex index="10" value="143"/>
-            <FeatureIndex index="11" value="159"/>
+            <FeatureIndex index="10" value="142"/>
+            <FeatureIndex index="11" value="155"/>
             <FeatureIndex index="12" value="176"/>
-            <FeatureIndex index="13" value="185"/>
-            <FeatureIndex index="14" value="203"/>
+            <FeatureIndex index="13" value="191"/>
+            <FeatureIndex index="14" value="206"/>
+            <FeatureIndex index="15" value="212"/>
+            <FeatureIndex index="16" value="236"/>
+            <FeatureIndex index="17" value="243"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="1">
           <LangSysTag value="CAT "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="13"/>
-            <FeatureIndex index="1" value="17"/>
-            <FeatureIndex index="2" value="35"/>
-            <FeatureIndex index="3" value="51"/>
-            <FeatureIndex index="4" value="64"/>
-            <FeatureIndex index="5" value="75"/>
-            <FeatureIndex index="6" value="93"/>
-            <FeatureIndex index="7" value="113"/>
-            <FeatureIndex index="8" value="120"/>
-            <FeatureIndex index="9" value="132"/>
-            <FeatureIndex index="10" value="147"/>
-            <FeatureIndex index="11" value="166"/>
-            <FeatureIndex index="12" value="175"/>
-            <FeatureIndex index="13" value="191"/>
-            <FeatureIndex index="14" value="206"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="6"/>
+            <FeatureIndex index="1" value="26"/>
+            <FeatureIndex index="2" value="34"/>
+            <FeatureIndex index="3" value="44"/>
+            <FeatureIndex index="4" value="57"/>
+            <FeatureIndex index="5" value="82"/>
+            <FeatureIndex index="6" value="87"/>
+            <FeatureIndex index="7" value="105"/>
+            <FeatureIndex index="8" value="116"/>
+            <FeatureIndex index="9" value="127"/>
+            <FeatureIndex index="10" value="151"/>
+            <FeatureIndex index="11" value="167"/>
+            <FeatureIndex index="12" value="179"/>
+            <FeatureIndex index="13" value="192"/>
+            <FeatureIndex index="14" value="197"/>
+            <FeatureIndex index="15" value="223"/>
+            <FeatureIndex index="16" value="234"/>
+            <FeatureIndex index="17" value="239"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="2">
           <LangSysTag value="LTH "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
+            <!-- FeatureCount=18 -->
             <FeatureIndex index="0" value="8"/>
-            <FeatureIndex index="1" value="24"/>
-            <FeatureIndex index="2" value="32"/>
-            <FeatureIndex index="3" value="52"/>
-            <FeatureIndex index="4" value="66"/>
-            <FeatureIndex index="5" value="80"/>
-            <FeatureIndex index="6" value="97"/>
-            <FeatureIndex index="7" value="109"/>
-            <FeatureIndex index="8" value="121"/>
-            <FeatureIndex index="9" value="130"/>
-            <FeatureIndex index="10" value="149"/>
+            <FeatureIndex index="1" value="27"/>
+            <FeatureIndex index="2" value="35"/>
+            <FeatureIndex index="3" value="46"/>
+            <FeatureIndex index="4" value="56"/>
+            <FeatureIndex index="5" value="79"/>
+            <FeatureIndex index="6" value="86"/>
+            <FeatureIndex index="7" value="98"/>
+            <FeatureIndex index="8" value="115"/>
+            <FeatureIndex index="9" value="128"/>
+            <FeatureIndex index="10" value="141"/>
             <FeatureIndex index="11" value="161"/>
-            <FeatureIndex index="12" value="177"/>
-            <FeatureIndex index="13" value="188"/>
-            <FeatureIndex index="14" value="202"/>
+            <FeatureIndex index="12" value="180"/>
+            <FeatureIndex index="13" value="184"/>
+            <FeatureIndex index="14" value="203"/>
+            <FeatureIndex index="15" value="224"/>
+            <FeatureIndex index="16" value="229"/>
+            <FeatureIndex index="17" value="248"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="3">
           <LangSysTag value="MOL "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="9"/>
-            <FeatureIndex index="1" value="15"/>
-            <FeatureIndex index="2" value="33"/>
-            <FeatureIndex index="3" value="56"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="13"/>
+            <FeatureIndex index="1" value="22"/>
+            <FeatureIndex index="2" value="31"/>
+            <FeatureIndex index="3" value="42"/>
             <FeatureIndex index="4" value="61"/>
-            <FeatureIndex index="5" value="73"/>
-            <FeatureIndex index="6" value="94"/>
-            <FeatureIndex index="7" value="111"/>
-            <FeatureIndex index="8" value="122"/>
-            <FeatureIndex index="9" value="136"/>
-            <FeatureIndex index="10" value="146"/>
-            <FeatureIndex index="11" value="158"/>
+            <FeatureIndex index="5" value="76"/>
+            <FeatureIndex index="6" value="91"/>
+            <FeatureIndex index="7" value="101"/>
+            <FeatureIndex index="8" value="113"/>
+            <FeatureIndex index="9" value="129"/>
+            <FeatureIndex index="10" value="150"/>
+            <FeatureIndex index="11" value="163"/>
             <FeatureIndex index="12" value="171"/>
-            <FeatureIndex index="13" value="186"/>
-            <FeatureIndex index="14" value="200"/>
+            <FeatureIndex index="13" value="187"/>
+            <FeatureIndex index="14" value="207"/>
+            <FeatureIndex index="15" value="221"/>
+            <FeatureIndex index="16" value="232"/>
+            <FeatureIndex index="17" value="246"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="4">
           <LangSysTag value="NLD "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="11"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="4"/>
             <FeatureIndex index="1" value="25"/>
-            <FeatureIndex index="2" value="30"/>
-            <FeatureIndex index="3" value="45"/>
-            <FeatureIndex index="4" value="67"/>
-            <FeatureIndex index="5" value="74"/>
-            <FeatureIndex index="6" value="92"/>
-            <FeatureIndex index="7" value="107"/>
-            <FeatureIndex index="8" value="119"/>
-            <FeatureIndex index="9" value="141"/>
-            <FeatureIndex index="10" value="154"/>
-            <FeatureIndex index="11" value="163"/>
-            <FeatureIndex index="12" value="183"/>
-            <FeatureIndex index="13" value="190"/>
-            <FeatureIndex index="14" value="204"/>
+            <FeatureIndex index="2" value="32"/>
+            <FeatureIndex index="3" value="47"/>
+            <FeatureIndex index="4" value="65"/>
+            <FeatureIndex index="5" value="72"/>
+            <FeatureIndex index="6" value="88"/>
+            <FeatureIndex index="7" value="103"/>
+            <FeatureIndex index="8" value="124"/>
+            <FeatureIndex index="9" value="139"/>
+            <FeatureIndex index="10" value="147"/>
+            <FeatureIndex index="11" value="157"/>
+            <FeatureIndex index="12" value="170"/>
+            <FeatureIndex index="13" value="188"/>
+            <FeatureIndex index="14" value="209"/>
+            <FeatureIndex index="15" value="213"/>
+            <FeatureIndex index="16" value="225"/>
+            <FeatureIndex index="17" value="244"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="5">
           <LangSysTag value="ROM "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="5"/>
-            <FeatureIndex index="1" value="27"/>
-            <FeatureIndex index="2" value="36"/>
-            <FeatureIndex index="3" value="49"/>
-            <FeatureIndex index="4" value="62"/>
-            <FeatureIndex index="5" value="81"/>
-            <FeatureIndex index="6" value="96"/>
-            <FeatureIndex index="7" value="103"/>
-            <FeatureIndex index="8" value="123"/>
-            <FeatureIndex index="9" value="140"/>
-            <FeatureIndex index="10" value="152"/>
-            <FeatureIndex index="11" value="162"/>
-            <FeatureIndex index="12" value="172"/>
-            <FeatureIndex index="13" value="196"/>
-            <FeatureIndex index="14" value="209"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="11"/>
+            <FeatureIndex index="1" value="24"/>
+            <FeatureIndex index="2" value="38"/>
+            <FeatureIndex index="3" value="48"/>
+            <FeatureIndex index="4" value="66"/>
+            <FeatureIndex index="5" value="70"/>
+            <FeatureIndex index="6" value="94"/>
+            <FeatureIndex index="7" value="107"/>
+            <FeatureIndex index="8" value="122"/>
+            <FeatureIndex index="9" value="130"/>
+            <FeatureIndex index="10" value="144"/>
+            <FeatureIndex index="11" value="160"/>
+            <FeatureIndex index="12" value="177"/>
+            <FeatureIndex index="13" value="189"/>
+            <FeatureIndex index="14" value="199"/>
+            <FeatureIndex index="15" value="214"/>
+            <FeatureIndex index="16" value="227"/>
+            <FeatureIndex index="17" value="247"/>
           </LangSys>
         </LangSysRecord>
         <LangSysRecord index="6">
           <LangSysTag value="TRK "/>
           <LangSys>
             <ReqFeatureIndex value="65535"/>
-            <!-- FeatureCount=15 -->
-            <FeatureIndex index="0" value="4"/>
-            <FeatureIndex index="1" value="16"/>
-            <FeatureIndex index="2" value="39"/>
-            <FeatureIndex index="3" value="55"/>
-            <FeatureIndex index="4" value="68"/>
-            <FeatureIndex index="5" value="78"/>
-            <FeatureIndex index="6" value="91"/>
-            <FeatureIndex index="7" value="105"/>
-            <FeatureIndex index="8" value="118"/>
-            <FeatureIndex index="9" value="134"/>
-            <FeatureIndex index="10" value="145"/>
-            <FeatureIndex index="11" value="160"/>
+            <!-- FeatureCount=18 -->
+            <FeatureIndex index="0" value="2"/>
+            <FeatureIndex index="1" value="19"/>
+            <FeatureIndex index="2" value="37"/>
+            <FeatureIndex index="3" value="52"/>
+            <FeatureIndex index="4" value="62"/>
+            <FeatureIndex index="5" value="80"/>
+            <FeatureIndex index="6" value="85"/>
+            <FeatureIndex index="7" value="102"/>
+            <FeatureIndex index="8" value="119"/>
+            <FeatureIndex index="9" value="131"/>
+            <FeatureIndex index="10" value="148"/>
+            <FeatureIndex index="11" value="159"/>
             <FeatureIndex index="12" value="174"/>
-            <FeatureIndex index="13" value="189"/>
-            <FeatureIndex index="14" value="205"/>
+            <FeatureIndex index="13" value="193"/>
+            <FeatureIndex index="14" value="201"/>
+            <FeatureIndex index="15" value="216"/>
+            <FeatureIndex index="16" value="233"/>
+            <FeatureIndex index="17" value="240"/>
           </LangSys>
         </LangSysRecord>
       </Script>
     </ScriptRecord>
   </ScriptList>
   <FeatureList>
-    <!-- FeatureCount=213 -->
+    <!-- FeatureCount=253 -->
     <FeatureRecord index="0">
       <FeatureTag value="aalt"/>
       <Feature>
@@ -448,1618 +488,1897 @@ Bulgarian Cyrillic
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="15">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="16">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="17">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="18">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="19">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="20">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="21">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="22">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="23">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="24">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="25">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="26">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="27">
       <FeatureTag value="c2sc"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="24"/>
+        <LookupListIndex index="0" value="26"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="28">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="29">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="30">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="31">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="32">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="33">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="34">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="35">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="36">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="37">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="38">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="39">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="40">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
+        <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="41">
       <FeatureTag value="cv01"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="30"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="42">
-      <FeatureTag value="dlig"/>
-      <Feature>
-        <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="29"/>
       </Feature>
     </FeatureRecord>
-    <FeatureRecord index="43">
-      <FeatureTag value="dlig"/>
+    <FeatureRecord index="42">
+      <FeatureTag value="cv02"/>
       <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="27"/>
-        <LookupListIndex index="1" value="28"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="30"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="43">
+      <FeatureTag value="cv02"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="44">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="45">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="46">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="47">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="48">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="49">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="50">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="51">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="52">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="53">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="54">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="55">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="cv02"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="30"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="56">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="dlig"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="57">
-      <FeatureTag value="dnom"/>
+      <FeatureTag value="dlig"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="8"/>
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="58">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="59">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="60">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="61">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="62">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="63">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="64">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="65">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="66">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="67">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="68">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="69">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dlig"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="5"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="70">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dnom"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="71">
-      <FeatureTag value="frac"/>
+      <FeatureTag value="dnom"/>
       <Feature>
-        <!-- LookupCount=12 -->
-        <LookupListIndex index="0" value="9"/>
-        <LookupListIndex index="1" value="10"/>
-        <LookupListIndex index="2" value="11"/>
-        <LookupListIndex index="3" value="12"/>
-        <LookupListIndex index="4" value="13"/>
-        <LookupListIndex index="5" value="14"/>
-        <LookupListIndex index="6" value="15"/>
-        <LookupListIndex index="7" value="16"/>
-        <LookupListIndex index="8" value="17"/>
-        <LookupListIndex index="9" value="18"/>
-        <LookupListIndex index="10" value="19"/>
-        <LookupListIndex index="11" value="20"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="72">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="73">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="74">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="75">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="76">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="77">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="78">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="79">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="80">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="81">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="82">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="83">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="dnom"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <LookupListIndex index="0" value="10"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="84">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="85">
-      <FeatureTag value="hist"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="26"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="86">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="87">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="88">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="89">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="90">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="91">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="92">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="93">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="94">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="95">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="96">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="97">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="frac"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <!-- LookupCount=12 -->
+        <LookupListIndex index="0" value="11"/>
+        <LookupListIndex index="1" value="12"/>
+        <LookupListIndex index="2" value="13"/>
+        <LookupListIndex index="3" value="14"/>
+        <LookupListIndex index="4" value="15"/>
+        <LookupListIndex index="5" value="16"/>
+        <LookupListIndex index="6" value="17"/>
+        <LookupListIndex index="7" value="18"/>
+        <LookupListIndex index="8" value="19"/>
+        <LookupListIndex index="9" value="20"/>
+        <LookupListIndex index="10" value="21"/>
+        <LookupListIndex index="11" value="22"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="98">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="hist"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="99">
-      <FeatureTag value="liga"/>
+      <FeatureTag value="hist"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="3"/>
+        <LookupListIndex index="0" value="28"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="100">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="101">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="102">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="103">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="104">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="105">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="106">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="107">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="108">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="109">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="110">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="111">
+      <FeatureTag value="hist"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="28"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="112">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="113">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="114">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="115">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="116">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="117">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="118">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="119">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="120">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="121">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="122">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="123">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="124">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="125">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="4"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="126">
       <FeatureTag value="locl"/>
       <Feature>
         <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
-    <FeatureRecord index="101">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="102">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="103">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="104">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="105">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="106">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="107">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="108">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="109">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="110">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="111">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="112">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="113">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="114">
-      <FeatureTag value="numr"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="7"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="115">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="116">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="117">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="118">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="119">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="120">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="121">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="122">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="123">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="124">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="125">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="126">
-      <FeatureTag value="ordn"/>
-      <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
-      </Feature>
-    </FeatureRecord>
     <FeatureRecord index="127">
-      <FeatureTag value="ordn"/>
+      <FeatureTag value="numr"/>
       <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="128">
-      <FeatureTag value="ordn"/>
+      <FeatureTag value="numr"/>
       <Feature>
-        <!-- LookupCount=2 -->
-        <LookupListIndex index="0" value="21"/>
-        <LookupListIndex index="1" value="22"/>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="129">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="130">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="131">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="132">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="133">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="134">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="135">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="136">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="137">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="138">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="139">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="140">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="numr"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <LookupListIndex index="0" value="9"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="141">
-      <FeatureTag value="salt"/>
+      <FeatureTag value="ordn"/>
       <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="25"/>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="142">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="143">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="144">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="145">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="146">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="147">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="148">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="149">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="150">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="151">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="152">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="153">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="154">
+      <FeatureTag value="ordn"/>
+      <Feature>
+        <!-- LookupCount=2 -->
+        <LookupListIndex index="0" value="23"/>
+        <LookupListIndex index="1" value="24"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="155">
       <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="156">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="157">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="158">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="159">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="160">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="161">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="162">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="163">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="164">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="165">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="166">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="167">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="168">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="27"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="169">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="170">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="171">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="172">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="173">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="174">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="175">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="176">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="177">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="178">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="179">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="180">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="181">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="182">
+      <FeatureTag value="sinf"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="6"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="183">
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
         <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
-    <FeatureRecord index="143">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="144">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="145">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="146">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="147">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="148">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="149">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="150">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="151">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="152">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="153">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="154">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="155">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="156">
-      <FeatureTag value="sinf"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="4"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="157">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="158">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="159">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="160">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="161">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="162">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="163">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="164">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="165">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="166">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="167">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="168">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="169">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="170">
-      <FeatureTag value="smcp"/>
-      <Feature>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="23"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="171">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="172">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="173">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="174">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="175">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="176">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="177">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="178">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="179">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="180">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="181">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="182">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
-    <FeatureRecord index="183">
-      <FeatureTag value="ss01"/>
-      <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
-        <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
-      </Feature>
-    </FeatureRecord>
     <FeatureRecord index="184">
-      <FeatureTag value="ss01"/>
+      <FeatureTag value="smcp"/>
       <Feature>
-        <FeatureParamsStylisticSet>
-          <Version value="0"/>
-          <UINameID value="256"/>
-        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="2"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="185">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="186">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="187">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="188">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="189">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="190">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="191">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="192">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="193">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="194">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="195">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="196">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="smcp"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="25"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="197">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="198">
-      <FeatureTag value="subs"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="6"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="199">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="200">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="201">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="202">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="203">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="204">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="205">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="206">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="207">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="208">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="209">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="210">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss01"/>
       <Feature>
+        <FeatureParamsStylisticSet>
+          <Version value="0"/>
+          <UINameID value="256"/>
+        </FeatureParamsStylisticSet>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="2"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="211">
-      <FeatureTag value="sups"/>
+      <FeatureTag value="ss20"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="3"/>
       </Feature>
     </FeatureRecord>
     <FeatureRecord index="212">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="213">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="214">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="215">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="216">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="217">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="218">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="219">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="220">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="221">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="222">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="223">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="224">
+      <FeatureTag value="ss20"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="225">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="226">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="227">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="228">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="229">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="230">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="231">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="232">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="233">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="234">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="235">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="236">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="237">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="238">
+      <FeatureTag value="subs"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="8"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="239">
       <FeatureTag value="sups"/>
       <Feature>
         <!-- LookupCount=1 -->
-        <LookupListIndex index="0" value="5"/>
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="240">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="241">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="242">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="243">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="244">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="245">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="246">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="247">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="248">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="249">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="250">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="251">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="252">
+      <FeatureTag value="sups"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="7"/>
       </Feature>
     </FeatureRecord>
   </FeatureList>
@@ -2107,7 +2426,6 @@ Bulgarian Cyrillic
         <Substitution in="i" out="i.sc"/>
         <Substitution in="j" out="j.sc"/>
         <Substitution in="k" out="k.sc"/>
-        <Substitution in="l" out="l.sc"/>
         <Substitution in="m" out="m.sc"/>
         <Substitution in="n" out="n.sc"/>
         <Substitution in="o" out="o.sc"/>
@@ -2148,30 +2466,25 @@ Bulgarian Cyrillic
         <Substitution in="uni042D" out="uni044D.sc"/>
         <Substitution in="uni042E" out="uni044E.sc"/>
         <Substitution in="uni042F" out="uni044F.sc"/>
+        <Substitution in="uni0430" out="uni0430.sc"/>
         <Substitution in="uni0431" out="uni0431.sc"/>
         <Substitution in="uni0432" out="uni0432.sc"/>
         <Substitution in="uni0433" out="uni0433.sc"/>
-        <Substitution in="uni0434" out="uni0434.sc"/>
-        <Substitution in="uni0435" out="uni0435.sc"/>
         <Substitution in="uni0436" out="uni0436.sc"/>
         <Substitution in="uni0437" out="uni0437.sc"/>
         <Substitution in="uni0438" out="uni0438.sc"/>
         <Substitution in="uni0439" out="uni0439.sc"/>
         <Substitution in="uni043A" out="uni043A.sc"/>
-        <Substitution in="uni043B" out="uni043B.sc"/>
+        <Substitution in="uni043B.sc" out="uni043B.sc.01"/>
         <Substitution in="uni043C" out="uni043C.sc"/>
         <Substitution in="uni043D" out="uni043D.sc"/>
         <Substitution in="uni043E" out="uni043E.sc"/>
-        <Substitution in="uni043F" out="uni043F.sc"/>
         <Substitution in="uni0440" out="uni0440.sc"/>
         <Substitution in="uni0441" out="uni0441.sc"/>
-        <Substitution in="uni0442" out="uni0442.sc"/>
         <Substitution in="uni0443" out="uni0443.sc"/>
         <Substitution in="uni0444" out="uni0444.sc"/>
-        <Substitution in="uni0446" out="uni0446.sc"/>
         <Substitution in="uni0447" out="uni0447.sc"/>
         <Substitution in="uni0448" out="uni0448.sc"/>
-        <Substitution in="uni0449" out="uni0449.sc"/>
         <Substitution in="uni044A" out="uni044A.sc"/>
         <Substitution in="uni044B" out="uni044B.sc"/>
         <Substitution in="uni044C" out="uni044C.sc"/>
@@ -2191,37 +2504,36 @@ Bulgarian Cyrillic
       <!-- SubTableCount=1 -->
       <AlternateSubst index="0" Format="1">
         <AlternateSet glyph="eight">
-          <Alternate glyph="eight.inferior"/>
-          <Alternate glyph="eight.superior"/>
-          <Alternate glyph="eight.subscript"/>
+          <Alternate glyph="uni2088"/>
+          <Alternate glyph="uni2078"/>
           <Alternate glyph="eight.numr"/>
           <Alternate glyph="eight.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="five">
-          <Alternate glyph="five.inferior"/>
-          <Alternate glyph="five.superior"/>
-          <Alternate glyph="five.subscript"/>
+          <Alternate glyph="uni2085"/>
+          <Alternate glyph="uni2075"/>
           <Alternate glyph="five.numr"/>
           <Alternate glyph="five.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="four">
-          <Alternate glyph="four.inferior"/>
-          <Alternate glyph="four.superior"/>
-          <Alternate glyph="four.subscript"/>
+          <Alternate glyph="uni2084"/>
+          <Alternate glyph="uni2074"/>
           <Alternate glyph="four.numr"/>
           <Alternate glyph="four.dnom"/>
         </AlternateSet>
+        <AlternateSet glyph="l">
+          <Alternate glyph="l.sc"/>
+          <Alternate glyph="l.cv01"/>
+        </AlternateSet>
         <AlternateSet glyph="nine">
-          <Alternate glyph="nine.inferior"/>
-          <Alternate glyph="nine.superior"/>
-          <Alternate glyph="nine.subscript"/>
+          <Alternate glyph="uni2089"/>
+          <Alternate glyph="uni2079"/>
           <Alternate glyph="nine.numr"/>
           <Alternate glyph="nine.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="one">
-          <Alternate glyph="one.inferior"/>
-          <Alternate glyph="one.superior"/>
-          <Alternate glyph="one.subscript"/>
+          <Alternate glyph="uni2081"/>
+          <Alternate glyph="uni00B9"/>
           <Alternate glyph="one.numr"/>
           <Alternate glyph="one.dnom"/>
         </AlternateSet>
@@ -2230,45 +2542,65 @@ Bulgarian Cyrillic
           <Alternate glyph="longs"/>
         </AlternateSet>
         <AlternateSet glyph="seven">
-          <Alternate glyph="seven.inferior"/>
-          <Alternate glyph="seven.superior"/>
-          <Alternate glyph="seven.subscript"/>
+          <Alternate glyph="uni2087"/>
+          <Alternate glyph="uni2077"/>
           <Alternate glyph="seven.numr"/>
           <Alternate glyph="seven.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="six">
-          <Alternate glyph="six.inferior"/>
-          <Alternate glyph="six.superior"/>
-          <Alternate glyph="six.subscript"/>
+          <Alternate glyph="uni2086"/>
+          <Alternate glyph="uni2076"/>
           <Alternate glyph="six.numr"/>
           <Alternate glyph="six.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="three">
-          <Alternate glyph="three.inferior"/>
-          <Alternate glyph="three.superior"/>
-          <Alternate glyph="three.subscript"/>
+          <Alternate glyph="uni2083"/>
+          <Alternate glyph="uni00B3"/>
           <Alternate glyph="three.numr"/>
           <Alternate glyph="three.dnom"/>
         </AlternateSet>
         <AlternateSet glyph="two">
-          <Alternate glyph="two.inferior"/>
-          <Alternate glyph="two.superior"/>
-          <Alternate glyph="two.subscript"/>
+          <Alternate glyph="uni2082"/>
+          <Alternate glyph="uni00B2"/>
           <Alternate glyph="two.numr"/>
           <Alternate glyph="two.dnom"/>
         </AlternateSet>
-        <AlternateSet glyph="uni0430">
-          <Alternate glyph="uni0430.sc"/>
-          <Alternate glyph="a.dlig"/>
+        <AlternateSet glyph="uni0434">
+          <Alternate glyph="uni0434.sc"/>
+          <Alternate glyph="uni0434.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0435">
+          <Alternate glyph="uni0435.sc"/>
+          <Alternate glyph="uni0435.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni043B">
+          <Alternate glyph="uni043B.sc"/>
+          <Alternate glyph="uni043B.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni043F">
+          <Alternate glyph="uni043F.sc"/>
+          <Alternate glyph="uni043F.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0442">
+          <Alternate glyph="uni0442.sc"/>
+          <Alternate glyph="uni0442.cv02"/>
         </AlternateSet>
         <AlternateSet glyph="uni0445">
           <Alternate glyph="uni0445.sc"/>
           <Alternate glyph="uni0445.alt"/>
+          <Alternate glyph="uni0445.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0446">
+          <Alternate glyph="uni0446.sc"/>
+          <Alternate glyph="uni0446.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0449">
+          <Alternate glyph="uni0449.sc"/>
+          <Alternate glyph="uni0449.cv02"/>
         </AlternateSet>
         <AlternateSet glyph="zero">
-          <Alternate glyph="zero.inferior"/>
-          <Alternate glyph="zero.superior"/>
-          <Alternate glyph="zero.subscript"/>
+          <Alternate glyph="uni2080"/>
+          <Alternate glyph="uni2070"/>
           <Alternate glyph="zero.numr"/>
           <Alternate glyph="zero.dnom"/>
         </AlternateSet>
@@ -2303,6 +2635,31 @@ Bulgarian Cyrillic
       </SingleSubst>
     </Lookup>
     <Lookup index="3">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="uni0410" out="Acyrgrave"/>
+        <Substitution in="uni0415" out="Iecyrgrave"/>
+        <Substitution in="uni041E" out="Ocyrgrave"/>
+        <Substitution in="uni0423" out="Ucyrgrave"/>
+        <Substitution in="uni042A" out="Hardcyrgrave"/>
+        <Substitution in="uni042B" out="Ylongcyrgrave"/>
+        <Substitution in="uni042D" out="Ereversedcyrgrave"/>
+        <Substitution in="uni042E" out="Yucyrgrave"/>
+        <Substitution in="uni042F" out="Yacyrgrave"/>
+        <Substitution in="uni0430" out="acyrgrave"/>
+        <Substitution in="uni0435" out="iecyrgrave"/>
+        <Substitution in="uni043E" out="ocyrgrave"/>
+        <Substitution in="uni0443" out="ucyrgrave"/>
+        <Substitution in="uni044A" out="hardcyrgrave"/>
+        <Substitution in="uni044B" out="ylongcyrgrave"/>
+        <Substitution in="uni044D" out="ereversedcyrgrave"/>
+        <Substitution in="uni044E" out="yucyrgrave"/>
+        <Substitution in="uni044F" out="yacyrgrave"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="4">
       <LookupType value="4"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -2311,66 +2668,74 @@ Bulgarian Cyrillic
           <Ligature components="f,i" glyph="f_f_i"/>
           <Ligature components="f,l" glyph="f_f_l"/>
           <Ligature components="f" glyph="f_f"/>
-          <Ligature components="i" glyph="uniFB01"/>
-          <Ligature components="l" glyph="uniFB02"/>
         </LigatureSet>
         <LigatureSet glyph="longs">
           <Ligature components="t" glyph="longs_t"/>
         </LigatureSet>
       </LigatureSubst>
     </Lookup>
-    <Lookup index="4">
-      <LookupType value="1"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=1 -->
-      <SingleSubst index="0" Format="2">
-        <Substitution in="eight" out="eight.inferior"/>
-        <Substitution in="five" out="five.inferior"/>
-        <Substitution in="four" out="four.inferior"/>
-        <Substitution in="nine" out="nine.inferior"/>
-        <Substitution in="one" out="one.inferior"/>
-        <Substitution in="seven" out="seven.inferior"/>
-        <Substitution in="six" out="six.inferior"/>
-        <Substitution in="three" out="three.inferior"/>
-        <Substitution in="two" out="two.inferior"/>
-        <Substitution in="zero" out="zero.inferior"/>
-      </SingleSubst>
-    </Lookup>
     <Lookup index="5">
-      <LookupType value="1"/>
+      <LookupType value="4"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
-      <SingleSubst index="0" Format="2">
-        <Substitution in="eight" out="eight.superior"/>
-        <Substitution in="five" out="five.superior"/>
-        <Substitution in="four" out="four.superior"/>
-        <Substitution in="nine" out="nine.superior"/>
-        <Substitution in="one" out="one.superior"/>
-        <Substitution in="seven" out="seven.superior"/>
-        <Substitution in="six" out="six.superior"/>
-        <Substitution in="three" out="three.superior"/>
-        <Substitution in="two" out="two.superior"/>
-        <Substitution in="zero" out="zero.superior"/>
-      </SingleSubst>
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="s">
+          <Ligature components="t" glyph="s_t"/>
+        </LigatureSet>
+      </LigatureSubst>
     </Lookup>
     <Lookup index="6">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
-        <Substitution in="eight" out="eight.subscript"/>
-        <Substitution in="five" out="five.subscript"/>
-        <Substitution in="four" out="four.subscript"/>
-        <Substitution in="nine" out="nine.subscript"/>
-        <Substitution in="one" out="one.subscript"/>
-        <Substitution in="seven" out="seven.subscript"/>
-        <Substitution in="six" out="six.subscript"/>
-        <Substitution in="three" out="three.subscript"/>
-        <Substitution in="two" out="two.subscript"/>
-        <Substitution in="zero" out="zero.subscript"/>
+        <Substitution in="eight" out="uni2088"/>
+        <Substitution in="five" out="uni2085"/>
+        <Substitution in="four" out="uni2084"/>
+        <Substitution in="nine" out="uni2089"/>
+        <Substitution in="one" out="uni2081"/>
+        <Substitution in="seven" out="uni2087"/>
+        <Substitution in="six" out="uni2086"/>
+        <Substitution in="three" out="uni2083"/>
+        <Substitution in="two" out="uni2082"/>
+        <Substitution in="zero" out="uni2080"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="7">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="eight" out="uni2078"/>
+        <Substitution in="five" out="uni2075"/>
+        <Substitution in="four" out="uni2074"/>
+        <Substitution in="nine" out="uni2079"/>
+        <Substitution in="one" out="uni00B9"/>
+        <Substitution in="seven" out="uni2077"/>
+        <Substitution in="six" out="uni2076"/>
+        <Substitution in="three" out="uni00B3"/>
+        <Substitution in="two" out="uni00B2"/>
+        <Substitution in="zero" out="uni2070"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="8">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="eight" out="uni2088"/>
+        <Substitution in="five" out="uni2085"/>
+        <Substitution in="four" out="uni2084"/>
+        <Substitution in="nine" out="uni2089"/>
+        <Substitution in="one" out="uni2081"/>
+        <Substitution in="seven" out="uni2087"/>
+        <Substitution in="six" out="uni2086"/>
+        <Substitution in="three" out="uni2083"/>
+        <Substitution in="two" out="uni2082"/>
+        <Substitution in="zero" out="uni2080"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="9">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -2387,7 +2752,7 @@ Bulgarian Cyrillic
         <Substitution in="zero" out="zero.numr"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="8">
+    <Lookup index="10">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -2404,7 +2769,7 @@ Bulgarian Cyrillic
         <Substitution in="zero" out="zero.dnom"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="9">
+    <Lookup index="11">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=23 -->
@@ -4030,7 +4395,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="10">
+    <Lookup index="12">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4060,7 +4425,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="11">
+    <Lookup index="13">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4102,7 +4467,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="12">
+    <Lookup index="14">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4156,7 +4521,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="13">
+    <Lookup index="15">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4222,7 +4587,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="14">
+    <Lookup index="16">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4300,7 +4665,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="15">
+    <Lookup index="17">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4390,7 +4755,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="16">
+    <Lookup index="18">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4492,7 +4857,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="17">
+    <Lookup index="19">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4606,7 +4971,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="18">
+    <Lookup index="20">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4732,7 +5097,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="19">
+    <Lookup index="21">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4870,7 +5235,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="20">
+    <Lookup index="22">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4910,7 +5275,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="21">
+    <Lookup index="23">
       <LookupType value="6"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=2 -->
@@ -4967,7 +5332,7 @@ Bulgarian Cyrillic
         </SubstLookupRecord>
       </ChainContextSubst>
     </Lookup>
-    <Lookup index="22">
+    <Lookup index="24">
       <LookupType value="4"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -4977,7 +5342,7 @@ Bulgarian Cyrillic
         </LigatureSet>
       </LigatureSubst>
     </Lookup>
-    <Lookup index="23">
+    <Lookup index="25">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5042,7 +5407,7 @@ Bulgarian Cyrillic
         <Substitution in="z" out="z.sc"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="24">
+    <Lookup index="26">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5107,17 +5472,45 @@ Bulgarian Cyrillic
         <Substitution in="uni042F" out="uni044F.sc"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="25">
+    <Lookup index="27">
       <LookupType value="3"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <AlternateSubst index="0" Format="1">
+        <AlternateSet glyph="l">
+          <Alternate glyph="l.cv01"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0434">
+          <Alternate glyph="uni0434.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0435">
+          <Alternate glyph="uni0435.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni043B">
+          <Alternate glyph="uni043B.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni043B.sc">
+          <Alternate glyph="uni043B.sc.01"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni043F">
+          <Alternate glyph="uni043F.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0442">
+          <Alternate glyph="uni0442.cv02"/>
+        </AlternateSet>
         <AlternateSet glyph="uni0445">
           <Alternate glyph="uni0445.alt"/>
+          <Alternate glyph="uni0445.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0446">
+          <Alternate glyph="uni0446.cv02"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni0449">
+          <Alternate glyph="uni0449.cv02"/>
         </AlternateSet>
       </AlternateSubst>
     </Lookup>
-    <Lookup index="26">
+    <Lookup index="28">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
@@ -5125,30 +5518,12 @@ Bulgarian Cyrillic
         <Substitution in="s" out="longs"/>
       </SingleSubst>
     </Lookup>
-    <Lookup index="27">
-      <LookupType value="1"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=1 -->
-      <SingleSubst index="0" Format="2">
-        <Substitution in="a" out="a.dlig"/>
-      </SingleSubst>
-    </Lookup>
-    <Lookup index="28">
-      <LookupType value="4"/>
-      <LookupFlag value="0"/>
-      <!-- SubTableCount=1 -->
-      <LigatureSubst index="0" Format="1">
-        <LigatureSet glyph="s">
-          <Ligature components="t" glyph="s_t"/>
-        </LigatureSet>
-      </LigatureSubst>
-    </Lookup>
     <Lookup index="29">
       <LookupType value="1"/>
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
-        <Substitution in="uni0430" out="a.dlig"/>
+        <Substitution in="l" out="l.cv01"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="30">
@@ -5156,7 +5531,14 @@ Bulgarian Cyrillic
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
-        <Substitution in="uni0430" out="a.dlig"/>
+        <Substitution in="uni0434" out="uni0434.cv02"/>
+        <Substitution in="uni0435" out="uni0435.cv02"/>
+        <Substitution in="uni043B" out="uni043B.cv02"/>
+        <Substitution in="uni043F" out="uni043F.cv02"/>
+        <Substitution in="uni0442" out="uni0442.cv02"/>
+        <Substitution in="uni0445" out="uni0445.cv02"/>
+        <Substitution in="uni0446" out="uni0446.cv02"/>
+        <Substitution in="uni0449" out="uni0449.cv02"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="31">

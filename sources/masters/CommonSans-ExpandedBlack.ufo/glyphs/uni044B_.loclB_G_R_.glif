@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B.loclBGR" format="2">
-  <advance width="897"/>
+  <advance width="877"/>
   <outline>
     <component base="uni044C.loclBGR"/>
     <contour>
@@ -15,7 +15,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=|n</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=dotlessi</string>
+  <string>=|n</string>
   </dict>
   </lib>
 </glyph>

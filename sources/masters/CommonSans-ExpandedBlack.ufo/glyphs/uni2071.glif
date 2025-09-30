@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2071" format="2">
+  <advance width="270"/>
+  <unicode hex="2071"/>
+  <anchor x="135" y="-40" name="bottom"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

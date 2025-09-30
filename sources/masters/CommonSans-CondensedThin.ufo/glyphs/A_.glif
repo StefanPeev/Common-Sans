@@ -5,14 +5,8 @@
   <anchor x="222" y="740" name="top"/>
   <anchor x="222" y="663" name="t.ring"/>
   <anchor x="222" y="-50" name="bottom"/>
-  <anchor x="419" y="-0" name="b.ogonek"/>
+  <anchor x="419" y="0" name="b.ogonek"/>
   <outline>
-    <contour>
-      <point x="106" y="250" type="line"/>
-      <point x="340" y="250" type="line"/>
-      <point x="334" y="270" type="line"/>
-      <point x="112" y="270" type="line"/>
-    </contour>
     <contour>
       <point x="20" y="0" type="line"/>
       <point x="43" y="0" type="line"/>
@@ -30,6 +24,12 @@
       <point x="424" y="0" type="line"/>
       <point x="234" y="680" type="line"/>
       <point x="210" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="250" type="line"/>
+      <point x="340" y="250" type="line"/>
+      <point x="334" y="270" type="line"/>
+      <point x="112" y="270" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="222" y="0"/>

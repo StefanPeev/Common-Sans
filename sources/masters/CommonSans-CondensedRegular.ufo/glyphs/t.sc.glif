@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t.sc" format="2">
-  <advance width="388"/>
+  <advance width="378"/>
   <outline>
     <contour>
-      <point x="158" y="0" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="238" y="395" type="line"/>
-      <point x="356" y="395" type="line"/>
-      <point x="356" y="460" type="line"/>
-      <point x="33" y="460" type="line"/>
-      <point x="33" y="395" type="line"/>
-      <point x="158" y="395" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="232" y="456" type="line"/>
+      <point x="146" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="430" type="line"/>
+      <point x="352" y="506" type="line"/>
+      <point x="26" y="506" type="line"/>
+      <point x="26" y="430" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=h.sc-40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=h.sc-40</string>
+  </dict>
+  </lib>
 </glyph>

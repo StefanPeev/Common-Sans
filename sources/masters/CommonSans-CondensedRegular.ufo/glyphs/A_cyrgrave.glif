@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acyrgrave" format="2">
+  <advance width="430"/>
+  <anchor x="215" y="639" name="t.ring"/>
+  <anchor x="215" y="-50" name="bottom"/>
+  <anchor x="420" y="0" name="b.ogonek"/>
+  <outline>
+    <component base="uni0410"/>
+    <component base="uni0300" xOffset="165" yOffset="200"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0410+uni0300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

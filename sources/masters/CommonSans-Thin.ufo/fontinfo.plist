@@ -48,11 +48,21 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>v_t_532</string>
+    <string>v_t_540</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>532</integer>
+    <integer>540</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>x_height1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>460</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -103,8 +113,23 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <string>Common Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin</string>
+  <key>openTypeNameRecords</key>
+  <array>
+  <dict>
+    <key>nameID</key>
+    <integer>256</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Bulgarian Cyrillic</string>
+  </dict>
+  </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.187</string>
+  <string>Version 1.206</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -256,7 +281,7 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>187</integer>
+  <integer>206</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

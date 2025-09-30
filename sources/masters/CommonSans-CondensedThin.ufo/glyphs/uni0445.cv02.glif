@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0445.cv02" format="2">
+  <advance width="308"/>
+  <anchor x="151" y="-40" name="bottom"/>
+  <anchor x="151" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="-69.2281" y="-200" type="line"/>
+      <point x="-47.2281" y="-200" type="line"/>
+      <point x="150" y="228" type="line"/>
+      <point x="160" y="236" type="line"/>
+      <point x="265" y="460" type="line"/>
+      <point x="243" y="460" type="line"/>
+      <point x="144" y="248" type="line"/>
+      <point x="137" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="460" type="line"/>
+      <point x="142" y="234" type="line"/>
+      <point x="150" y="228" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="165" y="242" type="line"/>
+      <point x="158" y="248" type="line"/>
+      <point x="59" y="460" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="248"/>
+  <guideline angle="0" x="0" y="228"/>
+  <guideline angle="90" name="h_1" x="151" y="0"/>
+  <guideline angle="244.97" x="137" y="242"/>
+  <guideline angle="65.4804" x="46" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-70</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
+  </dict>
+  </lib>
+</glyph>

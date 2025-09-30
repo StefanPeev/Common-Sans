@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043C.sc" format="2">
-  <advance width="609"/>
+  <advance width="821"/>
   <outline>
-    <contour>
-      <point x="33" y="0" type="line"/>
-      <point x="113" y="0" type="line"/>
-      <point x="113" y="374" type="line"/>
-      <point x="244" y="0" type="line"/>
-      <point x="363" y="0" type="line"/>
-      <point x="497" y="381" type="line"/>
-      <point x="497" y="0" type="line"/>
-      <point x="577" y="0" type="line"/>
-      <point x="577" y="460" type="line"/>
-      <point x="498" y="460" type="line"/>
-      <point x="445" y="460" type="line"/>
-      <point x="304" y="59" type="line"/>
-      <point x="308" y="59" type="line"/>
-      <point x="167" y="460" type="line"/>
-      <point x="108" y="460" type="line"/>
-      <point x="33" y="460" type="line"/>
-    </contour>
+    <component base="m.sc"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>m.sc</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

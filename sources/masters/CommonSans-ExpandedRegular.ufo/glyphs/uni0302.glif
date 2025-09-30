@@ -3,7 +3,16 @@
   <unicode hex="0302"/>
   <anchor x="0" y="540" name="_top"/>
   <outline>
-    <component base="circumflex" xOffset="-221"/>
+    <contour>
+      <point x="-181" y="540" type="line"/>
+      <point x="-77" y="540" type="line"/>
+      <point x="22" y="643" type="line"/>
+      <point x="-22" y="643" type="line"/>
+      <point x="77" y="540" type="line"/>
+      <point x="181" y="540" type="line"/>
+      <point x="53" y="700" type="line"/>
+      <point x="-53" y="700" type="line"/>
+    </contour>
   </outline>
   <guideline angle="0" x="0" y="540"/>
 </glyph>

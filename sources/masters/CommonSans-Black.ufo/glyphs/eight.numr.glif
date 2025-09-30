@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight.numr" format="2">
-  <advance width="390"/>
+  <advance width="421"/>
   <outline>
-    <component base="eight.dnom" yOffset="460"/>
+    <component base="eight.dnom" yOffset="340"/>
   </outline>
+  <guideline angle="0" x="0" y="690"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=eight</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=eight</string>
+  </dict>
+  </lib>
 </glyph>

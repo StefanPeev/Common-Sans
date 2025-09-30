@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z.sc" format="2">
-  <advance width="399"/>
+  <advance width="329"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="349" y="0" type="line"/>
-      <point x="349" y="65" type="line"/>
-      <point x="139" y="65" type="line"/>
-      <point x="349" y="410" type="line"/>
-      <point x="349" y="460" type="line"/>
-      <point x="50" y="460" type="line"/>
-      <point x="50" y="395" type="line"/>
-      <point x="260" y="395" type="line"/>
-      <point x="50" y="50" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="76" type="line"/>
+      <point x="34" y="76" type="line"/>
+      <point x="104.828" y="46.0573" type="line"/>
+      <point x="309" y="436" type="line"/>
+      <point x="309" y="506" type="line"/>
+      <point x="20" y="506" type="line"/>
+      <point x="20" y="430" type="line"/>
+      <point x="295" y="430" type="line"/>
+      <point x="223.943" y="460.225" type="line"/>
+      <point x="20" y="70" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x.sc</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x.sc</string>
+  </dict>
+  </lib>
 </glyph>

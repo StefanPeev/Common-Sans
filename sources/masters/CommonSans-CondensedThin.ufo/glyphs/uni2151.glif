@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2151" format="2">
+  <advance width="679"/>
+  <unicode hex="2151"/>
+  <outline>
+    <component base="uni215F"/>
+    <component base="nine.dnom" xOffset="349"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=one.numr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=nine.dnom</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni215F_nine.dnom</string>
+  </dict>
+  </lib>
+</glyph>

@@ -247,10 +247,9 @@
     <string>egrave</string>
     <string>eight</string>
     <string>eight.dnom</string>
-    <string>eight.inferior</string>
+    <string>uni2088</string>
     <string>eight.numr</string>
-    <string>eight.subscript</string>
-    <string>eight.superior</string>
+    <string>uni2078</string>
     <string>ellipsis</string>
     <string>emacron</string>
     <string>emdash</string>
@@ -264,17 +263,15 @@
     <string>f.sc</string>
     <string>five</string>
     <string>five.dnom</string>
-    <string>five.inferior</string>
+    <string>uni2085</string>
     <string>five.numr</string>
-    <string>five.subscript</string>
-    <string>five.superior</string>
+    <string>uni2075</string>
     <string>florin</string>
     <string>four</string>
     <string>four.dnom</string>
-    <string>four.inferior</string>
+    <string>uni2084</string>
     <string>four.numr</string>
-    <string>four.subscript</string>
-    <string>four.superior</string>
+    <string>uni2074</string>
     <string>fraction</string>
     <string>g</string>
     <string>g.sc</string>
@@ -339,10 +336,9 @@
     <string>ncommaaccent</string>
     <string>nine</string>
     <string>nine.dnom</string>
-    <string>nine.inferior</string>
+    <string>uni2089</string>
     <string>nine.numr</string>
-    <string>nine.subscript</string>
-    <string>nine.superior</string>
+    <string>uni2079</string>
     <string>ntilde</string>
     <string>numbersign</string>
     <string>o</string>
@@ -358,10 +354,9 @@
     <string>omacron</string>
     <string>one</string>
     <string>one.dnom</string>
-    <string>one.inferior</string>
+    <string>uni2081</string>
     <string>one.numr</string>
-    <string>one.subscript</string>
-    <string>one.superior</string>
+    <string>uni00B9</string>
     <string>onehalf</string>
     <string>onequarter</string>
     <string>ordfeminine</string>
@@ -409,16 +404,14 @@
     <string>semicolon</string>
     <string>seven</string>
     <string>seven.dnom</string>
-    <string>seven.inferior</string>
+    <string>uni2087</string>
     <string>seven.numr</string>
-    <string>seven.subscript</string>
-    <string>seven.superior</string>
+    <string>uni2077</string>
     <string>six</string>
     <string>six.dnom</string>
-    <string>six.inferior</string>
+    <string>uni2086</string>
     <string>six.numr</string>
-    <string>six.subscript</string>
-    <string>six.superior</string>
+    <string>uni2076</string>
     <string>slash</string>
     <string>space</string>
     <string>sterling</string>
@@ -428,20 +421,18 @@
     <string>tcaron</string>
     <string>three</string>
     <string>three.dnom</string>
-    <string>three.inferior</string>
+    <string>uni2083</string>
     <string>three.numr</string>
-    <string>three.subscript</string>
-    <string>three.superior</string>
+    <string>uni00B3</string>
     <string>threequarters</string>
     <string>tilde</string>
     <string>uni0303</string>
     <string>trademark</string>
     <string>two</string>
     <string>two.dnom</string>
-    <string>two.inferior</string>
+    <string>uni2082</string>
     <string>two.numr</string>
-    <string>two.subscript</string>
-    <string>two.superior</string>
+    <string>uni00B2</string>
     <string>u</string>
     <string>u.sc</string>
     <string>uacute</string>
@@ -770,10 +761,9 @@
     <string>zdotaccent</string>
     <string>zero</string>
     <string>zero.dnom</string>
-    <string>zero.inferior</string>
+    <string>uni2080</string>
     <string>zero.numr</string>
-    <string>zero.subscript</string>
-    <string>zero.superior</string>
+    <string>uni2070</string>
     <string>uni0328</string>
     <string>uni0327</string>
     <string>uni215F</string>
@@ -805,15 +795,15 @@
     <string>uni045A</string>
     <string>uni045B</string>
     <string>uni045F</string>
-    <string>Yatcyr</string>
-    <string>yatcyr</string>
+    <string>uni0462</string>
+    <string>uni0463</string>
     <string>uni0472</string>
     <string>uni0473</string>
-    <string>Izhitsacyr</string>
-    <string>izhitsacyr</string>
-    <string>Geupcyr</string>
-    <string>geupcyr</string>
-    <string>Palochkacyr</string>
+    <string>uni0474</string>
+    <string>uni0475</string>
+    <string>uni0490</string>
+    <string>uni0491</string>
+    <string>uni04C0</string>
     <string>Aiecyr</string>
     <string>aiecyr</string>
     <string>Schwacyr</string>
@@ -1000,9 +990,9 @@
     <string>ydotbelow</string>
     <string>Ytilde</string>
     <string>ytilde</string>
-    <string>hyphen-gnrl</string>
-    <string>figuredash</string>
-    <string>triangularbullet</string>
+    <string>uni2010</string>
+    <string>uni2012</string>
+    <string>uni2023</string>
     <string>pertenthousandsign</string>
     <string>Euro</string>
     <string>estimated</string>
@@ -1044,6 +1034,28 @@
     <string>uni02BB</string>
     <string>uni02BD</string>
     <string>l.cv01</string>
+    <string>uni046A</string>
+    <string>uni046B</string>
+    <string>uni0466</string>
+    <string>uni0467</string>
+    <string>uni0468</string>
+    <string>uni0469</string>
+    <string>uni046C</string>
+    <string>uni046D</string>
+    <string>uni04DA</string>
+    <string>uni04CF</string>
+    <string>uni2071</string>
+    <string>uni2150</string>
+    <string>uni2151</string>
+    <string>uni043F.cv02</string>
+    <string>uni0442.cv02</string>
+    <string>uni0434.cv02</string>
+    <string>uni0446.cv02</string>
+    <string>uni0449.cv02</string>
+    <string>uni043B.cv02</string>
+    <string>uni0445.cv02</string>
+    <string>uni0435.cv02</string>
+    <string>uni043B.sc.01</string>
   </array>
 </dict>
 </plist>

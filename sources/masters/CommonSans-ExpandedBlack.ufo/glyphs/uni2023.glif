@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2023" format="2">
+  <advance width="342"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="40" y="106" type="line"/>
+      <point x="302" y="243" type="line"/>
+      <point x="40" y="381" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="322"/>
+  <guideline angle="0" x="0" y="164"/>
+  <guideline angle="0" x="0" y="243"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
+</glyph>

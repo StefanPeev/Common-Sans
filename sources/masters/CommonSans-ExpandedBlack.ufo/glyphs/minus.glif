@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus" format="2">
-  <advance width="422"/>
+  <advance width="492"/>
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="50" y="204" type="line"/>
-      <point x="372" y="204" type="line"/>
-      <point x="372" y="269" type="line"/>
-      <point x="50" y="269" type="line"/>
+      <point x="30" y="129" type="line"/>
+      <point x="462" y="129" type="line"/>
+      <point x="462" y="269" type="line"/>
+      <point x="30" y="269" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="276"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=equal</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=equal</string>
+  </dict>
+  </lib>
 </glyph>

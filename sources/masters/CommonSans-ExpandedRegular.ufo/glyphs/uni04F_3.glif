@@ -2,10 +2,10 @@
 <glyph name="uni04F3" format="2">
   <advance width="533"/>
   <unicode hex="04F3"/>
-  <anchor x="412" y="-40" name="bottom"/>
+  <anchor x="412" y="-50" name="bottom"/>
   <outline>
     <component base="uni0443"/>
-    <component base="uni030B" xOffset="269" yOffset="-10"/>
+    <component base="uni030B" xOffset="269"/>
   </outline>
   <lib>
   <dict>
