@@ -1,1 +1,1 @@
-All releases of Common Sans font family will be placed at [Local Fonts](https://localfonts.eu/). Please follow the link.
+All releases of Common Sans font family are placed at [Local Fonts](https://localfonts.eu/shop/cyrillic-script/bulgarian/bulgarian-cyrillic-sans-serif/commonsans/). Please follow the link.
