@@ -76,4 +76,16 @@ stat:
       value: 600
     - name: Bold
       value: 700
-
+  buildVariable: true
+  buildStatic: true
+  buildTTF: true
+  buildOTF: true
+  buildSmallCap: false
+  autohintTTF: true
+  autohintOTF: false
+  ttfaUseScript: false
+  outputDir: ../fonts
+  vfDir: $outputDir/variable
+  ttDir: $outputDir/ttf
+  otDir: $outputDir/otf
+  woffDir: $outputDir/webfonts
